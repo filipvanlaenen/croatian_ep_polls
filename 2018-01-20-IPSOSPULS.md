@@ -30,10 +30,10 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 5 | 4–5 |4–5 |4–5 |4–6 |
+| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 5 | 5 |4–5 |4–5 |4–6 |
 | <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 3 | 3–4 |3–4 |3–4 |3–4 |
 | <a href="#Živi-zid-(—)">Živi zid (—)</a> | 0 | 2 | 2 |2 |1–2 |1–2 |
-| <a href="#most-nezavisnih-lista-(—)">Most nezavisnih lista (—)</a> | 0 | 1 | 1 |0–1 |0–1 |0–1 |
+| <a href="#most-nezavisnih-lista-(—)">Most nezavisnih lista (—)</a> | 0 | 1 | 1 |1 |0–1 |0–1 |
 | <a href="#bandić-milan-365–stranka-rada-i-solidarnosti-(—)">Bandić Milan 365–Stranka rada i solidarnosti (—)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#istarski-demokratski-sabor-(alde)">Istarski demokratski sabor (ALDE)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#hrvatska-narodna-stranka–liberalni-demokrati-(alde)">Hrvatska narodna stranka–liberalni demokrati (ALDE)</a> | 1 | 0 | 0 |0 |0 |0 |
@@ -48,9 +48,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 10% | 100% | Last Result |
-| 5 | 89% | 90% | Median |
-| 6 | 1.0% | 1.0% | Majority |
+| 4 | 8% | 100% | Last Result |
+| 5 | 91% | 92% | Median |
+| 6 | 1.1% | 1.1% | Majority |
 | 7 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -62,8 +62,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 83% | 100% | Median |
-| 4 | 17% | 17% |  |
+| 3 | 87% | 100% | Median |
+| 4 | 13% | 13% |  |
 | 5 | 0% | 0% |  |
 
 ### Živi zid (—)
@@ -88,8 +88,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% | Last Result |
-| 1 | 94% | 94% | Median |
+| 0 | 5% | 100% | Last Result |
+| 1 | 95% | 95% | Median |
 | 2 | 0% | 0% |  |
 
 ### Bandić Milan 365–Stranka rada i solidarnosti (—)
@@ -156,7 +156,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Hrvatska demokratska zajednica (EPP) – Hrvatska seljačka stranka (EPP) | 5 | 5 | 1.0% | 4–5 | 4–5 | 4–5 | 4–6 |
+| Hrvatska demokratska zajednica (EPP) – Hrvatska seljačka stranka (EPP) | 5 | 5 | 1.1% | 5 | 4–5 | 4–5 | 4–6 |
 | Socijaldemokratska partija Hrvatske (S&D) | 2 | 3 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
 | Živi zid (—) – Most nezavisnih lista (—) – Bandić Milan 365–Stranka rada i solidarnosti (—) | 0 | 3 | 0% | 3 | 2–3 | 2–3 | 2–3 |
 | Istarski demokratski sabor (ALDE) – Hrvatska narodna stranka–liberalni demokrati (ALDE) – Pametno (ALDE) | 2 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -165,9 +165,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 10% | 100% |  |
-| 5 | 89% | 90% | Last Result, Median |
-| 6 | 1.0% | 1.0% | Majority |
+| 4 | 8% | 100% |  |
+| 5 | 91% | 92% | Last Result, Median |
+| 6 | 1.1% | 1.1% | Majority |
 | 7 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -175,8 +175,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 83% | 100% | Median |
-| 4 | 17% | 17% |  |
+| 3 | 87% | 100% | Median |
+| 4 | 13% | 13% |  |
 | 5 | 0% | 0% |  |
 
 ### Živi zid (—) – Most nezavisnih lista (—) – Bandić Milan 365–Stranka rada i solidarnosti (—)
@@ -185,8 +185,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 9% | 100% |  |
-| 3 | 91% | 91% | Median |
+| 2 | 8% | 100% |  |
+| 3 | 92% | 92% | Median |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
@@ -210,6 +210,6 @@
 ### Calculations
 
 + **Sample size:** 895
-+ **Simulations done:** 524,288
-+ **Error estimate:** 1.43%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.48%
 
