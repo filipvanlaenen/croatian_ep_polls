@@ -12,9 +12,9 @@
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Hrvatska demokratska zajednica (EPP) | 41.4% | 32.6% | 30.7–34.7% |30.1–35.3% |29.6–35.8% |28.7–36.8% |
 | Socijaldemokratska partija Hrvatske (S&D) | 29.9% | 22.6% | 20.9–24.4% |20.4–25.0% |20.0–25.4% |19.1–26.3% |
-| Živi zid (—) | 0.0% | 14.1% | 12.7–15.7% |12.3–16.1% |11.9–16.5% |11.3–17.3% |
-| Most nezavisnih lista (—) | 0.0% | 7.4% | 6.4–8.6% |6.1–9.0% |5.8–9.3% |5.4–9.9% |
-| Bandić Milan 365–Stranka rada i solidarnosti (—) | 0.0% | 3.7% | 3.0–4.6% |2.8–4.9% |2.6–5.1% |2.3–5.6% |
+| Živi zid (*) | 0.5% | 14.1% | 12.7–15.7% |12.3–16.1% |11.9–16.5% |11.3–17.3% |
+| Most nezavisnih lista (*) | 0.0% | 7.4% | 6.4–8.6% |6.1–9.0% |5.8–9.3% |5.4–9.9% |
+| Bandić Milan 365–Stranka rada i solidarnosti (*) | 0.0% | 3.7% | 3.0–4.6% |2.8–4.9% |2.6–5.1% |2.3–5.6% |
 | Istarski demokratski sabor (ALDE) | 29.9% | 2.7% | 2.1–3.5% |1.9–3.7% |1.8–4.0% |1.6–4.4% |
 | Hrvatska narodna stranka–liberalni demokrati (ALDE) | 29.9% | 2.6% | 2.0–3.4% |1.8–3.6% |1.7–3.8% |1.5–4.3% |
 | Pametno (ALDE) | 0.0% | 2.6% | 2.0–3.4% |1.8–3.6% |1.7–3.8% |1.5–4.3% |
@@ -30,11 +30,11 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 5 | 5 |4–5 |4–5 |4–6 |
-| <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 3 | 3–4 |3–4 |3–4 |3–4 |
-| <a href="#Živi-zid-(—)">Živi zid (—)</a> | 0 | 2 | 2 |2 |1–2 |1–2 |
-| <a href="#most-nezavisnih-lista-(—)">Most nezavisnih lista (—)</a> | 0 | 1 | 1 |1 |0–1 |0–1 |
-| <a href="#bandić-milan-365–stranka-rada-i-solidarnosti-(—)">Bandić Milan 365–Stranka rada i solidarnosti (—)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 5 | 5 |5 |5 |4–5 |
+| <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 3 | 3 |3 |3 |3 |
+| <a href="#Živi-zid-(*)">Živi zid (*)</a> | 0 | 2 | 2 |2 |2 |2–3 |
+| <a href="#most-nezavisnih-lista-(*)">Most nezavisnih lista (*)</a> | 0 | 1 | 1 |1 |1 |1 |
+| <a href="#bandić-milan-365–stranka-rada-i-solidarnosti-(*)">Bandić Milan 365–Stranka rada i solidarnosti (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#istarski-demokratski-sabor-(alde)">Istarski demokratski sabor (ALDE)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#hrvatska-narodna-stranka–liberalni-demokrati-(alde)">Hrvatska narodna stranka–liberalni demokrati (ALDE)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#pametno-(alde)">Pametno (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -48,9 +48,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 8% | 100% | Last Result |
-| 5 | 91% | 92% | Median |
-| 6 | 1.1% | 1.1% | Majority |
+| 4 | 2% | 100% | Last Result |
+| 5 | 98% | 98% | Median |
+| 6 | 0.2% | 0.2% | Majority |
 | 7 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -62,47 +62,44 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 87% | 100% | Median |
-| 4 | 13% | 13% |  |
+| 3 | 99.9% | 100% | Median |
+| 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
-### Živi zid (—)
+### Živi zid (*)
 
-*For a full overview of the results for this party, see the [Živi zid (—)](party-Živizid—.html) page.*
+*For a full overview of the results for this party, see the [Živi zid (*)](party-Živizid.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-01-20-IPSOSPULS-seats-pmf-Živizid—.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-01-20-IPSOSPULS-seats-pmf-Živizid.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 3% | 100% |  |
-| 2 | 97% | 97% | Median |
-| 3 | 0.2% | 0.2% |  |
+| 1 | 0.2% | 100% |  |
+| 2 | 98% | 99.8% | Median |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
-### Most nezavisnih lista (—)
+### Most nezavisnih lista (*)
 
-*For a full overview of the results for this party, see the [Most nezavisnih lista (—)](party-mostnezavisnihlista—.html) page.*
+*For a full overview of the results for this party, see the [Most nezavisnih lista (*)](party-mostnezavisnihlista.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-01-20-IPSOSPULS-seats-pmf-mostnezavisnihlista—.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% | Last Result |
-| 1 | 95% | 95% | Median |
-| 2 | 0% | 0% |  |
-
-### Bandić Milan 365–Stranka rada i solidarnosti (—)
-
-*For a full overview of the results for this party, see the [Bandić Milan 365–Stranka rada i solidarnosti (—)](party-bandićmilan365–strankaradaisolidarnosti—.html) page.*
-
-![Graph with seats probability mass function not yet produced](2018-01-20-IPSOSPULS-seats-pmf-bandićmilan365–strankaradaisolidarnosti—.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-01-20-IPSOSPULS-seats-pmf-mostnezavisnihlista.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
-| 2 | 0% | 0% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 100% | 100% | Median |
+
+### Bandić Milan 365–Stranka rada i solidarnosti (*)
+
+*For a full overview of the results for this party, see the [Bandić Milan 365–Stranka rada i solidarnosti (*)](party-bandićmilan365–strankaradaisolidarnosti.html) page.*
+
+![Graph with seats probability mass function not yet produced](2018-01-20-IPSOSPULS-seats-pmf-bandićmilan365–strankaradaisolidarnosti.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Istarski demokratski sabor (ALDE)
 
@@ -156,37 +153,37 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Hrvatska demokratska zajednica (EPP) – Hrvatska seljačka stranka (EPP) | 5 | 5 | 1.1% | 5 | 4–5 | 4–5 | 4–6 |
-| Socijaldemokratska partija Hrvatske (S&D) | 2 | 3 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
-| Živi zid (—) – Most nezavisnih lista (—) – Bandić Milan 365–Stranka rada i solidarnosti (—) | 0 | 3 | 0% | 3 | 2–3 | 2–3 | 2–3 |
+| Hrvatska demokratska zajednica (EPP) – Hrvatska seljačka stranka (EPP) | 5 | 5 | 0.2% | 5 | 5 | 5 | 4–5 |
+| Živi zid (*) – Most nezavisnih lista (*) – Bandić Milan 365–Stranka rada i solidarnosti (*) | 0 | 3 | 0% | 3 | 3 | 3 | 3–4 |
+| Socijaldemokratska partija Hrvatske (S&D) | 2 | 3 | 0% | 3 | 3 | 3 | 3 |
 | Istarski demokratski sabor (ALDE) – Hrvatska narodna stranka–liberalni demokrati (ALDE) – Pametno (ALDE) | 2 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Hrvatska demokratska zajednica (EPP) – Hrvatska seljačka stranka (EPP)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 8% | 100% |  |
-| 5 | 91% | 92% | Last Result, Median |
-| 6 | 1.1% | 1.1% | Majority |
+| 4 | 2% | 100% |  |
+| 5 | 98% | 98% | Last Result, Median |
+| 6 | 0.2% | 0.2% | Majority |
 | 7 | 0% | 0% |  |
+
+### Živi zid (*) – Most nezavisnih lista (*) – Bandić Milan 365–Stranka rada i solidarnosti (*)
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0.2% | 100% |  |
+| 3 | 98% | 99.8% | Median |
+| 4 | 2% | 2% |  |
+| 5 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 87% | 100% | Median |
-| 4 | 13% | 13% |  |
-| 5 | 0% | 0% |  |
-
-### Živi zid (—) – Most nezavisnih lista (—) – Bandić Milan 365–Stranka rada i solidarnosti (—)
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 8% | 100% |  |
-| 3 | 92% | 92% | Median |
+| 3 | 99.9% | 100% | Median |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
@@ -210,6 +207,6 @@
 ### Calculations
 
 + **Sample size:** 895
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.48%
++ **Simulations done:** 1,024
++ **Error estimate:** 2.64%
 
