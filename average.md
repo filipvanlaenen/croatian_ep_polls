@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 28–36% <br> 4–6 | 2–4% <br> 0 | 20–28% <br> 3–4 | 1–3% <br> 0 | 1–4% <br> 0 | 11–15% <br> 1–2 | 1–5% <br> 0 | 1–4% <br> 0 | 6–11% <br> 1 |
-| [19 March 2018](2018-03-19-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 28–34% <br> 4–5 | N/A <br> N/A | 23–28% <br> 3–4 | 1–2% <br> 0 | 1–3% <br> 0 | 11–15% <br> 1 | N/A <br> N/A | 1–2% <br> 0 | 7–11% <br> 1 |
+| [19 March 2018](2018-03-19-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 28–34% <br> 4–5 | N/A <br> N/A | 23–28% <br> 3–4 | 1–2% <br> 0 | 1–3% <br> 0 | 11–15% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 7–11% <br> 1 |
 | [28 February–3 March 2018](2018-03-03-Promocijaplus.html) | Promocija plus <br> HRT | 31–37% <br> 5–6 | 2–4% <br> 0 | 22–27% <br> 3–4 | 2–3% <br> 0 | 1–3% <br> 0 | 11–15% <br> 1–2 | 1–3% <br> 0 | 2–4% <br> 0 | 7–10% <br> 0–1 |
 | [1–20 February 2018](2018-02-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 29–36% <br> 4–5 | 2–4% <br> 0 | 19–24% <br> 3 | 1–3% <br> 0 | 2–4% <br> 0 | 11–16% <br> 2 | 3–5% <br> 0 | 2–5% <br> 0 | 6–9% <br> 1 |
 | 25 May 2014 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
@@ -324,9 +324,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.4% | 100% |  |
-| 4 | 63% | 99.6% | Last Result, Median |
-| 5 | 34% | 37% |  |
+| 3 | 0.3% | 100% |  |
+| 4 | 62% | 99.7% | Last Result, Median |
+| 5 | 35% | 38% |  |
 | 6 | 3% | 3% | Majority |
 | 7 | 0% | 0% |  |
 
@@ -350,8 +350,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 66% | 100% | Median |
-| 4 | 34% | 34% |  |
+| 3 | 85% | 100% | Median |
+| 4 | 15% | 15% |  |
 | 5 | 0% | 0% |  |
 
 ### Hrvatska narodna stranka–liberalni demokrati (ALDE)
@@ -385,8 +385,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 38% | 100% |  |
-| 2 | 62% | 62% | Median |
+| 1 | 24% | 100% |  |
+| 2 | 76% | 76% | Median |
 | 3 | 0% | 0% |  |
 
 ### Most nezavisnih lista (*)
@@ -439,9 +439,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.4% | 100% |  |
-| 4 | 63% | 99.6% | Median |
-| 5 | 34% | 37% | Last Result |
+| 3 | 0.3% | 100% |  |
+| 4 | 62% | 99.7% | Median |
+| 5 | 35% | 38% | Last Result |
 | 6 | 3% | 3% | Majority |
 | 7 | 0% | 0% |  |
 
@@ -450,8 +450,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 66% | 100% | Median |
-| 4 | 34% | 34% |  |
+| 3 | 85% | 100% | Median |
+| 4 | 15% | 15% |  |
 | 5 | 0% | 0% |  |
 
 ### Živi zid (*) – Bandić Milan 365–Stranka rada i solidarnosti (*) – Most nezavisnih lista (*)
@@ -460,8 +460,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 2% | 100% |  |
-| 2 | 37% | 98% |  |
-| 3 | 61% | 61% | Median |
+| 2 | 23% | 98% |  |
+| 3 | 76% | 76% | Median |
 | 4 | 0% | 0% |  |
 
 ### Hrvatska narodna stranka–liberalni demokrati (ALDE) – Istarski demokratski sabor (ALDE) – Pametno (ALDE)
