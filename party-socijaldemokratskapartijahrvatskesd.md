@@ -53,7 +53,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | [28 February–3 March 2018](2018-03-03-Promocijaplus.html) | Promocija plus <br> HRT | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1–20 February 2018](2018-02-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 3 | 3 | 3 | 3 | 3–4 |
 | [4 February 2018](2018-02-04-Promocijaplus.html) | Promocija plus <br> HRT | 3 | 3 | 3 | 3 | 3 |
-| [1–20 January 2018](2018-01-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 3 | 3 | 3 | 3 | 3 |
+| [1–20 January 2018](2018-01-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 3 | 3 | 3–4 | 3–4 | 3–4 |
 
 ### Probability Mass Function
 
