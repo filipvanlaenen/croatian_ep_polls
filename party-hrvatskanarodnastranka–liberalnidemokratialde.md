@@ -10,7 +10,8 @@ Last result: **29.9%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 0.9–2.9% | 0.8–3.1% | 0.6–3.3% | 0.5–3.7% |
+| N/A | [Poll Average](average.html) | 2.0% | 0.9–2.9% | 0.8–3.1% | 0.6–3.3% | 0.5–3.7% |
+| [1–20 March 2018](2018-03-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 2.2% | 1.7–3.0% | 1.5–3.2% | 1.4–3.4% | 1.2–3.8% |
 | [19 March 2018](2018-03-19-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
 | [28 February–3 March 2018](2018-03-03-Promocijaplus.html) | Promocija plus <br> HRT | 2.3% | 1.9–3.0% | 1.7–3.2% | 1.6–3.4% | 1.4–3.8% |
 | [1–20 February 2018](2018-02-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 2.2% | 1.7–3.0% | 1.6–3.2% | 1.5–3.5% | 1.2–3.9% |
@@ -25,9 +26,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 1.0% | 100% |  |
 | 0.5–1.5% | 31% | 99.0% |  |
-| 1.5–2.5% | 44% | 68% | Median |
-| 2.5–3.5% | 23% | 24% |  |
-| 3.5–4.5% | 1.0% | 1.0% |  |
+| 1.5–2.5% | 46% | 68% | Median |
+| 2.5–3.5% | 21% | 22% |  |
+| 3.5–4.5% | 0.9% | 0.9% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -65,6 +66,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–20 March 2018](2018-03-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 0 | 0 | 0 | 0 | 0 |
 | [19 March 2018](2018-03-19-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
 | [28 February–3 March 2018](2018-03-03-Promocijaplus.html) | Promocija plus <br> HRT | 0 | 0 | 0 | 0 | 0 |
 | [1–20 February 2018](2018-02-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 0 | 0 | 0 | 0 | 0 |
