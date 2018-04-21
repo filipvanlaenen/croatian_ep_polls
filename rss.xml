@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 13 Apr 2018 15:46:03 +0200</pubDate>
+    <pubDate>Sat, 21 Apr 2018 16:27:10 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Promocija plus for HRT, 8 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2018-04-08-Promocijaplus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 28.7–34.2%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 22.2–27.3%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (*): 7.8–11.3%&lt;/li&gt;&lt;li&gt;Živi zid (*): 11.3–15.3%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (ALDE): 1.5–3.3%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (EPP): 1.7–3.5%&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 1.6–3.4%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (ALDE): 1.2–2.9%&lt;/li&gt;&lt;li&gt;Pametno (ALDE): 1.2–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2018-04-08-Promocijaplus.png"
+        length="234736"
+        type="image/png"/>
+      <pubDate>Sat, 21 Apr 2018 16:27:10 +0200</pubDate>
+      <dc:date>2018-04-21T16:27:10.463077+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2018-03-20-IPSOSPULS.html#seats</link>
@@ -189,6 +199,6 @@
       <pubDate>Mon, 09 Apr 2018 20:20:57 +0200</pubDate>
       <dc:date>2018-04-09T20:20:57.159616+02:00</dc:date>
     </item>
-    <dc:date>2018-04-13T15:46:03.075157+02:00</dc:date>
+    <dc:date>2018-04-21T16:27:10.463077+02:00</dc:date>
   </channel>
 </rss>
