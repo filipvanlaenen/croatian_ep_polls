@@ -309,7 +309,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 4 | 4–5 |4–5 | 4–5 | 4–5 |
+| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 5 | 4–5 |4–5 | 4–5 | 4–5 |
 | <a href="#hrvatska-seljačka-stranka-(epp)">Hrvatska seljačka stranka (EPP)</a> | 1 | 0 | 0 |0 | 0 | 0 |
 | <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 3 | 3–4 |3–4 | 3–4 | 2–4 |
 | <a href="#hrvatska-narodna-stranka–liberalni-demokrati-(alde)">Hrvatska narodna stranka–liberalni demokrati (ALDE)</a> | 1 | 0 | 0 |0 | 0 | 0 |
@@ -328,8 +328,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.3% | 100% |  |
-| 4 | 50% | 99.7% | Last Result, Median |
-| 5 | 50% | 50% |  |
+| 4 | 41% | 99.7% | Last Result |
+| 5 | 59% | 59% | Median |
 | 6 | 0.2% | 0.2% | Majority |
 | 7 | 0% | 0% |  |
 
@@ -353,8 +353,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.7% | 100% | Last Result |
-| 3 | 69% | 99.3% | Median |
-| 4 | 30% | 30% |  |
+| 3 | 75% | 99.3% | Median |
+| 4 | 25% | 25% |  |
 | 5 | 0% | 0% |  |
 
 ### Hrvatska narodna stranka–liberalni demokrati (ALDE)
@@ -388,8 +388,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 24% | 100% |  |
-| 2 | 76% | 76% | Median |
+| 1 | 27% | 100% |  |
+| 2 | 73% | 73% | Median |
 | 3 | 0% | 0% |  |
 
 ### Most nezavisnih lista (*)
@@ -436,7 +436,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Hrvatska demokratska zajednica (EPP) – Hrvatska seljačka stranka (EPP) | 5 | 4 | 0.2% | 4–5 | 4–5 | 4–5 | 4–5 |
+| Hrvatska demokratska zajednica (EPP) – Hrvatska seljačka stranka (EPP) | 5 | 5 | 0.2% | 4–5 | 4–5 | 4–5 | 4–5 |
 | Socijaldemokratska partija Hrvatske (S&D) | 2 | 3 | 0% | 3–4 | 3–4 | 3–4 | 2–4 |
 | Živi zid (*) – Bandić Milan 365–Stranka rada i solidarnosti (*) – Most nezavisnih lista (*) | 0 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
 | Hrvatska narodna stranka–liberalni demokrati (ALDE) – Istarski demokratski sabor (ALDE) – Pametno (ALDE) | 2 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -446,8 +446,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.3% | 100% |  |
-| 4 | 50% | 99.7% | Median |
-| 5 | 50% | 50% | Last Result |
+| 4 | 41% | 99.7% |  |
+| 5 | 59% | 59% | Last Result, Median |
 | 6 | 0.2% | 0.2% | Majority |
 | 7 | 0% | 0% |  |
 
@@ -456,8 +456,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.7% | 100% | Last Result |
-| 3 | 69% | 99.3% | Median |
-| 4 | 30% | 30% |  |
+| 3 | 75% | 99.3% | Median |
+| 4 | 25% | 25% |  |
 | 5 | 0% | 0% |  |
 
 ### Živi zid (*) – Bandić Milan 365–Stranka rada i solidarnosti (*) – Most nezavisnih lista (*)
@@ -466,9 +466,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 24% | 100% |  |
-| 3 | 75% | 76% | Median |
-| 4 | 0.4% | 0.4% |  |
+| 2 | 27% | 100% |  |
+| 3 | 72% | 73% | Median |
+| 4 | 0.5% | 0.5% |  |
 | 5 | 0% | 0% |  |
 
 ### Hrvatska narodna stranka–liberalni demokrati (ALDE) – Istarski demokratski sabor (ALDE) – Pametno (ALDE)
