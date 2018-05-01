@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 01 May 2018 10:14:39 +0200</pubDate>
+    <pubDate>Tue, 01 May 2018 11:44:54 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 April 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2018-04-20-IPSOSPULS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (*): 1 seats&lt;/li&gt;&lt;li&gt;Živi zid (*): 2 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 0 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Pametno (ALDE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2018-04-20-IPSOSPULS-seats.png"
+        length="206717"
+        type="image/png"/>
+      <pubDate>Tue, 01 May 2018 11:44:54 +0200</pubDate>
+      <dc:date>2018-05-01T11:44:54.492799+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 April 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2018-04-20-IPSOSPULS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2018-04-20-IPSOSPULS-coalitions-seats.png"
+        length="154698"
+        type="image/png"/>
+      <pubDate>Tue, 01 May 2018 11:44:54 +0200</pubDate>
+      <dc:date>2018-05-01T11:44:54.492799+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 April 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2018-04-20-IPSOSPULS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2018-04-20-IPSOSPULS.png"
         length="241582"
         type="image/png"/>
-      <pubDate>Tue, 01 May 2018 10:14:39 +0200</pubDate>
-      <dc:date>2018-05-01T10:14:39.603623+02:00</dc:date>
+      <pubDate>Tue, 01 May 2018 11:44:54 +0200</pubDate>
+      <dc:date>2018-05-01T11:44:54.492799+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Promocija plus for HRT, 8 April 2018 – Seat Projections</title>
@@ -229,6 +249,6 @@
       <pubDate>Mon, 09 Apr 2018 20:20:57 +0200</pubDate>
       <dc:date>2018-04-09T20:20:57.159616+02:00</dc:date>
     </item>
-    <dc:date>2018-05-01T10:14:39.603623+02:00</dc:date>
+    <dc:date>2018-05-01T11:44:54.492799+02:00</dc:date>
   </channel>
 </rss>
