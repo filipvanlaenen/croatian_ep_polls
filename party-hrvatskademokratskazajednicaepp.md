@@ -10,7 +10,7 @@ Last result: **41.4%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.7% | 28.7–32.7% | 28.1–33.3% | 27.6–33.8% | 26.7–34.7% |
+| N/A | [Poll Average](average.html) | 30.3% | 28.4–32.2% | 27.9–32.8% | 27.5–33.3% | 26.6–34.3% |
 | [2–5 May 2018](2018-05-05-Promocijaplus.html) | Promocija plus <br> HRT | 30.2% | 28.5–32.0% | 28.0–32.5% | 27.6–32.9% | 26.8–33.8% |
 | [1–20 April 2018](2018-04-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 30.2% | 28.3–32.2% | 27.7–32.8% | 27.3–33.2% | 26.4–34.2% |
 | [8 April 2018](2018-04-08-Promocijaplus.html) | Promocija plus <br> HRT | 31.4% | 29.6–33.2% | 29.1–33.7% | 28.7–34.2% | 27.9–35.1% |
@@ -28,17 +28,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 24.5–25.5% | 0% | 100% |  |
-| 25.5–26.5% | 0.3% | 100% |  |
-| 26.5–27.5% | 2% | 99.6% |  |
-| 27.5–28.5% | 6% | 98% |  |
-| 28.5–29.5% | 15% | 92% |  |
-| 29.5–30.5% | 23% | 77% |  |
-| 30.5–31.5% | 25% | 55% | Median |
-| 31.5–32.5% | 18% | 30% |  |
-| 32.5–33.5% | 9% | 12% |  |
-| 33.5–34.5% | 3% | 4% |  |
-| 34.5–35.5% | 0.6% | 0.7% |  |
-| 35.5–36.5% | 0.1% | 0.1% |  |
+| 25.5–26.5% | 0.4% | 100% |  |
+| 26.5–27.5% | 2% | 99.5% |  |
+| 27.5–28.5% | 9% | 97% |  |
+| 28.5–29.5% | 19% | 89% |  |
+| 29.5–30.5% | 26% | 69% | Median |
+| 30.5–31.5% | 23% | 43% |  |
+| 31.5–32.5% | 13% | 20% |  |
+| 32.5–33.5% | 5% | 7% |  |
+| 33.5–34.5% | 1.4% | 2% |  |
+| 34.5–35.5% | 0.2% | 0.3% |  |
+| 35.5–36.5% | 0% | 0% |  |
 | 36.5–37.5% | 0% | 0% |  |
 | 37.5–38.5% | 0% | 0% |  |
 | 38.5–39.5% | 0% | 0% |  |
@@ -55,7 +55,7 @@ Last result: **4** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [2–5 May 2018](2018-05-05-Promocijaplus.html) | Promocija plus <br> HRT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [2–5 May 2018](2018-05-05-Promocijaplus.html) | Promocija plus <br> HRT | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–20 April 2018](2018-04-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [8 April 2018](2018-04-08-Promocijaplus.html) | Promocija plus <br> HRT | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–20 March 2018](2018-03-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -74,9 +74,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.3% | 100% |  |
-| 4 | 54% | 99.7% | Last Result, Median |
-| 5 | 46% | 46% |  |
-| 6 | 0.1% | 0.1% | Majority |
-| 7 | 0% | 0% |  |
+| 4 | 60% | 99.7% | Last Result, Median |
+| 5 | 39% | 39% |  |
+| 6 | 0% | 0% | Majority |
 
 
