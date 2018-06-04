@@ -10,7 +10,8 @@ Last result: **0.5%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.2% | 12.3–16.0% | 11.8–16.5% | 11.4–17.0% | 10.6–17.8% |
+| N/A | [Poll Average](average.html) | 14.3% | 12.3–16.2% | 11.8–16.7% | 11.4–17.2% | 10.6–18.1% |
+| [1–20 May 2018](2018-05-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 15.2% | 13.8–16.9% | 13.4–17.4% | 13.0–17.8% | 12.4–18.6% |
 | [2–5 May 2018](2018-05-05-Promocijaplus.html) | Promocija plus <br> HRT | 14.5% | 13.2–15.9% | 12.9–16.3% | 12.6–16.7% | 12.0–17.4% |
 | [1–20 April 2018](2018-04-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 15.0% | 13.6–16.6% | 13.2–17.1% | 12.8–17.5% | 12.2–18.3% |
 | [8 April 2018](2018-04-08-Promocijaplus.html) | Promocija plus <br> HRT | 13.1% | 11.9–14.5% | 11.6–14.9% | 11.3–15.3% | 10.7–15.9% |
@@ -40,13 +41,13 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0.4% | 100% |  |
 | 10.5–11.5% | 3% | 99.6% |  |
 | 11.5–12.5% | 10% | 96% |  |
-| 12.5–13.5% | 19% | 87% |  |
-| 13.5–14.5% | 26% | 68% | Median |
-| 14.5–15.5% | 24% | 42% |  |
-| 15.5–16.5% | 13% | 18% |  |
-| 16.5–17.5% | 4% | 5% |  |
-| 17.5–18.5% | 0.8% | 0.9% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
+| 12.5–13.5% | 18% | 87% |  |
+| 13.5–14.5% | 25% | 69% | Median |
+| 14.5–15.5% | 23% | 44% |  |
+| 15.5–16.5% | 14% | 20% |  |
+| 16.5–17.5% | 5% | 6% |  |
+| 17.5–18.5% | 1.1% | 1.3% |  |
+| 18.5–19.5% | 0.2% | 0.2% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
 
@@ -58,7 +59,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–20 May 2018](2018-05-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 2 | 2 | 2 | 2 | 2–3 |
 | [2–5 May 2018](2018-05-05-Promocijaplus.html) | Promocija plus <br> HRT | 2 | 2 | 2 | 2 | 1–2 |
 | [1–20 April 2018](2018-04-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 2 | 2 | 2 | 2 | 1–3 |
 | [8 April 2018](2018-04-08-Promocijaplus.html) | Promocija plus <br> HRT | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -79,8 +81,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 19% | 100% |  |
-| 2 | 80% | 81% | Median |
-| 3 | 0.7% | 0.7% |  |
+| 2 | 81% | 81% | Median |
+| 3 | 0.4% | 0.4% |  |
 | 4 | 0% | 0% |  |
 
 
