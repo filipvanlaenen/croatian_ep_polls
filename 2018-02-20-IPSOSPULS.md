@@ -162,6 +162,8 @@
 
 ### Hrvatska demokratska zajednica (EPP) – Hrvatska seljačka stranka (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-02-20-IPSOSPULS-coalitions-seats-pmf-hdz–hss.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 10% | 100% |  |
@@ -170,6 +172,8 @@
 | 7 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
+
+![Graph with seats probability mass function not yet produced](2018-02-20-IPSOSPULS-coalitions-seats-pmf-sdp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -180,6 +184,8 @@
 
 ### Živi zid (*) – Most nezavisnih lista (*) – Bandić Milan 365–Stranka rada i solidarnosti (*)
 
+![Graph with seats probability mass function not yet produced](2018-02-20-IPSOSPULS-coalitions-seats-pmf-živizid–most–bm365.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
@@ -189,6 +195,8 @@
 | 4 | 0% | 0% |  |
 
 ### Pametno (ALDE) – Istarski demokratski sabor (ALDE) – Hrvatska narodna stranka–liberalni demokrati (ALDE)
+
+![Graph with seats probability mass function not yet produced](2018-02-20-IPSOSPULS-coalitions-seats-pmf-p–ids–hns.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

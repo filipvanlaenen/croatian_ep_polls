@@ -133,6 +133,8 @@
 
 ### Socijaldemokratska partija Hrvatske (S&D)
 
+![Graph with seats probability mass function not yet produced](2018-03-19-2x1Komunikacije-coalitions-seats-pmf-sdp.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
@@ -141,6 +143,8 @@
 | 5 | 0% | 0% |  |
 
 ### Živi zid (*) – Most nezavisnih lista (*) – Bandić Milan 365–Stranka rada i solidarnosti (*)
+
+![Graph with seats probability mass function not yet produced](2018-03-19-2x1Komunikacije-coalitions-seats-pmf-živizid–most–bm365.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
