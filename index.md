@@ -6,7 +6,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 28–34% <br> 4–5 | 2–6% <br> 0 | 17–23% <br> 2–3 | 1–3% <br> 0 | 1–4% <br> 0 | 13–17% <br> 2 | 2–4% <br> 0 | 3–5% <br> 0 | 7–10% <br> 1 |
-| [1–20 August 2018](2018-08-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 28–34% <br> 4–5 | 4–6% <br> 0 | 16–21% <br> 2–3 | 1–2% <br> 0 | 2–4% <br> 0 | 12–17% <br> 2 | 2–5% <br> 0 | 3–6% <br> 0 | 6–10% <br> 1 |
+| [1–20 August 2018](2018-08-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 28–34% <br> 4–5 | 4–6% <br> 0–1 | 16–21% <br> 2–3 | 1–2% <br> 0 | 2–4% <br> 0 | 12–17% <br> 2 | 2–5% <br> 0 | 3–6% <br> 0 | 6–10% <br> 1 |
 | [2–5 August 2018](2018-08-05-Promocijaplus.html) | Promocija plus <br> HRT | 27–33% <br> 4–5 | 2–4% <br> 0 | 18–23% <br> 3 | 1–3% <br> 0 | 1–3% <br> 0 | 13–17% <br> 2 | 2–4% <br> 0 | 3–5% <br> 0 | 7–10% <br> 1 |
 | 25 May 2014 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
