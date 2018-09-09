@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 08 Sep 2018 20:10:00 +0200</pubDate>
+    <pubDate>Sun, 09 Sep 2018 09:30:52 +0200</pubDate>
     <item>
       <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2018-08-20-IPSOSPULS.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2018-08-05-Promocijaplus.png"
         length="238393"
         type="image/png"/>
-      <pubDate>Sun, 02 Sep 2018 09:50:01 +0200</pubDate>
-      <dc:date>2018-09-02T09:50:01.578731+02:00</dc:date>
+      <pubDate>Sun, 09 Sep 2018 09:30:52 +0200</pubDate>
+      <dc:date>2018-09-09T09:30:52.312312+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 July 2018 – Seat Projections for the Parties</title>
@@ -449,6 +449,6 @@
       <pubDate>Mon, 09 Apr 2018 20:20:57 +0200</pubDate>
       <dc:date>2018-04-09T20:20:57.159616+02:00</dc:date>
     </item>
-    <dc:date>2018-09-08T20:10:00.078346+02:00</dc:date>
+    <dc:date>2018-09-09T09:30:52.312312+02:00</dc:date>
   </channel>
 </rss>
