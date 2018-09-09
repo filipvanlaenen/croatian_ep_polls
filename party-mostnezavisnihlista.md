@@ -59,7 +59,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
-| [1–20 August 2018](2018-08-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 1 | 1 | 1 | 1 | 1 |
+| [1–20 August 2018](2018-08-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 1 | 1 | 1 | 1 | 0–1 |
 | [2–5 August 2018](2018-08-05-Promocijaplus.html) | Promocija plus <br> HRT | 1 | 1 | 1 | 1 | 1 |
 | [1–20 July 2018](2018-07-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 1 | 1 | 1 | 1 | 1 |
 | [2–5 July 2018](2018-07-05-Promocijaplus.html) | Promocija plus <br> HRT | 1 | 1 | 1 | 1 | 1 |
@@ -84,8 +84,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% | Last Result |
-| 1 | 99.8% | 99.8% | Median |
+| 0 | 0.4% | 100% | Last Result |
+| 1 | 99.6% | 99.6% | Median |
 | 2 | 0% | 0% |  |
 
 
