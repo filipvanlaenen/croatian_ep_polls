@@ -10,8 +10,8 @@ Last result: **29.9%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.6% | 17.5–21.7% | 17.0–22.2% | 16.6–22.7% | 15.8–23.5% |
-| [1–20 August 2018](2018-08-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 18.5% | 17.0–20.2% | 16.6–20.7% | 16.2–21.1% | 15.5–21.9% |
+| N/A | [Poll Average](average.html) | 19.7% | 17.5–21.7% | 17.0–22.2% | 16.5–22.7% | 15.7–23.5% |
+| [1–20 August 2018](2018-08-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 18.6% | 17.0–20.3% | 16.6–20.8% | 16.2–21.3% | 15.4–22.1% |
 | [2–5 August 2018](2018-08-05-Promocijaplus.html) | Promocija plus <br> HRT | 20.6% | 19.1–22.2% | 18.7–22.7% | 18.4–23.1% | 17.7–23.9% |
 | [1–20 July 2018](2018-07-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 20.2% | 18.6–22.0% | 18.1–22.5% | 17.7–23.0% | 16.9–23.9% |
 | [2–5 July 2018](2018-07-05-Promocijaplus.html) | Promocija plus <br> HRT | 21.6% | 20.1–23.2% | 19.6–23.7% | 19.3–24.1% | 18.6–24.9% |
@@ -37,10 +37,10 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0.3% | 100% |  |
 | 15.5–16.5% | 2% | 99.7% |  |
-| 16.5–17.5% | 8% | 98% |  |
+| 16.5–17.5% | 8% | 97% |  |
 | 17.5–18.5% | 16% | 90% |  |
-| 18.5–19.5% | 22% | 74% |  |
-| 19.5–20.5% | 22% | 52% | Median |
+| 18.5–19.5% | 21% | 74% |  |
+| 19.5–20.5% | 23% | 53% | Median |
 | 20.5–21.5% | 18% | 30% |  |
 | 21.5–22.5% | 9% | 12% |  |
 | 22.5–23.5% | 3% | 3% |  |
@@ -87,8 +87,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 17% | 100% | Last Result |
-| 3 | 82% | 83% | Median |
+| 2 | 16% | 100% | Last Result |
+| 3 | 83% | 84% | Median |
 | 4 | 0.4% | 0.4% |  |
 | 5 | 0% | 0% |  |
 
