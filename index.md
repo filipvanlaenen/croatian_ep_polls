@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | HDZ | HSS | SDP | HNS | IDS | Živi zid | P | BM 365 | Most |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 29–35% <br> 4–5 | 3–5% <br> 0 | 17–23% <br> 3 | 1–3% <br> 0 | 1–3% <br> 0 | 12–17% <br> 2 | 2–4% <br> 0 | 3–5% <br> 0 | 6–11% <br> 1 |
-| [1–20 September 2018](2018-09-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 30–36% <br> 4–5 | 3–6% <br> 0 | 17–22% <br> 3 | 1–2% <br> 0 | 1–3% <br> 0 | 12–17% <br> 2 | 2–5% <br> 0 | 3–5% <br> 0 | 8–11% <br> 1 |
+| N/A | [Poll Average](average.html) | 29–35% <br> 4–5 | 3–5% <br> 0 | 17–23% <br> 2–3 | 1–3% <br> 0 | 1–3% <br> 0 | 12–17% <br> 2 | 2–4% <br> 0 | 3–5% <br> 0 | 6–11% <br> 1 |
+| [1–20 September 2018](2018-09-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 30–36% <br> 5–6 | 3–6% <br> 0 | 17–22% <br> 2–3 | 1–2% <br> 0 | 1–3% <br> 0 | 12–17% <br> 2 | 2–5% <br> 0 | 3–5% <br> 0 | 8–11% <br> 1 |
 | [8 September 2018](2018-09-08-Promocijaplus.html) | Promocija plus <br> HRT | 28–34% <br> 4–5 | 3–5% <br> 0 | 18–23% <br> 2–3 | 1–3% <br> 0 | 1–2% <br> 0 | 13–17% <br> 2 | 2–4% <br> 0 | 3–5% <br> 0 | 6–9% <br> 1 |
 | 25 May 2014 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
