@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 25 May 2014 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 29–35% <br> 4–5 | 3–5% <br> 0 | 17–23% <br> 2–3 | 1–3% <br> 0 | 1–3% <br> 0 | 12–17% <br> 2 | 2–4% <br> 0 | 3–5% <br> 0 | 6–11% <br> 1 |
 | [1–20 September 2018](2018-09-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 30–36% <br> 5–6 | 3–6% <br> 0 | 17–22% <br> 2–3 | 1–2% <br> 0 | 1–3% <br> 0 | 12–17% <br> 2 | 2–5% <br> 0 | 3–5% <br> 0 | 8–11% <br> 1 |
-| [8 September 2018](2018-09-08-Promocijaplus.html) | Promocija plus <br> HRT | 28–34% <br> 4–5 | 3–5% <br> 0 | 18–23% <br> 2–3 | 1–3% <br> 0 | 1–2% <br> 0 | 13–17% <br> 2 | 2–4% <br> 0 | 3–5% <br> 0 | 6–9% <br> 1 |
+| [8 September 2018](2018-09-08-Promocijaplus.html) | Promocija plus <br> HRT | 28–34% <br> 4–5 | 3–5% <br> 0 | 18–23% <br> 3 | 1–3% <br> 0 | 1–2% <br> 0 | 13–17% <br> 2 | 2–4% <br> 0 | 3–5% <br> 0 | 6–9% <br> 1 |
 | 25 May 2014 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -308,7 +308,7 @@ Only polls for which at least the sample size has been published are included in
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 5 | 4–5 |4–5 | 4–5 | 4–6 |
 | <a href="#hrvatska-seljačka-stranka-(epp)">Hrvatska seljačka stranka (EPP)</a> | 1 | 0 | 0 |0 | 0 | 0 |
-| <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 3 | 3 |2–3 | 2–3 | 2–4 |
+| <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 3 | 3 |2–3 | 2–3 | 2–3 |
 | <a href="#hrvatska-narodna-stranka–liberalni-demokrati-(alde)">Hrvatska narodna stranka–liberalni demokrati (ALDE)</a> | 1 | 0 | 0 |0 | 0 | 0 |
 | <a href="#istarski-demokratski-sabor-(alde)">Istarski demokratski sabor (ALDE)</a> | 1 | 0 | 0 |0 | 0 | 0 |
 | <a href="#živi-zid-(*)">Živi zid (*)</a> | 0 | 2 | 2 |2 | 2 | 1–2 |
@@ -349,9 +349,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 6% | 100% | Last Result |
-| 3 | 94% | 94% | Median |
-| 4 | 0.6% | 0.6% |  |
+| 2 | 5% | 100% | Last Result |
+| 3 | 95% | 95% | Median |
+| 4 | 0.4% | 0.4% |  |
 | 5 | 0% | 0% |  |
 
 ### Hrvatska narodna stranka–liberalni demokrati (ALDE)
@@ -385,8 +385,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.4% | 100% |  |
-| 2 | 98% | 98.6% | Median |
+| 1 | 0.9% | 100% |  |
+| 2 | 98.9% | 99.1% | Median |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
@@ -398,8 +398,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% | Last Result |
-| 1 | 99.5% | 99.8% | Median |
+| 0 | 0.3% | 100% | Last Result |
+| 1 | 99.4% | 99.7% | Median |
 | 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
@@ -436,7 +436,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Hrvatska demokratska zajednica (EPP) – Hrvatska seljačka stranka (EPP) | 5 | 5 | 2% | 4–5 | 4–5 | 4–5 | 4–6 |
 | Živi zid (*) – Bandić Milan 365–Stranka rada i solidarnosti (*) – Most nezavisnih lista (*) | 0 | 3 | 0% | 3 | 3 | 3 | 2–4 |
-| Socijaldemokratska partija Hrvatske (S&D) | 2 | 3 | 0% | 3 | 2–3 | 2–3 | 2–4 |
+| Socijaldemokratska partija Hrvatske (S&D) | 2 | 3 | 0% | 3 | 2–3 | 2–3 | 2–3 |
 | Hrvatska narodna stranka–liberalni demokrati (ALDE) – Istarski demokratski sabor (ALDE) – Pametno (ALDE) | 2 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Hrvatska demokratska zajednica (EPP) – Hrvatska seljačka stranka (EPP)
@@ -458,9 +458,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 2% | 100% |  |
-| 3 | 98% | 98% | Median |
-| 4 | 0.5% | 0.5% |  |
+| 2 | 1.2% | 100% |  |
+| 3 | 98% | 98.8% | Median |
+| 4 | 0.6% | 0.6% |  |
 | 5 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -469,9 +469,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 6% | 100% | Last Result |
-| 3 | 94% | 94% | Median |
-| 4 | 0.6% | 0.6% |  |
+| 2 | 5% | 100% | Last Result |
+| 3 | 95% | 95% | Median |
+| 4 | 0.4% | 0.4% |  |
 | 5 | 0% | 0% |  |
 
 ### Hrvatska narodna stranka–liberalni demokrati (ALDE) – Istarski demokratski sabor (ALDE) – Pametno (ALDE)
@@ -488,6 +488,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 1,179,648
-+ **Error estimate:** 1.94%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 2,097,152
++ **Error estimate:** 3.06%
