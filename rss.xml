@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 10 Dec 2018 10:32:39 +0100</pubDate>
+    <pubDate>Mon, 10 Dec 2018 13:19:36 +0100</pubDate>
     <item>
       <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 November 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2018-11-20-IPSOSPULS.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2018-12-10T10:32:39.181768+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Promocija plus for HRT, 8 November 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2018-11-08-Promocijaplus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Živi zid (*): 1–2 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 0 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Pametno (ALDE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2018-11-08-Promocijaplus-seats.png"
+        length="254906"
+        type="image/png"/>
+      <pubDate>Mon, 10 Dec 2018 13:19:36 +0100</pubDate>
+      <dc:date>2018-12-10T13:19:36.308657+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Promocija plus for HRT, 8 November 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2018-11-08-Promocijaplus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2018-11-08-Promocijaplus-coalitions-seats.png"
+        length="154075"
+        type="image/png"/>
+      <pubDate>Mon, 10 Dec 2018 13:19:36 +0100</pubDate>
+      <dc:date>2018-12-10T13:19:36.308657+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Promocija plus for HRT, 8 November 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2018-11-08-Promocijaplus.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 30.1–35.5%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 17.8–22.5%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (*): 5.9–8.9%&lt;/li&gt;&lt;li&gt;Živi zid (*): 12.0–16.1%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (ALDE): 1.3–2.9%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (EPP): 2.8–5.0%&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 1.6–3.5%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (ALDE): 1.5–3.3%&lt;/li&gt;&lt;li&gt;Pametno (ALDE): 1.5–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2018-11-08-Promocijaplus.png"
         length="236111"
         type="image/png"/>
-      <pubDate>Sun, 09 Dec 2018 21:12:39 +0100</pubDate>
-      <dc:date>2018-12-09T21:12:39.524643+01:00</dc:date>
+      <pubDate>Mon, 10 Dec 2018 13:19:36 +0100</pubDate>
+      <dc:date>2018-12-10T13:19:36.308657+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IPSOS PULS for Nova TV, 1–18 October 2018 – Seat Projections for the Parties</title>
@@ -629,6 +649,6 @@
       <pubDate>Mon, 09 Apr 2018 20:20:57 +0200</pubDate>
       <dc:date>2018-04-09T20:20:57.159616+02:00</dc:date>
     </item>
-    <dc:date>2018-12-10T10:32:39.181768+01:00</dc:date>
+    <dc:date>2018-12-10T13:19:36.308657+01:00</dc:date>
   </channel>
 </rss>
