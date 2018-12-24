@@ -6,13 +6,13 @@
 
 The table below lists the polls on which the average is based. They are the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | HDZ | HSS | SDP | HNS | IDS | Živi zid | P | BM 365 | Most |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 25 May 2014 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 30–38% <br> 4–6 | 3–5% <br> 0 | 16–22% <br> 2–3 | 1–3% <br> 0 | 1–3% <br> 0 | 12–19% <br> 1–3 | 2–4% <br> 0 | 2–5% <br> 0 | 6–9% <br> 0–1 |
-| [1–20 November 2018](2018-11-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 33–39% <br> 5–6 | 3–5% <br> 0 | 16–21% <br> 2–3 | 1–3% <br> 0 | 1–3% <br> 0 | 15–19% <br> 2–3 | 2–4% <br> 0 | 3–5% <br> 0 | 6–9% <br> 0–1 |
-| [8 November 2018](2018-11-08-Promocijaplus.html) | Promocija plus <br> HRT | 30–36% <br> 4–5 | 3–5% <br> 0 | 18–22% <br> 2–3 | 1–3% <br> 0 | 2–3% <br> 0 | 12–16% <br> 1–2 | 2–3% <br> 0 | 2–3% <br> 0 | 6–9% <br> 0–1 |
-| 25 May 2014 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | HDZ | HSS | SDP | HNS | IDS | Živi zid | P | BM 365 | Most | AK |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 25 May 2014 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | Poll Average | 30–38% <br> 4–6 | 3–5% <br> 0 | 16–22% <br> 2–3 | 1–3% <br> 0 | 1–3% <br> 0 | 12–19% <br> 1–3 | 2–4% <br> 0 | 2–5% <br> 0 | 6–9% <br> 0–1 | N/A <br> N/A |
+| [1–20 November 2018](2018-11-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 33–39% <br> 5–6 | 3–5% <br> 0 | 16–21% <br> 2–3 | 1–3% <br> 0 | 1–3% <br> 0 | 15–19% <br> 2–3 | 2–4% <br> 0 | 3–5% <br> 0 | 6–9% <br> 0–1 | N/A <br> N/A |
+| [8 November 2018](2018-11-08-Promocijaplus.html) | Promocija plus <br> HRT | 30–36% <br> 4–5 | 3–5% <br> 0 | 18–22% <br> 2–3 | 1–3% <br> 0 | 2–3% <br> 0 | 12–16% <br> 1–2 | 2–3% <br> 0 | 2–3% <br> 0 | 6–9% <br> 0–1 | N/A <br> N/A |
+| 25 May 2014 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -28,6 +28,7 @@ Only polls for which at least the sample size has been published are included in
 + **P:** Pametno (ALDE)
 + **BM 365:** Bandić Milan 365–Stranka rada i solidarnosti (*)
 + **Most:** Most nezavisnih lista (*)
++ **AK:** Amsterdamska koalicija (ALDE)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
@@ -48,6 +49,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#pametno-(alde)">Pametno (ALDE)</a> | 0.0% | 2.7% | 1.9–3.6% |1.7–3.9% | 1.6–4.1% | 1.4–4.6% |
 | <a href="#bandić-milan-365–stranka-rada-i-solidarnosti-(*)">Bandić Milan 365–Stranka rada i solidarnosti (*)</a> | 0.0% | 3.2% | 2.1–4.6% |1.9–4.9% | 1.8–5.1% | 1.5–5.6% |
 | <a href="#most-nezavisnih-lista-(*)">Most nezavisnih lista (*)</a> | 0.0% | 7.2% | 6.2–8.3% |5.9–8.6% | 5.7–8.9% | 5.3–9.4% |
+| <a href="#amsterdamska-koalicija-(alde)">Amsterdamska koalicija (ALDE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 
 ### Hrvatska demokratska zajednica (EPP)
 
@@ -315,6 +317,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#pametno-(alde)">Pametno (ALDE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#bandić-milan-365–stranka-rada-i-solidarnosti-(*)">Bandić Milan 365–Stranka rada i solidarnosti (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#most-nezavisnih-lista-(*)">Most nezavisnih lista (*)</a> | 0 | 1 | 1 |0–1 | 0–1 | 0–1 |
+| <a href="#amsterdamska-koalicija-(alde)">Amsterdamska koalicija (ALDE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 
 ### Hrvatska demokratska zajednica (EPP)
 
@@ -486,6 +489,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 2,097,152
++ **Lowest number of simulations done in a poll included in this average:** 1,048,575
++ **Total number of simulations done in the polls included in this average:** 2,097,150
 + **Error estimate:** 4.16%
