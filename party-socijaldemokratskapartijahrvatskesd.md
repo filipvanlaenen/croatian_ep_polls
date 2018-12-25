@@ -16,7 +16,7 @@ Last result: **29.9%** (General Election of 25 May 2014)
 | [1–18 October 2018](2018-10-18-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 17.9% | 16.3–19.6% | 15.9–20.1% | 15.5–20.6% | 14.8–21.4% |
 | [2–5 October 2018](2018-10-05-Promocijaplus.html) | Promocija plus <br> HRT | 20.4% | 18.9–22.0% | 18.5–22.4% | 18.1–22.8% | 17.4–23.6% |
 | [1–20 September 2018](2018-09-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 19.3% | 17.6–21.0% | 17.2–21.5% | 16.8–22.0% | 16.1–22.8% |
-| [8 September 2018](2018-09-08-Promocijaplus.html) | Promocija plus <br> HRT | 20.6% | 19.2–22.3% | 18.7–22.7% | 18.4–23.1% | 17.7–23.9% |
+| [8 September 2018](2018-09-08-Promocijaplus.html) | Promocija plus <br> HRT | 20.6% | 19.2–22.2% | 18.7–22.7% | 18.4–23.1% | 17.7–23.9% |
 | [1–20 August 2018](2018-08-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 18.6% | 17.0–20.3% | 16.6–20.8% | 16.2–21.3% | 15.4–22.1% |
 | [2–5 August 2018](2018-08-05-Promocijaplus.html) | Promocija plus <br> HRT | 20.6% | 19.1–22.2% | 18.7–22.7% | 18.4–23.1% | 17.7–23.9% |
 | [1–20 July 2018](2018-07-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 20.2% | 18.6–22.0% | 18.1–22.5% | 17.7–23.0% | 16.9–23.9% |
@@ -73,7 +73,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | [1–18 October 2018](2018-10-18-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2–5 October 2018](2018-10-05-Promocijaplus.html) | Promocija plus <br> HRT | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [1–20 September 2018](2018-09-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| [8 September 2018](2018-09-08-Promocijaplus.html) | Promocija plus <br> HRT | 3 | 3 | 3 | 3 | 2–4 |
+| [8 September 2018](2018-09-08-Promocijaplus.html) | Promocija plus <br> HRT | 3 | 3 | 3 | 2–3 | 2–4 |
 | [1–20 August 2018](2018-08-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2–5 August 2018](2018-08-05-Promocijaplus.html) | Promocija plus <br> HRT | 3 | 3 | 3 | 2–3 | 2–4 |
 | [1–20 July 2018](2018-07-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 3 | 3 | 3 | 2–3 | 2–4 |

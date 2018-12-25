@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [1–18 October 2018](2018-10-18-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 3.5% | 2.8–4.4% | 2.6–4.6% | 2.5–4.9% | 2.2–5.4% |
 | [2–5 October 2018](2018-10-05-Promocijaplus.html) | Promocija plus <br> HRT | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.3–4.4% | 2.1–4.8% |
 | [1–20 September 2018](2018-09-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 3.2% | 2.6–4.1% | 2.4–4.4% | 2.3–4.6% | 2.0–5.1% |
-| [8 September 2018](2018-09-08-Promocijaplus.html) | Promocija plus <br> HRT | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.1–4.1% | 1.8–4.4% |
+| [8 September 2018](2018-09-08-Promocijaplus.html) | Promocija plus <br> HRT | 2.9% | 2.3–3.6% | 2.2–3.9% | 2.1–4.1% | 1.8–4.4% |
 | [1–20 August 2018](2018-08-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 3.3% | 2.7–4.2% | 2.5–4.5% | 2.3–4.7% | 2.1–5.2% |
 | [2–5 August 2018](2018-08-05-Promocijaplus.html) | Promocija plus <br> HRT | 2.7% | 2.2–3.5% | 2.1–3.7% | 1.9–3.9% | 1.7–4.2% |
 | [1–20 July 2018](2018-07-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 3.5% | 2.8–4.4% | 2.6–4.7% | 2.5–4.9% | 2.2–5.4% |
