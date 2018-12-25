@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | HDZ | HSS | SDP | HNS | IDS | Živi zid | P | BM 365 | Most | AK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 30–38% <br> 4–6 | 3–5% <br> 0 | 16–22% <br> 2–3 | 1–3% <br> 0 | 1–3% <br> 0 | 12–19% <br> 1–3 | 2–4% <br> 0 | 2–5% <br> 0 | 6–9% <br> 0–1 | N/A <br> N/A |
-| [1–20 November 2018](2018-11-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 33–39% <br> 5–6 | 3–5% <br> 0 | 16–21% <br> 2–3 | 1–3% <br> 0 | 1–3% <br> 0 | 15–19% <br> 2–3 | 2–4% <br> 0 | 3–5% <br> 0 | 6–9% <br> 0–1 | N/A <br> N/A |
-| [8 November 2018](2018-11-08-Promocijaplus.html) | Promocija plus <br> HRT | 30–36% <br> 4–5 | 3–5% <br> 0 | 18–22% <br> 2–3 | 1–3% <br> 0 | 2–3% <br> 0 | 12–16% <br> 1–2 | 2–3% <br> 0 | 2–3% <br> 0 | 6–9% <br> 0–1 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 30–38% <br> 4–6 | N/A <br> N/A | 16–22% <br> 2–3 | 1–3% <br> 0 | N/A <br> N/A | 12–19% <br> 1–3 | 2–4% <br> 0 | 2–5% <br> 0 | 6–9% <br> 0–1 | 5–8% <br> 0–1 |
+| [1–20 November 2018](2018-11-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 33–39% <br> 5–6 | N/A <br> N/A | 16–21% <br> 2–3 | 1–3% <br> 0 | N/A <br> N/A | 15–19% <br> 2–3 | 2–4% <br> 0 | 3–5% <br> 0 | 6–9% <br> 0–1 | 5–8% <br> 0–1 |
+| [8 November 2018](2018-11-08-Promocijaplus.html) | Promocija plus <br> HRT | 30–36% <br> 4–5 | N/A <br> N/A | 18–22% <br> 2–3 | 1–3% <br> 0 | N/A <br> N/A | 12–16% <br> 1–2 | 2–3% <br> 0 | 2–3% <br> 0 | 6–9% <br> 0–1 | 5–7% <br> 0–1 |
 | 25 May 2014 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
