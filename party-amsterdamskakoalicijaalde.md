@@ -24,7 +24,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [1–20 June 2018](2018-06-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 5.3% | 4.5–6.4% | 4.2–6.8% | 4.0–7.0% | 3.7–7.6% |
 | [6 May–7 June 2018](2018-06-07-Promocijaplus.html) | Promocija plus <br> HRT | 5.3% | 4.5–6.2% | 4.3–6.5% | 4.1–6.7% | 3.7–7.2% |
 | [1–20 May 2018](2018-05-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 6.1% | N/A | N/A | N/A | N/A |
-| [2–5 May 2018](2018-05-05-Promocijaplus.html) | Promocija plus <br> HRT | 4.7% | N/A | N/A | N/A | N/A |
+| [2–5 May 2018](2018-05-05-Promocijaplus.html) | Promocija plus <br> HRT | 4.7% | 4.0–5.6% | 3.8–5.9% | 3.6–6.1% | 3.3–6.6% |
 | [1–20 April 2018](2018-04-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 7.8% | N/A | N/A | N/A | N/A |
 | [8 April 2018](2018-04-08-Promocijaplus.html) | Promocija plus <br> HRT | 4.3% | N/A | N/A | N/A | N/A |
 | [1–20 March 2018](2018-03-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 5.8% | N/A | N/A | N/A | N/A |
@@ -75,7 +75,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–20 June 2018](2018-06-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6 May–7 June 2018](2018-06-07-Promocijaplus.html) | Promocija plus <br> HRT | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [1–20 May 2018](2018-05-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV |  |  |  |  |  |
-| [2–5 May 2018](2018-05-05-Promocijaplus.html) | Promocija plus <br> HRT |  |  |  |  |  |
+| [2–5 May 2018](2018-05-05-Promocijaplus.html) | Promocija plus <br> HRT | 0 | 0 | 0 | 0–1 | 0–1 |
 | [1–20 April 2018](2018-04-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV |  |  |  |  |  |
 | [8 April 2018](2018-04-08-Promocijaplus.html) | Promocija plus <br> HRT |  |  |  |  |  |
 | [1–20 March 2018](2018-03-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV |  |  |  |  |  |

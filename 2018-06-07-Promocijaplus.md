@@ -29,7 +29,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 4 | 4 |4 |4–5 |4–5 |
+| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 4 | 4 |4–5 |4–5 |3–5 |
 | <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 3 | 3 |3 |3–4 |3–4 |
 | <a href="#živi-zid-(*)">Živi zid (*)</a> | 0 | 2 | 2 |2 |2 |2 |
 | <a href="#most-nezavisnih-lista-(*)">Most nezavisnih lista (*)</a> | 0 | 1 | 1 |1 |1 |1 |
@@ -46,9 +46,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.2% | 100% |  |
-| 4 | 95% | 99.8% | Last Result, Median |
-| 5 | 5% | 5% |  |
+| 3 | 0.5% | 100% |  |
+| 4 | 92% | 99.5% | Last Result, Median |
+| 5 | 8% | 8% |  |
 | 6 | 0% | 0% | Majority |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -60,8 +60,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.3% | 100% | Last Result |
-| 3 | 97% | 99.7% | Median |
-| 4 | 3% | 3% |  |
+| 3 | 96% | 99.7% | Median |
+| 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
 
 ### Živi zid (*)
@@ -99,8 +99,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Last Result, Median |
-| 1 | 8% | 8% |  |
+| 0 | 94% | 100% | Last Result, Median |
+| 1 | 6% | 6% |  |
 | 2 | 0% | 0% |  |
 
 ### Bandić Milan 365–Stranka rada i solidarnosti (*)
@@ -143,7 +143,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Hrvatska demokratska zajednica (EPP) | 4 | 4 | 0% | 4 | 4 | 4–5 | 4–5 |
+| Hrvatska demokratska zajednica (EPP) | 4 | 4 | 0% | 4 | 4–5 | 4–5 | 3–5 |
 | Socijaldemokratska partija Hrvatske (S&D) | 2 | 3 | 0% | 3 | 3 | 3–4 | 3–4 |
 | Živi zid (*) – Most nezavisnih lista (*) – Bandić Milan 365–Stranka rada i solidarnosti (*) | 0 | 3 | 0% | 3 | 3 | 3 | 3 |
 | Amsterdamska koalicija (ALDE) – Hrvatska narodna stranka–liberalni demokrati (ALDE) – Pametno (ALDE) | 1 | 0 | 0% | 0 | 0–1 | 0–1 | 0–1 |
@@ -154,9 +154,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.2% | 100% |  |
-| 4 | 95% | 99.8% | Last Result, Median |
-| 5 | 5% | 5% |  |
+| 3 | 0.5% | 100% |  |
+| 4 | 92% | 99.5% | Last Result, Median |
+| 5 | 8% | 8% |  |
 | 6 | 0% | 0% | Majority |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -166,8 +166,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.3% | 100% | Last Result |
-| 3 | 97% | 99.7% | Median |
-| 4 | 3% | 3% |  |
+| 3 | 96% | 99.7% | Median |
+| 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
 
 ### Živi zid (*) – Most nezavisnih lista (*) – Bandić Milan 365–Stranka rada i solidarnosti (*)
@@ -179,7 +179,7 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.3% | 100% |  |
-| 3 | 99.4% | 99.7% | Median |
+| 3 | 99.5% | 99.7% | Median |
 | 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% |  |
 
@@ -189,8 +189,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Median |
-| 1 | 8% | 8% | Last Result |
+| 0 | 94% | 100% | Median |
+| 1 | 6% | 6% | Last Result |
 | 2 | 0% | 0% |  |
 
 
@@ -205,6 +205,6 @@
 ### Calculations
 
 + **Sample size:** 1122
-+ **Simulations done:** 262,144
-+ **Error estimate:** 1.40%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.67%
 
