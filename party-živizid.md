@@ -85,7 +85,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–20 July 2018](2018-07-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [2–5 July 2018](2018-07-05-Promocijaplus.html) | Promocija plus <br> HRT | 2 | 2 | 2 | 2 | 2 |
 | [1–20 June 2018](2018-06-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 2 | 2 | 2 | 2 | 2–3 |
-| [6 May–7 June 2018](2018-06-07-Promocijaplus.html) | Promocija plus <br> HRT | 2 | 2 | 2 | 2 | 2–3 |
+| [6 May–7 June 2018](2018-06-07-Promocijaplus.html) | Promocija plus <br> HRT | 2 | 2 | 2 | 2 | 2 |
 | [1–20 May 2018](2018-05-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 2 | 2 | 2 | 2 | 2–3 |
 | [2–5 May 2018](2018-05-05-Promocijaplus.html) | Promocija plus <br> HRT | 2 | 2 | 2 | 2 | 1–2 |
 | [1–20 April 2018](2018-04-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 2 | 2 | 2 | 2 | 1–3 |
