@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 31 Dec 2018 13:14:14 +0100</pubDate>
+    <pubDate>Mon, 31 Dec 2018 17:30:15 +0100</pubDate>
     <item>
       <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 November 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2018-11-20-IPSOSPULS.html#seats</link>
@@ -380,14 +380,34 @@
       <dc:date>2018-12-24T17:38:14.809369+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 February 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2018-02-20-IPSOSPULS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Živi zid (*): 1–2 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 0 seats&lt;/li&gt;&lt;li&gt;Pametno (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Amsterdamska koalicija (ALDE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2018-02-20-IPSOSPULS-seats.png"
+        length="227044"
+        type="image/png"/>
+      <pubDate>Mon, 31 Dec 2018 17:30:15 +0100</pubDate>
+      <dc:date>2018-12-31T17:30:15.776659+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2018-02-20-IPSOSPULS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2018-02-20-IPSOSPULS-coalitions-seats.png"
+        length="140364"
+        type="image/png"/>
+      <pubDate>Mon, 31 Dec 2018 17:30:15 +0100</pubDate>
+      <dc:date>2018-12-31T17:30:15.776659+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2018-02-20-IPSOSPULS.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 29.5–35.6%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 19.0–24.4%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (*): 5.7–9.1%&lt;/li&gt;&lt;li&gt;Živi zid (*): 11.3–15.8%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (ALDE): 1.5–3.5%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (EPP): 1.7–3.9%&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 2.3–4.6%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (ALDE): 1.9–4.1%&lt;/li&gt;&lt;li&gt;Pametno (ALDE): 2.6–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 29.5–35.6%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 19.0–24.4%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (*): 5.7–9.1%&lt;/li&gt;&lt;li&gt;Živi zid (*): 11.3–15.8%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (ALDE): 1.5–3.5%&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 2.3–4.6%&lt;/li&gt;&lt;li&gt;Pametno (ALDE): 2.6–5.0%&lt;/li&gt;&lt;li&gt;Amsterdamska koalicija (ALDE): 4.1–7.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2018-02-20-IPSOSPULS.png"
-        length="244998"
+        length="224292"
         type="image/png"/>
-      <pubDate>Mon, 24 Dec 2018 17:38:14 +0100</pubDate>
-      <dc:date>2018-12-24T17:38:14.809369+01:00</dc:date>
+      <pubDate>Mon, 31 Dec 2018 17:30:15 +0100</pubDate>
+      <dc:date>2018-12-31T17:30:15.776659+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Promocija plus for HRT, 4 February 2018 – Voting Intentions</title>
@@ -429,6 +449,6 @@
       <pubDate>Mon, 31 Dec 2018 09:14:44 +0100</pubDate>
       <dc:date>2018-12-31T09:14:44.11817+01:00</dc:date>
     </item>
-    <dc:date>2018-12-31T13:14:14.381592+01:00</dc:date>
+    <dc:date>2018-12-31T17:30:15.776659+01:00</dc:date>
   </channel>
 </rss>
