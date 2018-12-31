@@ -80,7 +80,7 @@ Last result: **4** seats (General Election of 25 May 2014)
 | [6 May–7 June 2018](2018-06-07-Promocijaplus.html) | Promocija plus <br> HRT | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [1–20 May 2018](2018-05-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [2–5 May 2018](2018-05-05-Promocijaplus.html) | Promocija plus <br> HRT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [1–20 April 2018](2018-04-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [1–20 April 2018](2018-04-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [8 April 2018](2018-04-08-Promocijaplus.html) | Promocija plus <br> HRT | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–20 March 2018](2018-03-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [19 March 2018](2018-03-19-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 4 | 4–5 | 4–5 | 4–5 | 3–5 |

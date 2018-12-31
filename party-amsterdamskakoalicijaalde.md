@@ -25,8 +25,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [6 May–7 June 2018](2018-06-07-Promocijaplus.html) | Promocija plus <br> HRT | 5.3% | 4.5–6.2% | 4.3–6.5% | 4.1–6.7% | 3.7–7.2% |
 | [1–20 May 2018](2018-05-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 6.1% | N/A | N/A | N/A | N/A |
 | [2–5 May 2018](2018-05-05-Promocijaplus.html) | Promocija plus <br> HRT | 4.7% | 4.0–5.6% | 3.8–5.9% | 3.6–6.1% | 3.3–6.6% |
-| [1–20 April 2018](2018-04-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 7.8% | N/A | N/A | N/A | N/A |
-| [8 April 2018](2018-04-08-Promocijaplus.html) | Promocija plus <br> HRT | 4.3% | N/A | N/A | N/A | N/A |
+| [1–20 April 2018](2018-04-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 7.8% | 6.8–9.1% | 6.5–9.5% | 6.3–9.8% | 5.8–10.4% |
+| [8 April 2018](2018-04-08-Promocijaplus.html) | Promocija plus <br> HRT | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.3–5.7% | 3.0–6.1% |
 | [1–20 March 2018](2018-03-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 5.8% | N/A | N/A | N/A | N/A |
 | [19 March 2018](2018-03-19-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1.8% | N/A | N/A | N/A | N/A |
 | [28 February–3 March 2018](2018-03-03-Promocijaplus.html) | Promocija plus <br> HRT | 4.8% | N/A | N/A | N/A | N/A |
@@ -76,8 +76,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [6 May–7 June 2018](2018-06-07-Promocijaplus.html) | Promocija plus <br> HRT | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [1–20 May 2018](2018-05-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV |  |  |  |  |  |
 | [2–5 May 2018](2018-05-05-Promocijaplus.html) | Promocija plus <br> HRT | 0 | 0 | 0 | 0–1 | 0–1 |
-| [1–20 April 2018](2018-04-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV |  |  |  |  |  |
-| [8 April 2018](2018-04-08-Promocijaplus.html) | Promocija plus <br> HRT |  |  |  |  |  |
+| [1–20 April 2018](2018-04-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 1 | 1 | 1 | 0–1 | 0–1 |
+| [8 April 2018](2018-04-08-Promocijaplus.html) | Promocija plus <br> HRT | 0 | 0 | 0 | 0 | 0 |
 | [1–20 March 2018](2018-03-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV |  |  |  |  |  |
 | [19 March 2018](2018-03-19-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |
 | [28 February–3 March 2018](2018-03-03-Promocijaplus.html) | Promocija plus <br> HRT |  |  |  |  |  |
