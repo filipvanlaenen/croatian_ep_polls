@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 01 Jan 2019 19:46:13 +0100</pubDate>
+    <pubDate>Tue, 01 Jan 2019 22:35:27 +0100</pubDate>
     <item>
       <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 November 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2018-11-20-IPSOSPULS.html#seats</link>
@@ -420,14 +420,34 @@
       <dc:date>2018-12-24T17:38:14.821369+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by 2x1 Komunikacije for CroElecto, 19 March 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2018-03-19-2x1Komunikacije.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (*): 1 seats&lt;/li&gt;&lt;li&gt;Živi zid (*): 1–2 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 0 seats&lt;/li&gt;&lt;li&gt;Amsterdamska koalicija (ALDE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2018-03-19-2x1Komunikacije-seats.png"
+        length="139852"
+        type="image/png"/>
+      <pubDate>Tue, 01 Jan 2019 22:35:27 +0100</pubDate>
+      <dc:date>2019-01-01T22:35:27.663882+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by 2x1 Komunikacije for CroElecto, 19 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2018-03-19-2x1Komunikacije.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2018-03-19-2x1Komunikacije-coalitions-seats.png"
+        length="91503"
+        type="image/png"/>
+      <pubDate>Tue, 01 Jan 2019 22:35:27 +0100</pubDate>
+      <dc:date>2019-01-01T22:35:27.663882+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by 2x1 Komunikacije for CroElecto, 19 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2018-03-19-2x1Komunikacije.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 27.6–33.6%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 22.8–28.5%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (*): 7.4–11.2%&lt;/li&gt;&lt;li&gt;Živi zid (*): 10.8–15.2%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (ALDE): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 0.7–2.2%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (ALDE): 1.1–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 27.6–33.6%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 22.8–28.5%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (*): 7.4–11.2%&lt;/li&gt;&lt;li&gt;Živi zid (*): 10.8–15.2%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (ALDE): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 0.7–2.2%&lt;/li&gt;&lt;li&gt;Amsterdamska koalicija (ALDE): 1.1–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2018-03-19-2x1Komunikacije.png"
-        length="202645"
+        length="200196"
         type="image/png"/>
-      <pubDate>Mon, 24 Dec 2018 17:38:14 +0100</pubDate>
-      <dc:date>2018-12-24T17:38:14.821369+01:00</dc:date>
+      <pubDate>Tue, 01 Jan 2019 22:35:27 +0100</pubDate>
+      <dc:date>2019-01-01T22:35:27.663882+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Promocija plus for HRT, 28 February–3 March 2018 – Seat Projections for the Parties</title>
@@ -549,6 +569,6 @@
       <pubDate>Mon, 31 Dec 2018 09:14:44 +0100</pubDate>
       <dc:date>2018-12-31T09:14:44.11817+01:00</dc:date>
     </item>
-    <dc:date>2019-01-01T19:46:13.298491+01:00</dc:date>
+    <dc:date>2019-01-01T22:35:27.663882+01:00</dc:date>
   </channel>
 </rss>
