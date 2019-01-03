@@ -29,7 +29,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 5 | 4–5 |4–5 |4–5 |4–6 |
+| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 5 | 4–5 |4–5 |4–5 |4–5 |
 | <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 3 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#živi-zid-(*)">Živi zid (*)</a> | 0 | 2 | 2 |1–2 |1–2 |1–2 |
 | <a href="#most-nezavisnih-lista-(*)">Most nezavisnih lista (*)</a> | 0 | 1 | 1 |1 |1 |1 |
@@ -46,9 +46,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 36% | 100% | Last Result |
-| 5 | 63% | 64% | Median |
-| 6 | 0.9% | 0.9% | Majority |
+| 4 | 30% | 100% | Last Result |
+| 5 | 70% | 70% | Median |
+| 6 | 0.5% | 0.5% | Majority |
 | 7 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -59,8 +59,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 33% | 100% | Last Result |
-| 3 | 67% | 67% | Median |
+| 2 | 31% | 100% | Last Result |
+| 3 | 69% | 69% | Median |
 | 4 | 0% | 0% |  |
 
 ### Živi zid (*)
@@ -72,8 +72,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 5% | 100% |  |
-| 2 | 95% | 95% | Median |
+| 1 | 6% | 100% |  |
+| 2 | 94% | 94% | Median |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
@@ -85,8 +85,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 99.8% | 99.9% | Median |
+| 0 | 0% | 100% | Last Result |
+| 1 | 99.9% | 100% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -98,8 +98,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 30% | 100% | Last Result |
-| 1 | 70% | 70% | Median |
+| 0 | 38% | 100% | Last Result |
+| 1 | 62% | 62% | Median |
 | 2 | 0% | 0% |  |
 
 ### Bandić Milan 365–Stranka rada i solidarnosti (*)
@@ -142,7 +142,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Hrvatska demokratska zajednica (EPP) | 4 | 5 | 0.9% | 4–5 | 4–5 | 4–5 | 4–6 |
+| Hrvatska demokratska zajednica (EPP) | 4 | 5 | 0.5% | 4–5 | 4–5 | 4–5 | 4–5 |
 | Živi zid (*) – Most nezavisnih lista (*) – Bandić Milan 365–Stranka rada i solidarnosti (*) | 0 | 3 | 0% | 3 | 2–3 | 2–3 | 2–3 |
 | Socijaldemokratska partija Hrvatske (S&D) | 2 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
 | Amsterdamska koalicija (ALDE) – Pametno (ALDE) – Hrvatska narodna stranka–liberalni demokrati (ALDE) | 1 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -153,9 +153,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 36% | 100% | Last Result |
-| 5 | 63% | 64% | Median |
-| 6 | 0.9% | 0.9% | Majority |
+| 4 | 30% | 100% | Last Result |
+| 5 | 70% | 70% | Median |
+| 6 | 0.5% | 0.5% | Majority |
 | 7 | 0% | 0% |  |
 
 ### Živi zid (*) – Most nezavisnih lista (*) – Bandić Milan 365–Stranka rada i solidarnosti (*)
@@ -166,8 +166,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 5% | 100% |  |
-| 3 | 95% | 95% | Median |
+| 2 | 6% | 100% |  |
+| 3 | 94% | 94% | Median |
 | 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
@@ -177,8 +177,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 33% | 100% | Last Result |
-| 3 | 67% | 67% | Median |
+| 2 | 31% | 100% | Last Result |
+| 3 | 69% | 69% | Median |
 | 4 | 0% | 0% |  |
 
 ### Amsterdamska koalicija (ALDE) – Pametno (ALDE) – Hrvatska narodna stranka–liberalni demokrati (ALDE)
@@ -187,8 +187,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 30% | 100% |  |
-| 1 | 70% | 70% | Last Result, Median |
+| 0 | 38% | 100% |  |
+| 1 | 62% | 62% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 
@@ -203,6 +203,6 @@
 ### Calculations
 
 + **Sample size:** 898
-+ **Simulations done:** 262,144
-+ **Error estimate:** 0.93%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.17%
 
