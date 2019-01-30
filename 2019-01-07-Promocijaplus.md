@@ -12,7 +12,7 @@
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Hrvatska demokratska zajednica (EPP) | 41.4% | 37.0% | 35.3–38.7% |34.8–39.2% |34.4–39.7% |33.6–40.5% |
 | Socijaldemokratska partija Hrvatske (S&D) | 29.9% | 20.0% | 18.6–21.5% |18.2–21.9% |17.9–22.3% |17.3–23.0% |
-| Živi zid (*) | 0.5% | 18.0% | 16.7–19.4% |16.3–19.8% |16.0–20.2% |15.4–20.9% |
+| Živi zid (EFDD) | 0.5% | 18.0% | 16.7–19.4% |16.3–19.8% |16.0–20.2% |15.4–20.9% |
 | Most nezavisnih lista (*) | 0.0% | 8.0% | 7.1–9.1% |6.9–9.3% |6.6–9.6% |6.2–10.1% |
 | Amsterdamska koalicija (ALDE) | 0.0% | 4.0% | 3.4–4.8% |3.2–5.0% |3.1–5.2% |2.8–5.6% |
 | Hrvatska narodna stranka–liberalni demokrati (ALDE) | 29.9% | 2.0% | 1.6–2.6% |1.5–2.8% |1.4–2.9% |1.2–3.2% |
@@ -31,7 +31,7 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 5 | 5 |5–6 |5–6 |5–6 |
 | <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 3 | 2–3 |2–3 |2–3 |2–3 |
-| <a href="#živi-zid-(*)">Živi zid (*)</a> | 0 | 2 | 2–3 |2–3 |2–3 |2–3 |
+| <a href="#živi-zid-(efdd)">Živi zid (EFDD)</a> | 0 | 2 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#most-nezavisnih-lista-(*)">Most nezavisnih lista (*)</a> | 0 | 1 | 1 |1 |1 |1 |
 | <a href="#amsterdamska-koalicija-(alde)">Amsterdamska koalicija (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#hrvatska-narodna-stranka–liberalni-demokrati-(alde)">Hrvatska narodna stranka–liberalni demokrati (ALDE)</a> | 1 | 0 | 0 |0 |0 |0 |
@@ -63,11 +63,11 @@
 | 3 | 88% | 88% | Median |
 | 4 | 0% | 0% |  |
 
-### Živi zid (*)
+### Živi zid (EFDD)
 
-*For a full overview of the results for this party, see the [Živi zid (*)](party-živizid.html) page.*
+*For a full overview of the results for this party, see the [Živi zid (EFDD)](party-živizidefdd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-01-07-Promocijaplus-seats-pmf-živizid.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-01-07-Promocijaplus-seats-pmf-živizidefdd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -140,8 +140,9 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Hrvatska demokratska zajednica (EPP) | 4 | 5 | 7% | 5 | 5–6 | 5–6 | 5–6 |
-| Živi zid (*) – Most nezavisnih lista (*) – Bandić Milan 365–Stranka rada i solidarnosti (*) | 0 | 3 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socijaldemokratska partija Hrvatske (S&D) | 2 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
+| Živi zid (EFDD) | 0 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
+| Most nezavisnih lista (*) – Bandić Milan 365–Stranka rada i solidarnosti (*) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
 | Amsterdamska koalicija (ALDE) – Hrvatska narodna stranka–liberalni demokrati (ALDE) – Pametno (ALDE) | 1 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Hrvatska demokratska zajednica (EPP)
@@ -155,19 +156,6 @@
 | 6 | 7% | 7% | Majority |
 | 7 | 0% | 0% |  |
 
-### Živi zid (*) – Most nezavisnih lista (*) – Bandić Milan 365–Stranka rada i solidarnosti (*)
-
-![Graph with seats probability mass function not yet produced](2019-01-07-Promocijaplus-coalitions-seats-pmf-živizid–most–bm365.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0.3% | 100% |  |
-| 3 | 85% | 99.7% | Median |
-| 4 | 15% | 15% |  |
-| 5 | 0% | 0% |  |
-
 ### Socijaldemokratska partija Hrvatske (S&D)
 
 ![Graph with seats probability mass function not yet produced](2019-01-07-Promocijaplus-coalitions-seats-pmf-sdp.png "Seats Probability Mass Function")
@@ -177,6 +165,28 @@
 | 2 | 12% | 100% | Last Result |
 | 3 | 88% | 88% | Median |
 | 4 | 0% | 0% |  |
+
+### Živi zid (EFDD)
+
+![Graph with seats probability mass function not yet produced](2019-01-07-Promocijaplus-coalitions-seats-pmf-živizid.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 85% | 100% | Median |
+| 3 | 15% | 15% |  |
+| 4 | 0% | 0% |  |
+
+### Most nezavisnih lista (*) – Bandić Milan 365–Stranka rada i solidarnosti (*)
+
+![Graph with seats probability mass function not yet produced](2019-01-07-Promocijaplus-coalitions-seats-pmf-most–bm365.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0.5% | 100% | Last Result |
+| 1 | 99.5% | 99.5% | Median |
+| 2 | 0% | 0% |  |
 
 ### Amsterdamska koalicija (ALDE) – Hrvatska narodna stranka–liberalni demokrati (ALDE) – Pametno (ALDE)
 
