@@ -10,8 +10,9 @@ Last result: **41.4%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34.7% | 30.2–38.1% | 29.5–38.7% | 28.9–39.2% | 27.7–40.2% |
-| [2–7 January 2019](2019-01-07-Promocijaplus.html) | Promocija plus <br> HRT | 37.0% | 35.3–38.7% | 34.8–39.2% | 34.4–39.7% | 33.6–40.5% |
+| N/A | [Poll Average](average.html) | 32.8% | 30.7–34.9% | 30.1–35.4% | 29.6–35.9% | 28.7–36.9% |
+| [1–20 January 2019](2019-01-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 32.0% | 30.2–34.0% | 29.6–34.5% | 29.2–35.0% | 28.3–35.9% |
+| [2–7 January 2019](2019-01-07-Promocijaplus.html) | Promocija plus <br> HRT | 33.5% | 31.7–35.3% | 31.2–35.9% | 30.8–36.3% | 30.0–37.2% |
 | [1–20 December 2018](2018-12-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 31.7% | 29.5–34.0% | 28.9–34.6% | 28.3–35.2% | 27.3–36.3% |
 | [1–20 November 2018](2018-11-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 32.4% | 30.2–34.7% | 29.5–35.4% | 29.0–35.9% | 28.0–37.1% |
 | [8 November 2018](2018-11-08-Promocijaplus.html) | Promocija plus <br> HRT | 32.7% | 31.0–34.6% | 30.5–35.1% | 30.1–35.5% | 29.2–36.4% |
@@ -42,23 +43,21 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 25.5–26.5% | 0.1% | 100% |  |
-| 26.5–27.5% | 0.3% | 99.9% |  |
-| 27.5–28.5% | 1.3% | 99.6% |  |
-| 28.5–29.5% | 4% | 98% |  |
-| 29.5–30.5% | 7% | 95% |  |
-| 30.5–31.5% | 11% | 87% |  |
-| 31.5–32.5% | 11% | 77% |  |
-| 32.5–33.5% | 8% | 66% |  |
-| 33.5–34.5% | 6% | 57% |  |
-| 34.5–35.5% | 7% | 51% | Median |
-| 35.5–36.5% | 12% | 44% |  |
-| 36.5–37.5% | 15% | 32% |  |
-| 37.5–38.5% | 11% | 17% |  |
-| 38.5–39.5% | 5% | 6% |  |
-| 39.5–40.5% | 1.3% | 1.5% |  |
-| 40.5–41.5% | 0.2% | 0.2% | Last Result |
-| 41.5–42.5% | 0% | 0% |  |
+| 26.5–27.5% | 0% | 100% |  |
+| 27.5–28.5% | 0.4% | 100% |  |
+| 28.5–29.5% | 2% | 99.6% |  |
+| 29.5–30.5% | 6% | 98% |  |
+| 30.5–31.5% | 14% | 92% |  |
+| 31.5–32.5% | 22% | 78% |  |
+| 32.5–33.5% | 24% | 56% | Median |
+| 33.5–34.5% | 19% | 33% |  |
+| 34.5–35.5% | 10% | 14% |  |
+| 35.5–36.5% | 3% | 4% |  |
+| 36.5–37.5% | 0.8% | 0.9% |  |
+| 37.5–38.5% | 0.1% | 0.1% |  |
+| 38.5–39.5% | 0% | 0% |  |
+| 39.5–40.5% | 0% | 0% |  |
+| 40.5–41.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -69,8 +68,9 @@ Last result: **4** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [2–7 January 2019](2019-01-07-Promocijaplus.html) | Promocija plus <br> HRT | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [1–20 January 2019](2019-01-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [2–7 January 2019](2019-01-07-Promocijaplus.html) | Promocija plus <br> HRT | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [1–20 December 2018](2018-12-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [1–20 November 2018](2018-11-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [8 November 2018](2018-11-08-Promocijaplus.html) | Promocija plus <br> HRT | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -103,9 +103,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 12% | 100% | Last Result |
-| 5 | 79% | 88% | Median |
-| 6 | 9% | 9% | Majority |
+| 4 | 35% | 100% | Last Result |
+| 5 | 65% | 65% | Median |
+| 6 | 0.7% | 0.7% | Majority |
 | 7 | 0% | 0% |  |
 
 
