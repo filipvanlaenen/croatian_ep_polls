@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | HDZ | HSS | SDP | HNS | IDS | Živi zid | P | BM 365 | Most | AK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [31 January–4 February 2019](2019-02-04-Promocijaplus.html) | Promocija plus <br> HRT | 29–35% <br> 4–5 | N/A <br> N/A | 16–20% <br> 2–3 | 1–3% <br> 0 | N/A <br> N/A | 11–14% <br> 1–2 | 1–3% <br> 0 | 2–3% <br> 0 | 6–9% <br> 0–1 | 4–7% <br> 0–1 |
 | [1–20 January 2019](2019-01-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 29–35% <br> 4–5 | N/A <br> N/A | 14–18% <br> 2 | 1–3% <br> 0 | N/A <br> N/A | 13–17% <br> 2 | 2–4% <br> 0 | 3–5% <br> 0 | 6–9% <br> 0–1 | 5–8% <br> 0–1 |
 | [2–7 January 2019](2019-01-07-Promocijaplus.html) | Promocija plus <br> HRT | 31–36% <br> 4–5 | N/A <br> N/A | 16–21% <br> 2–3 | 1–3% <br> 0 | N/A <br> N/A | 14–18% <br> 2 | 1–3% <br> 0 | 2–3% <br> 0 | 7–10% <br> 1 | 4–6% <br> 0 |
 | [1–20 December 2018](2018-12-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 28–35% <br> 4–5 | N/A <br> N/A | 14–19% <br> 2–3 | 1–3% <br> 0 | N/A <br> N/A | 14–19% <br> 2–3 | 2–4% <br> 0 | 2–5% <br> 0 | 5–9% <br> 0–1 | 4–8% <br> 0–1 |
