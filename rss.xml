@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 07 Mar 2019 12:04:54 +0100</pubDate>
+    <pubDate>Fri, 08 Mar 2019 19:51:39 +0100</pubDate>
     <item>
       <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2019-02-20-IPSOSPULS.html#seats</link>
@@ -100,14 +100,54 @@
       <dc:date>2019-03-07T11:12:44.164052+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Promocija plus for HRT, 2–7 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2019-01-07-Promocijaplus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (*): 1 seats&lt;/li&gt;&lt;li&gt;Živi zid (EFDD): 2 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 0 seats&lt;/li&gt;&lt;li&gt;Pametno (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Neovisni za Hrvatsku (*): 0 seats&lt;/li&gt;&lt;li&gt;Amsterdamska koalicija (ALDE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2019-01-07-Promocijaplus-seats.png"
+        length="206448"
+        type="image/png"/>
+      <pubDate>Fri, 08 Mar 2019 18:08:33 +0100</pubDate>
+      <dc:date>2019-03-08T18:08:33.66015+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Promocija plus for HRT, 2–7 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2019-01-07-Promocijaplus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2019-01-07-Promocijaplus-coalitions-seats.png"
+        length="141969"
+        type="image/png"/>
+      <pubDate>Fri, 08 Mar 2019 18:08:33 +0100</pubDate>
+      <dc:date>2019-03-08T18:08:33.66015+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Promocija plus for HRT, 2–7 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2019-01-07-Promocijaplus.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 30.8–36.3%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 16.4–20.9%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (*): 6.9–10.1%&lt;/li&gt;&lt;li&gt;Živi zid (EFDD): 13.8–18.0%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (ALDE): 1.3–2.9%&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 1.5–3.3%&lt;/li&gt;&lt;li&gt;Pametno (ALDE): 1.3–2.9%&lt;/li&gt;&lt;li&gt;Neovisni za Hrvatsku (*): 2.5–4.6%&lt;/li&gt;&lt;li&gt;Amsterdamska koalicija (ALDE): 5.0–7.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2019-01-07-Promocijaplus.png"
         length="233629"
         type="image/png"/>
-      <pubDate>Thu, 07 Mar 2019 10:18:47 +0100</pubDate>
-      <dc:date>2019-03-07T10:18:47.945147+01:00</dc:date>
+      <pubDate>Fri, 08 Mar 2019 18:08:33 +0100</pubDate>
+      <dc:date>2019-03-08T18:08:33.66015+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2018-12-20-IPSOSPULS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Živi zid (EFDD): 2–3 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 0 seats&lt;/li&gt;&lt;li&gt;Pametno (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Neovisni za Hrvatsku (*): 0 seats&lt;/li&gt;&lt;li&gt;Amsterdamska koalicija (ALDE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2018-12-20-IPSOSPULS-seats.png"
+        length="239020"
+        type="image/png"/>
+      <pubDate>Fri, 08 Mar 2019 19:51:39 +0100</pubDate>
+      <dc:date>2019-03-08T19:51:39.746157+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2018-12-20-IPSOSPULS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2018-12-20-IPSOSPULS-coalitions-seats.png"
+        length="166649"
+        type="image/png"/>
+      <pubDate>Fri, 08 Mar 2019 19:51:39 +0100</pubDate>
+      <dc:date>2019-03-08T19:51:39.746157+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 December 2018 – Voting Intentions</title>
@@ -116,8 +156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2018-12-20-IPSOSPULS.png"
         length="245168"
         type="image/png"/>
-      <pubDate>Thu, 07 Mar 2019 06:47:24 +0100</pubDate>
-      <dc:date>2019-03-07T06:47:24.291047+01:00</dc:date>
+      <pubDate>Fri, 08 Mar 2019 19:51:39 +0100</pubDate>
+      <dc:date>2019-03-08T19:51:39.746157+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 November 2018 – Seat Projections for the Parties</title>
@@ -789,6 +829,6 @@
       <pubDate>Wed, 06 Mar 2019 23:03:27 +0100</pubDate>
       <dc:date>2019-03-06T23:03:27.092515+01:00</dc:date>
     </item>
-    <dc:date>2019-03-07T12:04:54.999983+01:00</dc:date>
+    <dc:date>2019-03-08T19:51:39.746157+01:00</dc:date>
   </channel>
 </rss>
