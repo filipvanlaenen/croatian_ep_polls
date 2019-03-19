@@ -131,7 +131,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | [19 March 2018](2018-03-19-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [17 March 2018](2018-03-17-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 4 | 4 | 4 | 4 | 3–4 |
 | [28 February–3 March 2018](2018-03-03-Promocijaplus.html) | Promocija plus <br> HRT | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [21 February 2018](2018-02-21-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [21 February 2018](2018-02-21-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3 | 3 | 3 | 3 | 2–4 |
 | [1–20 February 2018](2018-02-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [4 February 2018](2018-02-04-Promocijaplus.html) | Promocija plus <br> HRT | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [26 January 2018](2018-01-26-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 2 | 2 | 2 | 2 | 2 |
