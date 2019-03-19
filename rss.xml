@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 18 Mar 2019 06:50:19 +0100</pubDate>
+    <pubDate>Tue, 19 Mar 2019 06:50:39 +0100</pubDate>
     <item>
       <title>Opinion Poll by 2x1 Komunikacije for CroElecto, 18–27 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2019-02-27-2x1Komunikacije.html</link>
@@ -876,8 +876,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2018-02-21-2x1Komunikacije.png"
         length="218568"
         type="image/png"/>
-      <pubDate>Sat, 16 Mar 2019 19:53:22 +0100</pubDate>
-      <dc:date>2019-03-16T19:53:22.543961+01:00</dc:date>
+      <pubDate>Tue, 19 Mar 2019 06:50:39 +0100</pubDate>
+      <dc:date>2019-03-19T06:50:39.418881+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 February 2018 – Seat Projections for the Parties</title>
@@ -1009,6 +1009,6 @@
       <pubDate>Sun, 10 Mar 2019 19:06:14 +0100</pubDate>
       <dc:date>2019-03-10T19:06:14.798482+01:00</dc:date>
     </item>
-    <dc:date>2019-03-18T06:50:19.260437+01:00</dc:date>
+    <dc:date>2019-03-19T06:50:39.418881+01:00</dc:date>
   </channel>
 </rss>
