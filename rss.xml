@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 19 Mar 2019 06:50:39 +0100</pubDate>
+    <pubDate>Wed, 20 Mar 2019 06:58:50 +0100</pubDate>
     <item>
       <title>Opinion Poll by 2x1 Komunikacije for CroElecto, 18–27 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2019-02-27-2x1Komunikacije.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2019-02-27-2x1Komunikacije.png"
         length="244342"
         type="image/png"/>
-      <pubDate>Sat, 16 Mar 2019 17:57:24 +0100</pubDate>
-      <dc:date>2019-03-16T17:57:24.100773+01:00</dc:date>
+      <pubDate>Wed, 20 Mar 2019 06:58:50 +0100</pubDate>
+      <dc:date>2019-03-20T06:58:50.274517+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 February 2019 – Seat Projections for the Parties</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2019-02-02-2x1Komunikacije.png"
         length="259901"
         type="image/png"/>
-      <pubDate>Sat, 16 Mar 2019 18:05:36 +0100</pubDate>
-      <dc:date>2019-03-16T18:05:36.314463+01:00</dc:date>
+      <pubDate>Wed, 20 Mar 2019 06:53:41 +0100</pubDate>
+      <dc:date>2019-03-20T06:53:41.344648+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 January 2019 – Seat Projections for the Parties</title>
@@ -196,8 +196,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2018-12-13-Ninamedia.png"
         length="231292"
         type="image/png"/>
-      <pubDate>Sat, 16 Mar 2019 18:24:39 +0100</pubDate>
-      <dc:date>2019-03-16T18:24:39.766616+01:00</dc:date>
+      <pubDate>Wed, 20 Mar 2019 06:57:39 +0100</pubDate>
+      <dc:date>2019-03-20T06:57:39.524929+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Promocija plus for HRT, 8 December 2018 – Voting Intentions</title>
@@ -356,8 +356,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2018-09-21-2x1Komunikacije.png"
         length="239657"
         type="image/png"/>
-      <pubDate>Sat, 16 Mar 2019 19:26:09 +0100</pubDate>
-      <dc:date>2019-03-16T19:26:09.311146+01:00</dc:date>
+      <pubDate>Wed, 20 Mar 2019 06:55:45 +0100</pubDate>
+      <dc:date>2019-03-20T06:55:45.825681+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 September 2018 – Seat Projections for the Parties</title>
@@ -1009,6 +1009,6 @@
       <pubDate>Sun, 10 Mar 2019 19:06:14 +0100</pubDate>
       <dc:date>2019-03-10T19:06:14.798482+01:00</dc:date>
     </item>
-    <dc:date>2019-03-19T06:50:39.418881+01:00</dc:date>
+    <dc:date>2019-03-20T06:58:50.274517+01:00</dc:date>
   </channel>
 </rss>
