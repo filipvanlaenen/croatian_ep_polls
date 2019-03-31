@@ -18,14 +18,14 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [18–27 February 2019](2019-02-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 14.1% | 12.8–15.6% | 12.5–16.0% | 12.1–16.4% | 11.5–17.1% |
 | [1–20 February 2019](2019-02-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
 | [31 January–4 February 2019](2019-02-04-Promocijaplus.html) | Promocija plus <br> HRT | 9.7% | 8.7–11.0% | 8.4–11.3% | 8.2–11.6% | 7.7–12.2% |
-| [1 February 2019](2019-02-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 14.0% | N/A | N/A | N/A | N/A |
-| [1–18 January 2019](2019-01-18-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 12.5% | N/A | N/A | N/A | N/A |
+| [1 February 2019](2019-02-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 14.0% | 12.7–15.5% | 12.4–15.9% | 12.0–16.3% | 11.4–17.0% |
+| [1–18 January 2019](2019-01-18-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.7% | 10.0–15.4% |
 | [2–7 January 2019](2019-01-07-Promocijaplus.html) | Promocija plus <br> HRT | 6.3% | 5.5–7.3% | 5.2–7.6% | 5.0–7.9% | 4.6–8.4% |
-| [27 December 2018](2018-12-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 10.6% | N/A | N/A | N/A | N/A |
+| [27 December 2018](2018-12-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 10.6% | 9.5–11.9% | 9.2–12.3% | 8.9–12.6% | 8.4–13.3% |
 | [1–20 December 2018](2018-12-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 6.9% | 5.8–8.3% | 5.5–8.7% | 5.2–9.0% | 4.7–9.7% |
 | [7–13 December 2018](2018-12-13-Ninamedia.html) | Ninamedia | 7.9% | 6.8–9.4% | 6.4–9.8% | 6.1–10.2% | 5.6–10.9% |
 | [8 December 2018](2018-12-08-Promocijaplus.html) | Promocija plus <br> HRT | 7.5% | 6.6–8.6% | 6.3–8.9% | 6.1–9.2% | 5.7–9.7% |
-| [23 November 2018](2018-11-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 13.1% | N/A | N/A | N/A | N/A |
+| [23 November 2018](2018-11-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 13.1% | 11.8–14.5% | 11.4–14.9% | 11.1–15.3% | 10.6–16.0% |
 | [1–20 November 2018](2018-11-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 5.7% | 4.7–7.0% | 4.5–7.4% | 4.2–7.7% | 3.8–8.4% |
 | [8 November 2018](2018-11-08-Promocijaplus.html) | Promocija plus <br> HRT | 5.9% | 5.1–7.0% | 4.9–7.2% | 4.7–7.5% | 4.3–8.0% |
 | [27 October 2018](2018-10-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 6.0% | 5.1–7.2% | 4.8–7.5% | 4.6–7.8% | 4.2–8.4% |
@@ -102,16 +102,16 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [13–18 March 2019](2019-03-18-Promocijaplus.html) | Promocija plus <br> HRT | 1 | 1 | 1 | 1 | 1–2 |
 | [6 March 2019](2019-03-06-Promocijaplus.html) | Promocija plus <br> HRT | 1 | 1 | 1 | 1 | 1 |
 | [18–27 February 2019](2019-02-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 2 | 2 | 2 | 2 | 1–2 |
-| [1–20 February 2019](2019-02-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV |  |  |  |  |  |
+| [1–20 February 2019](2019-02-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 1 | 1 | 1 | 1 | 1 |
 | [31 January–4 February 2019](2019-02-04-Promocijaplus.html) | Promocija plus <br> HRT | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [1 February 2019](2019-02-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |
-| [1–18 January 2019](2019-01-18-IPSOSPULS.html) | IPSOS PULS <br> Nova TV |  |  |  |  |  |
+| [1 February 2019](2019-02-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 2 | 2 | 2 | 2 | 1–2 |
+| [1–18 January 2019](2019-01-18-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 2 | 2 | 2 | 2 | 1–2 |
 | [2–7 January 2019](2019-01-07-Promocijaplus.html) | Promocija plus <br> HRT | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [27 December 2018](2018-12-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |
+| [27 December 2018](2018-12-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1 | 1 | 1 | 1 | 1–2 |
 | [1–20 December 2018](2018-12-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–13 December 2018](2018-12-13-Ninamedia.html) | Ninamedia | 1 | 1 | 1 | 0–1 | 0–1 |
 | [8 December 2018](2018-12-08-Promocijaplus.html) | Promocija plus <br> HRT | 1 | 1 | 1 | 1 | 1 |
-| [23 November 2018](2018-11-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |
+| [23 November 2018](2018-11-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [1–20 November 2018](2018-11-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8 November 2018](2018-11-08-Promocijaplus.html) | Promocija plus <br> HRT | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27 October 2018](2018-10-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
