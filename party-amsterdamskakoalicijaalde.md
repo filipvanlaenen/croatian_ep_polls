@@ -10,18 +10,22 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.7% | 7.0–10.4% | 6.6–10.8% | 6.3–11.2% | 5.8–11.9% |
-| [18–27 February 2019](2019-02-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 9.3% | 8.1–10.6% | 7.8–11.0% | 7.5–11.3% | 7.0–12.0% |
-| [1–20 February 2019](2019-02-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 7.5% | 6.5–8.7% | 6.2–9.0% | 5.9–9.3% | 5.5–10.0% |
+| N/A | [Poll Average](average.html) | 10.3% | 5.6–15.0% | 5.2–15.6% | 4.9–16.1% | 4.5–16.9% |
+| [23 March 2019](2019-03-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 14.4% | 13.1–15.9% | 12.7–16.3% | 12.4–16.7% | 11.8–17.4% |
+| [1–20 March 2019](2019-03-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.6% | 4.2–8.1% |
+| [13–18 March 2019](2019-03-18-Promocijaplus.html) | Promocija plus <br> HRT | 10.3% | 9.3–11.4% | 9.0–11.7% | 8.8–12.0% | 8.4–12.5% |
+| [6 March 2019](2019-03-06-Promocijaplus.html) | Promocija plus <br> HRT | 8.2% | 7.3–9.3% | 7.1–9.6% | 6.9–9.9% | 6.4–10.4% |
+| [18–27 February 2019](2019-02-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 14.1% | 12.8–15.6% | 12.5–16.0% | 12.1–16.4% | 11.5–17.1% |
+| [1–20 February 2019](2019-02-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
 | [31 January–4 February 2019](2019-02-04-Promocijaplus.html) | Promocija plus <br> HRT | 9.7% | 8.7–11.0% | 8.4–11.3% | 8.2–11.6% | 7.7–12.2% |
-| [2 February 2019](2019-02-02-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 9.3% | 8.2–10.7% | 7.8–11.1% | 7.6–11.4% | 7.1–12.1% |
-| [1–20 January 2019](2019-01-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 8.1% | 7.1–9.3% | 6.8–9.6% | 6.5–10.0% | 6.1–10.6% |
+| [1 February 2019](2019-02-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 14.0% | N/A | N/A | N/A | N/A |
+| [1–18 January 2019](2019-01-18-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 12.5% | N/A | N/A | N/A | N/A |
 | [2–7 January 2019](2019-01-07-Promocijaplus.html) | Promocija plus <br> HRT | 6.3% | 5.5–7.3% | 5.2–7.6% | 5.0–7.9% | 4.6–8.4% |
-| [27 December 2018](2018-12-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 7.1% | 6.1–8.4% | 5.8–8.7% | 5.6–9.0% | 5.1–9.7% |
+| [27 December 2018](2018-12-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 10.6% | N/A | N/A | N/A | N/A |
 | [1–20 December 2018](2018-12-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 6.9% | 5.8–8.3% | 5.5–8.7% | 5.2–9.0% | 4.7–9.7% |
 | [7–13 December 2018](2018-12-13-Ninamedia.html) | Ninamedia | 7.9% | 6.8–9.4% | 6.4–9.8% | 6.1–10.2% | 5.6–10.9% |
 | [8 December 2018](2018-12-08-Promocijaplus.html) | Promocija plus <br> HRT | 7.5% | 6.6–8.6% | 6.3–8.9% | 6.1–9.2% | 5.7–9.7% |
-| [23 November 2018](2018-11-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 6.6% | 5.7–7.8% | 5.4–8.2% | 5.2–8.5% | 4.7–9.1% |
+| [23 November 2018](2018-11-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 13.1% | N/A | N/A | N/A | N/A |
 | [1–20 November 2018](2018-11-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 5.7% | 4.7–7.0% | 4.5–7.4% | 4.2–7.7% | 3.8–8.4% |
 | [8 November 2018](2018-11-08-Promocijaplus.html) | Promocija plus <br> HRT | 5.9% | 5.1–7.0% | 4.9–7.2% | 4.7–7.5% | 4.3–8.0% |
 | [27 October 2018](2018-10-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 6.0% | 5.1–7.2% | 4.8–7.5% | 4.6–7.8% | 4.2–8.4% |
@@ -66,17 +70,22 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.2% | 100% |  |
-| 5.5–6.5% | 4% | 99.8% |  |
-| 6.5–7.5% | 17% | 95% |  |
-| 7.5–8.5% | 25% | 79% |  |
-| 8.5–9.5% | 26% | 54% | Median |
-| 9.5–10.5% | 20% | 28% |  |
-| 10.5–11.5% | 7% | 8% |  |
-| 11.5–12.5% | 1.0% | 1.1% |  |
-| 12.5–13.5% | 0.1% | 0.1% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 3.5–4.5% | 0.7% | 100% |  |
+| 4.5–5.5% | 9% | 99.3% |  |
+| 5.5–6.5% | 16% | 90% |  |
+| 6.5–7.5% | 7% | 74% |  |
+| 7.5–8.5% | 1.2% | 68% |  |
+| 8.5–9.5% | 5% | 66% |  |
+| 9.5–10.5% | 15% | 61% | Median |
+| 10.5–11.5% | 11% | 46% |  |
+| 11.5–12.5% | 3% | 36% |  |
+| 12.5–13.5% | 6% | 32% |  |
+| 13.5–14.5% | 11% | 27% |  |
+| 14.5–15.5% | 10% | 15% |  |
+| 15.5–16.5% | 4% | 5% |  |
+| 16.5–17.5% | 0.9% | 1.1% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -87,18 +96,22 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–2 |
-| [18–27 February 2019](2019-02-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1 | 1 | 1 | 1 | 1–2 |
-| [1–20 February 2019](2019-02-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 1 | 1 | 1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [23 March 2019](2019-03-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 2 | 2 | 2 | 2 | 1–2 |
+| [1–20 March 2019](2019-03-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 0 | 0 | 0 | 0–1 | 0–1 |
+| [13–18 March 2019](2019-03-18-Promocijaplus.html) | Promocija plus <br> HRT | 1 | 1 | 1 | 1 | 1–2 |
+| [6 March 2019](2019-03-06-Promocijaplus.html) | Promocija plus <br> HRT | 1 | 1 | 1 | 1 | 1 |
+| [18–27 February 2019](2019-02-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 2 | 2 | 2 | 2 | 1–2 |
+| [1–20 February 2019](2019-02-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV |  |  |  |  |  |
 | [31 January–4 February 2019](2019-02-04-Promocijaplus.html) | Promocija plus <br> HRT | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [2 February 2019](2019-02-02-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1 | 1 | 1 | 1 | 1 |
-| [1–20 January 2019](2019-01-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 1 | 1 | 1 | 1 | 1 |
+| [1 February 2019](2019-02-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |
+| [1–18 January 2019](2019-01-18-IPSOSPULS.html) | IPSOS PULS <br> Nova TV |  |  |  |  |  |
 | [2–7 January 2019](2019-01-07-Promocijaplus.html) | Promocija plus <br> HRT | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [27 December 2018](2018-12-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [27 December 2018](2018-12-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |
 | [1–20 December 2018](2018-12-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–13 December 2018](2018-12-13-Ninamedia.html) | Ninamedia | 1 | 1 | 1 | 0–1 | 0–1 |
 | [8 December 2018](2018-12-08-Promocijaplus.html) | Promocija plus <br> HRT | 1 | 1 | 1 | 1 | 1 |
-| [23 November 2018](2018-11-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1 | 1 | 1 | 1 | 1 |
+| [23 November 2018](2018-11-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |
 | [1–20 November 2018](2018-11-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8 November 2018](2018-11-08-Promocijaplus.html) | Promocija plus <br> HRT | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27 October 2018](2018-10-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -141,9 +154,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% | Last Result |
-| 1 | 97% | 98% | Median |
-| 2 | 2% | 2% |  |
+| 0 | 32% | 100% | Last Result |
+| 1 | 34% | 68% | Median |
+| 2 | 34% | 34% |  |
 | 3 | 0% | 0% |  |
 
 
