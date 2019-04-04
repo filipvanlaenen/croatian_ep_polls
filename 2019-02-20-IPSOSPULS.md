@@ -28,13 +28,13 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 5 | 4–5 |4–5 |4–5 |4–5 |
-| <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 2 | 2 |2 |2 |2–3 |
-| <a href="#živi-zid-(efdd)">Živi zid (EFDD)</a> | 0 | 1 | 1 |1 |1 |1 |
-| <a href="#amsterdamska-koalicija-(alde)">Amsterdamska koalicija (ALDE)</a> | 0 | 1 | 1 |1 |1 |1 |
-| <a href="#bandić-milan-365–stranka-rada-i-solidarnosti-(*)">Bandić Milan 365–Stranka rada i solidarnosti (*)</a> | 0 | 1 | 1 |1 |0–1 |0–1 |
-| <a href="#most-nezavisnih-lista-(*)">Most nezavisnih lista (*)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#stranka-antikorupcije,-razvoja-i-transparentnosti-(*)">Stranka antikorupcije, razvoja i transparentnosti (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 5 | 4–5 |4–5 |4–6 |4–6 |
+| <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 2 | 2–3 |2–3 |2–3 |2–3 |
+| <a href="#živi-zid-(efdd)">Živi zid (EFDD)</a> | 0 | 1 | 1 |1 |1 |1–2 |
+| <a href="#amsterdamska-koalicija-(alde)">Amsterdamska koalicija (ALDE)</a> | 0 | 1 | 1 |1 |1 |0–1 |
+| <a href="#bandić-milan-365–stranka-rada-i-solidarnosti-(*)">Bandić Milan 365–Stranka rada i solidarnosti (*)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#most-nezavisnih-lista-(*)">Most nezavisnih lista (*)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#stranka-antikorupcije,-razvoja-i-transparentnosti-(*)">Stranka antikorupcije, razvoja i transparentnosti (*)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 
 ### Hrvatska demokratska zajednica (EPP)
 
@@ -44,9 +44,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 14% | 100% | Last Result |
-| 5 | 86% | 86% | Median |
-| 6 | 0% | 0% | Majority |
+| 4 | 13% | 100% | Last Result |
+| 5 | 84% | 87% | Median |
+| 6 | 3% | 3% | Majority |
+| 7 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
 
@@ -56,8 +57,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 99.2% | 100% | Last Result, Median |
-| 3 | 0.8% | 0.8% |  |
+| 2 | 77% | 100% | Last Result, Median |
+| 3 | 23% | 23% |  |
 | 4 | 0% | 0% |  |
 
 ### Živi zid (EFDD)
@@ -69,7 +70,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 100% | 100% | Median |
+| 1 | 98% | 100% | Median |
+| 2 | 2% | 2% |  |
+| 3 | 0% | 0% |  |
 
 ### Amsterdamska koalicija (ALDE)
 
@@ -79,8 +82,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 100% | 100% | Median |
+| 0 | 0.7% | 100% | Last Result |
+| 1 | 99.3% | 99.3% | Median |
+| 2 | 0% | 0% |  |
 
 ### Bandić Milan 365–Stranka rada i solidarnosti (*)
 
@@ -90,8 +94,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 97% | 97% | Median |
+| 0 | 74% | 100% | Last Result, Median |
+| 1 | 26% | 26% |  |
 | 2 | 0% | 0% |  |
 
 ### Most nezavisnih lista (*)
@@ -102,8 +106,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
+| 0 | 77% | 100% | Last Result, Median |
+| 1 | 23% | 23% |  |
 | 2 | 0% | 0% |  |
 
 ### Stranka antikorupcije, razvoja i transparentnosti (*)
@@ -114,7 +118,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.1% | 100% | Last Result, Median |
+| 1 | 0.9% | 0.9% |  |
+| 2 | 0% | 0% |  |
 
 
 ## Coalitions
@@ -125,9 +131,9 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Hrvatska demokratska zajednica (EPP) | 4 | 5 | 0% | 4–5 | 4–5 | 4–5 | 4–5 |
-| Socijaldemokratska partija Hrvatske (S&D) | 2 | 2 | 0% | 2 | 2 | 2 | 2–3 |
-| Živi zid (EFDD) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
+| Hrvatska demokratska zajednica (EPP) | 4 | 5 | 3% | 4–5 | 4–5 | 4–6 | 4–6 |
+| Socijaldemokratska partija Hrvatske (S&D) | 2 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
+| Živi zid (EFDD) | 0 | 1 | 0% | 1 | 1 | 1 | 1–2 |
 
 ### Hrvatska demokratska zajednica (EPP)
 
@@ -135,9 +141,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 14% | 100% | Last Result |
-| 5 | 86% | 86% | Median |
-| 6 | 0% | 0% | Majority |
+| 4 | 13% | 100% | Last Result |
+| 5 | 84% | 87% | Median |
+| 6 | 3% | 3% | Majority |
+| 7 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
 
@@ -145,8 +152,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 99.2% | 100% | Last Result, Median |
-| 3 | 0.8% | 0.8% |  |
+| 2 | 77% | 100% | Last Result, Median |
+| 3 | 23% | 23% |  |
 | 4 | 0% | 0% |  |
 
 ### Živi zid (EFDD)
@@ -156,7 +163,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 100% | 100% | Median |
+| 1 | 98% | 100% | Median |
+| 2 | 2% | 2% |  |
+| 3 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -170,6 +179,6 @@
 ### Calculations
 
 + **Sample size:** 991
-+ **Simulations done:** 1,024
-+ **Error estimate:** 1.52%
++ **Simulations done:** 131,072
++ **Error estimate:** 2.39%
 
