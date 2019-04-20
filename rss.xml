@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 19 Apr 2019 14:14:25 +0200</pubDate>
+    <pubDate>Sat, 20 Apr 2019 12:42:18 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Promocija plus for RTL, 1–5 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2019-04-05-Promocijaplus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 31.1–36.2%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 18.5–22.9%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (*): 6.2–9.1%&lt;/li&gt;&lt;li&gt;Živi zid (EFDD): 8.8–12.2%&lt;/li&gt;&lt;li&gt;Stranka antikorupcije, razvoja i transparentnosti (*): 3.9–6.3%&lt;/li&gt;&lt;li&gt;Neovisni za Hrvatsku (*): 4.5–7.0%&lt;/li&gt;&lt;li&gt;Amsterdamska koalicija (ALDE): 8.7–12.0%&lt;/li&gt;&lt;li&gt;Hrvatska konzervativna stranka (ECR): 3.9–6.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2019-04-05-Promocijaplus.png"
+        length="217365"
+        type="image/png"/>
+      <pubDate>Sat, 20 Apr 2019 12:42:18 +0200</pubDate>
+      <dc:date>2019-04-20T12:42:18.448+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by 2x1 Komunikacije for CroElecto, 23 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2019-03-23-2x1Komunikacije.html</link>
@@ -39,6 +49,6 @@
       <pubDate>Fri, 19 Apr 2019 14:14:25 +0200</pubDate>
       <dc:date>2019-04-19T14:14:25.321112+02:00</dc:date>
     </item>
-    <dc:date>2019-04-19T14:14:25.321112+02:00</dc:date>
+    <dc:date>2019-04-20T12:42:18.448+02:00</dc:date>
   </channel>
 </rss>
