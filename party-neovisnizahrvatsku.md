@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.3% | 5.4–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
-| [1–5 April 2019](2019-04-05-Promocijaplus.html) | Promocija plus <br> RTL | 5.6% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 6.0% | 5.1–7.0% | 4.8–7.4% | 4.6–7.6% | 4.3–8.2% |
+| [1–5 April 2019](2019-04-05-Promocijaplus.html) | Promocija plus <br> RTL | 5.6% | 4.9–6.5% | 4.7–6.8% | 4.5–7.0% | 4.2–7.5% |
 | [23 March 2019](2019-03-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 6.2% | 5.4–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
 | [1–20 March 2019](2019-03-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
 | [13–18 March 2019](2019-03-18-Promocijaplus.html) | Promocija plus <br> HRT | 0.0% | N/A | N/A | N/A | N/A |
@@ -71,12 +71,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.5% | 100% |  |
-| 4.5–5.5% | 14% | 99.5% |  |
-| 5.5–6.5% | 48% | 85% | Median |
-| 6.5–7.5% | 31% | 37% |  |
-| 7.5–8.5% | 6% | 6% |  |
-| 8.5–9.5% | 0.3% | 0.3% |  |
+| 3.5–4.5% | 2% | 100% |  |
+| 4.5–5.5% | 27% | 98% |  |
+| 5.5–6.5% | 48% | 71% | Median |
+| 6.5–7.5% | 20% | 23% |  |
+| 7.5–8.5% | 3% | 3% |  |
+| 8.5–9.5% | 0.2% | 0.2% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -89,7 +89,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–5 April 2019](2019-04-05-Promocijaplus.html) | Promocija plus <br> RTL |  |  |  |  |  |
+| [1–5 April 2019](2019-04-05-Promocijaplus.html) | Promocija plus <br> RTL | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23 March 2019](2019-03-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–20 March 2019](2019-03-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV |  |  |  |  |  |
 | [13–18 March 2019](2019-03-18-Promocijaplus.html) | Promocija plus <br> HRT |  |  |  |  |  |
@@ -147,8 +147,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 66% | 100% | Last Result, Median |
-| 1 | 34% | 34% |  |
+| 0 | 74% | 100% | Last Result, Median |
+| 1 | 26% | 26% |  |
 | 2 | 0% | 0% |  |
 
 
