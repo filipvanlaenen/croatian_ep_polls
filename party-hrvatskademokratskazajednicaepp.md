@@ -11,7 +11,7 @@ Last result: **41.4%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 31.2% | 25.9–34.4% | 25.2–35.0% | 24.7–35.6% | 23.7–36.5% |
-| [12–18 April 2019](2019-04-18-Promocijaplus.html) | Promocija plus <br> RTL | 34.2% | N/A | N/A | N/A | N/A |
+| [12–18 April 2019](2019-04-18-Promocijaplus.html) | Promocija plus <br> RTL | 34.2% | 32.6–35.9% | 32.2–36.3% | 31.8–36.7% | 31.0–37.5% |
 | [1–5 April 2019](2019-04-05-Promocijaplus.html) | Promocija plus <br> RTL | 33.6% | 32.0–35.3% | 31.5–35.8% | 31.1–36.2% | 30.3–37.1% |
 | [23 March 2019](2019-03-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 26.6% | 24.9–28.4% | 24.4–28.9% | 24.0–29.4% | 23.2–30.3% |
 | [1–20 March 2019](2019-03-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 31.3% | 29.5–33.3% | 29.0–33.8% | 28.5–34.3% | 27.6–35.3% |
@@ -99,7 +99,7 @@ Last result: **4** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [12–18 April 2019](2019-04-18-Promocijaplus.html) | Promocija plus <br> RTL |  |  |  |  |  |
+| [12–18 April 2019](2019-04-18-Promocijaplus.html) | Promocija plus <br> RTL | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [1–5 April 2019](2019-04-05-Promocijaplus.html) | Promocija plus <br> RTL | 5 | 5 | 4–5 | 4–5 | 4–5 |
 | [23 March 2019](2019-03-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1–20 March 2019](2019-03-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
