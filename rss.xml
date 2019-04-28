@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 21 Apr 2019 20:57:07 +0200</pubDate>
+    <pubDate>Sun, 28 Apr 2019 11:54:36 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Promocija plus for RTL, 12–18 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2019-04-18-Promocijaplus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 31.8–36.7%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 20.0–24.3%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (*): 7.5–10.5%&lt;/li&gt;&lt;li&gt;Živi zid (EFDD): 8.5–11.6%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (ALDE): 2.5–4.4%&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 2.5–4.4%&lt;/li&gt;&lt;li&gt;Pametno (ALDE): 1.6–3.1%&lt;/li&gt;&lt;li&gt;Stranka antikorupcije, razvoja i transparentnosti (*): 3.5–5.6%&lt;/li&gt;&lt;li&gt;Neovisni za Hrvatsku (*): 3.5–5.6%&lt;/li&gt;&lt;li&gt;Amsterdamska koalicija (ALDE): 4.4–6.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2019-04-18-Promocijaplus.png"
+        length="252947"
+        type="image/png"/>
+      <pubDate>Sun, 28 Apr 2019 11:54:36 +0200</pubDate>
+      <dc:date>2019-04-28T11:54:36.039473+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Promocija plus for RTL, 1–5 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2019-04-05-Promocijaplus.html</link>
@@ -49,6 +59,6 @@
       <pubDate>Fri, 19 Apr 2019 14:14:25 +0200</pubDate>
       <dc:date>2019-04-19T14:14:25.321112+02:00</dc:date>
     </item>
-    <dc:date>2019-04-21T20:57:07.87946+02:00</dc:date>
+    <dc:date>2019-04-28T11:54:36.039473+02:00</dc:date>
   </channel>
 </rss>
