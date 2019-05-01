@@ -72,7 +72,7 @@ Only polls for which at least the sample size has been published are included in
 + **BM 365:** Bandić Milan 365–Stranka rada i solidarnosti (*)
 + **Most:** Most nezavisnih lista (*)
 + **AK:** Amsterdamska koalicija (ALDE)
-+ **NHR:** Neovisni za Hrvatsku (*)
++ **NHR:** Neovisni za Hrvatsku (EAPN)
 + **START:** Stranka antikorupcije, razvoja i transparentnosti (*)
 + **HKS:** Hrvatska konzervativna stranka (ECR)
 + **N/A (single party):** Party not included the published results
