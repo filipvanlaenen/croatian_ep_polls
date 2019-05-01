@@ -44,9 +44,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.2% | 100% |  |
-| 4 | 67% | 99.8% | Last Result, Median |
-| 5 | 33% | 33% |  |
+| 3 | 0.1% | 100% |  |
+| 4 | 68% | 99.9% | Last Result, Median |
+| 5 | 32% | 32% |  |
 | 6 | 0% | 0% | Majority |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -70,8 +70,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.3% | 100% | Median |
-| 2 | 0.7% | 0.7% |  |
+| 1 | 99.4% | 100% | Median |
+| 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
 
 ### Most nezavisnih lista (*)
@@ -82,8 +82,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 44% | 100% | Last Result |
-| 1 | 56% | 56% | Median |
+| 0 | 43% | 100% | Last Result |
+| 1 | 57% | 57% | Median |
 | 2 | 0% | 0% |  |
 
 ### Amsterdamska koalicija (ALDE)
@@ -94,8 +94,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 74% | 100% | Last Result, Median |
-| 1 | 26% | 26% |  |
+| 0 | 75% | 100% | Last Result, Median |
+| 1 | 25% | 25% |  |
 | 2 | 0% | 0% |  |
 
 ### Stranka antikorupcije, razvoja i transparentnosti (*)
@@ -134,6 +134,7 @@
 | Hrvatska demokratska zajednica (EPP) | 4 | 4 | 0% | 4–5 | 4–5 | 4–5 | 4–5 |
 | Socijaldemokratska partija Hrvatske (S&D) | 2 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
 | Živi zid (EFDD) | 0 | 1 | 0% | 1 | 1 | 1 | 1–2 |
+| Most nezavisnih lista (*) – Stranka antikorupcije, razvoja i transparentnosti (*) – Bandić Milan 365–Stranka rada i solidarnosti (*) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Hrvatska demokratska zajednica (EPP)
 
@@ -141,9 +142,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.2% | 100% |  |
-| 4 | 67% | 99.8% | Last Result, Median |
-| 5 | 33% | 33% |  |
+| 3 | 0.1% | 100% |  |
+| 4 | 68% | 99.9% | Last Result, Median |
+| 5 | 32% | 32% |  |
 | 6 | 0% | 0% | Majority |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -163,8 +164,19 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.3% | 100% | Median |
-| 2 | 0.7% | 0.7% |  |
+| 1 | 99.4% | 100% | Median |
+| 2 | 0.6% | 0.6% |  |
+| 3 | 0% | 0% |  |
+
+### Most nezavisnih lista (*) – Stranka antikorupcije, razvoja i transparentnosti (*) – Bandić Milan 365–Stranka rada i solidarnosti (*)
+
+![Graph with seats probability mass function not yet produced](2019-03-20-IPSOSPULS-coalitions-seats-pmf-most–start–bm365.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 43% | 100% | Last Result |
+| 1 | 57% | 57% | Median |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -179,6 +191,6 @@
 ### Calculations
 
 + **Sample size:** 983
-+ **Simulations done:** 524,288
-+ **Error estimate:** 1.31%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.46%
 
