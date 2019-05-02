@@ -316,7 +316,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 24% | 100% |  |
 | 4 | 35% | 76% | Last Result, Median |
 | 5 | 41% | 41% |  |
-| 6 | 0.1% | 0.1% | Majority |
+| 6 | 0.2% | 0.2% | Majority |
 | 7 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -363,8 +363,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% | Last Result |
-| 1 | 84% | 84% | Median |
+| 0 | 15% | 100% | Last Result |
+| 1 | 85% | 85% | Median |
 | 2 | 0% | 0% |  |
 
 ### Stranka antikorupcije, razvoja i transparentnosti (*)
@@ -387,8 +387,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 81% | 100% | Last Result, Median |
-| 1 | 19% | 19% |  |
+| 0 | 82% | 100% | Last Result, Median |
+| 1 | 18% | 18% |  |
 | 2 | 0% | 0% |  |
 
 ### Amsterdamska koalicija (ALDE)
@@ -437,12 +437,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Hrvatska demokratska zajednica (EPP) | 4 | 4 | 0.1% | 3–5 | 3–5 | 3–5 | 3–5 |
+| Hrvatska demokratska zajednica (EPP) | 4 | 4 | 0.2% | 3–5 | 3–5 | 3–5 | 3–5 |
 | Socijaldemokratska partija Hrvatske (S&D) | 2 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
-| Bandić Milan 365–Stranka rada i solidarnosti (*) – Most nezavisnih lista (*) – Neovisni za Hrvatsku (EAPN) – Stranka antikorupcije, razvoja i transparentnosti (*) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 0–2 |
 | Hrvatska narodna stranka–liberalni demokrati (ALDE) – Amsterdamska koalicija (ALDE) – Pametno (ALDE) | 1 | 1 | 0% | 0–2 | 0–2 | 0–2 | 0–2 |
 | Živi zid (EFDD) | 0 | 1 | 0% | 1 | 1 | 1 | 1–2 |
-| Bandić Milan 365–Stranka rada i solidarnosti (*) – Most nezavisnih lista (*) – Stranka antikorupcije, razvoja i transparentnosti (*) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| Bandić Milan 365–Stranka rada i solidarnosti (*) – Most nezavisnih lista (*) – Stranka antikorupcije, razvoja i transparentnosti (*) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–2 |
 | Neovisni za Hrvatsku (EAPN) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska konzervativna stranka (ECR) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
 
@@ -455,7 +454,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 24% | 100% |  |
 | 4 | 35% | 76% | Last Result, Median |
 | 5 | 41% | 41% |  |
-| 6 | 0.1% | 0.1% | Majority |
+| 6 | 0.2% | 0.2% | Majority |
 | 7 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -467,17 +466,6 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 21% | 100% | Last Result |
 | 3 | 79% | 79% | Median |
 | 4 | 0% | 0% |  |
-
-### Bandić Milan 365–Stranka rada i solidarnosti (*) – Most nezavisnih lista (*) – Neovisni za Hrvatsku (EAPN) – Stranka antikorupcije, razvoja i transparentnosti (*)
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-bm365–most–nhr–start.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.6% | 100% | Last Result |
-| 1 | 88% | 99.4% | Median |
-| 2 | 12% | 12% |  |
-| 3 | 0% | 0% |  |
 
 ### Hrvatska narodna stranka–liberalni demokrati (ALDE) – Amsterdamska koalicija (ALDE) – Pametno (ALDE)
 
@@ -507,9 +495,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 22% | 100% | Last Result |
-| 1 | 78% | 78% | Median |
-| 2 | 0.1% | 0.1% |  |
+| 0 | 15% | 100% | Last Result |
+| 1 | 84% | 85% | Median |
+| 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
 
 ### Neovisni za Hrvatsku (EAPN)
@@ -536,6 +524,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 2,621,440
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
 + **Error estimate:** 1.65%
