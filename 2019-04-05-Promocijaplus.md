@@ -15,7 +15,7 @@
 | Živi zid (EFDD) | 0.5% | 10.4% | 9.4–11.6% |9.1–11.9% |8.8–12.2% |8.4–12.7% |
 | Amsterdamska koalicija (ALDE) | 0.0% | 10.2% | 9.2–11.4% |8.9–11.7% |8.7–12.0% |8.2–12.6% |
 | Most nezavisnih lista (*) | 0.0% | 7.5% | 6.7–8.6% |6.4–8.9% |6.2–9.1% |5.8–9.6% |
-| Neovisni za Hrvatsku (*) | 0.0% | 5.6% | 4.9–6.5% |4.7–6.8% |4.5–7.0% |4.2–7.5% |
+| Neovisni za Hrvatsku (EAPN) | 0.0% | 5.6% | 4.9–6.5% |4.7–6.8% |4.5–7.0% |4.2–7.5% |
 | Stranka antikorupcije, razvoja i transparentnosti (*) | 0.0% | 5.0% | 4.3–5.9% |4.1–6.1% |3.9–6.3% |3.6–6.8% |
 | Hrvatska konzervativna stranka (ECR) | 0.0% | 5.0% | 4.3–5.9% |4.1–6.1% |3.9–6.3% |3.6–6.8% |
 
@@ -34,7 +34,7 @@
 | <a href="#živi-zid-(efdd)">Živi zid (EFDD)</a> | 0 | 1 | 1 |1 |1 |1–2 |
 | <a href="#amsterdamska-koalicija-(alde)">Amsterdamska koalicija (ALDE)</a> | 0 | 1 | 1 |1 |1 |1 |
 | <a href="#most-nezavisnih-lista-(*)">Most nezavisnih lista (*)</a> | 0 | 1 | 1 |1 |0–1 |0–1 |
-| <a href="#neovisni-za-hrvatsku-(*)">Neovisni za Hrvatsku (*)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#neovisni-za-hrvatsku-(eapn)">Neovisni za Hrvatsku (EAPN)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#stranka-antikorupcije,-razvoja-i-transparentnosti-(*)">Stranka antikorupcije, razvoja i transparentnosti (*)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 | <a href="#hrvatska-konzervativna-stranka-(ecr)">Hrvatska konzervativna stranka (ECR)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 
@@ -48,7 +48,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 9% | 100% | Last Result |
 | 5 | 91% | 91% | Median |
-| 6 | 0.3% | 0.3% | Majority |
+| 6 | 0.4% | 0.4% | Majority |
 | 7 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -59,8 +59,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 6% | 100% | Last Result |
-| 3 | 94% | 94% | Median |
+| 2 | 5% | 100% | Last Result |
+| 3 | 95% | 95% | Median |
 | 4 | 0% | 0% |  |
 
 ### Živi zid (EFDD)
@@ -72,8 +72,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.3% | 100% | Median |
-| 2 | 0.7% | 0.7% |  |
+| 1 | 99.4% | 100% | Median |
+| 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
 
 ### Amsterdamska koalicija (ALDE)
@@ -85,8 +85,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.5% | 100% | Median |
-| 2 | 0.5% | 0.5% |  |
+| 1 | 99.6% | 100% | Median |
+| 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
 ### Most nezavisnih lista (*)
@@ -101,16 +101,16 @@
 | 1 | 97% | 97% | Median |
 | 2 | 0% | 0% |  |
 
-### Neovisni za Hrvatsku (*)
+### Neovisni za Hrvatsku (EAPN)
 
-*For a full overview of the results for this party, see the [Neovisni za Hrvatsku (*)](party-neovisnizahrvatsku.html) page.*
+*For a full overview of the results for this party, see the [Neovisni za Hrvatsku (EAPN)](party-neovisnizahrvatskueapn.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-04-05-Promocijaplus-seats-pmf-neovisnizahrvatsku.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-05-Promocijaplus-seats-pmf-neovisnizahrvatskueapn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 88% | 100% | Last Result, Median |
-| 1 | 12% | 12% |  |
+| 0 | 89% | 100% | Last Result, Median |
+| 1 | 11% | 11% |  |
 | 2 | 0% | 0% |  |
 
 ### Stranka antikorupcije, razvoja i transparentnosti (*)
@@ -146,9 +146,10 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Hrvatska demokratska zajednica (EPP) | 4 | 5 | 0.3% | 5 | 4–5 | 4–5 | 4–5 |
+| Hrvatska demokratska zajednica (EPP) | 4 | 5 | 0.4% | 5 | 4–5 | 4–5 | 4–5 |
 | Socijaldemokratska partija Hrvatske (S&D) | 2 | 3 | 0% | 3 | 2–3 | 2–3 | 2–3 |
 | Živi zid (EFDD) | 0 | 1 | 0% | 1 | 1 | 1 | 1–2 |
+| Neovisni za Hrvatsku (EAPN) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska konzervativna stranka (ECR) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
 
 ### Hrvatska demokratska zajednica (EPP)
@@ -159,7 +160,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 9% | 100% | Last Result |
 | 5 | 91% | 91% | Median |
-| 6 | 0.3% | 0.3% | Majority |
+| 6 | 0.4% | 0.4% | Majority |
 | 7 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -168,8 +169,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 6% | 100% | Last Result |
-| 3 | 94% | 94% | Median |
+| 2 | 5% | 100% | Last Result |
+| 3 | 95% | 95% | Median |
 | 4 | 0% | 0% |  |
 
 ### Živi zid (EFDD)
@@ -179,9 +180,19 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.3% | 100% | Median |
-| 2 | 0.7% | 0.7% |  |
+| 1 | 99.4% | 100% | Median |
+| 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
+
+### Neovisni za Hrvatsku (EAPN)
+
+![Graph with seats probability mass function not yet produced](2019-04-05-Promocijaplus-coalitions-seats-pmf-nhr.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 89% | 100% | Last Result, Median |
+| 1 | 11% | 11% |  |
+| 2 | 0% | 0% |  |
 
 ### Hrvatska konzervativna stranka (ECR)
 
@@ -205,6 +216,6 @@
 ### Calculations
 
 + **Sample size:** 1300
-+ **Simulations done:** 524,288
-+ **Error estimate:** 0.94%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.01%
 
