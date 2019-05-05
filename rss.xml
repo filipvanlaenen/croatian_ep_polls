@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 02 May 2019 20:01:39 +0200</pubDate>
+    <pubDate>Sun, 05 May 2019 16:45:35 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by 2x1 Komunikacije for CroElecto, 30 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2019-04-30-2x1Komunikacije.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 27.2–32.7%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 22.9–28.2%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (*): 6.3–9.6%&lt;/li&gt;&lt;li&gt;Živi zid (EFDD): 10.3–14.3%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (ALDE): 0.7–2.0%&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 0.7–2.0%&lt;/li&gt;&lt;li&gt;Pametno (ALDE): 1.5–3.3%&lt;/li&gt;&lt;li&gt;Neovisni za Hrvatsku (EAPN): 5.3–8.3%&lt;/li&gt;&lt;li&gt;Amsterdamska koalicija (ALDE): 8.3–12.0%&lt;/li&gt;&lt;li&gt;Hrvatska konzervativna stranka (ECR): 1.0–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2019-04-30-2x1Komunikacije.png"
+        length="257213"
+        type="image/png"/>
+      <pubDate>Sun, 05 May 2019 16:45:35 +0200</pubDate>
+      <dc:date>2019-05-05T16:45:35.381303+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Promocija plus for RTL, 12–18 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2019-04-18-Promocijaplus.html#seats</link>
@@ -139,6 +149,6 @@
       <pubDate>Fri, 19 Apr 2019 14:14:25 +0200</pubDate>
       <dc:date>2019-04-19T14:14:25.321112+02:00</dc:date>
     </item>
-    <dc:date>2019-05-02T20:01:39.013866+02:00</dc:date>
+    <dc:date>2019-05-05T16:45:35.381303+02:00</dc:date>
   </channel>
 </rss>
