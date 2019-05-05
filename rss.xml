@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 05 May 2019 16:45:35 +0200</pubDate>
+    <pubDate>Sun, 05 May 2019 17:10:24 +0200</pubDate>
     <item>
       <title>Opinion Poll by 2x1 Komunikacije for CroElecto, 30 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2019-04-30-2x1Komunikacije.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2019-04-30-2x1Komunikacije.png"
         length="257213"
         type="image/png"/>
-      <pubDate>Sun, 05 May 2019 16:45:35 +0200</pubDate>
-      <dc:date>2019-05-05T16:45:35.381303+02:00</dc:date>
+      <pubDate>Sun, 05 May 2019 17:10:24 +0200</pubDate>
+      <dc:date>2019-05-05T17:10:24.245124+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Promocija plus for RTL, 12–18 April 2019 – Seat Projections for the Parties</title>
@@ -149,6 +149,6 @@
       <pubDate>Fri, 19 Apr 2019 14:14:25 +0200</pubDate>
       <dc:date>2019-04-19T14:14:25.321112+02:00</dc:date>
     </item>
-    <dc:date>2019-05-05T16:45:35.381303+02:00</dc:date>
+    <dc:date>2019-05-05T17:10:24.245124+02:00</dc:date>
   </channel>
 </rss>
