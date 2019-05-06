@@ -12,7 +12,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.3% | 3.6–5.2% | 3.3–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [30 April 2019](2019-04-30-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1.2% | 0.8–1.7% | 0.7–1.9% | 0.7–2.0% | 0.5–2.3% |
-| [15–25 April 2019](2019-04-25-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 3.9% | N/A | N/A | N/A | N/A |
+| [15–25 April 2019](2019-04-25-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 3.9% | 3.2–4.9% | 3.0–5.2% | 2.8–5.5% | 2.5–6.0% |
 | [12–18 April 2019](2019-04-18-Promocijaplus.html) | Promocija plus <br> RTL | 3.3% | 2.7–4.0% | 2.6–4.2% | 2.5–4.4% | 2.2–4.7% |
 | [1–5 April 2019](2019-04-05-Promocijaplus.html) | Promocija plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
 | [23 March 2019](2019-03-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0.0% | N/A | N/A | N/A | N/A |
@@ -91,7 +91,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [30 April 2019](2019-04-30-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
-| [15–25 April 2019](2019-04-25-IPSOSPULS.html) | IPSOS PULS <br> Nova TV |  |  |  |  |  |
+| [15–25 April 2019](2019-04-25-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 0 | 0 | 0 | 0 | 0 |
 | [12–18 April 2019](2019-04-18-Promocijaplus.html) | Promocija plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
 | [1–5 April 2019](2019-04-05-Promocijaplus.html) | Promocija plus <br> RTL |  |  |  |  |  |
 | [23 March 2019](2019-03-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |

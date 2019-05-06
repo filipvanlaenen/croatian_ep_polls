@@ -12,7 +12,7 @@ Last result: **29.9%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.6% | 18.9–22.2% | 18.5–22.7% | 18.1–23.1% | 17.3–23.9% |
 | [30 April 2019](2019-04-30-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.2% | 22.1–29.1% |
-| [15–25 April 2019](2019-04-25-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 22.0% | N/A | N/A | N/A | N/A |
+| [15–25 April 2019](2019-04-25-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 22.0% | 20.2–23.9% | 19.8–24.5% | 19.3–24.9% | 18.5–25.9% |
 | [12–18 April 2019](2019-04-18-Promocijaplus.html) | Promocija plus <br> RTL | 22.1% | 20.7–23.5% | 20.3–24.0% | 20.0–24.3% | 19.3–25.0% |
 | [1–5 April 2019](2019-04-05-Promocijaplus.html) | Promocija plus <br> RTL | 20.6% | 19.2–22.1% | 18.8–22.5% | 18.5–22.9% | 17.8–23.6% |
 | [23 March 2019](2019-03-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 20.8% | 19.3–22.5% | 18.9–23.0% | 18.5–23.4% | 17.8–24.2% |
@@ -96,8 +96,8 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [30 April 2019](2019-04-30-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3 | 3 | 3–4 | 3–4 | 3–4 |
-| [15–25 April 2019](2019-04-25-IPSOSPULS.html) | IPSOS PULS <br> Nova TV |  |  |  |  |  |
+| [30 April 2019](2019-04-30-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [15–25 April 2019](2019-04-25-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [12–18 April 2019](2019-04-18-Promocijaplus.html) | Promocija plus <br> RTL | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1–5 April 2019](2019-04-05-Promocijaplus.html) | Promocija plus <br> RTL | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [23 March 2019](2019-03-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
