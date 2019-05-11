@@ -5,10 +5,11 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | HDZ | HSS | SDP | HNS | IDS | Živi zid | P | BM 365 | Most | AK | NHR | START | HKS |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 25–35% <br> 3–6 | N/A <br> N/A | 18–23% <br> 2–3 | 2–4% <br> 0 | N/A <br> N/A | 9–13% <br> 1–2 | N/A <br> N/A | 3–6% <br> 0 | 6–10% <br> 0–1 | 5–16% <br> 0–2 | 5–8% <br> 0–1 | 3–6% <br> 0–1 | 1–4% <br> 0 |
-| [23 March 2019](2019-03-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 24–29% <br> 3–4 | N/A <br> N/A | 18–23% <br> 2–3 | 2–4% <br> 0 | N/A <br> N/A | 9–12% <br> 1 | N/A <br> N/A | N/A <br> N/A | 7–11% <br> 1 | 12–17% <br> 1–2 | 5–8% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 |
-| [1–20 March 2019](2019-03-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 29–34% <br> 4–5 | N/A <br> N/A | 18–23% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 1 | N/A <br> N/A | 3–6% <br> 0 | 5–8% <br> 0–1 | 5–8% <br> 0–1 | N/A <br> N/A | 3–6% <br> 0 | N/A <br> N/A |
-| [13–18 March 2019](2019-03-18-Promocijaplus.html) | Promocija plus <br> HRT | 31–36% <br> 5–6 | N/A <br> N/A | 18–22% <br> 3 | 2–4% <br> 0 | N/A <br> N/A | 10–13% <br> 1–2 | N/A <br> N/A | 3–6% <br> 0 | 6–9% <br> 1 | 9–12% <br> 1–2 | N/A <br> N/A | 4–6% <br> 0–1 | 3–5% <br> 0 |
+| N/A | [Poll Average](average.html) | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [30 April 2019](2019-04-30-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [22–27 April 2019](2019-04-27-Oraclum.html) | Oraclum | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [15–25 April 2019](2019-04-25-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [12–18 April 2019](2019-04-18-Promocijaplus.html) | Promocija plus <br> RTL | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 25 May 2014 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -26,7 +27,7 @@ Only polls for which at least the sample size has been published are included in
 + **BM 365:** Bandić Milan 365–Stranka rada i solidarnosti (*)
 + **Most:** Most nezavisnih lista (*)
 + **AK:** Amsterdamska koalicija (ALDE)
-+ **NHR:** Neovisni za Hrvatsku (*)
++ **NHR:** Neovisni za Hrvatsku (EAPN)
 + **START:** Stranka antikorupcije, razvoja i transparentnosti (*)
 + **HKS:** Hrvatska konzervativna stranka (ECR)
 + **N/A (single party):** Party not included the published results
