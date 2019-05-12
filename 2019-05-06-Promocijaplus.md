@@ -46,8 +46,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 68% | 100% | Median |
-| 4 | 32% | 32% | Last Result |
+| 3 | 64% | 100% | Median |
+| 4 | 36% | 36% | Last Result |
 | 5 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -58,9 +58,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.2% | 100% |  |
-| 2 | 99.4% | 99.8% | Last Result, Median |
-| 3 | 0.4% | 0.4% |  |
+| 1 | 0.3% | 100% |  |
+| 2 | 99.4% | 99.7% | Last Result, Median |
+| 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
 ### Živi zid (EFDD)
@@ -83,8 +83,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 22% | 100% | Last Result |
-| 1 | 78% | 78% | Median |
+| 0 | 23% | 100% | Last Result |
+| 1 | 77% | 77% | Median |
 | 2 | 0% | 0% |  |
 
 ### Most nezavisnih lista (*)
@@ -95,8 +95,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 93% | 100% | Last Result, Median |
-| 1 | 7% | 7% |  |
+| 0 | 92% | 100% | Last Result, Median |
+| 1 | 8% | 8% |  |
 | 2 | 0% | 0% |  |
 
 ### Neovisni za Hrvatsku (EAPN)
@@ -150,8 +150,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 68% | 100% | Median |
-| 4 | 32% | 32% | Last Result |
+| 3 | 64% | 100% | Median |
+| 4 | 36% | 36% | Last Result |
 | 5 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -160,9 +160,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.2% | 100% |  |
-| 2 | 99.4% | 99.8% | Last Result, Median |
-| 3 | 0.4% | 0.4% |  |
+| 1 | 0.3% | 100% |  |
+| 2 | 99.4% | 99.7% | Last Result, Median |
+| 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
 ### Živi zid (EFDD)
@@ -203,6 +203,6 @@
 ### Calculations
 
 + **Sample size:** 1300
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.69%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.23%
 
