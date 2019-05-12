@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 11 May 2019 12:03:36 +0200</pubDate>
+    <pubDate>Sun, 12 May 2019 10:46:06 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Promocija plus for RTL, 30 April–6 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2019-05-06-Promocijaplus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Živi zid (EFDD): 1 seats&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 0 seats&lt;/li&gt;&lt;li&gt;Neovisni za Hrvatsku (EAPN): 0 seats&lt;/li&gt;&lt;li&gt;Amsterdamska koalicija (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Hrvatska konzervativna stranka (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2019-05-06-Promocijaplus-seats.png"
+        length="177058"
+        type="image/png"/>
+      <pubDate>Sun, 12 May 2019 10:46:06 +0200</pubDate>
+      <dc:date>2019-05-12T10:46:06.338802+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Promocija plus for RTL, 30 April–6 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2019-05-06-Promocijaplus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2019-05-06-Promocijaplus-coalitions-seats.png"
+        length="136915"
+        type="image/png"/>
+      <pubDate>Sun, 12 May 2019 10:46:06 +0200</pubDate>
+      <dc:date>2019-05-12T10:46:06.338802+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Promocija plus for RTL, 30 April–6 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2019-05-06-Promocijaplus.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2019-05-06-Promocijaplus.png"
         length="233789"
         type="image/png"/>
-      <pubDate>Sat, 11 May 2019 12:03:36 +0200</pubDate>
-      <dc:date>2019-05-11T12:03:36.611176+02:00</dc:date>
+      <pubDate>Sun, 12 May 2019 10:46:06 +0200</pubDate>
+      <dc:date>2019-05-12T10:46:06.338802+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Promocija plus for RTL, 1–5 April 2019 – Seat Projections for the Parties</title>
@@ -119,6 +139,6 @@
       <pubDate>Fri, 19 Apr 2019 14:14:25 +0200</pubDate>
       <dc:date>2019-04-19T14:14:25.321112+02:00</dc:date>
     </item>
-    <dc:date>2019-05-11T12:03:36.611176+02:00</dc:date>
+    <dc:date>2019-05-12T10:46:06.338802+02:00</dc:date>
   </channel>
 </rss>
