@@ -29,7 +29,7 @@ Only polls for which at least the sample size has been published are included in
 + **Živi zid:** Živi zid (EFDD)
 + **P:** Pametno (ALDE)
 + **BM 365:** Bandić Milan 365–Stranka rada i solidarnosti (*)
-+ **Most:** Most nezavisnih lista (*)
++ **Most:** Most nezavisnih lista (ECR)
 + **AK:** Amsterdamska koalicija (ALDE)
 + **NHR:** Neovisni za Hrvatsku (EAPN)
 + **START:** Stranka antikorupcije, razvoja i transparentnosti (*)
@@ -53,7 +53,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#živi-zid-(efdd)">Živi zid (EFDD)</a> | 0.5% | 10.3% | 7.6–11.9% |7.2–12.3% | 6.9–12.7% | 6.4–13.4% |
 | <a href="#pametno-(alde)">Pametno (ALDE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#bandić-milan-365–stranka-rada-i-solidarnosti-(*)">Bandić Milan 365–Stranka rada i solidarnosti (*)</a> | 0.0% | 2.5% | 1.1–3.9% |1.0–4.3% | 0.8–4.7% | 0.6–5.3% |
-| <a href="#most-nezavisnih-lista-(*)">Most nezavisnih lista (*)</a> | 0.0% | 7.4% | 6.0–8.7% |5.6–9.1% | 5.4–9.4% | 5.0–10.0% |
+| <a href="#most-nezavisnih-lista-(ecr)">Most nezavisnih lista (ECR)</a> | 0.0% | 7.4% | 6.0–8.7% |5.6–9.1% | 5.4–9.4% | 5.0–10.0% |
 | <a href="#amsterdamska-koalicija-(alde)">Amsterdamska koalicija (ALDE)</a> | 0.0% | 7.9% | 3.1–9.6% |2.8–10.0% | 2.6–10.4% | 2.3–11.1% |
 | <a href="#neovisni-za-hrvatsku-(eapn)">Neovisni za Hrvatsku (EAPN)</a> | 0.0% | 4.2% | 3.1–6.1% |2.8–6.5% | 2.6–6.8% | 2.2–7.4% |
 | <a href="#stranka-antikorupcije,-razvoja-i-transparentnosti-(*)">Stranka antikorupcije, razvoja i transparentnosti (*)</a> | 0.0% | 3.2% | 2.1–4.2% |1.9–4.4% | 1.7–4.7% | 1.5–5.1% |
@@ -178,9 +178,9 @@ Only polls for which at least the sample size has been published are included in
 | 13.5–14.5% | 0.4% | 0.4% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
-### Most nezavisnih lista (*)
+### Most nezavisnih lista (ECR)
 
-*For a full overview of the results for this party, see the [Most nezavisnih lista (*)](party-mostnezavisnihlista.html) page.*
+*For a full overview of the results for this party, see the [Most nezavisnih lista (ECR)](party-mostnezavisnihlistaecr.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -298,7 +298,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#živi-zid-(efdd)">Živi zid (EFDD)</a> | 0 | 1 | 1 |1 | 1 | 1–2 |
 | <a href="#pametno-(alde)">Pametno (ALDE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#bandić-milan-365–stranka-rada-i-solidarnosti-(*)">Bandić Milan 365–Stranka rada i solidarnosti (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#most-nezavisnih-lista-(*)">Most nezavisnih lista (*)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#most-nezavisnih-lista-(ecr)">Most nezavisnih lista (ECR)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#amsterdamska-koalicija-(alde)">Amsterdamska koalicija (ALDE)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#neovisni-za-hrvatsku-(eapn)">Neovisni za Hrvatsku (EAPN)</a> | 0 | 0 | 0 |0 | 0–1 | 0–1 |
 | <a href="#stranka-antikorupcije,-razvoja-i-transparentnosti-(*)">Stranka antikorupcije, razvoja i transparentnosti (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
@@ -355,11 +355,11 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 1.4% | 1.4% |  |
 | 3 | 0% | 0% |  |
 
-### Most nezavisnih lista (*)
+### Most nezavisnih lista (ECR)
 
-*For a full overview of the results for this party, see the [Most nezavisnih lista (*)](party-mostnezavisnihlista.html) page.*
+*For a full overview of the results for this party, see the [Most nezavisnih lista (ECR)](party-mostnezavisnihlistaecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-mostnezavisnihlista.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-mostnezavisnihlistaecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -434,7 +434,7 @@ Only polls for which at least the sample size has been published are included in
 | Socijaldemokratska partija Hrvatske (S&D) | 2 | 3 | 0% | 2–3 | 2–3 | 2–4 | 2–4 |
 | Živi zid (EFDD) | 0 | 1 | 0% | 1 | 1 | 1 | 1–2 |
 | Hrvatska narodna stranka–liberalni demokrati (ALDE) – Amsterdamska koalicija (ALDE) – Pametno (ALDE) | 1 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
-| Bandić Milan 365–Stranka rada i solidarnosti (*) – Most nezavisnih lista (*) – Stranka antikorupcije, razvoja i transparentnosti (*) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| Bandić Milan 365–Stranka rada i solidarnosti (*) – Most nezavisnih lista (ECR) – Stranka antikorupcije, razvoja i transparentnosti (*) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska konzervativna stranka (ECR) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Neovisni za Hrvatsku (EAPN) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
 
@@ -482,7 +482,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 74% | 74% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
-### Bandić Milan 365–Stranka rada i solidarnosti (*) – Most nezavisnih lista (*) – Stranka antikorupcije, razvoja i transparentnosti (*)
+### Bandić Milan 365–Stranka rada i solidarnosti (*) – Most nezavisnih lista (ECR) – Stranka antikorupcije, razvoja i transparentnosti (*)
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-bm365–most–start.png "Seats Probability Mass Function")
 
@@ -514,6 +514,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 4,194,304
-+ **Error estimate:** 3.00%
++ **Lowest number of simulations done in a poll included in this average:** 0
++ **Total number of simulations done in the polls included in this average:** 1,048,576
++ **Error estimate:** 1.60%
