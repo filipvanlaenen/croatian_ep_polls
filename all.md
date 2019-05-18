@@ -74,7 +74,7 @@ Only polls for which at least the sample size has been published are included in
 + **Živi zid:** Živi zid (EFDD)
 + **P:** Pametno (ALDE)
 + **BM 365:** Bandić Milan 365–Stranka rada i solidarnosti (*)
-+ **Most:** Most nezavisnih lista (*)
++ **Most:** Most nezavisnih lista (ECR)
 + **AK:** Amsterdamska koalicija (ALDE)
 + **NHR:** Neovisni za Hrvatsku (EAPN)
 + **START:** Stranka antikorupcije, razvoja i transparentnosti (*)
