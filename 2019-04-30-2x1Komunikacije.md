@@ -14,7 +14,7 @@
 | Socijaldemokratska partija Hrvatske (S&D) | 29.9% | 23.8% | 22.2–25.6% |21.7–26.1% |21.3–26.5% |20.6–27.4% |
 | Živi zid (EFDD) | 0.5% | 11.1% | 10.0–12.5% |9.6–12.9% |9.4–13.2% |8.8–13.9% |
 | Amsterdamska koalicija (ALDE) | 0.0% | 8.9% | 7.9–10.2% |7.6–10.5% |7.3–10.8% |6.9–11.4% |
-| Most nezavisnih lista (*) | 0.0% | 7.7% | 6.7–8.9% |6.4–9.2% |6.2–9.5% |5.8–10.1% |
+| Most nezavisnih lista (ECR) | 0.0% | 7.7% | 6.7–8.9% |6.4–9.2% |6.2–9.5% |5.8–10.1% |
 | Neovisni za Hrvatsku (EAPN) | 0.0% | 5.7% | 4.8–6.7% |4.6–7.0% |4.4–7.3% |4.1–7.8% |
 | Hrvatska konzervativna stranka (ECR) | 0.0% | 3.1% | 2.5–3.9% |2.3–4.1% |2.2–4.3% |1.9–4.7% |
 | Stranka antikorupcije, razvoja i transparentnosti (*) | 0.0% | 2.3% | 1.8–3.0% |1.7–3.2% |1.6–3.4% |1.3–3.8% |
@@ -31,11 +31,11 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 4 | 3–4 |3–4 |3–4 |3–4 |
-| <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 3 | 3 |3–4 |3–4 |3–4 |
-| <a href="#živi-zid-(efdd)">Živi zid (EFDD)</a> | 0 | 1 | 1 |1–2 |1–2 |1–2 |
+| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 4 | 4 |3–4 |3–4 |3–4 |
+| <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 3 | 3 |3 |3–4 |3–4 |
+| <a href="#živi-zid-(efdd)">Živi zid (EFDD)</a> | 0 | 1 | 1 |1 |1 |1–2 |
 | <a href="#amsterdamska-koalicija-(alde)">Amsterdamska koalicija (ALDE)</a> | 0 | 1 | 1 |1 |1 |1 |
-| <a href="#most-nezavisnih-lista-(*)">Most nezavisnih lista (*)</a> | 0 | 1 | 1 |1 |0–1 |0–1 |
+| <a href="#most-nezavisnih-lista-(ecr)">Most nezavisnih lista (ECR)</a> | 0 | 1 | 1 |1 |0–1 |0–1 |
 | <a href="#neovisni-za-hrvatsku-(eapn)">Neovisni za Hrvatsku (EAPN)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
 | <a href="#hrvatska-konzervativna-stranka-(ecr)">Hrvatska konzervativna stranka (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#stranka-antikorupcije,-razvoja-i-transparentnosti-(*)">Stranka antikorupcije, razvoja i transparentnosti (*)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -50,8 +50,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 15% | 100% |  |
-| 4 | 85% | 85% | Last Result, Median |
+| 3 | 7% | 100% |  |
+| 4 | 93% | 93% | Last Result, Median |
 | 5 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -62,9 +62,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.1% | 100% | Last Result |
-| 3 | 92% | 99.9% | Median |
-| 4 | 8% | 8% |  |
+| 2 | 0.2% | 100% | Last Result |
+| 3 | 97% | 99.8% | Median |
+| 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
 ### Živi zid (EFDD)
@@ -76,8 +76,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 95% | 100% | Median |
-| 2 | 5% | 5% |  |
+| 1 | 98.6% | 100% | Median |
+| 2 | 1.4% | 1.4% |  |
 | 3 | 0% | 0% |  |
 
 ### Amsterdamska koalicija (ALDE)
@@ -88,15 +88,14 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 99.9% | 99.9% | Median |
-| 2 | 0% | 0% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 100% | 100% | Median |
 
-### Most nezavisnih lista (*)
+### Most nezavisnih lista (ECR)
 
-*For a full overview of the results for this party, see the [Most nezavisnih lista (*)](party-mostnezavisnihlista.html) page.*
+*For a full overview of the results for this party, see the [Most nezavisnih lista (ECR)](party-mostnezavisnihlistaecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-04-30-2x1Komunikacije-seats-pmf-mostnezavisnihlista.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-30-2x1Komunikacije-seats-pmf-mostnezavisnihlistaecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -112,8 +111,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Last Result, Median |
-| 1 | 8% | 8% |  |
+| 0 | 94% | 100% | Last Result, Median |
+| 1 | 6% | 6% |  |
 | 2 | 0% | 0% |  |
 
 ### Hrvatska konzervativna stranka (ECR)
@@ -166,12 +165,12 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Hrvatska demokratska zajednica (EPP) | 4 | 4 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
-| Socijaldemokratska partija Hrvatske (S&D) | 2 | 3 | 0% | 3 | 3–4 | 3–4 | 3–4 |
-| Živi zid (EFDD) | 0 | 1 | 0% | 1 | 1–2 | 1–2 | 1–2 |
-| Most nezavisnih lista (*) – Stranka antikorupcije, razvoja i transparentnosti (*) – Bandić Milan 365–Stranka rada i solidarnosti (*) | 0 | 1 | 0% | 1 | 1 | 0–1 | 0–1 |
+| Hrvatska demokratska zajednica (EPP) | 4 | 4 | 0% | 4 | 3–4 | 3–4 | 3–4 |
+| Socijaldemokratska partija Hrvatske (S&D) | 2 | 3 | 0% | 3 | 3 | 3–4 | 3–4 |
+| Živi zid (EFDD) | 0 | 1 | 0% | 1 | 1 | 1 | 1–2 |
+| Most nezavisnih lista (ECR) – Hrvatska konzervativna stranka (ECR) | 0 | 1 | 0% | 1 | 1 | 0–1 | 0–1 |
 | Neovisni za Hrvatsku (EAPN) | 0 | 0 | 0% | 0 | 0–1 | 0–1 | 0–1 |
-| Hrvatska konzervativna stranka (ECR) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Stranka antikorupcije, razvoja i transparentnosti (*) – Bandić Milan 365–Stranka rada i solidarnosti (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Hrvatska demokratska zajednica (EPP)
 
@@ -179,8 +178,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 15% | 100% |  |
-| 4 | 85% | 85% | Last Result, Median |
+| 3 | 7% | 100% |  |
+| 4 | 93% | 93% | Last Result, Median |
 | 5 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -189,9 +188,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.1% | 100% | Last Result |
-| 3 | 92% | 99.9% | Median |
-| 4 | 8% | 8% |  |
+| 2 | 0.2% | 100% | Last Result |
+| 3 | 97% | 99.8% | Median |
+| 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
 ### Živi zid (EFDD)
@@ -201,13 +200,13 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 95% | 100% | Median |
-| 2 | 5% | 5% |  |
+| 1 | 98.6% | 100% | Median |
+| 2 | 1.4% | 1.4% |  |
 | 3 | 0% | 0% |  |
 
-### Most nezavisnih lista (*) – Stranka antikorupcije, razvoja i transparentnosti (*) – Bandić Milan 365–Stranka rada i solidarnosti (*)
+### Most nezavisnih lista (ECR) – Hrvatska konzervativna stranka (ECR)
 
-![Graph with seats probability mass function not yet produced](2019-04-30-2x1Komunikacije-coalitions-seats-pmf-most–start–bm365.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-30-2x1Komunikacije-coalitions-seats-pmf-most–hks.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -221,13 +220,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Last Result, Median |
-| 1 | 8% | 8% |  |
+| 0 | 94% | 100% | Last Result, Median |
+| 1 | 6% | 6% |  |
 | 2 | 0% | 0% |  |
 
-### Hrvatska konzervativna stranka (ECR)
+### Stranka antikorupcije, razvoja i transparentnosti (*) – Bandić Milan 365–Stranka rada i solidarnosti (*)
 
-![Graph with seats probability mass function not yet produced](2019-04-30-2x1Komunikacije-coalitions-seats-pmf-hks.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-30-2x1Komunikacije-coalitions-seats-pmf-start–bm365.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -245,6 +244,6 @@
 ### Calculations
 
 + **Sample size:** 1041
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 2.50%
++ **Simulations done:** 8,192
++ **Error estimate:** 1.45%
 

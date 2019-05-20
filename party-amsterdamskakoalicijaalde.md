@@ -97,10 +97,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [30 April–6 May 2019](2019-05-06-Promocijaplus.html) | Promocija plus <br> RTL | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [30 April–6 May 2019](2019-05-06-Promocijaplus.html) | Promocija plus <br> RTL | 1 | 1 | 1 | 0–1 | 0–1 |
 | [30 April 2019](2019-04-30-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1 | 1 | 1 | 1 | 1 |
 | [22–27 April 2019](2019-04-27-Oraclum.html) | Oraclum | 0 | 0 | 0 | 0 | 0 |
-| [15–25 April 2019](2019-04-25-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 1 | 1 | 1 | 0–1 | 0–1 |
+| [15–25 April 2019](2019-04-25-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 1 | 1 | 1 | 1 | 1 |
 | [12–18 April 2019](2019-04-18-Promocijaplus.html) | Promocija plus <br> RTL | 1 | 1 | 1 | 1 | 0–1 |
 | [1–5 April 2019](2019-04-05-Promocijaplus.html) | Promocija plus <br> RTL | 1 | 1 | 1 | 1 | 1 |
 | [23 March 2019](2019-03-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -160,8 +160,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 26% | 100% | Last Result |
-| 1 | 74% | 74% | Median |
+| 0 | 25% | 100% | Last Result |
+| 1 | 75% | 75% | Median |
 | 2 | 0% | 0% |  |
 
 
