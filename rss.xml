@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 20 May 2019 20:54:12 +0200</pubDate>
+    <pubDate>Mon, 20 May 2019 23:02:23 +0200</pubDate>
     <item>
       <title>Opinion Poll by Promocija plus for RTL, 30 April–6 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2019-05-06-Promocijaplus.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2019-05-06-Promocijaplus.png"
         length="234871"
         type="image/png"/>
-      <pubDate>Mon, 20 May 2019 18:19:31 +0200</pubDate>
-      <dc:date>2019-05-20T18:19:31.913959+02:00</dc:date>
+      <pubDate>Mon, 20 May 2019 22:28:23 +0200</pubDate>
+      <dc:date>2019-05-20T22:28:23.414348+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by 2x1 Komunikacije for CroElecto, 30 April 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2019-04-30-2x1Komunikacije.png"
         length="261565"
         type="image/png"/>
-      <pubDate>Mon, 20 May 2019 20:54:12 +0200</pubDate>
-      <dc:date>2019-05-20T20:54:12.918837+02:00</dc:date>
+      <pubDate>Mon, 20 May 2019 22:40:53 +0200</pubDate>
+      <dc:date>2019-05-20T22:40:53.976049+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Oraclum, 22–27 April 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2019-04-27-Oraclum.png"
         length="241646"
         type="image/png"/>
-      <pubDate>Mon, 20 May 2019 20:52:57 +0200</pubDate>
-      <dc:date>2019-05-20T20:52:57.900737+02:00</dc:date>
+      <pubDate>Mon, 20 May 2019 22:52:52 +0200</pubDate>
+      <dc:date>2019-05-20T22:52:52.87252+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IPSOS PULS for Nova TV, 15–25 April 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2019-04-25-IPSOSPULS.png"
         length="230874"
         type="image/png"/>
-      <pubDate>Mon, 20 May 2019 20:00:50 +0200</pubDate>
-      <dc:date>2019-05-20T20:00:50.201906+02:00</dc:date>
+      <pubDate>Mon, 20 May 2019 23:02:23 +0200</pubDate>
+      <dc:date>2019-05-20T23:02:23.610566+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Promocija plus for RTL, 12–18 April 2019 – Seat Projections for the Parties</title>
@@ -179,6 +179,6 @@
       <pubDate>Fri, 19 Apr 2019 14:14:25 +0200</pubDate>
       <dc:date>2019-04-19T14:14:25.321112+02:00</dc:date>
     </item>
-    <dc:date>2019-05-20T20:54:12.918837+02:00</dc:date>
+    <dc:date>2019-05-20T23:02:23.610566+02:00</dc:date>
   </channel>
 </rss>
