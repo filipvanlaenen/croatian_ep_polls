@@ -11,6 +11,7 @@ Last result: **0.5%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10.3% | 7.6–11.9% | 7.2–12.3% | 6.9–12.7% | 6.4–13.4% |
+| [13–18 May 2019](2019-05-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 9.4% | 8.5–10.5% | 8.2–10.8% | 8.0–11.1% | 7.6–11.6% |
 | [30 April–6 May 2019](2019-05-06-Promocijaplus.html) | Promocija plus <br> RTL | 7.9% | 7.0–9.0% | 6.8–9.3% | 6.6–9.5% | 6.2–10.0% |
 | [30 April 2019](2019-04-30-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 11.1% | 10.0–12.5% | 9.6–12.9% | 9.4–13.2% | 8.8–13.9% |
 | [22–27 April 2019](2019-04-27-Oraclum.html) | Oraclum | 10.6% | 9.5–11.8% | 9.2–12.1% | 9.0–12.5% | 8.5–13.1% |
@@ -99,6 +100,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1–2 |
+| [13–18 May 2019](2019-05-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 1 | 1 | 1 | 1 | 1 |
 | [30 April–6 May 2019](2019-05-06-Promocijaplus.html) | Promocija plus <br> RTL | 1 | 1 | 1 | 1 | 0–1 |
 | [30 April 2019](2019-04-30-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1 | 1 | 1 | 1–2 | 1–2 |
 | [22–27 April 2019](2019-04-27-Oraclum.html) | Oraclum | 1 | 1 | 1 | 1 | 1 |
