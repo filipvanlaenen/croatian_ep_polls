@@ -10,8 +10,8 @@ Last result: **29.9%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.1–4.4% | 1.0–4.7% | 0.9–4.9% | 0.7–5.3% |
-| [13–21 May 2019](2019-05-21-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1.7% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.9% | 1.2–4.2% | 1.0–4.5% | 0.9–4.8% | 0.8–5.2% |
+| [13–21 May 2019](2019-05-21-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1.7% | 1.2–2.6% | 1.1–2.8% | 1.0–3.0% | 0.8–3.5% |
 | [13–18 May 2019](2019-05-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 3.9% | 3.3–4.7% | 3.2–4.9% | 3.0–5.1% | 2.8–5.5% |
 | [30 April–6 May 2019](2019-05-06-Promocijaplus.html) | Promocija plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
 | [30 April 2019](2019-04-30-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1.2% | 0.8–1.7% | 0.7–1.9% | 0.7–2.0% | 0.5–2.3% |
@@ -75,12 +75,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 34% | 100% |  |
-| 1.5–2.5% | 16% | 66% |  |
-| 2.5–3.5% | 10% | 50% | Median |
-| 3.5–4.5% | 33% | 40% |  |
-| 4.5–5.5% | 7% | 7% |  |
-| 5.5–6.5% | 0.2% | 0.2% |  |
+| 0.5–1.5% | 33% | 100% |  |
+| 1.5–2.5% | 30% | 67% | Median |
+| 2.5–3.5% | 10% | 37% |  |
+| 3.5–4.5% | 22% | 27% |  |
+| 4.5–5.5% | 5% | 5% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -116,7 +116,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [13–21 May 2019](2019-05-21-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |
+| [13–21 May 2019](2019-05-21-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
 | [13–18 May 2019](2019-05-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 0 | 0 | 0 | 0 | 0 |
 | [30 April–6 May 2019](2019-05-06-Promocijaplus.html) | Promocija plus <br> RTL |  |  |  |  |  |
 | [30 April 2019](2019-04-30-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
