@@ -63,7 +63,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.2% | 100% | Last Result |
-| 3 | 99.1% | 99.8% | Median |
+| 3 | 99.2% | 99.8% | Median |
 | 4 | 0.6% | 0.6% |  |
 | 5 | 0% | 0% |  |
 
@@ -110,8 +110,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.2% | 100% | Last Result, Median |
-| 1 | 0.8% | 0.8% |  |
+| 0 | 99.3% | 100% | Last Result, Median |
+| 1 | 0.7% | 0.7% |  |
 | 2 | 0% | 0% |  |
 
 ### Hrvatska narodna stranka–liberalni demokrati (ALDE)
@@ -188,7 +188,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.2% | 100% | Last Result |
-| 3 | 99.1% | 99.8% | Median |
+| 3 | 99.2% | 99.8% | Median |
 | 4 | 0.6% | 0.6% |  |
 | 5 | 0% | 0% |  |
 
@@ -225,8 +225,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.2% | 100% | Last Result, Median |
-| 1 | 0.8% | 0.8% |  |
+| 0 | 99.3% | 100% | Last Result, Median |
+| 1 | 0.7% | 0.7% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -241,6 +241,6 @@
 ### Calculations
 
 + **Sample size:** 1400
-+ **Simulations done:** 524,288
-+ **Error estimate:** 1.22%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.53%
 

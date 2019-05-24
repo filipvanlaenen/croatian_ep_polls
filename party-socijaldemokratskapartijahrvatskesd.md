@@ -10,7 +10,8 @@ Last result: **29.9%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.5% | 15.5–24.4% | 14.9–25.1% | 14.5–25.6% | 13.8–26.6% |
+| N/A | [Poll Average](average.html) | 20.8% | 15.7–23.2% | 15.2–23.8% | 14.8–24.2% | 14.1–25.1% |
+| [13–21 May 2019](2019-05-21-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 21.2% | N/A | N/A | N/A | N/A |
 | [13–18 May 2019](2019-05-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 21.0% | 19.6–22.5% | 19.3–22.9% | 18.9–23.2% | 18.3–23.9% |
 | [30 April–6 May 2019](2019-05-06-Promocijaplus.html) | Promocija plus <br> RTL | 16.2% | 15.0–17.6% | 14.6–18.0% | 14.3–18.3% | 13.7–19.0% |
 | [30 April 2019](2019-04-30-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 23.8% | 22.2–25.6% | 21.7–26.1% | 21.3–26.5% | 20.6–27.4% |
@@ -74,22 +75,22 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.2% | 100% |  |
-| 13.5–14.5% | 2% | 99.8% |  |
-| 14.5–15.5% | 8% | 97% |  |
-| 15.5–16.5% | 9% | 90% |  |
-| 16.5–17.5% | 5% | 80% |  |
-| 17.5–18.5% | 2% | 76% |  |
-| 18.5–19.5% | 4% | 73% |  |
-| 19.5–20.5% | 8% | 69% |  |
-| 20.5–21.5% | 12% | 62% |  |
-| 21.5–22.5% | 15% | 50% | Median |
-| 22.5–23.5% | 15% | 35% |  |
-| 23.5–24.5% | 11% | 20% |  |
-| 24.5–25.5% | 6% | 9% |  |
-| 25.5–26.5% | 2% | 3% |  |
-| 26.5–27.5% | 0.5% | 0.6% |  |
-| 27.5–28.5% | 0.1% | 0.1% |  |
+| 12.5–13.5% | 0.1% | 100% |  |
+| 13.5–14.5% | 1.3% | 99.9% |  |
+| 14.5–15.5% | 7% | 98.6% |  |
+| 15.5–16.5% | 12% | 92% |  |
+| 16.5–17.5% | 9% | 80% |  |
+| 17.5–18.5% | 3% | 70% |  |
+| 18.5–19.5% | 3% | 67% |  |
+| 19.5–20.5% | 10% | 64% |  |
+| 20.5–21.5% | 18% | 54% | Median |
+| 21.5–22.5% | 18% | 36% |  |
+| 22.5–23.5% | 12% | 18% |  |
+| 23.5–24.5% | 5% | 6% |  |
+| 24.5–25.5% | 1.3% | 1.5% |  |
+| 25.5–26.5% | 0.2% | 0.2% |  |
+| 26.5–27.5% | 0% | 0% |  |
+| 27.5–28.5% | 0% | 0% |  |
 | 28.5–29.5% | 0% | 0% |  |
 | 29.5–30.5% | 0% | 0% | Last Result |
 
@@ -103,10 +104,11 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [13–21 May 2019](2019-05-21-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |
 | [13–18 May 2019](2019-05-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 3 | 3 | 3 | 3 | 3–4 |
 | [30 April–6 May 2019](2019-05-06-Promocijaplus.html) | Promocija plus <br> RTL | 2 | 2 | 2 | 2 | 2 |
 | [30 April 2019](2019-04-30-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3 | 3 | 3–4 | 3–4 | 3–4 |
-| [22–27 April 2019](2019-04-27-Oraclum.html) | Oraclum | 3 | 3 | 3 | 3 | 3 |
+| [22–27 April 2019](2019-04-27-Oraclum.html) | Oraclum | 3 | 3 | 3 | 3–4 | 2–4 |
 | [15–25 April 2019](2019-04-25-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [12–18 April 2019](2019-04-18-Promocijaplus.html) | Promocija plus <br> RTL | 2 | 2 | 2 | 2 | 2–3 |
 | [1–5 April 2019](2019-04-05-Promocijaplus.html) | Promocija plus <br> RTL | 3 | 3 | 2–3 | 2–3 | 2–3 |
@@ -167,9 +169,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 38% | 100% | Last Result |
-| 3 | 60% | 62% | Median |
-| 4 | 2% | 2% |  |
+| 1 | 0.1% | 100% |  |
+| 2 | 34% | 99.9% | Last Result |
+| 3 | 65% | 66% | Median |
+| 4 | 1.3% | 1.3% |  |
 | 5 | 0% | 0% |  |
 
 
