@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 25 May 2019 07:31:11 +0200</pubDate>
+    <pubDate>Sat, 25 May 2019 15:08:48 +0200</pubDate>
     <item>
       <title>Opinion Poll by 2x1 Komunikacije for CroElecto, 13–21 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2019-05-21-2x1Komunikacije.html#seats</link>
@@ -38,6 +38,16 @@
         type="image/png"/>
       <pubDate>Sat, 25 May 2019 07:31:11 +0200</pubDate>
       <dc:date>2019-05-25T07:31:11.284125+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS PLUS for CroBarometer, 1–20 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2019-05-20-IPSOSPLUS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 27.0–32.7%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 18.8–23.9%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 5.0–8.1%&lt;/li&gt;&lt;li&gt;Živi zid (EFDD): 6.3–9.7%&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 2.2–4.4%&lt;/li&gt;&lt;li&gt;Stranka antikorupcije, razvoja i transparentnosti (*): 2.2–4.4%&lt;/li&gt;&lt;li&gt;Neovisni za Hrvatsku (EAPN): 3.7–6.4%&lt;/li&gt;&lt;li&gt;Amsterdamska koalicija (ALDE): 5.1–8.2%&lt;/li&gt;&lt;li&gt;Hrvatska konzervativna stranka (ECR): 3.3–5.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2019-05-20-IPSOSPLUS.png"
+        length="242963"
+        type="image/png"/>
+      <pubDate>Sat, 25 May 2019 15:08:48 +0200</pubDate>
+      <dc:date>2019-05-25T15:08:48.089409+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Promocija Plus for HRT, 13–18 May 2019 – Seat Projections for the Parties</title>
@@ -319,6 +329,6 @@
       <pubDate>Fri, 19 Apr 2019 14:14:25 +0200</pubDate>
       <dc:date>2019-04-19T14:14:25.321112+02:00</dc:date>
     </item>
-    <dc:date>2019-05-25T07:31:11.284125+02:00</dc:date>
+    <dc:date>2019-05-25T15:08:48.089409+02:00</dc:date>
   </channel>
 </rss>
