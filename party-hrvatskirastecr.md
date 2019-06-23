@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0.7% | 0.4–1.1% | 0.4–1.3% | 0.3–1.4% | 0.3–1.6% |
 | [7–17 June 2019](2019-06-17-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0.7% | 0.4–1.1% | 0.4–1.3% | 0.3–1.4% | 0.2–1.6% |
 | [3–7 June 2019](2019-06-07-Promocijaplus.html) | Promocija plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
-| [27 May–1 June 2019](2019-06-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 7.3% | N/A | N/A | N/A | N/A |
+| [27 May–1 June 2019](2019-06-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 7.3% | 6.4–8.4% | 6.1–8.8% | 5.9–9.1% | 5.4–9.6% |
 
 ### Probability Mass Function
 
@@ -38,7 +38,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [7–17 June 2019](2019-06-17-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
 | [3–7 June 2019](2019-06-07-Promocijaplus.html) | Promocija plus <br> RTL |  |  |  |  |  |
-| [27 May–1 June 2019](2019-06-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |
+| [27 May–1 June 2019](2019-06-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1 | 1 | 1 | 1 | 0–1 |
 
 ### Probability Mass Function
 
