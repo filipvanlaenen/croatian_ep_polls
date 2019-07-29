@@ -62,7 +62,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 4 | 2–4 | 2–5 | 2–5 | 2–5 |
 | [8–15 July 2019](2019-07-15-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–5 July 2019](2019-07-05-Promocijaplus.html) | Promocija plus <br> RTL | 4 | 4 | 4 | 4–5 | 3–5 |
-| [1–20 June 2019](2019-06-20-IPSOSPLUS.html) | IPSOS PLUS <br> CroBarometer | 2 | 2 | 2 | 2–3 | 2–3 |
+| [1–20 June 2019](2019-06-20-IPSOSPLUS.html) | IPSOS PLUS <br> CroBarometer | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–17 June 2019](2019-06-17-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [3–7 June 2019](2019-06-07-Promocijaplus.html) | Promocija plus <br> RTL | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [27 May–1 June 2019](2019-06-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3 | 3 | 3 | 2–3 | 2–4 |
@@ -75,8 +75,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 32% | 100% | Last Result |
-| 3 | 2% | 68% |  |
+| 2 | 30% | 100% | Last Result |
+| 3 | 4% | 70% |  |
 | 4 | 60% | 66% | Median |
 | 5 | 6% | 6% |  |
 | 6 | 0% | 0% | Majority |
