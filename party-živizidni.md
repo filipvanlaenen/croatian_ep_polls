@@ -47,7 +47,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [31 July–3 August 2019](2019-08-03-Promocijaplus.html) | Promocija plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
-| [1–20 July 2019](2019-07-20-IPSOSPLUS.html) | IPSOS PLUS <br> CroBarometer | 0 | 0 | 0 | 0–1 | 0–1 |
+| [1–20 July 2019](2019-07-20-IPSOSPLUS.html) | IPSOS PLUS <br> CroBarometer | 0 | 0 | 0 | 0 | 0 |
 | [8–15 July 2019](2019-07-15-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
 | [1–5 July 2019](2019-07-05-Promocijaplus.html) | Promocija plus <br> RTL | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–20 June 2019](2019-06-20-IPSOSPLUS.html) | IPSOS PLUS <br> CroBarometer | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
