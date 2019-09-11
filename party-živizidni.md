@@ -11,7 +11,7 @@ Last result: **0.5%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.4% | 3.3–5.7% | 3.0–6.0% | 2.8–6.3% | 2.5–6.8% |
-| [2–6 September 2019](2019-09-06-Promocijaplus.html) | Promocija plus | 2.5% | N/A | N/A | N/A | N/A |
+| [2–6 September 2019](2019-09-06-Promocijaplus.html) | Promocija plus <br> RTL | 2.5% | N/A | N/A | N/A | N/A |
 | [31 July–3 August 2019](2019-08-03-Promocijaplus.html) | Promocija plus <br> RTL | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.3–4.4% | 2.1–4.8% |
 | [1–20 July 2019](2019-07-20-IPSOSPLUS.html) | IPSOS PLUS <br> CroBarometer | 3.8% | 3.1–4.8% | 2.9–5.1% | 2.8–5.3% | 2.5–5.8% |
 | [8–15 July 2019](2019-07-15-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3.9% | 3.1–4.9% | 2.9–5.2% | 2.7–5.5% | 2.4–6.0% |
@@ -47,7 +47,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [2–6 September 2019](2019-09-06-Promocijaplus.html) | Promocija plus |  |  |  |  |  |
+| [2–6 September 2019](2019-09-06-Promocijaplus.html) | Promocija plus <br> RTL |  |  |  |  |  |
 | [31 July–3 August 2019](2019-08-03-Promocijaplus.html) | Promocija plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
 | [1–20 July 2019](2019-07-20-IPSOSPLUS.html) | IPSOS PLUS <br> CroBarometer | 0 | 0 | 0 | 0 | 0 |
 | [8–15 July 2019](2019-07-15-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |

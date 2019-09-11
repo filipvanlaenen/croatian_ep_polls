@@ -11,7 +11,7 @@ Last result: **29.9%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27.0% | 24.6–33.2% | 24.0–34.1% | 23.4–34.8% | 22.4–36.1% |
-| [2–6 September 2019](2019-09-06-Promocijaplus.html) | Promocija plus | 32.2% | N/A | N/A | N/A | N/A |
+| [2–6 September 2019](2019-09-06-Promocijaplus.html) | Promocija plus <br> RTL | 32.2% | N/A | N/A | N/A | N/A |
 | [31 July–3 August 2019](2019-08-03-Promocijaplus.html) | Promocija plus <br> RTL | 29.2% | 27.5–31.0% | 27.0–31.5% | 26.6–31.9% | 25.8–32.8% |
 | [1–20 July 2019](2019-07-20-IPSOSPLUS.html) | IPSOS PLUS <br> CroBarometer | 25.5% | 23.7–27.4% | 23.2–28.0% | 22.7–28.5% | 21.9–29.4% |
 | [8–15 July 2019](2019-07-15-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 32.3% | 30.1–34.5% | 29.5–35.1% | 29.0–35.7% | 28.0–36.8% |
@@ -57,7 +57,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4 | 4–5 | 4–5 | 3–5 |
-| [2–6 September 2019](2019-09-06-Promocijaplus.html) | Promocija plus |  |  |  |  |  |
+| [2–6 September 2019](2019-09-06-Promocijaplus.html) | Promocija plus <br> RTL |  |  |  |  |  |
 | [31 July–3 August 2019](2019-08-03-Promocijaplus.html) | Promocija plus <br> RTL | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–20 July 2019](2019-07-20-IPSOSPLUS.html) | IPSOS PLUS <br> CroBarometer | 4 | 4 | 4 | 4 | 4–5 |
 | [8–15 July 2019](2019-07-15-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
