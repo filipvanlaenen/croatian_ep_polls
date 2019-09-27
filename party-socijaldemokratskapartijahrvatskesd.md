@@ -10,9 +10,9 @@ Last result: **29.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.2% | 24.8–33.2% | 24.0–34.1% | 23.5–34.8% | 22.5–36.1% |
+| N/A | [Poll Average](average.html) | 27.0% | 22.3–32.7% | 21.5–33.8% | 20.9–34.5% | 20.0–35.9% |
 | [1–23 September 2019](2019-09-23-Promocijaplus.html) | Promocija plus <br> HRT | 28.1% | 26.6–29.7% | 26.1–30.1% | 25.8–30.5% | 25.1–31.3% |
-| [1–20 September 2019](2019-09-20-IPSOS.html) | IPSOS <br> Dnevnik | 22.6% | N/A | N/A | N/A | N/A |
+| [1–20 September 2019](2019-09-20-IPSOS.html) | IPSOS <br> Dnevnik | 22.6% | 20.9–24.4% | 20.5–24.9% | 20.1–25.3% | 19.3–26.2% |
 | [2–6 September 2019](2019-09-06-Promocijaplus.html) | Promocija plus <br> RTL | 32.2% | 30.6–33.9% | 30.1–34.4% | 29.7–34.8% | 29.0–35.7% |
 | [31 July–3 August 2019](2019-08-03-Promocijaplus.html) | Promocija plus <br> RTL | 29.2% | 27.5–31.0% | 27.0–31.5% | 26.6–31.9% | 25.8–32.8% |
 | [1–20 July 2019](2019-07-20-IPSOSPLUS.html) | IPSOS PLUS <br> CroBarometer | 25.5% | 23.7–27.4% | 23.2–28.0% | 22.7–28.5% | 21.9–29.4% |
@@ -29,24 +29,26 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.1% | 100% |  |
-| 21.5–22.5% | 0.5% | 99.9% |  |
-| 22.5–23.5% | 2% | 99.4% |  |
-| 23.5–24.5% | 6% | 97% |  |
-| 24.5–25.5% | 9% | 92% |  |
-| 25.5–26.5% | 11% | 83% |  |
-| 26.5–27.5% | 13% | 72% |  |
-| 27.5–28.5% | 13% | 59% | Median |
-| 28.5–29.5% | 10% | 45% |  |
-| 29.5–30.5% | 6% | 36% | Last Result |
-| 30.5–31.5% | 7% | 29% |  |
-| 31.5–32.5% | 8% | 22% |  |
-| 32.5–33.5% | 7% | 15% |  |
-| 33.5–34.5% | 5% | 8% |  |
-| 34.5–35.5% | 2% | 3% |  |
-| 35.5–36.5% | 0.8% | 1.0% |  |
-| 36.5–37.5% | 0.2% | 0.2% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0.2% | 100% |  |
+| 19.5–20.5% | 1.2% | 99.8% |  |
+| 20.5–21.5% | 4% | 98.6% |  |
+| 21.5–22.5% | 7% | 95% |  |
+| 22.5–23.5% | 8% | 88% |  |
+| 23.5–24.5% | 8% | 79% |  |
+| 24.5–25.5% | 8% | 71% |  |
+| 25.5–26.5% | 9% | 63% |  |
+| 26.5–27.5% | 10% | 54% | Median |
+| 27.5–28.5% | 10% | 44% |  |
+| 28.5–29.5% | 7% | 34% |  |
+| 29.5–30.5% | 5% | 27% | Last Result |
+| 30.5–31.5% | 5% | 22% |  |
+| 31.5–32.5% | 6% | 17% |  |
+| 32.5–33.5% | 5% | 11% |  |
+| 33.5–34.5% | 3% | 6% |  |
+| 34.5–35.5% | 2% | 2% |  |
+| 35.5–36.5% | 0.6% | 0.8% |  |
+| 36.5–37.5% | 0.1% | 0.2% |  |
 | 37.5–38.5% | 0% | 0% |  |
 
 
@@ -58,9 +60,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4 | 4–5 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [1–23 September 2019](2019-09-23-Promocijaplus.html) | Promocija plus <br> HRT | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [1–20 September 2019](2019-09-20-IPSOS.html) | IPSOS <br> Dnevnik |  |  |  |  |  |
+| [1–20 September 2019](2019-09-20-IPSOS.html) | IPSOS <br> Dnevnik | 3 | 3 | 3 | 3 | 3 |
 | [2–6 September 2019](2019-09-06-Promocijaplus.html) | Promocija plus <br> RTL | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [31 July–3 August 2019](2019-08-03-Promocijaplus.html) | Promocija plus <br> RTL | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–20 July 2019](2019-07-20-IPSOSPLUS.html) | IPSOS PLUS <br> CroBarometer | 4 | 4 | 4 | 4 | 4–5 |
@@ -80,9 +82,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 5% | 100% |  |
-| 4 | 90% | 95% | Median |
-| 5 | 6% | 6% |  |
+| 3 | 28% | 100% |  |
+| 4 | 67% | 72% | Median |
+| 5 | 4% | 4% |  |
 | 6 | 0% | 0% | Majority |
 
 
