@@ -11,7 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.9% | 2.1–4.2% | 1.9–4.6% | 1.8–4.9% | 1.5–5.5% |
-| [1–23 September 2019](2019-09-23-Promocijaplus.html) | Promocija plus <br> RTL | 2.7% | 2.2–3.4% | 2.1–3.6% | 2.0–3.7% | 1.8–4.0% |
+| [1–23 September 2019](2019-09-23-Promocijaplus.html) | Promocija plus <br> HRT | 2.7% | 2.2–3.4% | 2.1–3.6% | 2.0–3.7% | 1.8–4.0% |
+| [1–20 September 2019](2019-09-20-IPSOS.html) | IPSOS <br> Dnevnik | 1.6% | N/A | N/A | N/A | N/A |
 | [2–6 September 2019](2019-09-06-Promocijaplus.html) | Promocija plus <br> RTL | 3.5% | 2.9–4.2% | 2.7–4.4% | 2.6–4.6% | 2.3–5.0% |
 | [31 July–3 August 2019](2019-08-03-Promocijaplus.html) | Promocija plus <br> RTL | 4.3% | 3.7–5.2% | 3.5–5.5% | 3.3–5.7% | 3.0–6.2% |
 | [1–20 July 2019](2019-07-20-IPSOSPLUS.html) | IPSOS PLUS <br> CroBarometer | 2.4% | 1.8–3.2% | 1.7–3.4% | 1.6–3.6% | 1.3–4.0% |
@@ -47,7 +48,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [1–23 September 2019](2019-09-23-Promocijaplus.html) | Promocija plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
+| [1–23 September 2019](2019-09-23-Promocijaplus.html) | Promocija plus <br> HRT | 0 | 0 | 0 | 0 | 0 |
+| [1–20 September 2019](2019-09-20-IPSOS.html) | IPSOS <br> Dnevnik |  |  |  |  |  |
 | [2–6 September 2019](2019-09-06-Promocijaplus.html) | Promocija plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
 | [31 July–3 August 2019](2019-08-03-Promocijaplus.html) | Promocija plus <br> RTL | 0 | 0 | 0 | 0 | 0–1 |
 | [1–20 July 2019](2019-07-20-IPSOSPLUS.html) | IPSOS PLUS <br> CroBarometer | 0 | 0 | 0 | 0 | 0 |

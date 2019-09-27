@@ -11,7 +11,8 @@ Last result: **41.4%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 29.9% | 27.5–32.2% | 26.9–32.8% | 26.4–33.2% | 25.4–34.1% |
-| [1–23 September 2019](2019-09-23-Promocijaplus.html) | Promocija plus <br> RTL | 31.3% | 29.7–32.9% | 29.3–33.4% | 28.9–33.8% | 28.2–34.6% |
+| [1–23 September 2019](2019-09-23-Promocijaplus.html) | Promocija plus <br> HRT | 31.3% | 29.7–32.9% | 29.3–33.4% | 28.9–33.8% | 28.2–34.6% |
+| [1–20 September 2019](2019-09-20-IPSOS.html) | IPSOS <br> Dnevnik | 30.2% | N/A | N/A | N/A | N/A |
 | [2–6 September 2019](2019-09-06-Promocijaplus.html) | Promocija plus <br> RTL | 35.7% | 34.0–37.4% | 33.5–37.9% | 33.1–38.3% | 32.3–39.2% |
 | [31 July–3 August 2019](2019-08-03-Promocijaplus.html) | Promocija plus <br> RTL | 34.0% | 32.3–35.9% | 31.8–36.4% | 31.3–36.9% | 30.5–37.8% |
 | [1–20 July 2019](2019-07-20-IPSOSPLUS.html) | IPSOS PLUS <br> CroBarometer | 28.9% | 27.0–30.9% | 26.5–31.5% | 26.0–32.0% | 25.1–33.0% |
@@ -58,7 +59,8 @@ Last result: **4** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| [1–23 September 2019](2019-09-23-Promocijaplus.html) | Promocija plus <br> RTL | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [1–23 September 2019](2019-09-23-Promocijaplus.html) | Promocija plus <br> HRT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [1–20 September 2019](2019-09-20-IPSOS.html) | IPSOS <br> Dnevnik |  |  |  |  |  |
 | [2–6 September 2019](2019-09-06-Promocijaplus.html) | Promocija plus <br> RTL | 5 | 5 | 5 | 5–6 | 4–6 |
 | [31 July–3 August 2019](2019-08-03-Promocijaplus.html) | Promocija plus <br> RTL | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [1–20 July 2019](2019-07-20-IPSOSPLUS.html) | IPSOS PLUS <br> CroBarometer | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
