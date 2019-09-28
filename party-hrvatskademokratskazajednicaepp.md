@@ -60,7 +60,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [1–23 September 2019](2019-09-23-Promocijaplus.html) | Promocija plus <br> HRT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [1–20 September 2019](2019-09-20-IPSOS.html) | IPSOS <br> Dnevnik | 5 | 5 | 5 | 5 | 5 |
+| [1–20 September 2019](2019-09-20-IPSOS.html) | IPSOS <br> Dnevnik | 5 | 5 | 5 | 5 | 4–5 |
 | [2–6 September 2019](2019-09-06-Promocijaplus.html) | Promocija plus <br> RTL | 5 | 5 | 5 | 5–6 | 4–6 |
 | [31 July–3 August 2019](2019-08-03-Promocijaplus.html) | Promocija plus <br> RTL | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [1–20 July 2019](2019-07-20-IPSOSPLUS.html) | IPSOS PLUS <br> CroBarometer | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
