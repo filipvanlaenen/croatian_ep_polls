@@ -9,10 +9,9 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | HDZ | HSS | SDP | HNS | IDS | Živi zid | P | BM 365 | Most | NLMK | Hrast | AK | NHR | START | HKS |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 26–33% <br> 4–5 | 2–5% <br> 0 | 21–34% <br> 3–5 | 0–3% <br> 0 | 1–4% <br> 0 | 2–6% <br> 0 | 2–4% <br> 0 | 3–6% <br> 0–1 | 2–8% <br> 0–1 | 3–9% <br> 0–1 | 1–3% <br> 0 | N/A <br> N/A | 1–5% <br> 0 | 0–2% <br> 0 | N/A <br> N/A |
+| N/A | Poll Average | 27–34% <br> 3–5 | 3–5% <br> 0 | 26–35% <br> 3–5 | N/A <br> N/A | 1–2% <br> 0 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–7% <br> 0–1 | 3–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [1–23 September 2019](2019-09-23-Promocijaplus.html) | Promocija plus <br> HRT | 29–34% <br> 4–5 | 3–5% <br> 0 | 26–30% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 0–1 | 6–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [1–20 September 2019](2019-09-20-IPSOS.html) | IPSOS <br> Dnevnik | 27–33% <br> 4–5 | 2–4% <br> 0 | 20–25% <br> 3–4 | 1–3% <br> 0 | 2–4% <br> 0 | 3–6% <br> 0 | 1–3% <br> 0 | 4–6% <br> 0–1 | 5–8% <br> 1 | 5–9% <br> 0–1 | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 1–2% <br> 0 | N/A <br> N/A |
-| [1–20 July 2019](2019-07-20-IPSOSPLUS.html) | IPSOS PLUS <br> CroBarometer | 26–32% <br> 4–6 | 3–6% <br> 0 | 23–28% <br> 4 | 0–2% <br> 0 | 1–3% <br> 0 | 3–5% <br> 0 | 2–4% <br> 0 | 3–6% <br> 0 | 5–8% <br> 0–1 | 6–10% <br> 1 | 1–3% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | 0–1% <br> 0 | N/A <br> N/A |
+| [1–20 September 2019](2019-09-20-IPSOSPLUS.html) | IPSOS PLUS <br> Dnevnik | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [8–15 July 2019](2019-07-15-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 26–33% <br> 3–4 | N/A <br> N/A | 29–36% <br> 4–5 | N/A <br> N/A | 1–2% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
@@ -47,19 +46,19 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 41.4% | 30.0% | 27.7–32.2% |27.1–32.7% | 26.5–33.2% | 25.5–34.1% |
-| <a href="#hrvatska-seljačka-stranka-(epp)">Hrvatska seljačka stranka (EPP)</a> | 41.4% | 3.5% | 2.6–4.6% |2.4–4.9% | 2.2–5.2% | 1.9–5.8% |
-| <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 29.9% | 27.0% | 22.3–32.7% |21.5–33.8% | 20.9–34.5% | 20.0–35.9% |
-| <a href="#hrvatska-narodna-stranka–liberalni-demokrati-(re)">Hrvatska narodna stranka–liberalni demokrati (RE)</a> | 29.9% | 1.4% | 0.7–2.2% |0.6–2.4% | 0.5–2.6% | 0.4–3.0% |
-| <a href="#istarski-demokratski-sabor-(re)">Istarski demokratski sabor (RE)</a> | 29.9% | 2.1% | 1.1–3.0% |0.9–3.3% | 0.8–3.5% | 0.6–3.9% |
-| <a href="#živi-zid-(ni)">Živi zid (NI)</a> | 0.5% | 3.8% | 2.4–4.9% |2.2–5.3% | 2.0–5.5% | 1.8–6.1% |
-| <a href="#pametno-(re)">Pametno (RE)</a> | 0.0% | 2.6% | 1.9–3.4% |1.7–3.7% | 1.6–3.9% | 1.4–4.4% |
-| <a href="#bandić-milan-365–stranka-rada-i-solidarnosti-(*)">Bandić Milan 365–Stranka rada i solidarnosti (*)</a> | 0.0% | 4.6% | 3.7–5.5% |3.5–5.8% | 3.3–6.1% | 2.9–6.6% |
-| <a href="#most-nezavisnih-lista-(ecr)">Most nezavisnih lista (ECR)</a> | 0.0% | 5.8% | 2.6–7.0% |2.3–7.3% | 2.0–7.6% | 1.7–8.3% |
-| <a href="#nezavisna-lista-mislava-kolakušića-(ni)">Nezavisna lista Mislava Kolakušića (NI)</a> | 0.0% | 6.8% | 3.9–8.4% |3.5–8.9% | 3.2–9.3% | 2.8–10.1% |
-| <a href="#hrvatski-rast-(ecr)">Hrvatski rast (ECR)</a> | 0.0% | 1.9% | 1.4–2.5% |1.2–2.8% | 1.1–2.9% | 1.0–3.3% |
+| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 41.4% | 30.5% | 28.0–32.5% |27.3–33.0% | 26.7–33.5% | 25.6–34.3% |
+| <a href="#hrvatska-seljačka-stranka-(epp)">Hrvatska seljačka stranka (EPP)</a> | 41.4% | 3.5% | 2.9–4.2% |2.8–4.4% | 2.7–4.6% | 2.4–5.0% |
+| <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 29.9% | 29.9% | 27.1–33.8% |26.6–34.5% | 26.1–35.1% | 25.4–36.3% |
+| <a href="#hrvatska-narodna-stranka–liberalni-demokrati-(re)">Hrvatska narodna stranka–liberalni demokrati (RE)</a> | 29.9% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#istarski-demokratski-sabor-(re)">Istarski demokratski sabor (RE)</a> | 29.9% | 1.3% | 0.8–1.9% |0.7–2.1% | 0.6–2.2% | 0.5–2.6% |
+| <a href="#živi-zid-(ni)">Živi zid (NI)</a> | 0.5% | 3.1% | 2.2–4.5% |2.0–4.9% | 1.9–5.2% | 1.7–5.8% |
+| <a href="#pametno-(re)">Pametno (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#bandić-milan-365–stranka-rada-i-solidarnosti-(*)">Bandić Milan 365–Stranka rada i solidarnosti (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#most-nezavisnih-lista-(ecr)">Most nezavisnih lista (ECR)</a> | 0.0% | 4.4% | 2.3–6.4% |2.0–6.7% | 1.9–6.9% | 1.6–7.4% |
+| <a href="#nezavisna-lista-mislava-kolakušića-(ni)">Nezavisna lista Mislava Kolakušića (NI)</a> | 0.0% | 5.6% | 3.5–7.3% |3.2–7.6% | 3.0–7.9% | 2.6–8.4% |
+| <a href="#hrvatski-rast-(ecr)">Hrvatski rast (ECR)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#amsterdamska-koalicija-(re)">Amsterdamska koalicija (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#neovisni-za-hrvatsku-(id)">Neovisni za Hrvatsku (ID)</a> | 0.0% | 2.6% | 1.6–4.0% |1.4–4.4% | 1.2–4.8% | 1.0–5.4% |
-| <a href="#stranka-antikorupcije,-razvoja-i-transparentnosti-(*)">Stranka antikorupcije, razvoja i transparentnosti (*)</a> | 0.0% | 1.1% | 0.5–1.7% |0.4–1.9% | 0.4–2.1% | 0.3–2.4% |
+| <a href="#neovisni-za-hrvatsku-(id)">Neovisni za Hrvatsku (ID)</a> | 0.0% | 3.2% | 2.4–4.4% |2.2–4.8% | 2.1–5.1% | 1.9–5.6% |
+| <a href="#stranka-antikorupcije,-razvoja-i-transparentnosti-(*)">Stranka antikorupcije, razvoja i transparentnosti (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#hrvatska-konzervativna-stranka-(ecr)">Hrvatska konzervativna stranka (ECR)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 
