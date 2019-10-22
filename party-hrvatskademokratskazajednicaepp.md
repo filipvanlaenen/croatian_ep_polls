@@ -10,7 +10,7 @@ Last result: **41.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.4% | 28.1–32.4% | 27.5–32.9% | 26.9–33.4% | 25.8–34.3% |
+| N/A | [Poll Average](average.html) | 30.9% | 28.1–36.6% | 27.5–37.2% | 26.9–37.8% | 25.8–38.8% |
 | [1–4 October 2019](2019-10-04-Promocijaplus.html) | Promocija plus <br> HRT | 35.8% | 34.2–37.6% | 33.7–38.1% | 33.3–38.5% | 32.5–39.3% |
 | [1–23 September 2019](2019-09-23-Promocijaplus.html) | Promocija plus <br> HRT | 31.3% | 29.7–32.9% | 29.3–33.4% | 28.9–33.8% | 28.2–34.6% |
 | [1–20 September 2019](2019-09-20-IPSOSPLUS.html) | IPSOS PLUS <br> Dnevnik | 30.2% | 28.3–32.1% | 27.8–32.6% | 27.4–33.1% | 26.5–34.1% |
@@ -35,18 +35,18 @@ The following table shows the probability mass function per percentage block of 
 | 25.5–26.5% | 1.2% | 99.7% |  |
 | 26.5–27.5% | 4% | 98% |  |
 | 27.5–28.5% | 9% | 94% |  |
-| 28.5–29.5% | 17% | 85% |  |
-| 29.5–30.5% | 22% | 68% | Median |
-| 30.5–31.5% | 23% | 46% |  |
-| 31.5–32.5% | 15% | 23% |  |
-| 32.5–33.5% | 6% | 8% |  |
-| 33.5–34.5% | 2% | 2% |  |
-| 34.5–35.5% | 0.2% | 0.3% |  |
-| 35.5–36.5% | 0% | 0% |  |
-| 36.5–37.5% | 0% | 0% |  |
-| 37.5–38.5% | 0% | 0% |  |
-| 38.5–39.5% | 0% | 0% |  |
-| 39.5–40.5% | 0% | 0% |  |
+| 28.5–29.5% | 15% | 86% |  |
+| 29.5–30.5% | 16% | 71% |  |
+| 30.5–31.5% | 12% | 55% | Median |
+| 31.5–32.5% | 7% | 43% |  |
+| 32.5–33.5% | 3% | 36% |  |
+| 33.5–34.5% | 5% | 33% |  |
+| 34.5–35.5% | 8% | 28% |  |
+| 35.5–36.5% | 10% | 20% |  |
+| 36.5–37.5% | 7% | 10% |  |
+| 37.5–38.5% | 3% | 3% |  |
+| 38.5–39.5% | 0.7% | 0.8% |  |
+| 39.5–40.5% | 0.1% | 0.1% |  |
 | 40.5–41.5% | 0% | 0% | Last Result |
 
 
@@ -58,7 +58,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [1–4 October 2019](2019-10-04-Promocijaplus.html) | Promocija plus <br> HRT | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [1–23 September 2019](2019-09-23-Promocijaplus.html) | Promocija plus <br> HRT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–20 September 2019](2019-09-20-IPSOSPLUS.html) | IPSOS PLUS <br> Dnevnik | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -81,9 +81,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 2% | 100% |  |
-| 4 | 65% | 98% | Last Result, Median |
-| 5 | 33% | 33% |  |
-| 6 | 0.1% | 0.1% | Majority |
+| 4 | 37% | 98% | Last Result |
+| 5 | 60% | 60% | Median |
+| 6 | 0.7% | 0.7% | Majority |
 | 7 | 0% | 0% |  |
 
 
