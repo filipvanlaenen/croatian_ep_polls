@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 27–38% <br> 4–5 | 2–6% <br> 0 | 21–35% <br> 3–5 | 1–3% <br> 0 | 1–4% <br> 0 | 2–6% <br> 0 | 2–3% <br> 0 | 2–6% <br> 0–1 | 2–8% <br> 0–1 | 3–9% <br> 0–1 | 1–3% <br> 0 | N/A <br> N/A | 1–5% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 0–2% <br> 0 |
-| [1–4 October 2019](2019-10-04-Promocijaplus.html) | Promocija plus <br> HRT | 33–39% <br> 4–5 | 4–6% <br> 0 | 29–34% <br> 4–5 | 2–3% <br> 0 | N/A <br> N/A | 2–3% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | 6–9% <br> 0–1 | 7–10% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–4 October 2019](2019-10-04-Promocijaplus.html) | Promocija plus <br> HRT | 33–39% <br> 4–6 | 4–6% <br> 0 | 29–34% <br> 4–5 | 2–3% <br> 0 | N/A <br> N/A | 2–3% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | 6–9% <br> 0–1 | 7–10% <br> 1 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–20 September 2019](2019-09-20-IPSOSPLUS.html) | IPSOS PLUS <br> Dnevnik | 27–33% <br> 4–5 | 2–4% <br> 0 | 20–25% <br> 3–4 | 1–3% <br> 0 | 2–4% <br> 0 | 3–6% <br> 0–1 | 1–3% <br> 0 | 4–6% <br> 0–1 | 5–8% <br> 0–1 | 5–9% <br> 0–1 | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 0–1% <br> 0 |
 | [8–15 July 2019](2019-07-15-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 26–33% <br> 3–4 | N/A <br> N/A | 29–36% <br> 4–5 | N/A <br> N/A | 1–2% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 |
 | 26 May 2019 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
@@ -389,7 +389,7 @@ Only polls for which at least the sample size has been published are included in
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 5 | 4–5 |4–5 | 4–5 | 3–6 |
 | <a href="#hrvatska-seljačka-stranka-(epp)">Hrvatska seljačka stranka (EPP)</a> | 1 | 0 | 0 |0 | 0 | 0 |
-| <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 4 | 3–5 |3–5 | 3–5 | 3–5 |
+| <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 4 | 3–4 |3–5 | 3–5 | 3–5 |
 | <a href="#hrvatska-narodna-stranka–liberalni-demokrati-(re)">Hrvatska narodna stranka–liberalni demokrati (RE)</a> | 1 | 0 | 0 |0 | 0 | 0 |
 | <a href="#istarski-demokratski-sabor-(re)">Istarski demokratski sabor (RE)</a> | 1 | 0 | 0 |0 | 0 | 0 |
 | <a href="#živi-zid-(ni)">Živi zid (NI)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
@@ -414,8 +414,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 2% | 100% |  |
 | 4 | 37% | 98% | Last Result |
-| 5 | 60% | 60% | Median |
-| 6 | 0.7% | 0.7% | Majority |
+| 5 | 60% | 61% | Median |
+| 6 | 1.1% | 1.1% | Majority |
 | 7 | 0% | 0% |  |
 
 ### Hrvatska seljačka stranka (EPP)
@@ -426,8 +426,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% | Last Result |
+| 0 | 99.9% | 100% | Median |
+| 1 | 0.1% | 0.1% | Last Result |
+| 2 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
 
@@ -485,8 +486,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 37% | 100% | Last Result |
-| 1 | 63% | 63% | Median |
+| 0 | 38% | 100% | Last Result |
+| 1 | 62% | 62% | Median |
 | 2 | 0% | 0% |  |
 
 ### Bandić Milan 365–Stranka rada i solidarnosti (*)
@@ -519,8 +520,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 37% | 100% | Last Result |
-| 1 | 63% | 63% | Median |
+| 0 | 36% | 100% | Last Result |
+| 1 | 64% | 64% | Median |
 | 2 | 0% | 0% |  |
 
 ### Pametno (RE)
@@ -572,8 +573,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Hrvatska demokratska zajednica (EPP) | 4 | 5 | 0.7% | 4–5 | 4–5 | 4–5 | 3–6 |
-| Socijaldemokratska partija Hrvatske (S&D) | 2 | 4 | 0% | 3–5 | 3–5 | 3–5 | 3–5 |
+| Hrvatska demokratska zajednica (EPP) | 4 | 5 | 1.1% | 4–5 | 4–5 | 4–5 | 3–6 |
+| Socijaldemokratska partija Hrvatske (S&D) | 2 | 4 | 0% | 3–4 | 3–5 | 3–5 | 3–5 |
 | Hrvatska konzervativna stranka (ECR) – Hrvatski rast (ECR) – Most nezavisnih lista (ECR) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Živi zid (NI) – Nezavisna lista Mislava Kolakušića (NI) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–2 |
 | Hrvatska narodna stranka–liberalni demokrati (RE) – Amsterdamska koalicija (RE) – Pametno (RE) | 1 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -588,8 +589,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 2% | 100% |  |
 | 4 | 37% | 98% | Last Result |
-| 5 | 60% | 60% | Median |
-| 6 | 0.7% | 0.7% | Majority |
+| 5 | 60% | 61% | Median |
+| 6 | 1.1% | 1.1% | Majority |
 | 7 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -610,8 +611,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 37% | 100% | Last Result |
-| 1 | 63% | 63% | Median |
+| 0 | 38% | 100% | Last Result |
+| 1 | 62% | 62% | Median |
 | 2 | 0% | 0% |  |
 
 ### Živi zid (NI) – Nezavisna lista Mislava Kolakušića (NI)
@@ -621,7 +622,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 36% | 100% | Last Result |
-| 1 | 63% | 64% | Median |
+| 1 | 64% | 64% | Median |
 | 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
 
@@ -656,6 +657,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,228,224
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
 + **Error estimate:** 2.77%
