@@ -54,14 +54,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–20 October 2019](2019-10-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [14–18 October 2019](2019-10-18-Promocijaplus.html) | Promocija plus <br> HRT | 1 | 1 | 1 | 1 | 1 |
+| [1–20 October 2019](2019-10-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [14–18 October 2019](2019-10-18-Promocijaplus.html) | Promocija plus <br> HRT | 1 | 1 | 1 | 1 | 0–1 |
 | [1–4 October 2019](2019-10-04-Promocijaplus.html) | Promocija plus <br> HRT | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–23 September 2019](2019-09-23-Promocijaplus.html) | Promocija plus <br> HRT | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [1–20 September 2019](2019-09-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 1 | 1 | 1 | 1 | 0–1 |
 | [2–6 September 2019](2019-09-06-Promocijaplus.html) | Promocija plus <br> RTL | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [31 July–3 August 2019](2019-08-03-Promocijaplus.html) | Promocija plus <br> RTL | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–20 July 2019](2019-07-20-IPSOSPULS.html) | IPSOS PULS <br> CroBarometer | 1 | 1 | 1 | 1 | 1 |
+| [1–20 July 2019](2019-07-20-IPSOSPULS.html) | IPSOS PULS <br> CroBarometer | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–15 July 2019](2019-07-15-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
 | [1–5 July 2019](2019-07-05-Promocijaplus.html) | Promocija plus <br> RTL | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–20 June 2019](2019-06-20-IPSOSPULS.html) | IPSOS PULS <br> CroBarometer | 1 | 1 | 1 | 1 | 1 |
@@ -77,8 +77,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 32% | 100% | Last Result |
-| 1 | 68% | 68% | Median |
+| 0 | 23% | 100% | Last Result |
+| 1 | 77% | 77% | Median |
 | 2 | 0% | 0% |  |
 
 
