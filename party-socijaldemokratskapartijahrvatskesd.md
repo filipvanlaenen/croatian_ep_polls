@@ -13,7 +13,7 @@ Last result: **29.9%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 27.1% | 23.6–30.2% | 23.0–30.7% | 22.5–31.2% | 21.6–32.0% |
 | [1–25 November 2019](2019-11-25-Promocijaplus.html) | Promocija plus <br> HRT | 29.1% | 27.6–30.7% | 27.2–31.2% | 26.8–31.6% | 26.1–32.4% |
 | [1–20 November 2019](2019-11-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 24.7% | 23.0–26.5% | 22.5–27.0% | 22.1–27.5% | 21.3–28.3% |
-| [4–8 November 2019](2019-11-08-Promocijaplus.html) | Promocija plus <br> RTL | 30.5% | N/A | N/A | N/A | N/A |
+| [4–8 November 2019](2019-11-08-Promocijaplus.html) | Promocija plus <br> RTL | 30.5% | 28.9–32.2% | 28.5–32.7% | 28.1–33.1% | 27.3–33.9% |
 | [1–20 October 2019](2019-10-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 25.1% | 23.3–26.9% | 22.8–27.4% | 22.4–27.9% | 21.6–28.8% |
 | [14–18 October 2019](2019-10-18-Promocijaplus.html) | Promocija plus <br> HRT | 28.8% | 27.3–30.4% | 26.8–30.8% | 26.5–31.2% | 25.8–32.0% |
 | [1–4 October 2019](2019-10-04-Promocijaplus.html) | Promocija plus <br> HRT | 31.8% | 30.1–33.5% | 29.7–33.9% | 29.3–34.4% | 28.5–35.2% |
@@ -63,7 +63,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1–25 November 2019](2019-11-25-Promocijaplus.html) | Promocija plus <br> HRT | 4 | 4 | 4 | 4 | 4–5 |
 | [1–20 November 2019](2019-11-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [4–8 November 2019](2019-11-08-Promocijaplus.html) | Promocija plus <br> RTL |  |  |  |  |  |
+| [4–8 November 2019](2019-11-08-Promocijaplus.html) | Promocija plus <br> RTL | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–20 October 2019](2019-10-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [14–18 October 2019](2019-10-18-Promocijaplus.html) | Promocija plus <br> HRT | 4 | 4 | 4 | 4 | 4–5 |
 | [1–4 October 2019](2019-10-04-Promocijaplus.html) | Promocija plus <br> HRT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
