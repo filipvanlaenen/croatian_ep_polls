@@ -10,16 +10,22 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 1.0–3.1% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.4–2.8% | 1.3–3.1% | 1.2–3.3% | 1.0–3.8% |
+| [5–9 December 2019](2019-12-09-Promocijaplus.html) | Promocija plus <br> HRT | 0.9% | 0.6–1.4% | 0.5–1.5% | 0.5–1.6% | 0.4–1.9% |
 | [1–25 November 2019](2019-11-25-Promocijaplus.html) | Promocija plus <br> HRT | 1.6% | 1.3–2.2% | 1.2–2.3% | 1.1–2.5% | 0.9–2.7% |
 | [1–20 November 2019](2019-11-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.2–2.9% | 1.0–3.2% |
+| [4–15 November 2019](2019-11-15-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 2.4% | 1.8–3.2% | 1.6–3.4% | 1.5–3.7% | 1.3–4.1% |
 | [4–8 November 2019](2019-11-08-Promocijaplus.html) | Promocija plus <br> RTL | 1.6% | 1.2–2.2% | 1.1–2.3% | 1.1–2.5% | 0.9–2.8% |
+| [11–23 October 2019](2019-10-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 2.1% | 1.6–2.9% | 1.4–3.1% | 1.3–3.3% | 1.1–3.7% |
 | [1–20 October 2019](2019-10-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 1.3% | 1.0–1.9% | 0.9–2.1% | 0.8–2.3% | 0.6–2.6% |
 | [14–18 October 2019](2019-10-18-Promocijaplus.html) | Promocija plus <br> HRT | 2.6% | 2.2–3.3% | 2.0–3.5% | 1.9–3.6% | 1.7–4.0% |
 | [1–4 October 2019](2019-10-04-Promocijaplus.html) | Promocija plus <br> HRT | 2.9% | 2.4–3.6% | 2.3–3.8% | 2.1–4.0% | 1.9–4.4% |
 | [1–23 September 2019](2019-09-23-Promocijaplus.html) | Promocija plus <br> HRT | 2.7% | 2.2–3.4% | 2.1–3.6% | 2.0–3.7% | 1.8–4.0% |
 | [1–20 September 2019](2019-09-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 1.6% | 1.2–2.3% | 1.1–2.5% | 1.0–2.7% | 0.8–3.0% |
+| [9–19 September 2019](2019-09-19-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 2.2% | 1.7–3.1% | 1.5–3.4% | 1.4–3.6% | 1.1–4.1% |
 | [2–6 September 2019](2019-09-06-Promocijaplus.html) | Promocija plus <br> RTL | 3.5% | 2.9–4.2% | 2.7–4.4% | 2.6–4.6% | 2.3–5.0% |
+| [1–24 August 2019](2019-08-24-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 2.9% | 2.3–3.9% | 2.1–4.1% | 1.9–4.4% | 1.7–4.9% |
+| [1–20 August 2019](2019-08-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 1.7% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% | 0.9–3.1% |
 | [31 July–3 August 2019](2019-08-03-Promocijaplus.html) | Promocija plus <br> RTL | 4.3% | 3.7–5.2% | 3.5–5.5% | 3.3–5.7% | 3.0–6.2% |
 | [1–20 July 2019](2019-07-20-IPSOSPULS.html) | IPSOS PULS <br> CroBarometer | 2.4% | 1.8–3.2% | 1.7–3.4% | 1.6–3.6% | 1.3–4.0% |
 | [8–15 July 2019](2019-07-15-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3.7% | 3.0–4.8% | 2.8–5.1% | 2.6–5.3% | 2.3–5.9% |
@@ -36,10 +42,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 28% | 100% |  |
-| 1.5–2.5% | 68% | 72% | Median |
-| 2.5–3.5% | 5% | 5% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.5–1.5% | 19% | 100% |  |
+| 1.5–2.5% | 63% | 81% | Median |
+| 2.5–3.5% | 16% | 17% |  |
+| 3.5–4.5% | 1.2% | 1.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -52,15 +58,21 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [5–9 December 2019](2019-12-09-Promocijaplus.html) | Promocija plus <br> HRT | 0 | 0 | 0 | 0 | 0 |
 | [1–25 November 2019](2019-11-25-Promocijaplus.html) | Promocija plus <br> HRT | 0 | 0 | 0 | 0 | 0 |
 | [1–20 November 2019](2019-11-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
+| [4–15 November 2019](2019-11-15-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
 | [4–8 November 2019](2019-11-08-Promocijaplus.html) | Promocija plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
+| [11–23 October 2019](2019-10-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
 | [1–20 October 2019](2019-10-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
 | [14–18 October 2019](2019-10-18-Promocijaplus.html) | Promocija plus <br> HRT | 0 | 0 | 0 | 0 | 0 |
 | [1–4 October 2019](2019-10-04-Promocijaplus.html) | Promocija plus <br> HRT | 0 | 0 | 0 | 0 | 0 |
 | [1–23 September 2019](2019-09-23-Promocijaplus.html) | Promocija plus <br> HRT | 0 | 0 | 0 | 0 | 0 |
 | [1–20 September 2019](2019-09-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
+| [9–19 September 2019](2019-09-19-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
 | [2–6 September 2019](2019-09-06-Promocijaplus.html) | Promocija plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
+| [1–24 August 2019](2019-08-24-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
+| [1–20 August 2019](2019-08-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 0 | 0 | 0 | 0 | 0 |
 | [31 July–3 August 2019](2019-08-03-Promocijaplus.html) | Promocija plus <br> RTL | 0 | 0 | 0 | 0 | 0–1 |
 | [1–20 July 2019](2019-07-20-IPSOSPULS.html) | IPSOS PULS <br> CroBarometer | 0 | 0 | 0 | 0 | 0 |
 | [8–15 July 2019](2019-07-15-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |

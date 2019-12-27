@@ -10,16 +10,22 @@ Last result: **41.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.9% | 30.2–33.8% | 29.7–34.3% | 29.3–34.8% | 28.5–35.8% |
+| N/A | [Poll Average](average.html) | 31.0% | 24.9–33.4% | 24.2–34.0% | 23.6–34.5% | 22.5–35.6% |
+| [5–9 December 2019](2019-12-09-Promocijaplus.html) | Promocija plus <br> HRT | 34.4% | 32.7–36.3% | 32.2–36.8% | 31.7–37.3% | 30.9–38.1% |
 | [1–25 November 2019](2019-11-25-Promocijaplus.html) | Promocija plus <br> HRT | 31.6% | 30.0–33.2% | 29.6–33.7% | 29.2–34.1% | 28.4–34.8% |
 | [1–20 November 2019](2019-11-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 32.3% | 30.4–34.2% | 29.9–34.8% | 29.4–35.2% | 28.5–36.2% |
+| [4–15 November 2019](2019-11-15-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 25.7% | 23.8–27.7% | 23.2–28.3% | 22.8–28.8% | 21.9–29.8% |
 | [4–8 November 2019](2019-11-08-Promocijaplus.html) | Promocija plus <br> RTL | 34.3% | 32.6–36.0% | 32.2–36.5% | 31.8–36.9% | 31.0–37.8% |
+| [11–23 October 2019](2019-10-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 24.8% | 22.9–26.8% | 22.4–27.3% | 21.9–27.8% | 21.0–28.8% |
 | [1–20 October 2019](2019-10-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 32.8% | 30.9–34.8% | 30.4–35.3% | 29.9–35.8% | 29.0–36.7% |
 | [14–18 October 2019](2019-10-18-Promocijaplus.html) | Promocija plus <br> HRT | 32.1% | 30.6–33.8% | 30.1–34.2% | 29.7–34.6% | 29.0–35.4% |
 | [1–4 October 2019](2019-10-04-Promocijaplus.html) | Promocija plus <br> HRT | 35.8% | 34.2–37.6% | 33.7–38.1% | 33.3–38.5% | 32.5–39.3% |
 | [1–23 September 2019](2019-09-23-Promocijaplus.html) | Promocija plus <br> HRT | 31.3% | 29.7–32.9% | 29.3–33.4% | 28.9–33.8% | 28.2–34.6% |
 | [1–20 September 2019](2019-09-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 30.2% | 28.3–32.1% | 27.8–32.6% | 27.4–33.1% | 26.5–34.1% |
+| [9–19 September 2019](2019-09-19-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 25.0% | 23.0–27.1% | 22.4–27.7% | 21.9–28.3% | 21.0–29.3% |
 | [2–6 September 2019](2019-09-06-Promocijaplus.html) | Promocija plus <br> RTL | 35.7% | 34.0–37.4% | 33.5–37.9% | 33.1–38.3% | 32.3–39.2% |
+| [1–24 August 2019](2019-08-24-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 20.9% | 19.1–22.9% | 18.6–23.4% | 18.1–23.9% | 17.3–24.9% |
+| [1–20 August 2019](2019-08-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 32.5% | 30.6–34.5% | 30.1–35.0% | 29.6–35.5% | 28.8–36.5% |
 | [31 July–3 August 2019](2019-08-03-Promocijaplus.html) | Promocija plus <br> RTL | 34.0% | 32.3–35.9% | 31.8–36.4% | 31.3–36.9% | 30.5–37.8% |
 | [1–20 July 2019](2019-07-20-IPSOSPULS.html) | IPSOS PULS <br> CroBarometer | 28.9% | 27.0–30.9% | 26.5–31.5% | 26.0–32.0% | 25.1–33.0% |
 | [8–15 July 2019](2019-07-15-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 29.3% | 27.3–31.5% | 26.7–32.2% | 26.2–32.7% | 25.2–33.8% |
@@ -35,16 +41,23 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 26.5–27.5% | 0% | 100% |  |
-| 27.5–28.5% | 0.5% | 100% |  |
-| 28.5–29.5% | 3% | 99.4% |  |
-| 29.5–30.5% | 12% | 96% |  |
-| 30.5–31.5% | 24% | 84% |  |
-| 31.5–32.5% | 28% | 60% | Median |
-| 32.5–33.5% | 19% | 32% |  |
-| 33.5–34.5% | 9% | 13% |  |
-| 34.5–35.5% | 3% | 4% |  |
-| 35.5–36.5% | 0.7% | 0.8% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0.1% | 100% |  |
+| 21.5–22.5% | 0.5% | 99.9% |  |
+| 22.5–23.5% | 2% | 99.4% |  |
+| 23.5–24.5% | 5% | 98% |  |
+| 24.5–25.5% | 8% | 93% |  |
+| 25.5–26.5% | 8% | 85% |  |
+| 26.5–27.5% | 6% | 77% |  |
+| 27.5–28.5% | 3% | 71% |  |
+| 28.5–29.5% | 3% | 67% |  |
+| 29.5–30.5% | 8% | 64% |  |
+| 30.5–31.5% | 16% | 56% | Median |
+| 31.5–32.5% | 19% | 40% |  |
+| 32.5–33.5% | 13% | 22% |  |
+| 33.5–34.5% | 6% | 9% |  |
+| 34.5–35.5% | 2% | 2% |  |
+| 35.5–36.5% | 0.5% | 0.5% |  |
 | 36.5–37.5% | 0.1% | 0.1% |  |
 | 37.5–38.5% | 0% | 0% |  |
 | 38.5–39.5% | 0% | 0% |  |
@@ -60,21 +73,27 @@ Last result: **4** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
+| [5–9 December 2019](2019-12-09-Promocijaplus.html) | Promocija plus <br> HRT | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–25 November 2019](2019-11-25-Promocijaplus.html) | Promocija plus <br> HRT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–20 November 2019](2019-11-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [4–15 November 2019](2019-11-15-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [4–8 November 2019](2019-11-08-Promocijaplus.html) | Promocija plus <br> RTL | 5 | 5 | 4–5 | 4–5 | 4–6 |
+| [11–23 October 2019](2019-10-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3 | 3 | 3 | 3–4 | 3–4 |
 | [1–20 October 2019](2019-10-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [14–18 October 2019](2019-10-18-Promocijaplus.html) | Promocija plus <br> HRT | 5 | 5 | 5 | 5 | 4–5 |
 | [1–4 October 2019](2019-10-04-Promocijaplus.html) | Promocija plus <br> HRT | 5 | 5 | 5 | 4–6 | 4–6 |
 | [1–23 September 2019](2019-09-23-Promocijaplus.html) | Promocija plus <br> HRT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–20 September 2019](2019-09-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 5 | 5 | 5 | 5 | 4–5 |
+| [9–19 September 2019](2019-09-19-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [2–6 September 2019](2019-09-06-Promocijaplus.html) | Promocija plus <br> RTL | 5 | 5 | 5 | 5–6 | 4–6 |
+| [1–24 August 2019](2019-08-24-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–20 August 2019](2019-08-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [31 July–3 August 2019](2019-08-03-Promocijaplus.html) | Promocija plus <br> RTL | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [1–20 July 2019](2019-07-20-IPSOSPULS.html) | IPSOS PULS <br> CroBarometer | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [8–15 July 2019](2019-07-15-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | [1–5 July 2019](2019-07-05-Promocijaplus.html) | Promocija plus <br> RTL | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [1–20 June 2019](2019-06-20-IPSOSPULS.html) | IPSOS PULS <br> CroBarometer | 3 | 3 | 3 | 3 | 3–4 |
+| [1–20 June 2019](2019-06-20-IPSOSPULS.html) | IPSOS PULS <br> CroBarometer | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7–17 June 2019](2019-06-17-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [3–7 June 2019](2019-06-07-Promocijaplus.html) | Promocija plus <br> RTL | 5 | 5 | 5 | 4–5 | 4–5 |
 | [27 May–1 June 2019](2019-06-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3 | 3 | 3–4 | 3–4 | 3–4 |
@@ -87,9 +106,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 44% | 100% | Last Result |
-| 5 | 51% | 56% | Median |
-| 6 | 5% | 5% | Majority |
+| 3 | 24% | 100% |  |
+| 4 | 39% | 76% | Last Result, Median |
+| 5 | 34% | 37% |  |
+| 6 | 4% | 4% | Majority |
 | 7 | 0% | 0% |  |
 
 
