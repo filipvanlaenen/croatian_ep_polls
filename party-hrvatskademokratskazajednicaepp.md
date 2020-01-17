@@ -82,7 +82,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | [4–15 November 2019](2019-11-15-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [4–8 November 2019](2019-11-08-Promocijaplus.html) | Promocija plus <br> RTL | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [11–23 October 2019](2019-10-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3 | 3 | 3–4 | 3–4 | 3–4 |
-| [1–20 October 2019](2019-10-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [1–20 October 2019](2019-10-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 5 | 5 | 5 | 4–5 | 4–5 |
 | [14–18 October 2019](2019-10-18-Promocijaplus.html) | Promocija plus <br> HRT | 5 | 5 | 5 | 5 | 4–5 |
 | [1–4 October 2019](2019-10-04-Promocijaplus.html) | Promocija plus <br> HRT | 5 | 5 | 5 | 4–6 | 4–6 |
 | [1–23 September 2019](2019-09-23-Promocijaplus.html) | Promocija plus <br> HRT | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
