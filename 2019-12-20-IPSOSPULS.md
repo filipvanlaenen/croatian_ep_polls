@@ -196,7 +196,6 @@
 | Hrvatska demokratska zajednica (EPP) | 4 | 5 | 0.2% | 4–5 | 4–5 | 4–5 | 4–5 |
 | Socijaldemokratska partija Hrvatske (S&D) | 2 | 4 | 0% | 4 | 3–4 | 3–4 | 3–5 |
 | Nezavisna lista Mislava Kolakušića (NI) – Živi zid (NI) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 0–2 |
-| Bandić Milan 365–Stranka rada i solidarnosti (*) – Stranka antikorupcije, razvoja i transparentnosti (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Hrvatska demokratska zajednica (EPP)
 
@@ -231,14 +230,6 @@
 | 1 | 75% | 98% | Median |
 | 2 | 23% | 23% |  |
 | 3 | 0% | 0% |  |
-
-### Bandić Milan 365–Stranka rada i solidarnosti (*) – Stranka antikorupcije, razvoja i transparentnosti (*)
-
-![Graph with seats probability mass function not yet produced](2019-12-20-IPSOSPULS-coalitions-seats-pmf-bm365–start.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Technical Information

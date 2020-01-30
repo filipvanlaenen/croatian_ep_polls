@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 4.0–7.1% | 3.7–7.5% | 3.5–7.8% | 3.1–8.3% |
+| N/A | [Poll Average](average.html) | 4.7% | 3.1–7.1% | 2.9–7.5% | 2.7–7.8% | 2.3–8.3% |
+| [21–22 January 2020](2020-01-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 3.4% | 2.7–4.3% | 2.6–4.5% | 2.4–4.7% | 2.1–5.2% |
+| [9–16 January 2020](2020-01-16-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 4.6% | 3.9–5.6% | 3.7–5.9% | 3.5–6.1% | 3.2–6.6% |
 | [7–11 January 2020](2020-01-11-Promocijaplus.html) | Promocija plus <br> HRT | 6.7% | 5.9–7.7% | 5.6–7.9% | 5.5–8.2% | 5.1–8.7% |
 | [1–20 December 2019](2019-12-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 4.5% | 3.7–5.5% | 3.5–5.8% | 3.3–6.1% | 3.0–6.6% |
 | [5–9 December 2019](2019-12-09-Promocijaplus.html) | Promocija plus <br> HRT | 7.8% | 6.9–8.9% | 6.6–9.3% | 6.4–9.5% | 6.0–10.1% |
@@ -45,12 +47,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 3% | 100% |  |
-| 3.5–4.5% | 24% | 97% |  |
-| 4.5–5.5% | 31% | 73% | Median |
-| 5.5–6.5% | 21% | 42% |  |
-| 6.5–7.5% | 17% | 21% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 19% | 98% |  |
+| 3.5–4.5% | 26% | 80% |  |
+| 4.5–5.5% | 18% | 54% | Median |
+| 5.5–6.5% | 16% | 36% |  |
+| 6.5–7.5% | 16% | 20% |  |
 | 7.5–8.5% | 4% | 4% |  |
 | 8.5–9.5% | 0.3% | 0.3% |  |
 | 9.5–10.5% | 0% | 0% |  |
@@ -65,6 +67,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [21–22 January 2020](2020-01-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
+| [9–16 January 2020](2020-01-16-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0–1 |
 | [7–11 January 2020](2020-01-11-Promocijaplus.html) | Promocija plus <br> HRT | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–20 December 2019](2019-12-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0 | 0 | 0 | 0–1 | 0–1 |
 | [5–9 December 2019](2019-12-09-Promocijaplus.html) | Promocija plus <br> HRT | 1 | 1 | 1 | 1 | 0–1 |
@@ -99,8 +103,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 68% | 100% | Last Result, Median |
-| 1 | 32% | 32% |  |
+| 0 | 70% | 100% | Last Result, Median |
+| 1 | 30% | 30% |  |
 | 2 | 0% | 0% |  |
 
 
