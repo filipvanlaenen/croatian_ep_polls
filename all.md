@@ -5,9 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | HDZ | HSS | SDP | HNS | IDS | Živi zid | P | BM 365 | Most | NLMK | Hrast | HS | NLMŠ | AK | NHR | START | HKS | GLAS |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [21–22 January 2020](2020-01-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 26–32% <br> 4 | 1–2% <br> 0 | 28–34% <br> 4–5 | 0–1% <br> 0 | 1–2% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 1–3% <br> 0 |
-| [9–16 January 2020](2020-01-16-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 23–28% <br> 3–4 | 1–3% <br> 0 | 31–37% <br> 4–5 | N/A <br> N/A | 1–3% <br> 0 | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [7–11 January 2020](2020-01-11-Promocijaplus.html) | Promocija plus <br> HRT | 30–35% <br> 5 | 3–5% <br> 0 | 31–36% <br> 5–6 | 1–3% <br> 0 | 1–2% <br> 0 | 2–4% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 | 5–8% <br> 0–1 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 0–2% <br> 0 | N/A <br> N/A | 0–1% <br> 0 |
+| [21–22 January 2020](2020-01-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 26–32% <br> 4 | 1–2% <br> 0 | 28–34% <br> 4–5 | 0–1% <br> 0 | 1–2% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 17–21% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 1–3% <br> 0 |
+| [9–16 January 2020](2020-01-16-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 23–28% <br> 3–4 | 1–3% <br> 0 | 31–37% <br> 4–5 | N/A <br> N/A | 1–3% <br> 0 | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 11–15% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–11 January 2020](2020-01-11-Promocijaplus.html) | Promocija plus <br> HRT | 30–35% <br> 5 | 3–5% <br> 0 | 31–36% <br> 5–6 | 1–3% <br> 0 | 1–2% <br> 0 | 2–4% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 | 5–8% <br> 0–1 | 3–5% <br> 0 | N/A <br> N/A | 4–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 0–2% <br> 0 | N/A <br> N/A | 0–1% <br> 0 |
 | [1–20 December 2019](2019-12-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 28–34% <br> 4–5 | 2–4% <br> 0 | 23–29% <br> 3–4 | 1–3% <br> 0 | 1–3% <br> 0 | 4–7% <br> 0–1 | 2–5% <br> 0 | 2–4% <br> 0 | 3–6% <br> 0–1 | 5–9% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
 | [5–9 December 2019](2019-12-09-Promocijaplus.html) | Promocija plus <br> HRT | 32–37% <br> 4–5 | 3–5% <br> 0 | 29–35% <br> 4–5 | 2–4% <br> 0 | 1–3% <br> 0 | 1–3% <br> 0 | 1–2% <br> 0 | 1–3% <br> 0 | 6–10% <br> 1 | 7–10% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–25 November 2019](2019-11-25-Promocijaplus.html) | Promocija plus <br> HRT | 29–34% <br> 4–5 | 3–5% <br> 0 | 27–32% <br> 4 | 1–3% <br> 0 | 1–2% <br> 0 | 1–3% <br> 0 | 1–2% <br> 0 | 2–3% <br> 0 | 6–8% <br> 0–1 | 7–10% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
@@ -50,8 +50,8 @@ Only polls for which at least the sample size has been published are included in
 + **Most:** Most nezavisnih lista (ECR)
 + **NLMK:** Nezavisna lista Mislava Kolakušića (NI)
 + **Hrast:** Hrvatski rast (ECR)
-+ **HS:** Hrvatski suverenisti
-+ **NLMŠ:** Nezavisna lista Miroslava Škore
++ **HS:** Hrvatski suverenisti (ECR)
++ **NLMŠ:** Nezavisna lista Miroslava Škore (*)
 + **AK:** Amsterdamska koalicija (RE)
 + **NHR:** Neovisni za Hrvatsku (ID)
 + **START:** Stranka antikorupcije, razvoja i transparentnosti (*)
