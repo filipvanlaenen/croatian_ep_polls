@@ -31,10 +31,10 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 3 | 3 |3 |3–4 |3–4 |
-| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 3 | 2–3 |2–3 |2–3 |2–3 |
+| <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 3 | 3–4 |3–4 |3–4 |3–4 |
+| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 3 | 3 |3 |3 |2–4 |
 | <a href="#živi-zid-(ni)">Živi zid (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#nezavisna-lista-mislava-kolakušića-(ni)">Nezavisna lista Mislava Kolakušića (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#nezavisna-lista-mislava-kolakušića-(ni)">Nezavisna lista Mislava Kolakušića (NI)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 | <a href="#most-nezavisnih-lista-(ecr)">Most nezavisnih lista (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#neovisni-za-hrvatsku-(id)">Neovisni za Hrvatsku (ID)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#hrvatska-narodna-stranka–liberalni-demokrati-(re)">Hrvatska narodna stranka–liberalni demokrati (RE)</a> | 1 | 0 | 0 |0 |0 |0 |
@@ -48,9 +48,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.4% | 100% | Last Result |
-| 3 | 96% | 99.6% | Median |
-| 4 | 4% | 4% |  |
+| 2 | 0% | 100% | Last Result |
+| 3 | 70% | 100% | Median |
+| 4 | 30% | 30% |  |
 | 5 | 0% | 0% |  |
 
 ### Hrvatska demokratska zajednica (EPP)
@@ -61,9 +61,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 14% | 100% |  |
-| 3 | 86% | 86% | Median |
-| 4 | 0% | 0% | Last Result |
+| 2 | 2% | 100% |  |
+| 3 | 97% | 98% | Median |
+| 4 | 0.9% | 0.9% | Last Result |
+| 5 | 0% | 0% |  |
 
 ### Živi zid (NI)
 
@@ -73,8 +74,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0.2% | 0.2% |  |
 | 2 | 0% | 0% |  |
 
 ### Nezavisna lista Mislava Kolakušića (NI)
@@ -85,8 +86,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
+| 0 | 99.5% | 100% | Last Result, Median |
+| 1 | 0.5% | 0.5% |  |
 | 2 | 0% | 0% |  |
 
 ### Most nezavisnih lista (ECR)
@@ -140,10 +141,10 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Socijaldemokratska partija Hrvatske (S&D) | 2 | 3 | 0% | 3 | 3 | 3–4 | 3–4 |
-| Hrvatska demokratska zajednica (EPP) | 4 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
+| Socijaldemokratska partija Hrvatske (S&D) | 2 | 3 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
+| Hrvatska demokratska zajednica (EPP) | 4 | 3 | 0% | 3 | 3 | 3 | 2–4 |
 | Neovisni za Hrvatsku (ID) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
-| Nezavisna lista Mislava Kolakušića (NI) – Živi zid (NI) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Nezavisna lista Mislava Kolakušića (NI) – Živi zid (NI) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
 
@@ -151,9 +152,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.4% | 100% | Last Result |
-| 3 | 96% | 99.6% | Median |
-| 4 | 4% | 4% |  |
+| 2 | 0% | 100% | Last Result |
+| 3 | 70% | 100% | Median |
+| 4 | 30% | 30% |  |
 | 5 | 0% | 0% |  |
 
 ### Hrvatska demokratska zajednica (EPP)
@@ -162,9 +163,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 14% | 100% |  |
-| 3 | 86% | 86% | Median |
-| 4 | 0% | 0% | Last Result |
+| 2 | 2% | 100% |  |
+| 3 | 97% | 98% | Median |
+| 4 | 0.9% | 0.9% | Last Result |
+| 5 | 0% | 0% |  |
 
 ### Neovisni za Hrvatsku (ID)
 
@@ -180,8 +182,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Last Result, Median |
-| 1 | 0.2% | 0.2% |  |
+| 0 | 99.3% | 100% | Last Result, Median |
+| 1 | 0.7% | 0.7% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -196,6 +198,6 @@
 ### Calculations
 
 + **Sample size:** 757
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.88%
++ **Simulations done:** 131,072
++ **Error estimate:** 2.16%
 

@@ -35,11 +35,11 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 5 | 5–6 |5–6 |5–6 |4–6 |
-| <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 4 | 3–4 |3–4 |3–4 |3–4 |
-| <a href="#nezavisna-lista-mislava-kolakušića-(ni)">Nezavisna lista Mislava Kolakušića (NI)</a> | 0 | 1 | 1 |1 |1 |1 |
+| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 6 | 5–6 |5–6 |5–6 |5–6 |
+| <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 4 | 4 |4 |4 |3–5 |
+| <a href="#nezavisna-lista-mislava-kolakušića-(ni)">Nezavisna lista Mislava Kolakušića (NI)</a> | 0 | 1 | 1 |1 |1 |1–2 |
 | <a href="#bandić-milan-365–stranka-rada-i-solidarnosti-(*)">Bandić Milan 365–Stranka rada i solidarnosti (*)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#živi-zid-(ni)">Živi zid (NI)</a> | 0 | 0 | 0 |0 |0 |0–1 |
+| <a href="#živi-zid-(ni)">Živi zid (NI)</a> | 0 | 0 | 0 |0 |0–1 |0–1 |
 | <a href="#most-nezavisnih-lista-(ecr)">Most nezavisnih lista (ECR)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 | <a href="#hrvatska-seljačka-stranka-(epp)">Hrvatska seljačka stranka (EPP)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#pametno-(re)">Pametno (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -56,10 +56,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 2% | 100% | Last Result |
-| 5 | 88% | 98% | Median |
-| 6 | 11% | 11% | Majority |
-| 7 | 0% | 0% |  |
+| 4 | 0.1% | 100% | Last Result |
+| 5 | 46% | 99.9% |  |
+| 6 | 54% | 54% | Median |
+| 7 | 0% | 0% | Majority |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
 
@@ -70,10 +70,10 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 23% | 100% |  |
-| 4 | 77% | 77% | Median |
-| 5 | 0.1% | 0.1% |  |
-| 6 | 0% | 0% | Majority |
+| 3 | 2% | 100% |  |
+| 4 | 96% | 98% | Median |
+| 5 | 2% | 2% |  |
+| 6 | 0% | 0% |  |
 
 ### Nezavisna lista Mislava Kolakušića (NI)
 
@@ -83,9 +83,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 99.8% | 99.9% | Median |
-| 2 | 0% | 0% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 99.5% | 100% | Median |
+| 2 | 0.5% | 0.5% |  |
+| 3 | 0% | 0% |  |
 
 ### Bandić Milan 365–Stranka rada i solidarnosti (*)
 
@@ -95,8 +96,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 11% | 11% |  |
+| 0 | 65% | 100% | Last Result, Median |
+| 1 | 35% | 35% |  |
 | 2 | 0% | 0% |  |
 
 ### Živi zid (NI)
@@ -107,8 +108,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.8% | 100% | Last Result, Median |
-| 1 | 1.2% | 1.2% |  |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 3% | 3% |  |
 | 2 | 0% | 0% |  |
 
 ### Most nezavisnih lista (ECR)
@@ -119,8 +120,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.9% | 100% | Last Result, Median |
-| 1 | 1.1% | 1.1% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 2% | 2% |  |
 | 2 | 0% | 0% |  |
 
 ### Hrvatska seljačka stranka (EPP)
@@ -195,9 +196,9 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Hrvatska demokratska zajednica (EPP) | 4 | 5 | 11% | 5–6 | 5–6 | 5–6 | 4–6 |
-| Socijaldemokratska partija Hrvatske (S&D) | 2 | 4 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
-| Nezavisna lista Mislava Kolakušića (NI) – Živi zid (NI) | 0 | 1 | 0% | 1 | 1 | 1 | 1–2 |
+| Hrvatska demokratska zajednica (EPP) | 4 | 6 | 0% | 5–6 | 5–6 | 5–6 | 5–6 |
+| Socijaldemokratska partija Hrvatske (S&D) | 2 | 4 | 0% | 4 | 4 | 4 | 3–5 |
+| Nezavisna lista Mislava Kolakušića (NI) – Živi zid (NI) | 0 | 1 | 0% | 1 | 1 | 1–2 | 1–2 |
 | Bandić Milan 365–Stranka rada i solidarnosti (*) – Stranka antikorupcije, razvoja i transparentnosti (*) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Neovisni za Hrvatsku (ID) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
@@ -207,10 +208,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 2% | 100% | Last Result |
-| 5 | 88% | 98% | Median |
-| 6 | 11% | 11% | Majority |
-| 7 | 0% | 0% |  |
+| 4 | 0.1% | 100% | Last Result |
+| 5 | 46% | 99.9% |  |
+| 6 | 54% | 54% | Median |
+| 7 | 0% | 0% | Majority |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
 
@@ -219,10 +220,10 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 23% | 100% |  |
-| 4 | 77% | 77% | Median |
-| 5 | 0.1% | 0.1% |  |
-| 6 | 0% | 0% | Majority |
+| 3 | 2% | 100% |  |
+| 4 | 96% | 98% | Median |
+| 5 | 2% | 2% |  |
+| 6 | 0% | 0% |  |
 
 ### Nezavisna lista Mislava Kolakušića (NI) – Živi zid (NI)
 
@@ -230,9 +231,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 98.6% | 99.9% | Median |
-| 2 | 1.3% | 1.3% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 96% | 100% | Median |
+| 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 
 ### Bandić Milan 365–Stranka rada i solidarnosti (*) – Stranka antikorupcije, razvoja i transparentnosti (*)
@@ -241,8 +242,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 11% | 11% |  |
+| 0 | 65% | 100% | Last Result, Median |
+| 1 | 35% | 35% |  |
 | 2 | 0% | 0% |  |
 
 ### Neovisni za Hrvatsku (ID)
