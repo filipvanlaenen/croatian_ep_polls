@@ -100,7 +100,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [1–20 June 2019](2019-06-20-IPSOSPULS.html) | IPSOS PULS <br> CroBarometer | 2 | 2 | 2 | 2–3 | 2–3 |
 | [7–17 June 2019](2019-06-17-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [3–7 June 2019](2019-06-07-Promocijaplus.html) | Promocija plus <br> RTL | 4 | 4 | 4 | 4 | 4 |
-| [27 May–1 June 2019](2019-06-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [27 May–1 June 2019](2019-06-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3 | 3 | 3 | 3 | 3 |
 
 ### Probability Mass Function
 
