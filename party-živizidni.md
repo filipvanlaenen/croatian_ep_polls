@@ -37,7 +37,7 @@ Last result: **0.5%** (General Election of 26 May 2019)
 | [1–5 July 2019](2019-07-05-Promocijaplus.html) | Promocija plus <br> RTL | 5.3% | 4.6–6.2% | 4.4–6.4% | 4.2–6.7% | 3.9–7.1% |
 | [1–20 June 2019](2019-06-20-IPSOSPULS.html) | IPSOS PULS <br> CroBarometer | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [7–17 June 2019](2019-06-17-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 7.1% | 6.2–8.2% | 5.9–8.6% | 5.7–8.8% | 5.3–9.4% |
-| [3–7 June 2019](2019-06-07-Promocijaplus.html) | Promocija plus <br> RTL | 6.5% | N/A | N/A | N/A | N/A |
+| [3–7 June 2019](2019-06-07-Promocijaplus.html) | Promocija plus <br> RTL | 6.5% | 5.7–7.4% | 5.4–7.7% | 5.2–7.9% | 4.9–8.4% |
 | [27 May–1 June 2019](2019-06-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 7.1% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
@@ -92,7 +92,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–5 July 2019](2019-07-05-Promocijaplus.html) | Promocija plus <br> RTL | 0 | 0 | 0 | 0–1 | 0–1 |
 | [1–20 June 2019](2019-06-20-IPSOSPULS.html) | IPSOS PULS <br> CroBarometer | 1 | 1 | 1 | 1 | 0–1 |
 | [7–17 June 2019](2019-06-17-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1 | 1 | 1 | 1 | 0–1 |
-| [3–7 June 2019](2019-06-07-Promocijaplus.html) | Promocija plus <br> RTL |  |  |  |  |  |
+| [3–7 June 2019](2019-06-07-Promocijaplus.html) | Promocija plus <br> RTL | 1 | 1 | 1 | 1 | 0–1 |
 | [27 May–1 June 2019](2019-06-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |
 
 ### Probability Mass Function
