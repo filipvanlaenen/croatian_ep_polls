@@ -10,8 +10,8 @@ Last result: **29.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32.8% | 30.0–35.0% | 29.3–35.6% | 28.7–36.1% | 27.7–37.0% |
-| [14–18 February 2020](2020-02-18-PromocijaPLUS.html) | Promocija PLUS | 32.3% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 32.6% | 30.2–34.8% | 29.5–35.4% | 28.9–35.9% | 27.9–36.9% |
+| [14–18 February 2020](2020-02-18-PromocijaPLUS.html) | Promocija PLUS | 32.3% | 30.7–33.9% | 30.3–34.4% | 29.9–34.8% | 29.1–35.6% |
 | [6 February 2020](2020-02-06-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 28.9% | 27.3–30.6% | 26.9–31.0% | 26.5–31.5% | 25.8–32.3% |
 | [21–22 January 2020](2020-01-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 30.8% | 29.0–32.8% | 28.4–33.3% | 28.0–33.8% | 27.1–34.7% |
 | [9–16 January 2020](2020-01-16-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 33.6% | 31.8–35.6% | 31.2–36.1% | 30.8–36.6% | 29.9–37.5% |
@@ -49,17 +49,17 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 25.5–26.5% | 0% | 100% |  |
 | 26.5–27.5% | 0.3% | 100% |  |
-| 27.5–28.5% | 2% | 99.6% |  |
-| 28.5–29.5% | 5% | 98% |  |
-| 29.5–30.5% | 9% | 94% | Last Result |
-| 30.5–31.5% | 13% | 85% |  |
-| 31.5–32.5% | 18% | 72% |  |
-| 32.5–33.5% | 21% | 55% | Median |
-| 33.5–34.5% | 18% | 34% |  |
-| 34.5–35.5% | 10% | 16% |  |
-| 35.5–36.5% | 4% | 5% |  |
-| 36.5–37.5% | 1.0% | 1.2% |  |
-| 37.5–38.5% | 0.2% | 0.2% |  |
+| 27.5–28.5% | 1.2% | 99.7% |  |
+| 28.5–29.5% | 4% | 98.5% |  |
+| 29.5–30.5% | 8% | 95% | Last Result |
+| 30.5–31.5% | 15% | 87% |  |
+| 31.5–32.5% | 21% | 72% |  |
+| 32.5–33.5% | 22% | 51% | Median |
+| 33.5–34.5% | 17% | 29% |  |
+| 34.5–35.5% | 9% | 13% |  |
+| 35.5–36.5% | 3% | 4% |  |
+| 36.5–37.5% | 0.8% | 0.9% |  |
+| 37.5–38.5% | 0.1% | 0.1% |  |
 | 38.5–39.5% | 0% | 0% |  |
 
 
@@ -71,8 +71,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5 | 5–6 | 4–6 | 4–6 |
-| [14–18 February 2020](2020-02-18-PromocijaPLUS.html) | Promocija PLUS |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [14–18 February 2020](2020-02-18-PromocijaPLUS.html) | Promocija PLUS | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [6 February 2020](2020-02-06-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 4 | 4 | 4 | 4–5 | 4–5 |
 | [21–22 January 2020](2020-01-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 5 | 5 | 4–5 | 4–5 | 4–5 |
 | [9–16 January 2020](2020-01-16-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 5 | 5 | 5–6 | 4–6 | 4–6 |
@@ -112,9 +112,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 3% | 100% |  |
-| 5 | 92% | 97% | Median |
-| 6 | 5% | 5% |  |
+| 4 | 24% | 100% |  |
+| 5 | 72% | 76% | Median |
+| 6 | 4% | 4% |  |
 | 7 | 0% | 0% | Majority |
 
 

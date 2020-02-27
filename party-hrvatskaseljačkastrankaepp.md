@@ -10,8 +10,8 @@ Last result: **41.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.3–3.9% | 1.1–4.1% | 1.0–4.4% | 0.8–4.8% |
-| [14–18 February 2020](2020-02-18-PromocijaPLUS.html) | Promocija PLUS | 2.7% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 2.4% | 1.4–3.7% | 1.2–4.0% | 1.0–4.3% | 0.8–4.7% |
+| [14–18 February 2020](2020-02-18-PromocijaPLUS.html) | Promocija PLUS | 2.7% | 2.2–3.4% | 2.1–3.6% | 2.0–3.7% | 1.8–4.0% |
 | [6 February 2020](2020-02-06-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 2.3% | 1.8–2.9% | 1.7–3.1% | 1.6–3.3% | 1.4–3.6% |
 | [21–22 January 2020](2020-01-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 1.4% | 1.1–2.1% | 0.9–2.2% | 0.9–2.4% | 0.7–2.7% |
 | [9–16 January 2020](2020-01-16-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
@@ -48,11 +48,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 22% | 100% |  |
-| 1.5–2.5% | 39% | 78% | Median |
-| 2.5–3.5% | 20% | 38% |  |
-| 3.5–4.5% | 16% | 18% |  |
-| 4.5–5.5% | 1.3% | 1.4% |  |
+| 0.5–1.5% | 17% | 100% |  |
+| 1.5–2.5% | 37% | 83% | Median |
+| 2.5–3.5% | 31% | 46% |  |
+| 3.5–4.5% | 13% | 14% |  |
+| 4.5–5.5% | 1.0% | 1.0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -100,7 +100,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [14–18 February 2020](2020-02-18-PromocijaPLUS.html) | Promocija PLUS |  |  |  |  |  |
+| [14–18 February 2020](2020-02-18-PromocijaPLUS.html) | Promocija PLUS | 0 | 0 | 0 | 0 | 0 |
 | [6 February 2020](2020-02-06-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 0 | 0 | 0 | 0 | 0 |
 | [21–22 January 2020](2020-01-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
 | [9–16 January 2020](2020-01-16-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
