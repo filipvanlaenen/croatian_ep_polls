@@ -11,6 +11,8 @@ Last result: **29.9%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 32.6% | 30.2–34.8% | 29.5–35.4% | 28.9–35.9% | 27.9–36.9% |
+| [3–6 March 2020](2020-03-06-PromocijaPLUS.html) | Promocija PLUS | 33.6% | N/A | N/A | N/A | N/A |
+| [1–20 February 2020](2020-02-20-IPSOSPLUS.html) | IPSOS PLUS <br> Dnevnik | 28.2% | N/A | N/A | N/A | N/A |
 | [14–18 February 2020](2020-02-18-PromocijaPLUS.html) | Promocija PLUS | 32.3% | 30.7–33.9% | 30.3–34.4% | 29.9–34.8% | 29.1–35.6% |
 | [6 February 2020](2020-02-06-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 28.9% | 27.3–30.6% | 26.9–31.0% | 26.5–31.5% | 25.8–32.3% |
 | [21–22 January 2020](2020-01-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 30.8% | 29.0–32.8% | 28.4–33.3% | 28.0–33.8% | 27.1–34.7% |
@@ -72,6 +74,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [3–6 March 2020](2020-03-06-PromocijaPLUS.html) | Promocija PLUS |  |  |  |  |  |
+| [1–20 February 2020](2020-02-20-IPSOSPLUS.html) | IPSOS PLUS <br> Dnevnik |  |  |  |  |  |
 | [14–18 February 2020](2020-02-18-PromocijaPLUS.html) | Promocija PLUS | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [6 February 2020](2020-02-06-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 4 | 4 | 4 | 4–5 | 4–5 |
 | [21–22 January 2020](2020-01-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 5 | 5 | 4–5 | 4–5 | 4–5 |
