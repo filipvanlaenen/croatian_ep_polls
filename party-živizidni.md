@@ -10,7 +10,7 @@ Last result: **0.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.2–4.5% | 1.1–4.9% | 1.0–5.3% | 0.8–5.9% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.3–4.5% | 1.1–4.9% | 1.0–5.3% | 0.8–5.9% |
 | [3–6 March 2020](2020-03-06-PromocijaPLUS.html) | Promocija PLUS | 1.3% | 1.0–1.8% | 0.9–2.0% | 0.8–2.1% | 0.7–2.4% |
 | [1–20 February 2020](2020-02-20-IPSOSPLUS.html) | IPSOS PLUS <br> Dnevnik | 1.9% | 1.5–2.6% | 1.3–2.8% | 1.2–3.0% | 1.1–3.4% |
 | [14–18 February 2020](2020-02-18-PromocijaPLUS.html) | Promocija PLUS | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.8–1.9% | 0.6–2.2% |
@@ -50,8 +50,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 20% | 100% |  |
-| 1.5–2.5% | 40% | 80% | Median |
+| 0.5–1.5% | 18% | 100% |  |
+| 1.5–2.5% | 42% | 82% | Median |
 | 2.5–3.5% | 20% | 40% |  |
 | 3.5–4.5% | 10% | 20% |  |
 | 4.5–5.5% | 8% | 9% |  |
