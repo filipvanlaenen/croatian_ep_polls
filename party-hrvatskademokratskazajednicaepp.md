@@ -10,7 +10,8 @@ Last result: **41.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.2% | 26.0–32.5% | 25.3–33.3% | 24.7–33.9% | 23.7–34.9% |
+| N/A | [Poll Average](average.html) | 29.6% | 26.2–32.6% | 25.4–33.3% | 24.8–33.9% | 23.7–34.9% |
+| [1–20 March 2020](2020-03-20-IPSOSPLUS.html) | IPSOS PLUS <br> Dnevnik | 29.1% | 27.3–31.0% | 26.8–31.6% | 26.4–32.0% | 25.5–33.0% |
 | [16–19 March 2020](2020-03-19-PromocijaPLUS.html) | Promocija PLUS | 30.5% | 28.9–32.1% | 28.5–32.6% | 28.1–33.0% | 27.4–33.7% |
 | [4–12 March 2020](2020-03-12-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 26.3% | 24.6–28.1% | 24.1–28.6% | 23.7–29.1% | 22.9–30.0% |
 | [3–6 March 2020](2020-03-06-PromocijaPLUS.html) | Promocija PLUS | 30.6% | 29.0–32.3% | 28.5–32.8% | 28.2–33.2% | 27.4–34.0% |
@@ -53,15 +54,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0.3% | 100% |  |
-| 23.5–24.5% | 2% | 99.6% |  |
-| 24.5–25.5% | 5% | 98% |  |
-| 25.5–26.5% | 9% | 93% |  |
-| 26.5–27.5% | 12% | 85% |  |
-| 27.5–28.5% | 13% | 73% |  |
-| 28.5–29.5% | 14% | 59% | Median |
-| 29.5–30.5% | 13% | 46% |  |
-| 30.5–31.5% | 12% | 32% |  |
-| 31.5–32.5% | 10% | 20% |  |
+| 23.5–24.5% | 1.5% | 99.6% |  |
+| 24.5–25.5% | 4% | 98% |  |
+| 25.5–26.5% | 7% | 94% |  |
+| 26.5–27.5% | 9% | 87% |  |
+| 27.5–28.5% | 12% | 78% |  |
+| 28.5–29.5% | 15% | 66% |  |
+| 29.5–30.5% | 16% | 51% | Median |
+| 30.5–31.5% | 14% | 35% |  |
+| 31.5–32.5% | 11% | 21% |  |
 | 32.5–33.5% | 6% | 10% |  |
 | 33.5–34.5% | 3% | 4% |  |
 | 34.5–35.5% | 0.8% | 0.9% |  |
@@ -82,6 +83,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [1–20 March 2020](2020-03-20-IPSOSPLUS.html) | IPSOS PLUS <br> Dnevnik | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [16–19 March 2020](2020-03-19-PromocijaPLUS.html) | Promocija PLUS | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [4–12 March 2020](2020-03-12-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 4 | 4 | 4 | 3–4 | 3–5 |
 | [3–6 March 2020](2020-03-06-PromocijaPLUS.html) | Promocija PLUS | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -125,8 +127,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.8% | 100% |  |
-| 4 | 53% | 99.2% | Last Result, Median |
-| 5 | 46% | 46% |  |
+| 4 | 63% | 99.2% | Last Result, Median |
+| 5 | 36% | 36% |  |
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% | Majority |
 
