@@ -10,20 +10,21 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Socijaldemokratska partija Hrvatske (S&D) | 29.9% | 32.7% | 31.1–34.4% |30.7–34.8% |30.3–35.2% |29.6–36.0% |
-| Hrvatska demokratska zajednica (EPP) | 41.4% | 30.5% | 28.9–32.1% |28.5–32.6% |28.1–33.0% |27.4–33.7% |
-| Nezavisna lista Miroslava Škore (*) | 0.0% | 11.7% | 10.7–12.9% |10.4–13.2% |10.1–13.5% |9.6–14.1% |
-| Most nezavisnih lista (ECR) | 0.0% | 4.2% | 3.6–5.0% |3.4–5.2% |3.3–5.4% |3.0–5.8% |
-| Hrvatska seljačka stranka (EPP) | 41.4% | 2.8% | 2.3–3.4% |2.1–3.6% |2.0–3.8% |1.8–4.1% |
-| Nezavisna lista Mislava Kolakušića (NI) | 0.0% | 2.2% | 1.8–2.8% |1.7–3.0% |1.6–3.1% |1.4–3.4% |
-| Bandić Milan 365–Stranka rada i solidarnosti (*) | 0.0% | 1.6% | 1.2–2.1% |1.1–2.2% |1.0–2.4% |0.9–2.7% |
-| Istarski demokratski sabor (RE) | 29.9% | 1.5% | 1.2–2.0% |1.1–2.2% |1.0–2.3% |0.8–2.6% |
-| Pametno (RE) | 0.0% | 1.5% | 1.2–2.0% |1.1–2.2% |1.0–2.3% |0.8–2.6% |
-| Živi zid (NI) | 0.5% | 1.2% | 0.9–1.7% |0.8–1.8% |0.8–1.9% |0.6–2.2% |
-| Hrvatska narodna stranka–liberalni demokrati (RE) | 29.9% | 1.2% | 0.9–1.7% |0.8–1.8% |0.8–1.9% |0.6–2.2% |
-| Hrvatski rast (ECR) | 0.0% | 1.2% | 0.9–1.7% |0.8–1.8% |0.8–1.9% |0.6–2.2% |
-| Neovisni za Hrvatsku (ID) | 0.0% | 1.0% | 0.7–1.4% |0.7–1.6% |0.6–1.7% |0.5–1.9% |
-| Građansko-liberalni savez (RE) | 0.0% | 0.9% | 0.7–1.4% |0.6–1.5% |0.5–1.6% |0.4–1.8% |
+| Socijaldemokratska partija Hrvatske (S&D) | 29.9% | 29.3% | 27.8–30.9% |27.3–31.3% |27.0–31.7% |26.2–32.5% |
+| Hrvatska demokratska zajednica (EPP) | 41.4% | 27.3% | 25.8–28.9% |25.4–29.3% |25.0–29.7% |24.3–30.5% |
+| Nezavisna lista Miroslava Škore (*) | 0.0% | 10.5% | 9.5–11.6% |9.2–11.9% |9.0–12.2% |8.6–12.8% |
+| Most nezavisnih lista (ECR) | 0.0% | 3.8% | 3.2–4.5% |3.0–4.7% |2.9–4.9% |2.7–5.3% |
+| Hrvatska seljačka stranka (EPP) | 41.4% | 2.5% | 2.0–3.1% |1.9–3.3% |1.8–3.5% |1.6–3.8% |
+| Nezavisna lista Mislava Kolakušića (NI) | 0.0% | 2.0% | 1.6–2.6% |1.5–2.7% |1.4–2.9% |1.2–3.2% |
+| Bandić Milan 365–Stranka rada i solidarnosti (*) | 0.0% | 1.4% | 1.1–1.9% |1.0–2.1% |0.9–2.2% |0.8–2.5% |
+| Istarski demokratski sabor (RE) | 29.9% | 1.3% | 1.0–1.8% |0.9–1.9% |0.8–2.0% |0.7–2.3% |
+| Pametno (RE) | 0.0% | 1.3% | 1.0–1.8% |0.9–1.9% |0.8–2.0% |0.7–2.3% |
+| Živi zid (NI) | 0.5% | 1.1% | 0.8–1.5% |0.7–1.6% |0.6–1.8% |0.5–2.0% |
+| Hrvatska narodna stranka–liberalni demokrati (RE) | 29.9% | 1.1% | 0.8–1.5% |0.7–1.6% |0.6–1.8% |0.5–2.0% |
+| Hrvatski suverenisti (ECR) | 0.0% | 1.1% | 0.8–1.5% |0.7–1.6% |0.6–1.8% |0.5–2.0% |
+| Neovisni za Hrvatsku (ID) | 0.0% | 0.9% | 0.7–1.4% |0.6–1.5% |0.5–1.6% |0.4–1.8% |
+| Stranka antikorupcije, razvoja i transparentnosti (*) | 0.0% | 0.8% | 0.5–1.2% |0.5–1.3% |0.4–1.4% |0.4–1.6% |
+| Građansko-liberalni savez (RE) | 0.0% | 0.8% | 0.5–1.2% |0.5–1.3% |0.4–1.4% |0.4–1.6% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -37,9 +38,9 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 6 | 5–6 |5–6 |5–6 |5–6 |
+| <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 4 | 4–5 |4–5 |4–5 |4–5 |
 | <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 4 | 4–5 |4–5 |4–5 |4–5 |
-| <a href="#nezavisna-lista-miroslava-škore-(*)">Nezavisna lista Miroslava Škore (*)</a> | 0 | 2 | 2 |1–2 |1–2 |1–2 |
+| <a href="#nezavisna-lista-miroslava-škore-(*)">Nezavisna lista Miroslava Škore (*)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#most-nezavisnih-lista-(ecr)">Most nezavisnih lista (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#hrvatska-seljačka-stranka-(epp)">Hrvatska seljačka stranka (EPP)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#nezavisna-lista-mislava-kolakušića-(ni)">Nezavisna lista Mislava Kolakušića (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -48,8 +49,9 @@
 | <a href="#pametno-(re)">Pametno (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#živi-zid-(ni)">Živi zid (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#hrvatska-narodna-stranka–liberalni-demokrati-(re)">Hrvatska narodna stranka–liberalni demokrati (RE)</a> | 1 | 0 | 0 |0 |0 |0 |
-| <a href="#hrvatski-rast-(ecr)">Hrvatski rast (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#hrvatski-suverenisti-(ecr)">Hrvatski suverenisti (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#neovisni-za-hrvatsku-(id)">Neovisni za Hrvatsku (ID)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#stranka-antikorupcije,-razvoja-i-transparentnosti-(*)">Stranka antikorupcije, razvoja i transparentnosti (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#građansko-liberalni-savez-(re)">Građansko-liberalni savez (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -62,10 +64,9 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 0.3% | 100% |  |
-| 5 | 39% | 99.7% |  |
-| 6 | 61% | 61% | Median |
-| 7 | 0% | 0% | Majority |
+| 4 | 61% | 100% | Median |
+| 5 | 39% | 39% |  |
+| 6 | 0% | 0% |  |
 
 ### Hrvatska demokratska zajednica (EPP)
 
@@ -75,10 +76,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 69% | 100% | Last Result, Median |
-| 5 | 31% | 31% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% | Majority |
+| 4 | 89% | 100% | Last Result, Median |
+| 5 | 11% | 11% |  |
+| 6 | 0% | 0% |  |
 
 ### Nezavisna lista Miroslava Škore (*)
 
@@ -89,8 +89,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 5% | 100% |  |
-| 2 | 95% | 95% | Median |
+| 1 | 50% | 100% |  |
+| 2 | 50% | 50% | Median |
 | 3 | 0% | 0% |  |
 
 ### Most nezavisnih lista (ECR)
@@ -178,11 +178,11 @@
 | 0 | 100% | 100% | Median |
 | 1 | 0% | 0% | Last Result |
 
-### Hrvatski rast (ECR)
+### Hrvatski suverenisti (ECR)
 
-*For a full overview of the results for this party, see the [Hrvatski rast (ECR)](party-hrvatskirastecr.html) page.*
+*For a full overview of the results for this party, see the [Hrvatski suverenisti (ECR)](party-hrvatskisuverenistiecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2020-03-19-PromocijaPLUS-seats-pmf-hrvatskirastecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-03-19-PromocijaPLUS-seats-pmf-hrvatskisuverenistiecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -193,6 +193,16 @@
 *For a full overview of the results for this party, see the [Neovisni za Hrvatsku (ID)](party-neovisnizahrvatskuid.html) page.*
 
 ![Graph with seats probability mass function not yet produced](2020-03-19-PromocijaPLUS-seats-pmf-neovisnizahrvatskuid.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Stranka antikorupcije, razvoja i transparentnosti (*)
+
+*For a full overview of the results for this party, see the [Stranka antikorupcije, razvoja i transparentnosti (*)](party-strankaantikorupcijerazvojaitransparentnosti.html) page.*
+
+![Graph with seats probability mass function not yet produced](2020-03-19-PromocijaPLUS-seats-pmf-strankaantikorupcijerazvojaitransparentnosti.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -217,10 +227,21 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Socijaldemokratska partija Hrvatske (S&D) | 2 | 6 | 0% | 5–6 | 5–6 | 5–6 | 5–6 |
 | Hrvatska demokratska zajednica (EPP) | 4 | 4 | 0% | 4–5 | 4–5 | 4–5 | 4–5 |
+| Socijaldemokratska partija Hrvatske (S&D) | 2 | 4 | 0% | 4–5 | 4–5 | 4–5 | 4–5 |
+| Nezavisna lista Miroslava Škore (*) – Bandić Milan 365–Stranka rada i solidarnosti (*) – Stranka antikorupcije, razvoja i transparentnosti (*) | 0 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Neovisni za Hrvatsku (ID) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Nezavisna lista Mislava Kolakušića (NI) – Živi zid (NI) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+
+### Hrvatska demokratska zajednica (EPP)
+
+![Graph with seats probability mass function not yet produced](2020-03-19-PromocijaPLUS-coalitions-seats-pmf-hdz.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 4 | 89% | 100% | Last Result, Median |
+| 5 | 11% | 11% |  |
+| 6 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
 
@@ -230,21 +251,20 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 0.3% | 100% |  |
-| 5 | 39% | 99.7% |  |
-| 6 | 61% | 61% | Median |
-| 7 | 0% | 0% | Majority |
+| 4 | 61% | 100% | Median |
+| 5 | 39% | 39% |  |
+| 6 | 0% | 0% |  |
 
-### Hrvatska demokratska zajednica (EPP)
+### Nezavisna lista Miroslava Škore (*) – Bandić Milan 365–Stranka rada i solidarnosti (*) – Stranka antikorupcije, razvoja i transparentnosti (*)
 
-![Graph with seats probability mass function not yet produced](2020-03-19-PromocijaPLUS-coalitions-seats-pmf-hdz.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-03-19-PromocijaPLUS-coalitions-seats-pmf-nlmš–bm365–start.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 69% | 100% | Last Result, Median |
-| 5 | 31% | 31% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% | Majority |
+| 0 | 0% | 100% | Last Result |
+| 1 | 50% | 100% |  |
+| 2 | 50% | 50% | Median |
+| 3 | 0% | 0% |  |
 
 ### Neovisni za Hrvatsku (ID)
 
@@ -275,5 +295,5 @@
 
 + **Sample size:** 1400
 + **Simulations done:** 1,048,576
-+ **Error estimate:** 2.82%
++ **Error estimate:** 2.32%
 

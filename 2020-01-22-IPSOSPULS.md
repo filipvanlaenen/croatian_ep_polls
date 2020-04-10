@@ -10,12 +10,12 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Socijaldemokratska partija Hrvatske (S&D) | 29.9% | 30.8% | 29.0–32.8% |28.4–33.3% |28.0–33.8% |27.1–34.7% |
-| Hrvatska demokratska zajednica (EPP) | 41.4% | 29.1% | 27.3–31.0% |26.7–31.5% |26.3–32.0% |25.5–32.9% |
-| Nezavisna lista Miroslava Škore (*) | 0.0% | 18.8% | 17.3–20.5% |16.9–21.0% |16.5–21.4% |15.8–22.2% |
-| Most nezavisnih lista (ECR) | 0.0% | 3.4% | 2.7–4.3% |2.6–4.5% |2.4–4.7% |2.1–5.2% |
-| Pametno (RE) | 0.0% | 2.4% | 1.8–3.1% |1.7–3.3% |1.6–3.5% |1.4–3.9% |
-| Živi zid (NI) | 0.5% | 2.3% | 1.8–3.0% |1.6–3.2% |1.5–3.4% |1.3–3.8% |
+| Socijaldemokratska partija Hrvatske (S&D) | 29.9% | 30.1% | 28.3–32.0% |27.7–32.6% |27.3–33.0% |26.4–34.0% |
+| Hrvatska demokratska zajednica (EPP) | 41.4% | 28.4% | 26.6–30.3% |26.0–30.8% |25.6–31.3% |24.8–32.2% |
+| Nezavisna lista Miroslava Škore (*) | 0.0% | 18.4% | 16.9–20.1% |16.5–20.6% |16.1–21.0% |15.4–21.8% |
+| Most nezavisnih lista (ECR) | 0.0% | 3.3% | 2.7–4.1% |2.5–4.4% |2.3–4.6% |2.1–5.0% |
+| Pametno (RE) | 0.0% | 2.3% | 1.8–3.0% |1.6–3.2% |1.5–3.4% |1.3–3.8% |
+| Živi zid (NI) | 0.5% | 2.1% | 1.7–2.9% |1.5–3.1% |1.4–3.3% |1.2–3.7% |
 | Hrvatski suverenisti (ECR) | 0.0% | 1.9% | 1.5–2.7% |1.4–2.9% |1.2–3.0% |1.1–3.4% |
 | Građansko-liberalni savez (RE) | 0.0% | 1.6% | 1.2–2.3% |1.1–2.5% |1.0–2.7% |0.8–3.0% |
 | Hrvatska seljačka stranka (EPP) | 41.4% | 1.4% | 1.1–2.1% |0.9–2.2% |0.9–2.4% |0.7–2.7% |
@@ -35,8 +35,8 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 5 | 5 |4–5 |4–5 |4–5 |
-| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 4 | 4 |4–5 |4–5 |4–5 |
+| <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 4 | 4–5 |4–5 |4–5 |4–5 |
+| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 4 | 4 |4 |4 |4–5 |
 | <a href="#nezavisna-lista-miroslava-škore-(*)">Nezavisna lista Miroslava Škore (*)</a> | 0 | 3 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#most-nezavisnih-lista-(ecr)">Most nezavisnih lista (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#pametno-(re)">Pametno (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -58,10 +58,9 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 5% | 100% |  |
-| 5 | 94% | 95% | Median |
-| 6 | 0.2% | 0.2% |  |
-| 7 | 0% | 0% | Majority |
+| 4 | 86% | 100% | Median |
+| 5 | 14% | 14% |  |
+| 6 | 0% | 0% |  |
 
 ### Hrvatska demokratska zajednica (EPP)
 
@@ -71,9 +70,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.3% | 100% |  |
-| 4 | 93% | 99.7% | Last Result, Median |
-| 5 | 7% | 7% |  |
+| 3 | 0.1% | 100% |  |
+| 4 | 98% | 99.9% | Last Result, Median |
+| 5 | 1.5% | 1.5% |  |
 | 6 | 0% | 0% |  |
 
 ### Nezavisna lista Miroslava Škore (*)
@@ -86,8 +85,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 10% | 100% |  |
-| 3 | 90% | 90% | Median |
+| 2 | 15% | 100% |  |
+| 3 | 85% | 85% | Median |
 | 4 | 0% | 0% |  |
 
 ### Most nezavisnih lista (ECR)
@@ -192,19 +191,8 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Hrvatska demokratska zajednica (EPP) | 4 | 4 | 0% | 4 | 4–5 | 4–5 | 4–5 |
-| Socijaldemokratska partija Hrvatske (S&D) | 2 | 5 | 0% | 5 | 4–5 | 4–5 | 4–5 |
-
-### Hrvatska demokratska zajednica (EPP)
-
-![Graph with seats probability mass function not yet produced](2020-01-22-IPSOSPULS-coalitions-seats-pmf-hdz.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.3% | 100% |  |
-| 4 | 93% | 99.7% | Last Result, Median |
-| 5 | 7% | 7% |  |
-| 6 | 0% | 0% |  |
+| Socijaldemokratska partija Hrvatske (S&D) | 2 | 4 | 0% | 4–5 | 4–5 | 4–5 | 4–5 |
+| Hrvatska demokratska zajednica (EPP) | 4 | 4 | 0% | 4 | 4 | 4 | 4–5 |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
 
@@ -214,10 +202,20 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 5% | 100% |  |
-| 5 | 94% | 95% | Median |
-| 6 | 0.2% | 0.2% |  |
-| 7 | 0% | 0% | Majority |
+| 4 | 86% | 100% | Median |
+| 5 | 14% | 14% |  |
+| 6 | 0% | 0% |  |
+
+### Hrvatska demokratska zajednica (EPP)
+
+![Graph with seats probability mass function not yet produced](2020-01-22-IPSOSPULS-coalitions-seats-pmf-hdz.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 3 | 0.1% | 100% |  |
+| 4 | 98% | 99.9% | Last Result, Median |
+| 5 | 1.5% | 1.5% |  |
+| 6 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -231,6 +229,6 @@
 ### Calculations
 
 + **Sample size:** 977
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.93%
++ **Simulations done:** 131,072
++ **Error estimate:** 1.97%
 
