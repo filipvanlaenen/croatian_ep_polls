@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 10 Apr 2020 16:37:34 +0200</pubDate>
+    <pubDate>Fri, 17 Apr 2020 23:44:13 +0200</pubDate>
     <item>
       <title>Opinion Poll by Promocija PLUS, 31 March–3 April 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-04-03-PromocijaPLUS.html#seats</link>
@@ -256,8 +256,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2020-01-11-Promocijaplus.png"
         length="312442"
         type="image/png"/>
-      <pubDate>Fri, 10 Apr 2020 16:37:34 +0200</pubDate>
-      <dc:date>2020-04-10T16:37:34.535549+02:00</dc:date>
+      <pubDate>Fri, 17 Apr 2020 23:44:13 +0200</pubDate>
+      <dc:date>2020-04-17T23:44:13.421086+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IPSOS PULS for Dnevnik, 1–20 December 2019 – Seat Projections for the Parties</title>
@@ -759,6 +759,6 @@
       <pubDate>Mon, 17 Feb 2020 20:20:13 +0100</pubDate>
       <dc:date>2020-02-17T20:20:13.645505+01:00</dc:date>
     </item>
-    <dc:date>2020-04-10T16:37:34.535549+02:00</dc:date>
+    <dc:date>2020-04-17T23:44:13.421086+02:00</dc:date>
   </channel>
 </rss>
