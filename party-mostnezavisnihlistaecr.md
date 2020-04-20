@@ -74,7 +74,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [31 March–3 April 2020](2020-04-03-PromocijaPLUS.html) | Promocija PLUS | 0 | 0 | 0 | 0 | 0 |
 | [1–20 March 2020](2020-03-20-IPSOSPLUS.html) | IPSOS PLUS <br> Dnevnik | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–19 March 2020](2020-03-19-PromocijaPLUS.html) | Promocija PLUS | 0 | 0 | 0 | 0 | 0 |
@@ -85,7 +85,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [6 February 2020](2020-02-06-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 1 | 1 | 1 | 0–1 | 0–1 |
 | [21–22 January 2020](2020-01-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
 | [9–16 January 2020](2020-01-16-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0–1 |
-| [7–11 January 2020](2020-01-11-Promocijaplus.html) | Promocija plus <br> HRT | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [7–11 January 2020](2020-01-11-Promocijaplus.html) | Promocija plus <br> HRT | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [1–20 December 2019](2019-12-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [5–9 December 2019](2019-12-09-Promocijaplus.html) | Promocija plus <br> HRT | 1 | 1 | 1 | 1 | 1 |
 | [1–25 November 2019](2019-11-25-Promocijaplus.html) | Promocija plus <br> HRT | 1 | 1 | 1 | 1 | 0–1 |
@@ -119,8 +119,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 91% | 100% | Last Result, Median |
-| 1 | 9% | 9% |  |
+| 0 | 76% | 100% | Last Result, Median |
+| 1 | 24% | 24% |  |
 | 2 | 0% | 0% |  |
 
 
