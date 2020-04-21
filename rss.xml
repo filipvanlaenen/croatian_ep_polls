@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 17 Apr 2020 23:44:13 +0200</pubDate>
+    <pubDate>Tue, 21 Apr 2020 17:06:39 +0200</pubDate>
     <item>
       <title>Opinion Poll by Promocija PLUS, 31 March–3 April 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-04-03-PromocijaPLUS.html#seats</link>
@@ -130,14 +130,54 @@
       <dc:date>2020-04-10T11:38:23.115017+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Promocija PLUS, 3–6 March 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-03-06-PromocijaPLUS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Živi zid (NI): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 0 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;li&gt;Pametno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Stranka antikorupcije, razvoja i transparentnosti (*): 0 seats&lt;/li&gt;&lt;li&gt;Građansko-liberalni savez (RE): 0 seats&lt;/li&gt;&lt;li&gt;Neovisni za Hrvatsku (ID): 0 seats&lt;/li&gt;&lt;li&gt;Nezavisna lista Mislava Kolakušića (NI): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Nezavisna lista Miroslava Škore (*): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2020-03-06-PromocijaPLUS-seats.png"
+        length="270613"
+        type="image/png"/>
+      <pubDate>Mon, 20 Apr 2020 20:48:20 +0200</pubDate>
+      <dc:date>2020-04-20T20:48:20.633018+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Promocija PLUS, 3–6 March 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-03-06-PromocijaPLUS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2020-03-06-PromocijaPLUS-coalitions-seats.png"
+        length="137691"
+        type="image/png"/>
+      <pubDate>Mon, 20 Apr 2020 20:48:20 +0200</pubDate>
+      <dc:date>2020-04-20T20:48:20.633018+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Promocija PLUS, 3–6 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-03-06-PromocijaPLUS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 27.2–32.2%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 30.0–35.1%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 4.2–6.7%&lt;/li&gt;&lt;li&gt;Živi zid (NI): 0.8–2.1%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0.8–2.1%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (EPP): 1.8–3.6%&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 1.1–2.5%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0.9–2.2%&lt;/li&gt;&lt;li&gt;Pametno (RE): 0.8–2.0%&lt;/li&gt;&lt;li&gt;Stranka antikorupcije, razvoja i transparentnosti (*): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Građansko-liberalni savez (RE): 0.4–1.4%&lt;/li&gt;&lt;li&gt;Neovisni za Hrvatsku (ID): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Nezavisna lista Mislava Kolakušića (NI): 1.6–3.2%&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Nezavisna lista Miroslava Škore (*): 11.0–14.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2020-03-06-PromocijaPLUS.png"
         length="324174"
         type="image/png"/>
-      <pubDate>Fri, 10 Apr 2020 11:50:02 +0200</pubDate>
-      <dc:date>2020-04-10T11:50:02.311326+02:00</dc:date>
+      <pubDate>Mon, 20 Apr 2020 20:48:20 +0200</pubDate>
+      <dc:date>2020-04-20T20:48:20.633018+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS PLUS for Dnevnik, 1–20 February 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-02-20-IPSOSPLUS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Živi zid (NI): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 0 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;li&gt;Pametno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Stranka antikorupcije, razvoja i transparentnosti (*): 0 seats&lt;/li&gt;&lt;li&gt;Neovisni za Hrvatsku (ID): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Nezavisna lista Miroslava Škore (*): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2020-02-20-IPSOSPLUS-seats.png"
+        length="226950"
+        type="image/png"/>
+      <pubDate>Mon, 20 Apr 2020 21:17:50 +0200</pubDate>
+      <dc:date>2020-04-20T21:17:50.966089+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS PLUS for Dnevnik, 1–20 February 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-02-20-IPSOSPLUS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2020-02-20-IPSOSPLUS-coalitions-seats.png"
+        length="126689"
+        type="image/png"/>
+      <pubDate>Mon, 20 Apr 2020 21:17:50 +0200</pubDate>
+      <dc:date>2020-04-20T21:17:50.966089+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IPSOS PLUS for Dnevnik, 1–20 February 2020 – Voting Intentions</title>
@@ -146,8 +186,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2020-02-20-IPSOSPLUS.png"
         length="299180"
         type="image/png"/>
-      <pubDate>Fri, 10 Apr 2020 16:23:16 +0200</pubDate>
-      <dc:date>2020-04-10T16:23:16.371876+02:00</dc:date>
+      <pubDate>Mon, 20 Apr 2020 21:17:50 +0200</pubDate>
+      <dc:date>2020-04-20T21:17:50.966089+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Promocija PLUS, 14–18 February 2020 – Seat Projections for the Parties</title>
@@ -210,14 +250,34 @@
       <dc:date>2020-02-14T06:42:37.441422+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by IPSOS PULS for Dnevnik, 21–22 January 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-01-22-IPSOSPULS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Živi zid (NI): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;li&gt;Pametno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Stranka antikorupcije, razvoja i transparentnosti (*): 0 seats&lt;/li&gt;&lt;li&gt;Građansko-liberalni savez (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Nezavisna lista Miroslava Škore (*): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2020-01-22-IPSOSPULS-seats.png"
+        length="192207"
+        type="image/png"/>
+      <pubDate>Mon, 20 Apr 2020 22:49:54 +0200</pubDate>
+      <dc:date>2020-04-20T22:49:54.562595+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS PULS for Dnevnik, 21–22 January 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-01-22-IPSOSPULS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2020-01-22-IPSOSPULS-coalitions-seats.png"
+        length="98425"
+        type="image/png"/>
+      <pubDate>Mon, 20 Apr 2020 22:49:54 +0200</pubDate>
+      <dc:date>2020-04-20T22:49:54.562595+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IPSOS PULS for Dnevnik, 21–22 January 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-01-22-IPSOSPULS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 25.6–31.3%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 27.3–33.0%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 2.3–4.6%&lt;/li&gt;&lt;li&gt;Živi zid (NI): 1.4–3.3%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0.0–0.6%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (EPP): 0.9–2.4%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Pametno (RE): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Stranka antikorupcije, razvoja i transparentnosti (*): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Građansko-liberalni savez (RE): 1.0–2.7%&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 1.2–3.0%&lt;/li&gt;&lt;li&gt;Nezavisna lista Miroslava Škore (*): 16.1–21.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2020-01-22-IPSOSPULS.png"
         length="279511"
         type="image/png"/>
-      <pubDate>Fri, 10 Apr 2020 16:29:29 +0200</pubDate>
-      <dc:date>2020-04-10T16:29:29.358734+02:00</dc:date>
+      <pubDate>Mon, 20 Apr 2020 22:49:54 +0200</pubDate>
+      <dc:date>2020-04-20T22:49:54.562595+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by 2x1 Komunikacije for CroElecto, 9–16 January 2020 – Seat Projections for the Parties</title>
@@ -250,14 +310,34 @@
       <dc:date>2020-01-30T17:10:58.043968+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Promocija plus for HRT, 7–11 January 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-01-11-Promocijaplus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 5 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 5 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Živi zid (NI): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 0 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;li&gt;Pametno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Stranka antikorupcije, razvoja i transparentnosti (*): 0 seats&lt;/li&gt;&lt;li&gt;Građansko-liberalni savez (RE): 0 seats&lt;/li&gt;&lt;li&gt;Neovisni za Hrvatsku (ID): 0 seats&lt;/li&gt;&lt;li&gt;Nezavisna lista Mislava Kolakušića (NI): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2020-01-11-Promocijaplus-seats.png"
+        length="237370"
+        type="image/png"/>
+      <pubDate>Tue, 21 Apr 2020 17:06:39 +0200</pubDate>
+      <dc:date>2020-04-21T17:06:39.318549+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Promocija plus for HRT, 7–11 January 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-01-11-Promocijaplus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2020-01-11-Promocijaplus-coalitions-seats.png"
+        length="108950"
+        type="image/png"/>
+      <pubDate>Tue, 21 Apr 2020 17:06:39 +0200</pubDate>
+      <dc:date>2020-04-21T17:06:39.318549+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Promocija plus for HRT, 7–11 January 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-01-11-Promocijaplus.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 28.5–33.5%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 29.4–34.5%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 5.2–7.8%&lt;/li&gt;&lt;li&gt;Živi zid (NI): 1.7–3.4%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (EPP): 2.5–4.5%&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 1.0–2.4%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 1.0–2.4%&lt;/li&gt;&lt;li&gt;Pametno (RE): 1.0–2.4%&lt;/li&gt;&lt;li&gt;Stranka antikorupcije, razvoja i transparentnosti (*): 0.4–1.4%&lt;/li&gt;&lt;li&gt;Građansko-liberalni savez (RE): 0.3–1.2%&lt;/li&gt;&lt;li&gt;Neovisni za Hrvatsku (ID): 0.4–1.4%&lt;/li&gt;&lt;li&gt;Nezavisna lista Mislava Kolakušića (NI): 2.5–4.5%&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 3.5–5.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2020-01-11-Promocijaplus.png"
         length="312442"
         type="image/png"/>
-      <pubDate>Fri, 17 Apr 2020 23:44:13 +0200</pubDate>
-      <dc:date>2020-04-17T23:44:13.421086+02:00</dc:date>
+      <pubDate>Tue, 21 Apr 2020 17:06:39 +0200</pubDate>
+      <dc:date>2020-04-21T17:06:39.318549+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IPSOS PULS for Dnevnik, 1–20 December 2019 – Seat Projections for the Parties</title>
@@ -759,6 +839,6 @@
       <pubDate>Mon, 17 Feb 2020 20:20:13 +0100</pubDate>
       <dc:date>2020-02-17T20:20:13.645505+01:00</dc:date>
     </item>
-    <dc:date>2020-04-17T23:44:13.421086+02:00</dc:date>
+    <dc:date>2020-04-21T17:06:39.318549+02:00</dc:date>
   </channel>
 </rss>
