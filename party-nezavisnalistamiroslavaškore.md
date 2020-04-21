@@ -92,11 +92,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–20 March 2020](2020-03-20-IPSOSPLUS.html) | IPSOS PLUS <br> Dnevnik | 2 | 2 | 2 | 2 | 1–2 |
 | [16–19 March 2020](2020-03-19-PromocijaPLUS.html) | Promocija PLUS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–12 March 2020](2020-03-12-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 2 | 2 | 2 | 2–3 | 2–3 |
-| [3–6 March 2020](2020-03-06-PromocijaPLUS.html) | Promocija PLUS | 2 | 2 | 2 | 1–2 | 1–2 |
-| [1–20 February 2020](2020-02-20-IPSOSPLUS.html) | IPSOS PLUS <br> Dnevnik | 1 | 1 | 1 | 1 | 1–2 |
+| [3–6 March 2020](2020-03-06-PromocijaPLUS.html) | Promocija PLUS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–20 February 2020](2020-02-20-IPSOSPLUS.html) | IPSOS PLUS <br> Dnevnik | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–18 February 2020](2020-02-18-PromocijaPLUS.html) | Promocija PLUS | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [6 February 2020](2020-02-06-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 1 | 1 | 1 | 1 | 1 |
-| [21–22 January 2020](2020-01-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [21–22 January 2020](2020-01-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [9–16 January 2020](2020-01-16-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–11 January 2020](2020-01-11-Promocijaplus.html) | Promocija plus <br> HRT |  |  |  |  |  |
 | [1–20 December 2019](2019-12-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik |  |  |  |  |  |
@@ -134,8 +134,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 2% | 100% |  |
-| 2 | 76% | 98% | Median |
-| 3 | 22% | 22% |  |
+| 2 | 86% | 98% | Median |
+| 3 | 12% | 12% |  |
 | 4 | 0% | 0% |  |
 
 
