@@ -12,14 +12,14 @@
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Socijaldemokratska partija Hrvatske (S&D) | 29.9% | 35.0% | 33.1–36.9% |32.6–37.4% |32.1–37.9% |31.2–38.9% |
 | Hrvatska demokratska zajednica (EPP) | 41.4% | 24.2% | 22.6–26.0% |22.1–26.5% |21.7–26.9% |20.9–27.8% |
-| Nezavisna lista Miroslava Škore (*) | 0.0% | 15.8% | 14.4–17.3% |14.0–17.7% |13.7–18.1% |13.0–18.9% |
+| Domovinski pokret Miroslava Škore (ECR) | 0.0% | 15.8% | 14.4–17.3% |14.0–17.7% |13.7–18.1% |13.0–18.9% |
 | Most nezavisnih lista (ECR) | 0.0% | 3.4% | 2.7–4.2% |2.6–4.4% |2.4–4.6% |2.2–5.1% |
 | Građansko-liberalni savez (RE) | 0.0% | 2.2% | 1.7–2.9% |1.6–3.1% |1.5–3.3% |1.3–3.7% |
 | Neovisni za Hrvatsku (ID) | 0.0% | 2.2% | 1.7–2.9% |1.6–3.1% |1.5–3.3% |1.3–3.7% |
 | Istarski demokratski sabor (RE) | 29.9% | 2.0% | 1.6–2.7% |1.4–2.9% |1.3–3.1% |1.1–3.4% |
 | Živi zid (NI) | 0.5% | 1.9% | 1.5–2.6% |1.3–2.8% |1.2–3.0% |1.1–3.3% |
 | Pametno (RE) | 0.0% | 1.9% | 1.5–2.6% |1.3–2.8% |1.2–3.0% |1.1–3.3% |
-| Hrvatska seljačka stranka (EPP) | 41.4% | 1.3% | 1.0–1.9% |0.9–2.1% |0.8–2.3% |0.7–2.6% |
+| Hrvatska seljačka stranka (RE) | 41.4% | 1.3% | 1.0–1.9% |0.9–2.1% |0.8–2.3% |0.7–2.6% |
 | Hrvatska narodna stranka–liberalni demokrati (RE) | 29.9% | 0.7% | 0.4–1.1% |0.4–1.3% |0.3–1.4% |0.2–1.6% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
@@ -36,14 +36,14 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 5 | 5–6 |5–6 |5–6 |5–6 |
 | <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 4 | 3–4 |3–4 |3–4 |3–4 |
-| <a href="#nezavisna-lista-miroslava-škore-(*)">Nezavisna lista Miroslava Škore (*)</a> | 0 | 2 | 2 |2 |2–3 |2–3 |
+| <a href="#domovinski-pokret-miroslava-škore-(ecr)">Domovinski pokret Miroslava Škore (ECR)</a> | 0 | 2 | 2 |2 |2–3 |2–3 |
 | <a href="#most-nezavisnih-lista-(ecr)">Most nezavisnih lista (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#građansko-liberalni-savez-(re)">Građansko-liberalni savez (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#neovisni-za-hrvatsku-(id)">Neovisni za Hrvatsku (ID)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#istarski-demokratski-sabor-(re)">Istarski demokratski sabor (RE)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#živi-zid-(ni)">Živi zid (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#pametno-(re)">Pametno (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#hrvatska-seljačka-stranka-(epp)">Hrvatska seljačka stranka (EPP)</a> | 1 | 0 | 0 |0 |0 |0 |
+| <a href="#hrvatska-seljačka-stranka-(re)">Hrvatska seljačka stranka (RE)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#hrvatska-narodna-stranka–liberalni-demokrati-(re)">Hrvatska narodna stranka–liberalni demokrati (RE)</a> | 1 | 0 | 0 |0 |0 |0 |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -73,11 +73,11 @@
 | 4 | 69% | 69% | Last Result, Median |
 | 5 | 0% | 0% |  |
 
-### Nezavisna lista Miroslava Škore (*)
+### Domovinski pokret Miroslava Škore (ECR)
 
-*For a full overview of the results for this party, see the [Nezavisna lista Miroslava Škore (*)](party-nezavisnalistamiroslavaškore.html) page.*
+*For a full overview of the results for this party, see the [Domovinski pokret Miroslava Škore (ECR)](party-domovinskipokretmiroslavaškoreecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2020-03-12-2x1Komunikacije-seats-pmf-nezavisnalistamiroslavaškore.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-03-12-2x1Komunikacije-seats-pmf-domovinskipokretmiroslavaškoreecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -148,11 +148,11 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### Hrvatska seljačka stranka (EPP)
+### Hrvatska seljačka stranka (RE)
 
-*For a full overview of the results for this party, see the [Hrvatska seljačka stranka (EPP)](party-hrvatskaseljačkastrankaepp.html) page.*
+*For a full overview of the results for this party, see the [Hrvatska seljačka stranka (RE)](party-hrvatskaseljačkastrankare.html) page.*
 
-![Graph with seats probability mass function not yet produced](2020-03-12-2x1Komunikacije-seats-pmf-hrvatskaseljačkastrankaepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-03-12-2x1Komunikacije-seats-pmf-hrvatskaseljačkastrankare.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

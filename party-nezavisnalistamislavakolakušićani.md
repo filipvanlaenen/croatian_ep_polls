@@ -12,11 +12,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.4% | 2.8–4.1% | 2.7–4.3% | 2.5–4.5% | 2.3–4.9% |
 | [31 March–3 April 2020](2020-04-03-PromocijaPLUS.html) | Promocija PLUS | 0.0% | N/A | N/A | N/A | N/A |
-| [1–20 March 2020](2020-03-20-IPSOSPLUS.html) | IPSOS PLUS <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
+| [1–20 March 2020](2020-03-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [16–19 March 2020](2020-03-19-PromocijaPLUS.html) | Promocija PLUS | 2.0% | 1.6–2.6% | 1.5–2.7% | 1.4–2.9% | 1.2–3.2% |
 | [4–12 March 2020](2020-03-12-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0.0% | N/A | N/A | N/A | N/A |
 | [3–6 March 2020](2020-03-06-PromocijaPLUS.html) | Promocija PLUS | 2.2% | 1.8–2.9% | 1.7–3.0% | 1.6–3.2% | 1.4–3.5% |
-| [1–20 February 2020](2020-02-20-IPSOSPLUS.html) | IPSOS PLUS <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
+| [1–20 February 2020](2020-02-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [14–18 February 2020](2020-02-18-PromocijaPLUS.html) | Promocija PLUS | 2.8% | 2.3–3.4% | 2.1–3.6% | 2.0–3.8% | 1.8–4.1% |
 | [6 February 2020](2020-02-06-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 2.5% | 2.1–3.2% | 1.9–3.4% | 1.8–3.6% | 1.6–3.9% |
 | [21–22 January 2020](2020-01-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
@@ -72,11 +72,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [31 March–3 April 2020](2020-04-03-PromocijaPLUS.html) | Promocija PLUS |  |  |  |  |  |
-| [1–20 March 2020](2020-03-20-IPSOSPLUS.html) | IPSOS PLUS <br> Dnevnik |  |  |  |  |  |
+| [1–20 March 2020](2020-03-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik |  |  |  |  |  |
 | [16–19 March 2020](2020-03-19-PromocijaPLUS.html) | Promocija PLUS | 0 | 0 | 0 | 0 | 0 |
 | [4–12 March 2020](2020-03-12-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |
 | [3–6 March 2020](2020-03-06-PromocijaPLUS.html) | Promocija PLUS | 0 | 0 | 0 | 0 | 0 |
-| [1–20 February 2020](2020-02-20-IPSOSPLUS.html) | IPSOS PLUS <br> Dnevnik |  |  |  |  |  |
+| [1–20 February 2020](2020-02-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik |  |  |  |  |  |
 | [14–18 February 2020](2020-02-18-PromocijaPLUS.html) | Promocija PLUS | 0 | 0 | 0 | 0 | 0 |
 | [6 February 2020](2020-02-06-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 0 | 0 | 0 | 0 | 0 |
 | [21–22 January 2020](2020-01-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik |  |  |  |  |  |

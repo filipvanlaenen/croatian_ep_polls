@@ -12,9 +12,9 @@
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Hrvatska demokratska zajednica (EPP) | 41.4% | 34.4% | 32.8–36.0% |32.3–36.5% |31.9–36.9% |31.2–37.7% |
 | Socijaldemokratska partija Hrvatske (S&D) | 29.9% | 32.6% | 31.1–34.3% |30.6–34.8% |30.2–35.1% |29.5–35.9% |
-| Nezavisna lista Miroslava Škore (*) | 0.0% | 13.2% | 12.1–14.4% |11.8–14.8% |11.5–15.1% |11.0–15.7% |
+| Domovinski pokret Miroslava Škore (ECR) | 0.0% | 13.2% | 12.1–14.4% |11.8–14.8% |11.5–15.1% |11.0–15.7% |
 | Most nezavisnih lista (ECR) | 0.0% | 4.6% | 3.9–5.4% |3.7–5.6% |3.6–5.8% |3.3–6.2% |
-| Hrvatska seljačka stranka (EPP) | 41.4% | 3.3% | 2.7–4.0% |2.6–4.2% |2.5–4.4% |2.2–4.7% |
+| Hrvatska seljačka stranka (RE) | 41.4% | 3.3% | 2.7–4.0% |2.6–4.2% |2.5–4.4% |2.2–4.7% |
 | Živi zid (NI) | 0.5% | 2.3% | 1.8–2.9% |1.7–3.1% |1.6–3.2% |1.4–3.5% |
 | Istarski demokratski sabor (RE) | 29.9% | 2.1% | 1.7–2.7% |1.6–2.9% |1.5–3.0% |1.3–3.4% |
 | Hrvatska narodna stranka–liberalni demokrati (RE) | 29.9% | 1.6% | 1.2–2.1% |1.1–2.2% |1.0–2.4% |0.9–2.7% |
@@ -36,9 +36,9 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 5 | 5 |5–6 |5–6 |5–6 |
 | <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 5 | 5 |5 |5 |4–5 |
-| <a href="#nezavisna-lista-miroslava-škore-(*)">Nezavisna lista Miroslava Škore (*)</a> | 0 | 2 | 2 |1–2 |1–2 |1–2 |
+| <a href="#domovinski-pokret-miroslava-škore-(ecr)">Domovinski pokret Miroslava Škore (ECR)</a> | 0 | 2 | 2 |1–2 |1–2 |1–2 |
 | <a href="#most-nezavisnih-lista-(ecr)">Most nezavisnih lista (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#hrvatska-seljačka-stranka-(epp)">Hrvatska seljačka stranka (EPP)</a> | 1 | 0 | 0 |0 |0 |0 |
+| <a href="#hrvatska-seljačka-stranka-(re)">Hrvatska seljačka stranka (RE)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#živi-zid-(ni)">Živi zid (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#istarski-demokratski-sabor-(re)">Istarski demokratski sabor (RE)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#hrvatska-narodna-stranka–liberalni-demokrati-(re)">Hrvatska narodna stranka–liberalni demokrati (RE)</a> | 1 | 0 | 0 |0 |0 |0 |
@@ -74,11 +74,11 @@
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% | Majority |
 
-### Nezavisna lista Miroslava Škore (*)
+### Domovinski pokret Miroslava Škore (ECR)
 
-*For a full overview of the results for this party, see the [Nezavisna lista Miroslava Škore (*)](party-nezavisnalistamiroslavaškore.html) page.*
+*For a full overview of the results for this party, see the [Domovinski pokret Miroslava Škore (ECR)](party-domovinskipokretmiroslavaškoreecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2020-04-03-PromocijaPLUS-seats-pmf-nezavisnalistamiroslavaškore.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-04-03-PromocijaPLUS-seats-pmf-domovinskipokretmiroslavaškoreecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -99,11 +99,11 @@
 | 1 | 0.3% | 0.3% |  |
 | 2 | 0% | 0% |  |
 
-### Hrvatska seljačka stranka (EPP)
+### Hrvatska seljačka stranka (RE)
 
-*For a full overview of the results for this party, see the [Hrvatska seljačka stranka (EPP)](party-hrvatskaseljačkastrankaepp.html) page.*
+*For a full overview of the results for this party, see the [Hrvatska seljačka stranka (RE)](party-hrvatskaseljačkastrankare.html) page.*
 
-![Graph with seats probability mass function not yet produced](2020-04-03-PromocijaPLUS-seats-pmf-hrvatskaseljačkastrankaepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-04-03-PromocijaPLUS-seats-pmf-hrvatskaseljačkastrankare.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

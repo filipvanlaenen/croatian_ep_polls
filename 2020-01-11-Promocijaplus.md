@@ -14,7 +14,7 @@
 | Hrvatska demokratska zajednica (EPP) | 41.4% | 30.9% | 29.3–32.6% |28.9–33.1% |28.5–33.5% |27.7–34.3% |
 | Most nezavisnih lista (ECR) | 0.0% | 6.4% | 5.6–7.3% |5.4–7.6% |5.2–7.8% |4.8–8.3% |
 | Hrvatski suverenisti (ECR) | 0.0% | 4.5% | 3.9–5.4% |3.7–5.6% |3.5–5.8% |3.2–6.2% |
-| Hrvatska seljačka stranka (EPP) | 41.4% | 3.4% | 2.8–4.1% |2.7–4.3% |2.5–4.5% |2.3–4.9% |
+| Hrvatska seljačka stranka (RE) | 41.4% | 3.4% | 2.8–4.1% |2.7–4.3% |2.5–4.5% |2.3–4.9% |
 | Nezavisna lista Mislava Kolakušića (NI) | 0.0% | 3.4% | 2.8–4.1% |2.7–4.3% |2.5–4.5% |2.3–4.9% |
 | Živi zid (NI) | 0.5% | 2.4% | 1.9–3.0% |1.8–3.2% |1.7–3.4% |1.5–3.7% |
 | Hrvatska narodna stranka–liberalni demokrati (RE) | 29.9% | 2.0% | 1.6–2.6% |1.5–2.8% |1.4–2.9% |1.2–3.2% |
@@ -41,7 +41,7 @@
 | <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 5 | 5 |5 |5 |4–6 |
 | <a href="#most-nezavisnih-lista-(ecr)">Most nezavisnih lista (ECR)</a> | 0 | 1 | 1 |0–1 |0–1 |0–1 |
 | <a href="#hrvatski-suverenisti-(ecr)">Hrvatski suverenisti (ECR)</a> | 0 | 0 | 0 |0 |0–1 |0–1 |
-| <a href="#hrvatska-seljačka-stranka-(epp)">Hrvatska seljačka stranka (EPP)</a> | 1 | 0 | 0 |0 |0 |0 |
+| <a href="#hrvatska-seljačka-stranka-(re)">Hrvatska seljačka stranka (RE)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#nezavisna-lista-mislava-kolakušića-(ni)">Nezavisna lista Mislava Kolakušića (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#živi-zid-(ni)">Živi zid (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#hrvatska-narodna-stranka–liberalni-demokrati-(re)">Hrvatska narodna stranka–liberalni demokrati (RE)</a> | 1 | 0 | 0 |0 |0 |0 |
@@ -104,11 +104,11 @@
 | 1 | 5% | 5% |  |
 | 2 | 0% | 0% |  |
 
-### Hrvatska seljačka stranka (EPP)
+### Hrvatska seljačka stranka (RE)
 
-*For a full overview of the results for this party, see the [Hrvatska seljačka stranka (EPP)](party-hrvatskaseljačkastrankaepp.html) page.*
+*For a full overview of the results for this party, see the [Hrvatska seljačka stranka (RE)](party-hrvatskaseljačkastrankare.html) page.*
 
-![Graph with seats probability mass function not yet produced](2020-01-11-Promocijaplus-seats-pmf-hrvatskaseljačkastrankaepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-01-11-Promocijaplus-seats-pmf-hrvatskaseljačkastrankare.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -218,6 +218,7 @@
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Hrvatska demokratska zajednica (EPP) | 4 | 5 | 0% | 5 | 5 | 5 | 4–6 |
 | Socijaldemokratska partija Hrvatske (S&D) | 2 | 5 | 0% | 5 | 5 | 5 | 4–6 |
+| Bandić Milan 365–Stranka rada i solidarnosti (*) – Stranka antikorupcije, razvoja i transparentnosti (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Neovisni za Hrvatsku (ID) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Nezavisna lista Mislava Kolakušića (NI) – Živi zid (NI) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
@@ -244,6 +245,14 @@
 | 5 | 97% | 99.3% | Median |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% | Majority |
+
+### Bandić Milan 365–Stranka rada i solidarnosti (*) – Stranka antikorupcije, razvoja i transparentnosti (*)
+
+![Graph with seats probability mass function not yet produced](2020-01-11-Promocijaplus-coalitions-seats-pmf-bm365–start.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Neovisni za Hrvatsku (ID)
 

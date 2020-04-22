@@ -10,13 +10,13 @@ Last result: **0.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.7–3.5% | 1.6–3.9% | 1.5–4.2% | 1.2–4.7% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.8–3.7% | 1.6–4.0% | 1.5–4.3% | 1.2–4.8% |
 | [31 March–3 April 2020](2020-04-03-PromocijaPLUS.html) | Promocija PLUS | 2.3% | 1.8–2.9% | 1.7–3.1% | 1.6–3.2% | 1.4–3.5% |
-| [1–20 March 2020](2020-03-20-IPSOSPLUS.html) | IPSOS PLUS <br> Dnevnik | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.5–4.8% | 2.2–5.2% |
+| [1–20 March 2020](2020-03-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.5–4.8% | 2.2–5.2% |
 | [16–19 March 2020](2020-03-19-PromocijaPLUS.html) | Promocija PLUS | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% |
 | [4–12 March 2020](2020-03-12-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1.9% | 1.5–2.6% | 1.3–2.8% | 1.2–3.0% | 1.1–3.3% |
 | [3–6 March 2020](2020-03-06-PromocijaPLUS.html) | Promocija PLUS | 1.3% | 1.0–1.8% | 0.9–2.0% | 0.8–2.1% | 0.7–2.4% |
-| [1–20 February 2020](2020-02-20-IPSOSPLUS.html) | IPSOS PLUS <br> Dnevnik | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.2–2.9% | 1.0–3.2% |
+| [1–20 February 2020](2020-02-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.2–2.9% | 1.0–3.2% |
 | [14–18 February 2020](2020-02-18-PromocijaPLUS.html) | Promocija PLUS | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.8–1.9% | 0.6–2.2% |
 | [6 February 2020](2020-02-06-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.7% | 0.5–2.0% |
 | [21–22 January 2020](2020-01-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 2.1% | 1.7–2.9% | 1.5–3.1% | 1.4–3.3% | 1.2–3.7% |
@@ -55,10 +55,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 55% | 96% | Median |
-| 2.5–3.5% | 31% | 41% |  |
-| 3.5–4.5% | 9% | 10% |  |
-| 4.5–5.5% | 0.9% | 0.9% |  |
+| 1.5–2.5% | 51% | 96% | Median |
+| 2.5–3.5% | 33% | 44% |  |
+| 3.5–4.5% | 11% | 12% |  |
+| 4.5–5.5% | 1.1% | 1.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -72,11 +72,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [31 March–3 April 2020](2020-04-03-PromocijaPLUS.html) | Promocija PLUS | 0 | 0 | 0 | 0 | 0 |
-| [1–20 March 2020](2020-03-20-IPSOSPLUS.html) | IPSOS PLUS <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
+| [1–20 March 2020](2020-03-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
 | [16–19 March 2020](2020-03-19-PromocijaPLUS.html) | Promocija PLUS | 0 | 0 | 0 | 0 | 0 |
 | [4–12 March 2020](2020-03-12-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
 | [3–6 March 2020](2020-03-06-PromocijaPLUS.html) | Promocija PLUS | 0 | 0 | 0 | 0 | 0 |
-| [1–20 February 2020](2020-02-20-IPSOSPLUS.html) | IPSOS PLUS <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
+| [1–20 February 2020](2020-02-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
 | [14–18 February 2020](2020-02-18-PromocijaPLUS.html) | Promocija PLUS | 0 | 0 | 0 | 0 | 0 |
 | [6 February 2020](2020-02-06-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 0 | 0 | 0 | 0 | 0 |
 | [21–22 January 2020](2020-01-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
