@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 30 Apr 2020 19:44:56 +0200</pubDate>
+    <pubDate>Thu, 30 Apr 2020 20:11:19 +0200</pubDate>
     <item>
       <title>Opinion Poll by Promocija PLUS, 31 March–3 April 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-04-03-PromocijaPLUS.html#seats</link>
@@ -710,14 +710,34 @@
       <dc:date>2020-03-05T21:22:56.693369+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by IPSOS PULS for CroBarometer, 1–20 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2019-07-20-IPSOSPULS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Živi zid (NI): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 0 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;li&gt;Pametno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Stranka antikorupcije, razvoja i transparentnosti (*): 0 seats&lt;/li&gt;&lt;li&gt;Građansko-liberalni savez (RE): 0 seats&lt;/li&gt;&lt;li&gt;Neovisni za Hrvatsku (ID): 0 seats&lt;/li&gt;&lt;li&gt;Nezavisna lista Mislava Kolakušića (NI): 1 seats&lt;/li&gt;&lt;li&gt;Hrvatski rast (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2019-07-20-IPSOSPULS-seats.png"
+        length="327979"
+        type="image/png"/>
+      <pubDate>Thu, 30 Apr 2020 20:11:19 +0200</pubDate>
+      <dc:date>2020-04-30T20:11:19.929597+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS PULS for CroBarometer, 1–20 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2019-07-20-IPSOSPULS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2019-07-20-IPSOSPULS-coalitions-seats.png"
+        length="180130"
+        type="image/png"/>
+      <pubDate>Thu, 30 Apr 2020 20:11:19 +0200</pubDate>
+      <dc:date>2020-04-30T20:11:19.929597+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IPSOS PULS for CroBarometer, 1–20 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2019-07-20-IPSOSPULS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 26.0–32.0%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 22.7–28.5%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 4.6–7.7%&lt;/li&gt;&lt;li&gt;Živi zid (NI): 2.8–5.3%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (RE): 2.9–5.6%&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 3.1–5.8%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 1.4–3.3%&lt;/li&gt;&lt;li&gt;Pametno (RE): 1.9–4.1%&lt;/li&gt;&lt;li&gt;Stranka antikorupcije, razvoja i transparentnosti (*): 0.3–1.5%&lt;/li&gt;&lt;li&gt;Građansko-liberalni savez (RE): 1.2–3.1%&lt;/li&gt;&lt;li&gt;Neovisni za Hrvatsku (ID): 1.6–3.6%&lt;/li&gt;&lt;li&gt;Nezavisna lista Mislava Kolakušića (NI): 6.4–10.0%&lt;/li&gt;&lt;li&gt;Hrvatski rast (ECR): 1.2–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2019-07-20-IPSOSPULS.png"
         length="449826"
         type="image/png"/>
-      <pubDate>Thu, 30 Apr 2020 19:44:56 +0200</pubDate>
-      <dc:date>2020-04-30T19:44:56.389324+02:00</dc:date>
+      <pubDate>Thu, 30 Apr 2020 20:11:19 +0200</pubDate>
+      <dc:date>2020-04-30T20:11:19.929597+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by 2x1 Komunikacije for CroElecto, 8–15 July 2019 – Voting Intentions</title>
@@ -859,6 +879,6 @@
       <pubDate>Mon, 17 Feb 2020 20:20:13 +0100</pubDate>
       <dc:date>2020-02-17T20:20:13.645505+01:00</dc:date>
     </item>
-    <dc:date>2020-04-30T19:44:56.389324+02:00</dc:date>
+    <dc:date>2020-04-30T20:11:19.929597+02:00</dc:date>
   </channel>
 </rss>
