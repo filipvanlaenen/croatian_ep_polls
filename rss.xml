@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 14 May 2020 17:46:59 +0200</pubDate>
+    <pubDate>Mon, 18 May 2020 08:12:44 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Promocija PLUS, 5–8 May 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-05-08-PromocijaPLUS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 32.5–37.7%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 29.8–34.9%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 3.6–5.9%&lt;/li&gt;&lt;li&gt;Živi zid (NI): 0.8–2.1%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 1.2–2.7%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (RE): 2.3–4.3%&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 0.8–2.1%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 1.6–3.2%&lt;/li&gt;&lt;li&gt;Pametno (RE): 0.7–1.9%&lt;/li&gt;&lt;li&gt;Stranka antikorupcije, razvoja i transparentnosti (*): 0.3–1.2%&lt;/li&gt;&lt;li&gt;Građansko-liberalni savez (RE): 0.3–1.2%&lt;/li&gt;&lt;li&gt;Neovisni za Hrvatsku (ID): 0.3–1.2%&lt;/li&gt;&lt;li&gt;Nezavisna lista Mislava Kolakušića (NI): 0.4–1.3%&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0.4–1.3%&lt;/li&gt;&lt;li&gt;Domovinski pokret Miroslava Škore (ECR): 10.1–13.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2020-05-08-PromocijaPLUS.png"
+        length="453813"
+        type="image/png"/>
+      <pubDate>Mon, 18 May 2020 08:12:44 +0200</pubDate>
+      <dc:date>2020-05-18T08:12:44.754775+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Promocija PLUS, 31 March–3 April 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-04-03-PromocijaPLUS.html#seats</link>
@@ -919,6 +929,6 @@
       <pubDate>Fri, 08 May 2020 17:36:00 +0200</pubDate>
       <dc:date>2020-05-08T17:36:00.625306+02:00</dc:date>
     </item>
-    <dc:date>2020-05-14T17:46:59.594058+02:00</dc:date>
+    <dc:date>2020-05-18T08:12:44.754775+02:00</dc:date>
   </channel>
 </rss>
