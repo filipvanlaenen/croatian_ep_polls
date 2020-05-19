@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0.7% | 0.4–1.0% | 0.4–1.1% | 0.3–1.2% | 0.2–1.4% |
 | [5–8 May 2020](2020-05-08-PromocijaPLUS.html) | Promocija PLUS | 0.6% | 0.4–1.0% | 0.4–1.1% | 0.3–1.2% | 0.2–1.4% |
 | [17–22 April 2020](2020-04-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
-| [15–18 April 2020](2020-04-18-PromocijaPLUS.html) | Promocija PLUS | 0.9% | N/A | N/A | N/A | N/A |
+| [15–18 April 2020](2020-04-18-PromocijaPLUS.html) | Promocija PLUS | 0.9% | 0.7–1.4% | 0.6–1.5% | 0.5–1.6% | 0.4–1.8% |
 | [1–9 April 2020](2020-04-09-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0.0% | N/A | N/A | N/A | N/A |
 | [31 March–3 April 2020](2020-04-03-PromocijaPLUS.html) | Promocija PLUS | 0.0% | N/A | N/A | N/A | N/A |
 | [1–20 March 2020](2020-03-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
@@ -74,7 +74,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [5–8 May 2020](2020-05-08-PromocijaPLUS.html) | Promocija PLUS | 0 | 0 | 0 | 0 | 0 |
 | [17–22 April 2020](2020-04-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik |  |  |  |  |  |
-| [15–18 April 2020](2020-04-18-PromocijaPLUS.html) | Promocija PLUS |  |  |  |  |  |
+| [15–18 April 2020](2020-04-18-PromocijaPLUS.html) | Promocija PLUS | 0 | 0 | 0 | 0 | 0 |
 | [1–9 April 2020](2020-04-09-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |
 | [31 March–3 April 2020](2020-04-03-PromocijaPLUS.html) | Promocija PLUS |  |  |  |  |  |
 | [1–20 March 2020](2020-03-20-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik |  |  |  |  |  |
