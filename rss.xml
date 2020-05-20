@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 19 May 2020 16:59:59 +0200</pubDate>
+    <pubDate>Tue, 19 May 2020 20:36:02 +0200</pubDate>
     <item>
       <title>Opinion Poll by Promocija PLUS, 5–8 May 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-05-08-PromocijaPLUS.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2020-05-19T16:59:59.010318+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by IPSOS PULS for Dnevnik, 17–22 April 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-04-22-IPSOSPULS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Živi zid (NI): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (RE): 0 seats&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 0 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;li&gt;Pametno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret Miroslava Škore (ECR): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2020-04-22-IPSOSPULS-seats.png"
+        length="262352"
+        type="image/png"/>
+      <pubDate>Tue, 19 May 2020 20:36:02 +0200</pubDate>
+      <dc:date>2020-05-19T20:36:02.447186+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS PULS for Dnevnik, 17–22 April 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-04-22-IPSOSPULS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2020-04-22-IPSOSPULS-coalitions-seats.png"
+        length="141671"
+        type="image/png"/>
+      <pubDate>Tue, 19 May 2020 20:36:02 +0200</pubDate>
+      <dc:date>2020-05-19T20:36:02.447186+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IPSOS PULS for Dnevnik, 17–22 April 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-04-22-IPSOSPULS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 30.6–36.4%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 25.1–30.6%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 4.8–7.8%&lt;/li&gt;&lt;li&gt;Živi zid (NI): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (RE): 0.7–2.2%&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 0.7–2.2%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 2.2–4.3%&lt;/li&gt;&lt;li&gt;Pametno (RE): 2.4–4.7%&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 1.2–2.9%&lt;/li&gt;&lt;li&gt;Domovinski pokret Miroslava Škore (ECR): 10.7–14.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2020-04-22-IPSOSPULS.png"
         length="365305"
         type="image/png"/>
-      <pubDate>Tue, 19 May 2020 07:10:09 +0200</pubDate>
-      <dc:date>2020-05-19T07:10:09.786561+02:00</dc:date>
+      <pubDate>Tue, 19 May 2020 20:36:02 +0200</pubDate>
+      <dc:date>2020-05-19T20:36:02.447186+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Promocija PLUS, 15–18 April 2020 – Voting Intentions</title>
@@ -979,6 +999,6 @@
       <pubDate>Fri, 08 May 2020 17:36:00 +0200</pubDate>
       <dc:date>2020-05-08T17:36:00.625306+02:00</dc:date>
     </item>
-    <dc:date>2020-05-19T16:59:59.010318+02:00</dc:date>
+    <dc:date>2020-05-19T20:36:02.447186+02:00</dc:date>
   </channel>
 </rss>
