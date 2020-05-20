@@ -78,9 +78,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–8 May 2020](2020-05-08-PromocijaPLUS.html) | Promocija PLUS | 0 | 0 | 0 | 0–1 | 0–1 |
-| [17–22 April 2020](2020-04-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [17–22 April 2020](2020-04-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–18 April 2020](2020-04-18-PromocijaPLUS.html) | Promocija PLUS | 0 | 0 | 0 | 0 | 0 |
 | [1–9 April 2020](2020-04-09-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
 | [31 March–3 April 2020](2020-04-03-PromocijaPLUS.html) | Promocija PLUS | 0 | 0 | 0 | 0 | 0 |
@@ -127,8 +127,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 3% | 3% |  |
+| 0 | 82% | 100% | Last Result, Median |
+| 1 | 18% | 18% |  |
 | 2 | 0% | 0% |  |
 
 
