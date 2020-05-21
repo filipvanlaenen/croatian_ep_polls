@@ -393,7 +393,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 5 | 3–6 |3–6 | 3–6 | 3–6 |
+| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 5 | 4–6 |3–6 | 3–6 | 3–6 |
 | <a href="#hrvatska-seljačka-stranka-(re)">Hrvatska seljačka stranka (RE)</a> | 1 | 0 | 0 |0 | 0 | 0 |
 | <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 4 | 4–5 |4–5 | 4–5 | 4–6 |
 | <a href="#hrvatska-narodna-stranka–liberalni-demokrati-(re)">Hrvatska narodna stranka–liberalni demokrati (RE)</a> | 1 | 0 | 0 |0 | 0 | 0 |
@@ -420,8 +420,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 18% | 100% |  |
-| 4 | 16% | 82% | Last Result |
+| 3 | 10% | 100% |  |
+| 4 | 24% | 90% | Last Result |
 | 5 | 34% | 66% | Median |
 | 6 | 32% | 32% |  |
 | 7 | 0% | 0% | Majority |
@@ -446,9 +446,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 0.4% | 100% |  |
-| 4 | 62% | 99.6% | Median |
-| 5 | 37% | 38% |  |
+| 3 | 0.3% | 100% |  |
+| 4 | 62% | 99.7% | Median |
+| 5 | 38% | 38% |  |
 | 6 | 0.6% | 0.6% |  |
 | 7 | 0% | 0% | Majority |
 
@@ -551,8 +551,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 54% | 100% | Median |
-| 2 | 46% | 46% |  |
+| 1 | 59% | 100% | Median |
+| 2 | 41% | 41% |  |
 | 3 | 0% | 0% |  |
 
 ### Amsterdamska koalicija (RE)
@@ -606,7 +606,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Hrvatska demokratska zajednica (EPP) | 4 | 5 | 0% | 3–6 | 3–6 | 3–6 | 3–6 |
+| Hrvatska demokratska zajednica (EPP) | 4 | 5 | 0% | 4–6 | 3–6 | 3–6 | 3–6 |
 | Socijaldemokratska partija Hrvatske (S&D) | 2 | 4 | 0% | 4–5 | 4–5 | 4–5 | 4–6 |
 | Domovinski pokret Miroslava Škore (ECR) – Hrvatska konzervativna stranka (ECR) – Hrvatski rast (ECR) – Hrvatski suverenisti (ECR) – Most nezavisnih lista (ECR) | 0 | 2 | 0% | 1–2 | 1–3 | 1–3 | 1–3 |
 | Hrvatska seljačka stranka (RE) – Hrvatska narodna stranka–liberalni demokrati (RE) – Amsterdamska koalicija (RE) – Pametno (RE) | 2 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -620,8 +620,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 18% | 100% |  |
-| 4 | 16% | 82% | Last Result |
+| 3 | 10% | 100% |  |
+| 4 | 24% | 90% | Last Result |
 | 5 | 34% | 66% | Median |
 | 6 | 32% | 32% |  |
 | 7 | 0% | 0% | Majority |
@@ -633,9 +633,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 0.4% | 100% |  |
-| 4 | 62% | 99.6% | Median |
-| 5 | 37% | 38% |  |
+| 3 | 0.3% | 100% |  |
+| 4 | 62% | 99.7% | Median |
+| 5 | 38% | 38% |  |
 | 6 | 0.6% | 0.6% |  |
 | 7 | 0% | 0% | Majority |
 
@@ -646,8 +646,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 45% | 100% | Median |
-| 2 | 47% | 55% |  |
+| 1 | 49% | 100% | Median |
+| 2 | 42% | 51% |  |
 | 3 | 8% | 8% |  |
 | 4 | 0% | 0% |  |
 
@@ -689,6 +689,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,228,224
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
 + **Error estimate:** 2.58%
