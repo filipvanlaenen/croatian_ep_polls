@@ -10,7 +10,8 @@ Last result: **0.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.4% | 1.0–2.0% | 0.8–2.2% | 0.8–2.3% | 0.6–2.7% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.7–1.9% | 0.6–2.1% | 0.5–2.3% | 0.4–2.7% |
+| [15–18 May 2020](2020-05-18-PromocijaPLUS.html) | Promocija PLUS | 0.8% | 0.5–1.2% | 0.5–1.3% | 0.4–1.4% | 0.4–1.6% |
 | [5–8 May 2020](2020-05-08-PromocijaPLUS.html) | Promocija PLUS | 1.3% | 1.0–1.8% | 0.9–2.0% | 0.8–2.1% | 0.7–2.4% |
 | [17–22 April 2020](2020-04-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [15–18 April 2020](2020-04-18-PromocijaPLUS.html) | Promocija PLUS | 1.6% | 1.2–2.1% | 1.1–2.2% | 1.0–2.4% | 0.9–2.7% |
@@ -57,10 +58,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.2% | 100% | Last Result |
-| 0.5–1.5% | 65% | 99.8% | Median |
-| 1.5–2.5% | 34% | 35% |  |
-| 2.5–3.5% | 1.0% | 1.0% |  |
+| 0.0–0.5% | 3% | 100% | Last Result |
+| 0.5–1.5% | 71% | 97% | Median |
+| 1.5–2.5% | 25% | 26% |  |
+| 2.5–3.5% | 0.9% | 0.9% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -73,6 +74,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [15–18 May 2020](2020-05-18-PromocijaPLUS.html) | Promocija PLUS | 0 | 0 | 0 | 0 | 0 |
 | [5–8 May 2020](2020-05-08-PromocijaPLUS.html) | Promocija PLUS | 0 | 0 | 0 | 0 | 0 |
 | [17–22 April 2020](2020-04-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
 | [15–18 April 2020](2020-04-18-PromocijaPLUS.html) | Promocija PLUS | 0 | 0 | 0 | 0 | 0 |
