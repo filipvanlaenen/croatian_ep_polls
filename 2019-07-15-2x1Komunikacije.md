@@ -50,8 +50,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 19% | 100% |  |
-| 5 | 81% | 81% | Median |
+| 4 | 18% | 100% |  |
+| 5 | 82% | 82% | Median |
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% | Majority |
 
@@ -63,9 +63,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.3% | 100% |  |
-| 4 | 86% | 99.7% | Last Result, Median |
-| 5 | 13% | 13% |  |
+| 3 | 0.2% | 100% |  |
+| 4 | 84% | 99.8% | Last Result, Median |
+| 5 | 16% | 16% |  |
 | 6 | 0% | 0% |  |
 
 ### Nezavisna lista Mislava Kolakušića (NI)
@@ -76,8 +76,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.6% | 100% | Last Result, Median |
-| 1 | 0.4% | 0.4% |  |
+| 0 | 99.5% | 100% | Last Result, Median |
+| 1 | 0.5% | 0.5% |  |
 | 2 | 0% | 0% |  |
 
 ### Živi zid (NI)
@@ -88,8 +88,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.6% | 100% | Last Result, Median |
-| 1 | 0.4% | 0.4% |  |
+| 0 | 99.7% | 100% | Last Result, Median |
+| 1 | 0.3% | 0.3% |  |
 | 2 | 0% | 0% |  |
 
 ### Neovisni za Hrvatsku (ID)
@@ -100,8 +100,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0.2% | 0.2% |  |
 | 2 | 0% | 0% |  |
 
 ### Most nezavisnih lista (ECR)
@@ -155,9 +155,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.3% | 100% |  |
-| 4 | 86% | 99.7% | Last Result, Median |
-| 5 | 13% | 13% |  |
+| 3 | 0.2% | 100% |  |
+| 4 | 84% | 99.8% | Last Result, Median |
+| 5 | 16% | 16% |  |
 | 6 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -168,8 +168,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 19% | 100% |  |
-| 5 | 81% | 81% | Median |
+| 4 | 18% | 100% |  |
+| 5 | 82% | 82% | Median |
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% | Majority |
 
@@ -179,8 +179,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0.2% | 0.2% |  |
 | 2 | 0% | 0% |  |
 
 ### Nezavisna lista Mislava Kolakušića (NI) – Živi zid (NI)
@@ -189,8 +189,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.2% | 100% | Last Result, Median |
-| 1 | 0.8% | 0.8% |  |
+| 0 | 99.3% | 100% | Last Result, Median |
+| 1 | 0.7% | 0.7% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -205,6 +205,6 @@
 ### Calculations
 
 + **Sample size:** 753
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.43%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 2.32%
 
