@@ -14,7 +14,7 @@
 | Socijaldemokratska partija Hrvatske (S&D) | 29.9% | 32.2% | 30.6–33.9% |30.1–34.4% |29.7–34.8% |29.0–35.7% |
 | Nezavisna lista Mislava Kolakušića (NI) | 0.0% | 7.8% | 6.9–8.8% |6.6–9.1% |6.4–9.4% |6.0–9.9% |
 | Most nezavisnih lista (ECR) | 0.0% | 6.6% | 5.8–7.6% |5.6–7.9% |5.4–8.1% |5.0–8.6% |
-| Hrvatska seljačka stranka (EPP) | 41.4% | 4.4% | 3.7–5.2% |3.6–5.4% |3.4–5.6% |3.1–6.1% |
+| Hrvatska seljačka stranka (RE) | 41.4% | 4.4% | 3.7–5.2% |3.6–5.4% |3.4–5.6% |3.1–6.1% |
 | Neovisni za Hrvatsku (ID) | 0.0% | 3.5% | 2.9–4.2% |2.7–4.4% |2.6–4.6% |2.3–5.0% |
 | Živi zid (NI) | 0.5% | 2.5% | 2.1–3.2% |1.9–3.4% |1.8–3.6% |1.6–3.9% |
 | Hrvatska narodna stranka–liberalni demokrati (RE) | 29.9% | 2.5% | 2.1–3.2% |1.9–3.4% |1.8–3.6% |1.6–3.9% |
@@ -36,7 +36,7 @@
 | <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 5 | 4–5 |4–5 |4–5 |4–5 |
 | <a href="#nezavisna-lista-mislava-kolakušića-(ni)">Nezavisna lista Mislava Kolakušića (NI)</a> | 0 | 1 | 1 |1 |1 |1 |
 | <a href="#most-nezavisnih-lista-(ecr)">Most nezavisnih lista (ECR)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#hrvatska-seljačka-stranka-(epp)">Hrvatska seljačka stranka (EPP)</a> | 1 | 0 | 0 |0 |0 |0 |
+| <a href="#hrvatska-seljačka-stranka-(re)">Hrvatska seljačka stranka (RE)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#neovisni-za-hrvatsku-(id)">Neovisni za Hrvatsku (ID)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#živi-zid-(ni)">Živi zid (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#hrvatska-narodna-stranka–liberalni-demokrati-(re)">Hrvatska narodna stranka–liberalni demokrati (RE)</a> | 1 | 0 | 0 |0 |0 |0 |
@@ -51,8 +51,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
-| 5 | 64% | 100% | Median |
-| 6 | 36% | 36% |  |
+| 5 | 68% | 100% | Median |
+| 6 | 32% | 32% |  |
 | 7 | 0% | 0% | Majority |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -65,9 +65,9 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 12% | 100% |  |
-| 5 | 88% | 88% | Median |
-| 6 | 0.4% | 0.4% |  |
+| 4 | 13% | 100% |  |
+| 5 | 86% | 87% | Median |
+| 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% | Majority |
 
 ### Nezavisna lista Mislava Kolakušića (NI)
@@ -90,15 +90,15 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 25% | 100% | Last Result |
-| 1 | 75% | 75% | Median |
+| 0 | 19% | 100% | Last Result |
+| 1 | 81% | 81% | Median |
 | 2 | 0% | 0% |  |
 
-### Hrvatska seljačka stranka (EPP)
+### Hrvatska seljačka stranka (RE)
 
-*For a full overview of the results for this party, see the [Hrvatska seljačka stranka (EPP)](party-hrvatskaseljačkastrankaepp.html) page.*
+*For a full overview of the results for this party, see the [Hrvatska seljačka stranka (RE)](party-hrvatskaseljačkastrankare.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-09-06-Promocijaplus-seats-pmf-hrvatskaseljačkastrankaepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-09-06-Promocijaplus-seats-pmf-hrvatskaseljačkastrankare.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -168,8 +168,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
-| 5 | 64% | 100% | Median |
-| 6 | 36% | 36% |  |
+| 5 | 68% | 100% | Median |
+| 6 | 32% | 32% |  |
 | 7 | 0% | 0% | Majority |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -180,9 +180,9 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 0% | 100% |  |
-| 4 | 12% | 100% |  |
-| 5 | 88% | 88% | Median |
-| 6 | 0.4% | 0.4% |  |
+| 4 | 13% | 100% |  |
+| 5 | 86% | 87% | Median |
+| 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% | Majority |
 
 ### Nezavisna lista Mislava Kolakušića (NI) – Živi zid (NI)
@@ -215,6 +215,6 @@
 ### Calculations
 
 + **Sample size:** 1300
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.88%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.69%
 
