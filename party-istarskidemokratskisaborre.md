@@ -10,7 +10,10 @@ Last result: **29.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| N/A | [Poll Average](average.html) | 1.7% | 1.0–2.7% | 0.9–3.0% | 0.8–3.2% | 0.7–3.6% |
+| [1–18 August 2020](2020-08-18-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 2.2% | 1.7–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
+| [1–4 August 2020](2020-08-04-PromocijaPLUS.html) | Promocija PLUS | 1.2% | 0.9–1.7% | 0.8–1.9% | 0.8–2.0% | 0.6–2.3% |
+| [1–20 July 2020](2020-07-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 2.1% | 1.6–2.9% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [2–5 June 2020](2020-06-05-PromocijaPLUS.html) | Promocija PLUS | 0.0% | N/A | N/A | N/A | N/A |
 | [18–21 May 2020](2020-05-21-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [15–18 May 2020](2020-05-18-PromocijaPLUS.html) | Promocija PLUS | 1.6% | 1.2–2.1% | 1.1–2.2% | 1.0–2.4% | 0.9–2.7% |
@@ -60,11 +63,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 10% | 100% |  |
-| 1.5–2.5% | 74% | 90% | Median |
+| 0.0–0.5% | 0.1% | 100% |  |
+| 0.5–1.5% | 42% | 99.9% |  |
+| 1.5–2.5% | 43% | 58% | Median |
 | 2.5–3.5% | 15% | 16% |  |
-| 3.5–4.5% | 0.3% | 0.3% |  |
+| 3.5–4.5% | 0.6% | 0.6% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -102,6 +105,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–18 August 2020](2020-08-18-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 0 | 0 | 0 | 0 | 0 |
+| [1–4 August 2020](2020-08-04-PromocijaPLUS.html) | Promocija PLUS | 0 | 0 | 0 | 0 | 0 |
+| [1–20 July 2020](2020-07-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 0 | 0 | 0 | 0 | 0 |
 | [2–5 June 2020](2020-06-05-PromocijaPLUS.html) | Promocija PLUS |  |  |  |  |  |
 | [18–21 May 2020](2020-05-21-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
 | [15–18 May 2020](2020-05-18-PromocijaPLUS.html) | Promocija PLUS | 0 | 0 | 0 | 0 | 0 |
