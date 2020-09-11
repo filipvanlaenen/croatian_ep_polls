@@ -11,6 +11,7 @@ Last result: **29.9%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.2% | 0.8–1.7% | 0.7–1.9% | 0.6–2.0% | 0.5–2.3% |
+| [1–4 September 2020](2020-09-04-PromocijaPLUS.html) | Promocija PLUS | 0.0% | N/A | N/A | N/A | N/A |
 | [1–18 August 2020](2020-08-18-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 1.1% | 0.8–1.7% | 0.7–1.9% | 0.6–2.0% | 0.5–2.3% |
 | [1–4 August 2020](2020-08-04-PromocijaPLUS.html) | Promocija PLUS | 0.0% | N/A | N/A | N/A | N/A |
 | [1–20 July 2020](2020-07-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
@@ -105,6 +106,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–4 September 2020](2020-09-04-PromocijaPLUS.html) | Promocija PLUS |  |  |  |  |  |
 | [1–18 August 2020](2020-08-18-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 0 | 0 | 0 | 0 | 0 |
 | [1–4 August 2020](2020-08-04-PromocijaPLUS.html) | Promocija PLUS |  |  |  |  |  |
 | [1–20 July 2020](2020-07-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV |  |  |  |  |  |
