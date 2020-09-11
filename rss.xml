@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 26 Aug 2020 20:17:15 +0200</pubDate>
+    <pubDate>Fri, 11 Sep 2020 10:16:52 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Promocija PLUS, 1–4 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-09-04-PromocijaPLUS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (RE): 0 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;li&gt;Pametno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret Miroslava Škore (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Možemo! (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2020-09-04-PromocijaPLUS-seats.png"
+        length="205076"
+        type="image/png"/>
+      <pubDate>Fri, 11 Sep 2020 10:16:52 +0200</pubDate>
+      <dc:date>2020-09-11T10:16:52.727258+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Promocija PLUS, 1–4 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-09-04-PromocijaPLUS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2020-09-04-PromocijaPLUS-coalitions-seats.png"
+        length="150912"
+        type="image/png"/>
+      <pubDate>Fri, 11 Sep 2020 10:16:52 +0200</pubDate>
+      <dc:date>2020-09-11T10:16:52.727258+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Promocija PLUS, 1–4 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-09-04-PromocijaPLUS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 34.3–39.6%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 18.6–23.0%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 7.2–10.3%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (RE): 1.1–2.5%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 1.0–2.4%&lt;/li&gt;&lt;li&gt;Pametno (RE): 1.7–3.4%&lt;/li&gt;&lt;li&gt;Domovinski pokret Miroslava Škore (ECR): 7.3–10.4%&lt;/li&gt;&lt;li&gt;Možemo! (GUE/NGL): 8.5–11.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2020-09-04-PromocijaPLUS.png"
+        length="281790"
+        type="image/png"/>
+      <pubDate>Fri, 11 Sep 2020 10:16:52 +0200</pubDate>
+      <dc:date>2020-09-11T10:16:52.727258+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by IPSOS PULS for Nova TV, 1–18 August 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2020-08-18-IPSOSPULS.html#seats</link>
@@ -1359,6 +1389,6 @@
       <pubDate>Fri, 08 May 2020 17:36:00 +0200</pubDate>
       <dc:date>2020-05-08T17:36:00.625306+02:00</dc:date>
     </item>
-    <dc:date>2020-08-26T20:17:15.031623+02:00</dc:date>
+    <dc:date>2020-09-11T10:16:52.727258+02:00</dc:date>
   </channel>
 </rss>
