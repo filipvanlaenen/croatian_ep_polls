@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 6.2–9.3% | 5.9–9.7% | 5.6–10.0% | 5.2–10.6% |
+| N/A | [Poll Average](average.html) | 7.9% | 6.2–9.5% | 5.9–9.9% | 5.6–10.2% | 5.2–10.8% |
 | [1–4 September 2020](2020-09-04-PromocijaPLUS.html) | Promocija PLUS | 8.8% | 7.8–9.9% | 7.6–10.2% | 7.3–10.4% | 6.9–11.0% |
 | [1–18 August 2020](2020-08-18-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 6.8% | 5.9–8.0% | 5.6–8.3% | 5.4–8.6% | 5.0–9.2% |
 | [1–4 August 2020](2020-08-04-PromocijaPLUS.html) | Promocija PLUS | 8.6% | 7.7–9.7% | 7.4–10.0% | 7.2–10.3% | 6.8–10.8% |
@@ -71,11 +71,11 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 2% | 100% |  |
 | 5.5–6.5% | 15% | 98% |  |
-| 6.5–7.5% | 26% | 83% |  |
-| 7.5–8.5% | 28% | 57% | Median |
-| 8.5–9.5% | 22% | 29% |  |
-| 9.5–10.5% | 6% | 7% |  |
-| 10.5–11.5% | 0.5% | 0.6% |  |
+| 6.5–7.5% | 25% | 83% |  |
+| 7.5–8.5% | 26% | 58% | Median |
+| 8.5–9.5% | 24% | 33% |  |
+| 9.5–10.5% | 8% | 9% |  |
+| 10.5–11.5% | 0.9% | 0.9% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
