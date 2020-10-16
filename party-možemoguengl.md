@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.7% | 8.5–10.9% | 8.2–11.3% | 7.9–11.6% | 7.4–12.2% |
+| N/A | [Poll Average](average.html) | 9.9% | 8.6–11.2% | 8.2–11.5% | 7.9–11.9% | 7.4–12.5% |
+| [1–5 October 2020](2020-10-05-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 10.3% | 9.3–11.5% | 9.0–11.8% | 8.8–12.1% | 8.3–12.7% |
 | [1–18 September 2020](2020-09-18-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 9.3% | 8.2–10.6% | 7.9–11.0% | 7.6–11.3% | 7.1–11.9% |
 | [1–4 September 2020](2020-09-04-PromocijaPLUS.html) | Promocija PLUS | 10.0% | 9.0–11.1% | 8.7–11.5% | 8.5–11.8% | 8.0–12.3% |
 | [1–18 August 2020](2020-08-18-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.8–11.5% | 7.3–12.1% |
@@ -73,12 +74,12 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0.9% | 100% |  |
-| 7.5–8.5% | 10% | 99.1% |  |
-| 8.5–9.5% | 32% | 89% |  |
-| 9.5–10.5% | 38% | 57% | Median |
-| 10.5–11.5% | 16% | 19% |  |
-| 11.5–12.5% | 3% | 3% |  |
-| 12.5–13.5% | 0.2% | 0.2% |  |
+| 7.5–8.5% | 9% | 99.1% |  |
+| 8.5–9.5% | 28% | 90% |  |
+| 9.5–10.5% | 37% | 62% | Median |
+| 10.5–11.5% | 21% | 26% |  |
+| 11.5–12.5% | 4% | 5% |  |
+| 12.5–13.5% | 0.4% | 0.4% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -91,6 +92,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [1–5 October 2020](2020-10-05-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 1 | 1 | 1 | 1 | 1 |
 | [1–18 September 2020](2020-09-18-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 1 | 1 | 1 | 1 | 1 |
 | [1–4 September 2020](2020-09-04-PromocijaPLUS.html) | Promocija PLUS | 1 | 1 | 1 | 1 | 1 |
 | [1–18 August 2020](2020-08-18-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 1 | 1 | 1 | 1 | 1 |
