@@ -52,9 +52,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.2% | 100% | Last Result |
-| 5 | 99.0% | 99.8% | Median |
-| 6 | 0.8% | 0.8% |  |
+| 4 | 0.1% | 100% | Last Result |
+| 5 | 99.2% | 99.9% | Median |
+| 6 | 0.7% | 0.7% |  |
 | 7 | 0% | 0% | Majority |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -66,7 +66,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.9% | 100% | Last Result |
-| 3 | 99.0% | 99.1% | Median |
+| 3 | 99.1% | 99.1% | Median |
 | 4 | 0% | 0% |  |
 
 ### Možemo! (GUE/NGL)
@@ -78,8 +78,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.9% | 100% | Median |
-| 2 | 0.1% | 0.1% |  |
+| 1 | 99.8% | 100% | Median |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 ### Most nezavisnih lista (ECR)
@@ -91,9 +91,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.9% | 100% | Median |
-| 2 | 0.1% | 0.1% |  |
-| 3 | 0% | 0% |  |
+| 1 | 100% | 100% | Median |
 
 ### Domovinski pokret Miroslava Škore (ECR)
 
@@ -177,9 +175,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.2% | 100% | Last Result |
-| 5 | 99.0% | 99.8% | Median |
-| 6 | 0.8% | 0.8% |  |
+| 4 | 0.1% | 100% | Last Result |
+| 5 | 99.2% | 99.9% | Median |
+| 6 | 0.7% | 0.7% |  |
 | 7 | 0% | 0% | Majority |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -189,7 +187,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.9% | 100% | Last Result |
-| 3 | 99.0% | 99.1% | Median |
+| 3 | 99.1% | 99.1% | Median |
 | 4 | 0% | 0% |  |
 
 ### Možemo! (GUE/NGL)
@@ -199,8 +197,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.9% | 100% | Median |
-| 2 | 0.1% | 0.1% |  |
+| 1 | 99.8% | 100% | Median |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -215,6 +213,6 @@
 ### Calculations
 
 + **Sample size:** 1300
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.97%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 2.56%
 
