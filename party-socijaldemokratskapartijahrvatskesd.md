@@ -93,9 +93,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3–4 | 2–4 |
 | [2–6 November 2020](2020-11-06-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 3 | 3 | 3 | 3–4 | 3–4 |
-| [1–20 October 2020](2020-10-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–20 October 2020](2020-10-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 3 | 3 | 3 | 2–3 | 2–4 |
 | [1–5 October 2020](2020-10-05-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 3 | 3 | 3 | 3 | 2–3 |
 | [1–18 September 2020](2020-09-18-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–4 September 2020](2020-09-04-PromocijaPLUS.html) | Promocija PLUS | 3 | 3 | 2–3 | 2–3 | 2–3 |
@@ -153,9 +153,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 7% | 100% | Last Result |
-| 3 | 90% | 93% | Median |
-| 4 | 2% | 2% |  |
+| 2 | 2% | 100% | Last Result |
+| 3 | 96% | 98% | Median |
+| 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
 
