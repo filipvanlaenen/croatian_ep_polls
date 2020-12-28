@@ -10,7 +10,10 @@ Last result: **41.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.5–2.9% | 1.4–3.1% | 1.3–3.2% | 1.1–3.6% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.6–2.1% | 0.5–2.3% | 0.4–2.5% | 0.3–2.8% |
+| [16–22 December 2020](2020-12-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.5% | 0.3–1.7% |
+| [1–4 December 2020](2020-12-04-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 1.8% | 1.4–2.3% | 1.3–2.5% | 1.2–2.7% | 1.0–2.9% |
+| [1–20 November 2020](2020-11-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 1.8% | 1.4–2.5% | 1.3–2.7% | 1.2–2.9% | 1.0–3.2% |
 | [2–6 November 2020](2020-11-06-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 2.4% | 1.9–3.0% | 1.8–3.2% | 1.7–3.4% | 1.5–3.7% |
 | [1–20 October 2020](2020-10-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 1.8% | 1.4–2.5% | 1.3–2.7% | 1.2–2.9% | 1.0–3.2% |
 | [1–5 October 2020](2020-10-05-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
@@ -68,11 +71,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 10% | 100% |  |
-| 1.5–2.5% | 65% | 90% | Median |
-| 2.5–3.5% | 24% | 24% |  |
-| 3.5–4.5% | 0.6% | 0.6% |  |
+| 0.0–0.5% | 9% | 100% |  |
+| 0.5–1.5% | 51% | 91% | Median |
+| 1.5–2.5% | 37% | 39% |  |
+| 2.5–3.5% | 2% | 2% |  |
+| 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -121,6 +124,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [16–22 December 2020](2020-12-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
+| [1–4 December 2020](2020-12-04-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 0 | 0 | 0 | 0 | 0 |
+| [1–20 November 2020](2020-11-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 0 | 0 | 0 | 0 | 0 |
 | [2–6 November 2020](2020-11-06-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 0 | 0 | 0 | 0 | 0 |
 | [1–20 October 2020](2020-10-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 0 | 0 | 0 | 0 | 0 |
 | [1–5 October 2020](2020-10-05-PromocijaPLUS.html) | Promocija PLUS <br> RTL |  |  |  |  |  |
