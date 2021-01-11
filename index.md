@@ -33,7 +33,7 @@ Only polls for which at least the sample size has been published are included in
 + **START:** Stranka antikorupcije, razvoja i transparentnosti (*)
 + **HKS:** Hrvatska konzervativna stranka (ECR)
 + **GLAS:** Građansko-liberalni savez (RE)
-+ **Mož:** Možemo! (GUE/NGL)
++ **Mož:** Možemo! (Greens/EFA)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
