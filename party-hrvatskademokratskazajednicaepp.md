@@ -10,7 +10,8 @@ Last result: **41.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33.2% | 31.1–35.0% | 30.6–35.6% | 30.1–36.0% | 29.1–36.9% |
+| N/A | [Poll Average](average.html) | 32.8% | 31.0–34.6% | 30.5–35.1% | 30.0–35.6% | 29.1–36.5% |
+| [5–8 January 2021](2021-01-08-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 33.1% | 31.4–34.8% | 31.0–35.3% | 30.6–35.7% | 29.8–36.5% |
 | [16–22 December 2020](2020-12-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 32.5% | 30.6–34.4% | 30.1–35.0% | 29.6–35.5% | 28.8–36.4% |
 | [1–4 December 2020](2020-12-04-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 33.7% | 32.0–35.4% | 31.6–35.9% | 31.2–36.3% | 30.4–37.1% |
 | [1–20 November 2020](2020-11-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 35.2% | 33.3–37.2% | 32.7–37.8% | 32.3–38.2% | 31.4–39.2% |
@@ -72,17 +73,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 26.5–27.5% | 0% | 100% |  |
-| 27.5–28.5% | 0.1% | 100% |  |
-| 28.5–29.5% | 0.9% | 99.8% |  |
-| 29.5–30.5% | 4% | 98.9% |  |
-| 30.5–31.5% | 10% | 95% |  |
-| 31.5–32.5% | 20% | 85% |  |
-| 32.5–33.5% | 25% | 65% | Median |
-| 33.5–34.5% | 22% | 40% |  |
-| 34.5–35.5% | 12% | 17% |  |
-| 35.5–36.5% | 4% | 5% |  |
-| 36.5–37.5% | 0.9% | 1.0% |  |
-| 37.5–38.5% | 0.1% | 0.1% |  |
+| 27.5–28.5% | 0.2% | 100% |  |
+| 28.5–29.5% | 1.0% | 99.8% |  |
+| 29.5–30.5% | 4% | 98.8% |  |
+| 30.5–31.5% | 13% | 94% |  |
+| 31.5–32.5% | 24% | 81% |  |
+| 32.5–33.5% | 27% | 57% | Median |
+| 33.5–34.5% | 19% | 30% |  |
+| 34.5–35.5% | 8% | 11% |  |
+| 35.5–36.5% | 2% | 3% |  |
+| 36.5–37.5% | 0.4% | 0.4% |  |
+| 37.5–38.5% | 0% | 0% |  |
 | 38.5–39.5% | 0% | 0% |  |
 | 39.5–40.5% | 0% | 0% |  |
 | 40.5–41.5% | 0% | 0% | Last Result |
@@ -97,6 +98,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [5–8 January 2021](2021-01-08-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [16–22 December 2020](2020-12-22-IPSOSPULS.html) | IPSOS PULS <br> Dnevnik | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–4 December 2020](2020-12-04-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 5 | 5 | 5 | 4–5 | 4–6 |
 | [1–20 November 2020](2020-11-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 5 | 5 | 5–6 | 5–6 | 5–6 |
@@ -159,9 +161,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 13% | 100% | Last Result |
-| 5 | 87% | 87% | Median |
-| 6 | 0.3% | 0.3% |  |
-| 7 | 0% | 0% | Majority |
+| 4 | 27% | 100% | Last Result |
+| 5 | 73% | 73% | Median |
+| 6 | 0% | 0% |  |
 
 
