@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 26 Nov 2020 20:31:19 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Promocija PLUS for RTL, 5–8 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/croation_ep_polls/2021-01-08-PromocijaPLUS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Promocija PLUS for RTL, 5–8 January 2021<br/>Details on https://filipvanlaenen.github.io/croation_ep_polls/2021-01-08-PromocijaPLUS.html<br/><img src="https://filipvanlaenen.github.io/croation_ep_polls/2021-01-08-PromocijaPLUS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/croation_ep_polls/2021-01-08-PromocijaPLUS.png" length="290006" type="image/png"/>
+      <pubDate>Mon, 25 Jan 2021 20:20:10 +0100</pubDate>
+      <dc:date>2021-01-25T20:20:10.527789+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IPSOS PULS for Dnevnik, 16–22 December 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/croation_ep_polls/2020-12-22-IPSOSPULS.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by IPSOS PULS for Dnevnik, 16–22 December 2020<br/>Details on https://filipvanlaenen.github.io/croation_ep_polls/2020-12-22-IPSOSPULS.html<br/><img src="https://filipvanlaenen.github.io/croation_ep_polls/2020-12-22-IPSOSPULS-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/croation_ep_polls/2020-08-18-IPSOSPULS.png" length="338937" type="image/png"/>
       <pubDate>Wed, 26 Aug 2020 17:56:42 +0200</pubDate>
       <dc:date>2020-08-26T17:56:42.454838+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija PLUS, 1–4 August 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/croation_ep_polls/2020-08-04-PromocijaPLUS.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Promocija PLUS, 1–4 August 2020<br/>Details on https://filipvanlaenen.github.io/croation_ep_polls/2020-08-04-PromocijaPLUS.html<br/><img src="https://filipvanlaenen.github.io/croation_ep_polls/2020-08-04-PromocijaPLUS-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/croation_ep_polls/2020-08-04-PromocijaPLUS-seating-plan.png" length="325583" type="image/png"/>
-      <pubDate>Wed, 26 Aug 2020 17:36:47 +0200</pubDate>
-      <dc:date>2020-08-26T17:36:47.582439+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija PLUS, 1–4 August 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/croation_ep_polls/2020-08-04-PromocijaPLUS.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Promocija PLUS, 1–4 August 2020<br/>Details on https://filipvanlaenen.github.io/croation_ep_polls/2020-08-04-PromocijaPLUS.html<br/><img src="https://filipvanlaenen.github.io/croation_ep_polls/2020-08-04-PromocijaPLUS-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/croation_ep_polls/2020-08-04-PromocijaPLUS-seats.png" length="206931" type="image/png"/>
-      <pubDate>Wed, 26 Aug 2020 17:36:47 +0200</pubDate>
-      <dc:date>2020-08-26T17:36:47.582439+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija PLUS, 1–4 August 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/croation_ep_polls/2020-08-04-PromocijaPLUS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Promocija PLUS, 1–4 August 2020<br/>Details on https://filipvanlaenen.github.io/croation_ep_polls/2020-08-04-PromocijaPLUS.html<br/><img src="https://filipvanlaenen.github.io/croation_ep_polls/2020-08-04-PromocijaPLUS.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/croation_ep_polls/2020-08-04-PromocijaPLUS.png" length="280181" type="image/png"/>
-      <pubDate>Wed, 26 Aug 2020 17:36:47 +0200</pubDate>
-      <dc:date>2020-08-26T17:36:47.582439+02:00</dc:date>
     </item>
   </channel>
 </rss>
