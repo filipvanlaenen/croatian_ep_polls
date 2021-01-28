@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 25 Jan 2021 20:20:10 +0100</pubDate>
+    <pubDate>Thu, 28 Jan 2021 17:20:52 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Promocija PLUS for RTL, 5–8 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2021-01-08-PromocijaPLUS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (RE): 0 seats&lt;/li&gt;&lt;li&gt;Bandić Milan 365–Stranka rada i solidarnosti (*): 0 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret Miroslava Škore (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2021-01-08-PromocijaPLUS-seats.png"
+        length="237128"
+        type="image/png"/>
+      <pubDate>Thu, 28 Jan 2021 17:20:52 +0100</pubDate>
+      <dc:date>2021-01-28T17:20:52.959563+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Promocija PLUS for RTL, 5–8 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2021-01-08-PromocijaPLUS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2021-01-08-PromocijaPLUS-coalitions-seats.png"
+        length="181568"
+        type="image/png"/>
+      <pubDate>Thu, 28 Jan 2021 17:20:52 +0100</pubDate>
+      <dc:date>2021-01-28T17:20:52.959563+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Promocija PLUS for RTL, 5–8 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2021-01-08-PromocijaPLUS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2021-01-08-PromocijaPLUS.png"
         length="290006"
         type="image/png"/>
-      <pubDate>Mon, 25 Jan 2021 20:20:10 +0100</pubDate>
-      <dc:date>2021-01-25T20:20:10.527789+01:00</dc:date>
+      <pubDate>Thu, 28 Jan 2021 17:20:52 +0100</pubDate>
+      <dc:date>2021-01-28T17:20:52.959563+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IPSOS PULS for Dnevnik, 16–22 December 2020 – Seat Projections for the Parties</title>
@@ -1609,6 +1629,6 @@
       <pubDate>Fri, 08 May 2020 17:36:00 +0200</pubDate>
       <dc:date>2020-05-08T17:36:00.625306+02:00</dc:date>
     </item>
-    <dc:date>2021-01-25T20:20:10.527789+01:00</dc:date>
+    <dc:date>2021-01-28T17:20:52.959563+01:00</dc:date>
   </channel>
 </rss>
