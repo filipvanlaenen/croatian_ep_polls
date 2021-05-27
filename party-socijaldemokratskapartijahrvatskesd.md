@@ -107,7 +107,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [3–6 May 2021](2021-05-06-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1–20 April 2021](2021-04-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [31 March–3 April 2021](2021-04-03-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 3 | 3 | 3 | 3 | 3–4 |
+| [31 March–3 April 2021](2021-04-03-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 3 | 3 | 3 | 3–4 | 3–4 |
 | [1–20 February 2021](2021-02-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [6–21 January 2021](2021-01-21-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–8 January 2021](2021-01-08-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 3 | 3 | 3 | 3–4 | 3–4 |
