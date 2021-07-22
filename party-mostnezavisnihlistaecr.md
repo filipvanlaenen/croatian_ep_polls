@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.8% | 7.7–10.2% | 7.4–10.6% | 7.1–11.0% | 6.7–11.7% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.8–8.6% | 5.5–9.0% | 5.3–9.4% | 4.9–10.0% |
+| [1–4 June 2021](2021-06-04-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 6.3% | 5.5–7.3% | 5.3–7.5% | 5.1–7.8% | 4.8–8.2% |
+| [1–20 May 2021](2021-05-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 7.8% | 6.8–9.0% | 6.5–9.4% | 6.3–9.7% | 5.8–10.3% |
 | [3–6 May 2021](2021-05-06-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 8.3% | 7.4–9.4% | 7.1–9.7% | 6.9–9.9% | 6.5–10.5% |
 | [1–20 April 2021](2021-04-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 9.3% | 8.2–10.6% | 7.9–11.0% | 7.7–11.3% | 7.2–12.0% |
 | [31 March–3 April 2021](2021-04-03-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 8.9% | 8.0–10.0% | 7.7–10.3% | 7.5–10.6% | 7.1–11.2% |
@@ -81,17 +83,15 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.3% | 100% |  |
-| 6.5–7.5% | 8% | 99.7% |  |
-| 7.5–8.5% | 31% | 92% |  |
-| 8.5–9.5% | 36% | 61% | Median |
-| 9.5–10.5% | 19% | 25% |  |
-| 10.5–11.5% | 5% | 6% |  |
-| 11.5–12.5% | 0.7% | 0.7% |  |
-| 12.5–13.5% | 0% | 0% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 5% | 99.9% |  |
+| 5.5–6.5% | 28% | 95% |  |
+| 6.5–7.5% | 32% | 67% | Median |
+| 7.5–8.5% | 24% | 35% |  |
+| 8.5–9.5% | 9% | 11% |  |
+| 9.5–10.5% | 1.5% | 2% |  |
+| 10.5–11.5% | 0.1% | 0.1% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -102,7 +102,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–4 June 2021](2021-06-04-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–20 May 2021](2021-05-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 1 | 1 | 1 | 1 | 1 |
 | [3–6 May 2021](2021-05-06-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 1 | 1 | 1 | 1 | 1 |
 | [1–20 April 2021](2021-04-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 1 | 1 | 1 | 1 | 1 |
 | [31 March–3 April 2021](2021-04-03-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 1 | 1 | 1 | 1 | 1 |
@@ -171,9 +173,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 99.8% | 100% | Median |
-| 2 | 0.2% | 0.2% |  |
-| 3 | 0% | 0% |  |
+| 0 | 30% | 100% | Last Result |
+| 1 | 70% | 70% | Median |
+| 2 | 0% | 0% |  |
 
 
