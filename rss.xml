@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 24 Jul 2021 10:00:20 +0200</pubDate>
+    <pubDate>Tue, 27 Jul 2021 12:12:47 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2021-07-20-IPSOSPULS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Živi zid (NI): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (RE): 0 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret Miroslava Škore (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Centar (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2021-07-20-IPSOSPULS-seats.png"
+        length="239858"
+        type="image/png"/>
+      <pubDate>Tue, 27 Jul 2021 12:12:47 +0200</pubDate>
+      <dc:date>2021-07-27T12:12:47.68523+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2021-07-20-IPSOSPULS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2021-07-20-IPSOSPULS-coalitions-seats.png"
+        length="158390"
+        type="image/png"/>
+      <pubDate>Tue, 27 Jul 2021 12:12:47 +0200</pubDate>
+      <dc:date>2021-07-27T12:12:47.68523+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2021-07-20-IPSOSPULS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 29.6–35.4%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 13.4–18.0%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 6.8–10.2%&lt;/li&gt;&lt;li&gt;Živi zid (NI): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (RE): 2.2–4.5%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Domovinski pokret Miroslava Škore (ECR): 6.9–10.3%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 14.0–18.6%&lt;/li&gt;&lt;li&gt;Centar (RE): 1.1–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2021-07-20-IPSOSPULS.png"
+        length="341513"
+        type="image/png"/>
+      <pubDate>Tue, 27 Jul 2021 12:12:47 +0200</pubDate>
+      <dc:date>2021-07-27T12:12:47.68523+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MASMI for N1, 28 June–5 July 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2021-07-05-MASMI.html#seats</link>
@@ -1899,6 +1929,6 @@
       <pubDate>Fri, 08 May 2020 17:36:00 +0200</pubDate>
       <dc:date>2020-05-08T17:36:00.625306+02:00</dc:date>
     </item>
-    <dc:date>2021-07-24T10:00:20.02971+02:00</dc:date>
+    <dc:date>2021-07-27T12:12:47.68523+02:00</dc:date>
   </channel>
 </rss>
