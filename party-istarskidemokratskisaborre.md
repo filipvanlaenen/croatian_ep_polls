@@ -10,7 +10,8 @@ Last result: **29.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.7–1.4% | 0.6–1.5% | 0.5–1.6% | 0.4–1.9% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.0% |
+| [1–20 July 2021](2021-07-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
 | [28 June–5 July 2021](2021-07-05-MASMI.html) | MASMI <br> N1 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–20 June 2021](2021-06-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
 | [1–4 June 2021](2021-06-04-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 0.9% | 0.7–1.4% | 0.6–1.5% | 0.5–1.6% | 0.4–1.9% |
@@ -82,8 +83,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 3% | 100% |  |
-| 0.5–1.5% | 94% | 97% | Median |
-| 1.5–2.5% | 3% | 3% |  |
+| 0.5–1.5% | 91% | 97% | Median |
+| 1.5–2.5% | 7% | 7% |  |
 | 2.5–3.5% | 0% | 0% |  |
 | 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% |  |
@@ -123,6 +124,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–20 July 2021](2021-07-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 0 | 0 | 0 | 0 | 0 |
 | [28 June–5 July 2021](2021-07-05-MASMI.html) | MASMI <br> N1 |  |  |  |  |  |
 | [1–20 June 2021](2021-06-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV |  |  |  |  |  |
 | [1–4 June 2021](2021-06-04-PromocijaPLUS.html) | Promocija PLUS <br> RTL | 0 | 0 | 0 | 0 | 0 |
