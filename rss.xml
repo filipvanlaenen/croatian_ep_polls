@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 18 Oct 2021 17:23:05 +0200</pubDate>
+    <pubDate>Tue, 19 Oct 2021 08:12:02 +0200</pubDate>
     <item>
       <title>Opinion Poll by Promocija Plus for RTL, 4–7 October 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2021-10-07-PromocijaPlus.html#seats</link>
@@ -68,6 +68,16 @@
         type="image/png"/>
       <pubDate>Mon, 18 Oct 2021 17:23:05 +0200</pubDate>
       <dc:date>2021-10-18T17:23:05.775232+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 August 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2021-08-20-IPSOSPULS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 32.0–38.0%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 12.7–17.1%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 8.7–12.5%&lt;/li&gt;&lt;li&gt;Živi zid (NI): 0.8–2.4%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0.3–1.5%&lt;/li&gt;&lt;li&gt;Domovinski pokret Miroslava Škore (ECR): 4.5–7.4%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 15.9–20.8%&lt;/li&gt;&lt;li&gt;Centar (RE): 0.8–2.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2021-08-20-IPSOSPULS.png"
+        length="275837"
+        type="image/png"/>
+      <pubDate>Tue, 19 Oct 2021 08:12:02 +0200</pubDate>
+      <dc:date>2021-10-19T08:12:02.175501+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IPSOS PULS for Nova TV, 1–20 July 2021 – Seat Projections for the Parties</title>
@@ -1989,6 +1999,6 @@
       <pubDate>Fri, 08 May 2020 17:36:00 +0200</pubDate>
       <dc:date>2020-05-08T17:36:00.625306+02:00</dc:date>
     </item>
-    <dc:date>2021-10-18T17:23:05.775232+02:00</dc:date>
+    <dc:date>2021-10-19T08:12:02.175501+02:00</dc:date>
   </channel>
 </rss>
