@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.4% | 19.0–21.9% | 18.6–22.3% | 18.3–22.7% | 17.6–23.4% |
+| N/A | [Poll Average](average.html) | 19.4% | 17.3–21.4% | 16.7–21.9% | 16.3–22.3% | 15.5–23.1% |
 | [4–7 October 2021](2021-10-07-PromocijaPlus.html) | Promocija Plus <br> RTL | 20.4% | 19.0–21.9% | 18.6–22.3% | 18.3–22.7% | 17.6–23.4% |
 | [15–18 September 2021](2021-09-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 18.8% | 17.5–20.2% | 17.1–20.6% | 16.8–20.9% | 16.2–21.6% |
-| [1–20 August 2021](2021-08-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 18.2% | N/A | N/A | N/A | N/A |
+| [1–20 August 2021](2021-08-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 18.2% | 16.7–19.9% | 16.3–20.4% | 15.9–20.8% | 15.3–21.6% |
 | [1–20 July 2021](2021-07-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 16.2% | 14.7–17.8% | 14.3–18.2% | 14.0–18.6% | 13.3–19.4% |
 | [28 June–5 July 2021](2021-07-05-MASMI.html) | MASMI <br> N1 | 15.3% | 14.1–16.7% | 13.7–17.0% | 13.4–17.4% | 12.9–18.0% |
 | [1–20 June 2021](2021-06-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 14.8% | 13.5–16.4% | 13.1–16.8% | 12.8–17.2% | 12.1–18.0% |
@@ -100,16 +100,16 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.4% | 100% |  |
-| 17.5–18.5% | 4% | 99.6% |  |
-| 18.5–19.5% | 17% | 96% |  |
-| 19.5–20.5% | 33% | 78% | Median |
-| 20.5–21.5% | 30% | 45% |  |
-| 21.5–22.5% | 13% | 16% |  |
-| 22.5–23.5% | 3% | 3% |  |
-| 23.5–24.5% | 0.3% | 0.3% |  |
+| 14.5–15.5% | 0.5% | 100% |  |
+| 15.5–16.5% | 3% | 99.5% |  |
+| 16.5–17.5% | 10% | 96% |  |
+| 17.5–18.5% | 18% | 86% |  |
+| 18.5–19.5% | 22% | 69% | Median |
+| 19.5–20.5% | 22% | 47% |  |
+| 20.5–21.5% | 16% | 25% |  |
+| 21.5–22.5% | 7% | 8% |  |
+| 22.5–23.5% | 1.4% | 2% |  |
+| 23.5–24.5% | 0.2% | 0.2% |  |
 | 24.5–25.5% | 0% | 0% |  |
 
 
@@ -124,7 +124,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [4–7 October 2021](2021-10-07-PromocijaPlus.html) | Promocija Plus <br> RTL | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–18 September 2021](2021-09-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [1–20 August 2021](2021-08-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV |  |  |  |  |  |
+| [1–20 August 2021](2021-08-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–20 July 2021](2021-07-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 2 | 2 | 2 | 2–3 | 2–3 |
 | [28 June–5 July 2021](2021-07-05-MASMI.html) | MASMI <br> N1 | 2 | 2 | 2 | 2 | 1–2 |
 | [1–20 June 2021](2021-06-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 2 | 2 | 2 | 1–2 | 1–2 |
@@ -200,8 +200,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 13% | 100% |  |
-| 3 | 87% | 87% | Median |
+| 2 | 38% | 100% |  |
+| 3 | 62% | 62% | Median |
 | 4 | 0% | 0% |  |
 
 
