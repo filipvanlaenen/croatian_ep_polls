@@ -118,7 +118,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [4–7 October 2021](2021-10-07-PromocijaPlus.html) | Promocija Plus <br> RTL | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–18 September 2021](2021-09-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| [1–20 August 2021](2021-08-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 2 | 2 | 2 | 1–2 | 1–2 |
+| [1–20 August 2021](2021-08-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 2 | 2 | 2 | 2 | 1–2 |
 | [1–20 July 2021](2021-07-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 2 | 2 | 2 | 2 | 2–3 |
 | [28 June–5 July 2021](2021-07-05-MASMI.html) | MASMI <br> N1 | 2 | 2 | 2 | 2 | 2–3 |
 | [1–20 June 2021](2021-06-20-IPSOSPULS.html) | IPSOS PULS <br> Nova TV | 2 | 2 | 2 | 2 | 1–2 |
@@ -192,8 +192,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% |  |
-| 2 | 78% | 98% | Last Result, Median |
+| 1 | 1.2% | 100% |  |
+| 2 | 78% | 98.8% | Last Result, Median |
 | 3 | 21% | 21% |  |
 | 4 | 0% | 0% |  |
 
