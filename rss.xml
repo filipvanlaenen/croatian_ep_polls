@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 21 Oct 2021 18:26:16 +0200</pubDate>
+    <pubDate>Tue, 26 Oct 2021 17:39:07 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Nova TV, 1–20 October 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2021-10-20-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (RE): 0 seats&lt;/li&gt;&lt;li&gt;Građansko-liberalni savez (RE): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret Miroslava Škore (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Centar (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2021-10-20-Ipsos-seats.png"
+        length="249433"
+        type="image/png"/>
+      <pubDate>Tue, 26 Oct 2021 17:39:07 +0200</pubDate>
+      <dc:date>2021-10-26T17:39:07.668843+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Nova TV, 1–20 October 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2021-10-20-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2021-10-20-Ipsos-coalitions-seats.png"
+        length="184153"
+        type="image/png"/>
+      <pubDate>Tue, 26 Oct 2021 17:39:07 +0200</pubDate>
+      <dc:date>2021-10-26T17:39:07.668843+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Nova TV, 1–20 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2021-10-20-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 33.2–39.2%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 12.2–16.6%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 7.9–11.6%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 1.6–3.5%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (RE): 1.6–3.5%&lt;/li&gt;&lt;li&gt;Građansko-liberalni savez (RE): 0.2–1.1%&lt;/li&gt;&lt;li&gt;Domovinski pokret Miroslava Škore (ECR): 4.1–6.9%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 11.2–15.4%&lt;/li&gt;&lt;li&gt;Centar (RE): 0.8–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2021-10-20-Ipsos.png"
+        length="317856"
+        type="image/png"/>
+      <pubDate>Tue, 26 Oct 2021 17:39:07 +0200</pubDate>
+      <dc:date>2021-10-26T17:39:07.668843+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Promocija Plus for RTL, 4–7 October 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2021-10-07-PromocijaPlus.html#seats</link>
@@ -2019,6 +2049,6 @@
       <pubDate>Fri, 08 May 2020 17:36:00 +0200</pubDate>
       <dc:date>2020-05-08T17:36:00.625306+02:00</dc:date>
     </item>
-    <dc:date>2021-10-21T18:26:16.776496+02:00</dc:date>
+    <dc:date>2021-10-26T17:39:07.668843+02:00</dc:date>
   </channel>
 </rss>
