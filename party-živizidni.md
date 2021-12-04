@@ -10,7 +10,10 @@ Last result: **0.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.5% | 1.0–2.0% | 0.9–2.2% | 0.8–2.4% | 0.7–2.7% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.2–3.4% | 1.1–3.6% | 1.0–3.8% | 0.8–4.3% |
+| [1–20 November 2021](2021-11-20-Ipsos.html) | Ipsos <br> Nova TV | 2.8% | 2.3–3.6% | 2.1–3.9% | 2.0–4.1% | 1.7–4.5% |
+| [15–17 November 2021](2021-11-17-PromocijaPlus.html) | Promocija Plus <br> HRT | 1.4% | 1.1–1.9% | 1.0–2.1% | 0.9–2.2% | 0.8–2.5% |
+| [2–5 November 2021](2021-11-05-PromocijaPlus.html) | Promocija Plus <br> RTL | 1.4% | N/A | N/A | N/A | N/A |
 | [1–20 October 2021](2021-10-20-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
 | [4–7 October 2021](2021-10-07-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
 | [15–18 September 2021](2021-09-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 0.6% | N/A | N/A | N/A | N/A |
@@ -87,10 +90,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 57% | 100% | Median |
-| 1.5–2.5% | 42% | 43% |  |
-| 2.5–3.5% | 1.1% | 1.1% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.5–1.5% | 30% | 100% |  |
+| 1.5–2.5% | 32% | 70% | Median |
+| 2.5–3.5% | 32% | 38% |  |
+| 3.5–4.5% | 6% | 6% |  |
+| 4.5–5.5% | 0.2% | 0.2% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -102,6 +107,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–20 November 2021](2021-11-20-Ipsos.html) | Ipsos <br> Nova TV | 0 | 0 | 0 | 0 | 0 |
+| [15–17 November 2021](2021-11-17-PromocijaPlus.html) | Promocija Plus <br> HRT | 0 | 0 | 0 | 0 | 0 |
+| [2–5 November 2021](2021-11-05-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
 | [1–20 October 2021](2021-10-20-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
 | [4–7 October 2021](2021-10-07-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
 | [15–18 September 2021](2021-09-18-PromocijaPlus.html) | Promocija Plus <br> HRT |  |  |  |  |  |
