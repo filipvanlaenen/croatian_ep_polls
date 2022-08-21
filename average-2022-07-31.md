@@ -9,9 +9,9 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | HDZ | HSS | SDP | HNS | IDS | Živi zid | P | BM 365 | Most | NLMK | Hrast | HS | DPMŠ | AK | NHR | START | HKS | GLAS | Mož | Centar |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 31–38% <br> 4–6 | 1–3% <br> 0 | 14–20% <br> 2–3 | 1–3% <br> 0 | 1–2% <br> 0 | 1–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 8–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–20% <br> 1–3 | 1–4% <br> 0 |
-| [1–20 November 2021](2021-11-20-Ipsos.html) | Ipsos <br> Nova TV | 33–39% <br> 5–6 | N/A <br> N/A | 14–18% <br> 2–3 | 1–3% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 1–2 | 2–5% <br> 0 |
-| [15–17 November 2021](2021-11-17-PromocijaPlus.html) | Promocija Plus <br> HRT | 30–35% <br> 4–5 | 1–3% <br> 0 | 17–21% <br> 2–3 | N/A <br> N/A | 1–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 8–11% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 16–20% <br> 2–3 | 1–3% <br> 0 |
+| N/A | Poll Average | 30–38% <br> 4–6 | 1–3% <br> 0 | 14–21% <br> 2–3 | 1–2% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 9–15% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 5–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 9–19% <br> 1–3 | 1–2% <br> 0 |
+| [1–19 December 2021](2021-12-19-Ipsos.html) | Ipsos <br> Nova TV | 33–39% <br> 5–6 | 1–3% <br> 0 | 14–18% <br> 2–3 | 1–2% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 1–2 | 1–3% <br> 0 |
+| [1–3 December 2021](2021-12-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 30–35% <br> 4–5 | 1–2% <br> 0 | 17–22% <br> 2–3 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 9–12% <br> 1 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 5–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 15–19% <br> 2–3 | 1–2% <br> 0 |
 | 26 May 2019 | General Election | 41.4% <br> 4 | 41.4% <br> 1 | 29.9% <br> 2 | 29.9% <br> 1 | 29.9% <br> 1 | 0.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -50,26 +50,26 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 41.4% | 34.1% | 31.7–37.1% |31.1–37.7% | 30.7–38.3% | 29.9–39.4% |
-| <a href="#hrvatska-seljačka-stranka-(re)">Hrvatska seljačka stranka (RE)</a> | 41.4% | 2.0% | 1.5–2.5% |1.4–2.6% | 1.3–2.8% | 1.2–3.1% |
-| <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 29.9% | 17.5% | 15.0–19.6% |14.5–20.1% | 14.2–20.5% | 13.4–21.2% |
-| <a href="#hrvatska-narodna-stranka–liberalni-demokrati-(re)">Hrvatska narodna stranka–liberalni demokrati (RE)</a> | 29.9% | 1.9% | 1.4–2.5% |1.3–2.7% | 1.2–2.9% | 1.0–3.2% |
-| <a href="#istarski-demokratski-sabor-(re)">Istarski demokratski sabor (RE)</a> | 29.9% | 1.5% | 1.1–1.9% |1.0–2.1% | 0.9–2.2% | 0.8–2.5% |
-| <a href="#živi-zid-(ni)">Živi zid (NI)</a> | 0.5% | 2.1% | 1.2–3.4% |1.1–3.6% | 1.0–3.8% | 0.8–4.3% |
+| <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 41.4% | 34.1% | 31.5–37.3% |30.9–38.0% | 30.4–38.5% | 29.6–39.6% |
+| <a href="#hrvatska-seljačka-stranka-(re)">Hrvatska seljačka stranka (RE)</a> | 41.4% | 1.6% | 1.1–2.4% |1.0–2.6% | 0.9–2.8% | 0.7–3.2% |
+| <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 29.9% | 17.7% | 15.0–20.3% |14.5–20.8% | 14.1–21.2% | 13.4–22.0% |
+| <a href="#hrvatska-narodna-stranka–liberalni-demokrati-(re)">Hrvatska narodna stranka–liberalni demokrati (RE)</a> | 29.9% | 1.6% | 1.1–2.1% |1.0–2.3% | 0.9–2.5% | 0.8–2.8% |
+| <a href="#istarski-demokratski-sabor-(re)">Istarski demokratski sabor (RE)</a> | 29.9% | 1.7% | 1.0–2.6% |0.9–2.8% | 0.8–3.0% | 0.7–3.5% |
+| <a href="#živi-zid-(ni)">Živi zid (NI)</a> | 0.5% | 3.0% | 2.4–3.7% |2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | <a href="#pametno-(re)">Pametno (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#bandić-milan-365–stranka-rada-i-solidarnosti-(*)">Bandić Milan 365–Stranka rada i solidarnosti (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#most-nezavisnih-lista-(ecr)">Most nezavisnih lista (ECR)</a> | 0.0% | 10.4% | 8.9–12.3% |8.6–12.8% | 8.3–13.2% | 7.8–14.0% |
+| <a href="#most-nezavisnih-lista-(ecr)">Most nezavisnih lista (ECR)</a> | 0.0% | 11.4% | 9.6–13.7% |9.2–14.2% | 8.9–14.6% | 8.4–15.4% |
 | <a href="#nezavisna-lista-mislava-kolakušića-(ni)">Nezavisna lista Mislava Kolakušića (NI)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#hrvatski-rast-(ecr)">Hrvatski rast (ECR)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#hrvatski-suverenisti-(ecr)">Hrvatski suverenisti (ECR)</a> | 0.0% | 1.6% | 1.1–2.1% |1.0–2.3% | 0.9–2.5% | 0.8–2.8% |
-| <a href="#domovinski-pokret-miroslava-škore-(ecr)">Domovinski pokret Miroslava Škore (ECR)</a> | 0.0% | 5.6% | 4.8–6.6% |4.6–6.9% | 4.4–7.2% | 4.1–7.7% |
+| <a href="#hrvatski-suverenisti-(ecr)">Hrvatski suverenisti (ECR)</a> | 0.0% | 1.8% | 1.4–2.3% |1.3–2.5% | 1.2–2.6% | 1.0–2.9% |
+| <a href="#domovinski-pokret-miroslava-škore-(ecr)">Domovinski pokret Miroslava Škore (ECR)</a> | 0.0% | 6.2% | 5.3–7.2% |5.1–7.6% | 4.9–7.8% | 4.5–8.4% |
 | <a href="#amsterdamska-koalicija-(re)">Amsterdamska koalicija (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#neovisni-za-hrvatsku-(id)">Neovisni za Hrvatsku (ID)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#stranka-antikorupcije,-razvoja-i-transparentnosti-(*)">Stranka antikorupcije, razvoja i transparentnosti (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#hrvatska-konzervativna-stranka-(ecr)">Hrvatska konzervativna stranka (ECR)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#građansko-liberalni-savez-(re)">Građansko-liberalni savez (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#možemo!-(greens/efa)">Možemo! (Greens/EFA)</a> | 0.0% | 15.6% | 11.7–19.2% |11.3–19.7% | 10.9–20.1% | 10.3–20.8% |
-| <a href="#centar-(re)">Centar (RE)</a> | 0.0% | 2.5% | 1.5–3.8% |1.4–4.1% | 1.3–4.3% | 1.1–4.8% |
+| <a href="#možemo!-(greens/efa)">Možemo! (Greens/EFA)</a> | 0.0% | 14.0% | 10.0–17.9% |9.6–18.4% | 9.2–18.8% | 8.6–19.5% |
+| <a href="#centar-(re)">Centar (RE)</a> | 0.0% | 1.5% | 1.1–2.1% |1.0–2.3% | 0.9–2.5% | 0.8–2.8% |
 
 ### Hrvatska demokratska zajednica (EPP)
 
@@ -78,19 +78,19 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 27.5–28.5% | 0% | 100% |  |
-| 28.5–29.5% | 0.2% | 100% |  |
-| 29.5–30.5% | 2% | 99.8% |  |
-| 30.5–31.5% | 7% | 98% |  |
-| 31.5–32.5% | 14% | 91% |  |
-| 32.5–33.5% | 18% | 77% |  |
-| 33.5–34.5% | 16% | 59% | Median |
-| 34.5–35.5% | 15% | 43% |  |
-| 35.5–36.5% | 13% | 29% |  |
-| 36.5–37.5% | 9% | 15% |  |
-| 37.5–38.5% | 4% | 6% |  |
-| 38.5–39.5% | 1.4% | 2% |  |
-| 39.5–40.5% | 0.3% | 0.4% |  |
-| 40.5–41.5% | 0% | 0.1% | Last Result |
+| 28.5–29.5% | 0.4% | 100% |  |
+| 29.5–30.5% | 2% | 99.5% |  |
+| 30.5–31.5% | 8% | 97% |  |
+| 31.5–32.5% | 15% | 89% |  |
+| 32.5–33.5% | 16% | 74% |  |
+| 33.5–34.5% | 14% | 59% | Median |
+| 34.5–35.5% | 13% | 45% |  |
+| 35.5–36.5% | 13% | 31% |  |
+| 36.5–37.5% | 10% | 18% |  |
+| 37.5–38.5% | 5% | 8% |  |
+| 38.5–39.5% | 2% | 2% |  |
+| 39.5–40.5% | 0.4% | 0.5% |  |
+| 40.5–41.5% | 0.1% | 0.1% | Last Result |
 | 41.5–42.5% | 0% | 0% |  |
 
 ### Hrvatska seljačka stranka (RE)
@@ -100,10 +100,10 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 11% | 100% |  |
-| 1.5–2.5% | 81% | 89% | Median |
-| 2.5–3.5% | 8% | 8% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.5–1.5% | 43% | 100% |  |
+| 1.5–2.5% | 50% | 57% | Median |
+| 2.5–3.5% | 6% | 6% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -149,17 +149,17 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.6% | 100% |  |
-| 13.5–14.5% | 4% | 99.3% |  |
-| 14.5–15.5% | 12% | 95% |  |
-| 15.5–16.5% | 17% | 83% |  |
-| 16.5–17.5% | 16% | 65% | Median |
-| 17.5–18.5% | 19% | 49% |  |
-| 18.5–19.5% | 18% | 30% |  |
-| 19.5–20.5% | 9% | 11% |  |
-| 20.5–21.5% | 2% | 2% |  |
-| 21.5–22.5% | 0.2% | 0.2% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 12.5–13.5% | 0.7% | 100% |  |
+| 13.5–14.5% | 5% | 99.2% |  |
+| 14.5–15.5% | 13% | 95% |  |
+| 15.5–16.5% | 17% | 82% |  |
+| 16.5–17.5% | 13% | 65% |  |
+| 17.5–18.5% | 13% | 52% | Median |
+| 18.5–19.5% | 18% | 39% |  |
+| 19.5–20.5% | 14% | 21% |  |
+| 20.5–21.5% | 6% | 7% |  |
+| 21.5–22.5% | 1.1% | 1.2% |  |
+| 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
 | 24.5–25.5% | 0% | 0% |  |
 | 25.5–26.5% | 0% | 0% |  |
@@ -175,10 +175,10 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 21% | 100% |  |
-| 1.5–2.5% | 71% | 79% | Median |
-| 2.5–3.5% | 8% | 8% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 47% | 100% |  |
+| 1.5–2.5% | 51% | 53% | Median |
+| 2.5–3.5% | 2% | 2% |  |
+| 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -212,11 +212,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 60% | 100% | Median |
-| 1.5–2.5% | 40% | 40% |  |
-| 2.5–3.5% | 0.3% | 0.3% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.1% | 100% |  |
+| 0.5–1.5% | 43% | 99.9% |  |
+| 1.5–2.5% | 45% | 57% | Median |
+| 2.5–3.5% | 11% | 12% |  |
+| 3.5–4.5% | 0.3% | 0.3% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -251,11 +251,11 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 30% | 100% |  |
-| 1.5–2.5% | 32% | 70% | Median |
-| 2.5–3.5% | 32% | 38% |  |
-| 3.5–4.5% | 6% | 6% |  |
-| 4.5–5.5% | 0.2% | 0.2% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 19% | 99.9% |  |
+| 2.5–3.5% | 64% | 81% | Median |
+| 3.5–4.5% | 16% | 17% |  |
+| 4.5–5.5% | 0.6% | 0.6% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 ### Most nezavisnih lista (ECR)
@@ -271,28 +271,17 @@ Only polls for which at least the sample size has been published are included in
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.2% | 100% |  |
-| 7.5–8.5% | 5% | 99.8% |  |
-| 8.5–9.5% | 22% | 95% |  |
-| 9.5–10.5% | 27% | 73% | Median |
-| 10.5–11.5% | 23% | 46% |  |
-| 11.5–12.5% | 16% | 24% |  |
-| 12.5–13.5% | 6% | 7% |  |
-| 13.5–14.5% | 1.1% | 1.2% |  |
-| 14.5–15.5% | 0.1% | 0.1% |  |
-| 15.5–16.5% | 0% | 0% |  |
-
-### Hrvatski suverenisti (ECR)
-
-*For a full overview of the results for this party, see the [Hrvatski suverenisti (ECR)](party-hrvatskisuverenistiecr.html) page.*
-
-| Voting Intentions | Probability | Accumulated | Special Marks |
-|:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 47% | 100% |  |
-| 1.5–2.5% | 51% | 53% | Median |
-| 2.5–3.5% | 2% | 2% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0.8% | 100% |  |
+| 8.5–9.5% | 9% | 99.2% |  |
+| 9.5–10.5% | 22% | 90% |  |
+| 10.5–11.5% | 20% | 68% | Median |
+| 11.5–12.5% | 18% | 48% |  |
+| 12.5–13.5% | 18% | 30% |  |
+| 13.5–14.5% | 10% | 12% |  |
+| 14.5–15.5% | 2% | 3% |  |
+| 15.5–16.5% | 0.3% | 0.4% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 ### Domovinski pokret Miroslava Škore (ECR)
 
@@ -304,12 +293,13 @@ Only polls for which at least the sample size has been published are included in
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 4% | 100% |  |
-| 4.5–5.5% | 41% | 96% |  |
-| 5.5–6.5% | 44% | 55% | Median |
-| 6.5–7.5% | 10% | 11% |  |
-| 7.5–8.5% | 0.8% | 0.9% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 3.5–4.5% | 0.7% | 100% |  |
+| 4.5–5.5% | 18% | 99.3% |  |
+| 5.5–6.5% | 50% | 81% | Median |
+| 6.5–7.5% | 27% | 32% |  |
+| 7.5–8.5% | 5% | 5% |  |
+| 8.5–9.5% | 0.3% | 0.3% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 ### Možemo! (Greens/EFA)
 
@@ -325,22 +315,20 @@ Only polls for which at least the sample size has been published are included in
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 1.0% | 100% |  |
-| 10.5–11.5% | 7% | 98.9% |  |
-| 11.5–12.5% | 16% | 92% |  |
-| 12.5–13.5% | 16% | 76% |  |
-| 13.5–14.5% | 7% | 59% |  |
-| 14.5–15.5% | 2% | 52% |  |
-| 15.5–16.5% | 2% | 50% | Median |
-| 16.5–17.5% | 9% | 48% |  |
-| 17.5–18.5% | 18% | 39% |  |
-| 18.5–19.5% | 15% | 21% |  |
-| 19.5–20.5% | 5% | 6% |  |
-| 20.5–21.5% | 0.8% | 0.9% |  |
-| 21.5–22.5% | 0.1% | 0.1% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 7.5–8.5% | 0.4% | 100% |  |
+| 8.5–9.5% | 4% | 99.6% |  |
+| 9.5–10.5% | 15% | 95% |  |
+| 10.5–11.5% | 19% | 80% |  |
+| 11.5–12.5% | 9% | 61% |  |
+| 12.5–13.5% | 2% | 52% |  |
+| 13.5–14.5% | 0.5% | 50% | Median |
+| 14.5–15.5% | 3% | 50% |  |
+| 15.5–16.5% | 12% | 46% |  |
+| 16.5–17.5% | 18% | 34% |  |
+| 17.5–18.5% | 12% | 16% |  |
+| 18.5–19.5% | 3% | 4% |  |
+| 19.5–20.5% | 0.5% | 0.5% |  |
+| 20.5–21.5% | 0% | 0% |  |
 
 ### Centar (RE)
 
@@ -349,12 +337,22 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 10% | 100% |  |
-| 1.5–2.5% | 42% | 90% | Median |
-| 2.5–3.5% | 32% | 48% |  |
-| 3.5–4.5% | 15% | 16% |  |
-| 4.5–5.5% | 1.1% | 1.1% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.5–1.5% | 50% | 100% |  |
+| 1.5–2.5% | 48% | 50% | Median |
+| 2.5–3.5% | 2% | 2% |  |
+| 3.5–4.5% | 0% | 0% |  |
+
+### Hrvatski suverenisti (ECR)
+
+*For a full overview of the results for this party, see the [Hrvatski suverenisti (ECR)](party-hrvatskisuverenistiecr.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 23% | 100% |  |
+| 1.5–2.5% | 73% | 77% | Median |
+| 2.5–3.5% | 4% | 4% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -379,13 +377,13 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#nezavisna-lista-mislava-kolakušića-(ni)">Nezavisna lista Mislava Kolakušića (NI)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#hrvatski-rast-(ecr)">Hrvatski rast (ECR)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#hrvatski-suverenisti-(ecr)">Hrvatski suverenisti (ECR)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#domovinski-pokret-miroslava-škore-(ecr)">Domovinski pokret Miroslava Škore (ECR)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#domovinski-pokret-miroslava-škore-(ecr)">Domovinski pokret Miroslava Škore (ECR)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#amsterdamska-koalicija-(re)">Amsterdamska koalicija (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#neovisni-za-hrvatsku-(id)">Neovisni za Hrvatsku (ID)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#stranka-antikorupcije,-razvoja-i-transparentnosti-(*)">Stranka antikorupcije, razvoja i transparentnosti (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#hrvatska-konzervativna-stranka-(ecr)">Hrvatska konzervativna stranka (ECR)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#građansko-liberalni-savez-(re)">Građansko-liberalni savez (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#možemo!-(greens/efa)">Možemo! (Greens/EFA)</a> | 0 | 2 | 1–3 |1–3 | 1–3 | 1–3 |
+| <a href="#možemo!-(greens/efa)">Možemo! (Greens/EFA)</a> | 0 | 2 | 1–2 |1–2 | 1–3 | 1–3 |
 | <a href="#centar-(re)">Centar (RE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 
 ### Hrvatska demokratska zajednica (EPP)
@@ -396,11 +394,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 6% | 100% | Last Result |
-| 5 | 66% | 94% | Median |
-| 6 | 27% | 27% |  |
-| 7 | 0.1% | 0.1% | Majority |
-| 8 | 0% | 0% |  |
+| 4 | 9% | 100% | Last Result |
+| 5 | 69% | 91% | Median |
+| 6 | 22% | 22% |  |
+| 7 | 0% | 0% | Majority |
 
 ### Hrvatska seljačka stranka (RE)
 
@@ -421,8 +418,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 64% | 100% | Last Result, Median |
-| 3 | 36% | 36% |  |
+| 2 | 63% | 100% | Last Result, Median |
+| 3 | 37% | 37% |  |
 | 4 | 0% | 0% |  |
 
 ### Hrvatska narodna stranka–liberalni demokrati (RE)
@@ -478,8 +475,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 84% | 100% | Median |
-| 2 | 16% | 16% |  |
+| 1 | 66% | 100% | Median |
+| 2 | 34% | 34% |  |
 | 3 | 0% | 0% |  |
 
 ### Nezavisna lista Mislava Kolakušića (NI)
@@ -512,8 +509,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 78% | 100% | Last Result, Median |
-| 1 | 22% | 22% |  |
+| 0 | 43% | 100% | Last Result |
+| 1 | 57% | 57% | Median |
 | 2 | 0% | 0% |  |
 
 ### Amsterdamska koalicija (RE)
@@ -555,9 +552,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 11% | 100% |  |
-| 2 | 74% | 89% | Median |
-| 3 | 15% | 15% |  |
+| 1 | 46% | 100% |  |
+| 2 | 50% | 54% | Median |
+| 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
 
 ### Centar (RE)
@@ -579,10 +576,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Hrvatska demokratska zajednica (EPP) | 4 | 5 | 0.1% | 5–6 | 4–6 | 4–6 | 4–6 |
+| Hrvatska demokratska zajednica (EPP) | 4 | 5 | 0% | 5–6 | 4–6 | 4–6 | 4–6 |
 | Socijaldemokratska partija Hrvatske (S&D) | 2 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
-| Domovinski pokret Miroslava Škore (ECR) – Hrvatska konzervativna stranka (ECR) – Hrvatski rast (ECR) – Hrvatski suverenisti (ECR) – Most nezavisnih lista (ECR) | 0 | 1 | 0% | 1–2 | 1–2 | 1–3 | 1–3 |
-| Možemo! (Greens/EFA) | 0 | 2 | 0% | 1–3 | 1–3 | 1–3 | 1–3 |
+| Domovinski pokret Miroslava Škore (ECR) – Hrvatska konzervativna stranka (ECR) – Hrvatski rast (ECR) – Hrvatski suverenisti (ECR) – Most nezavisnih lista (ECR) | 0 | 2 | 0% | 1–3 | 1–3 | 1–3 | 1–3 |
+| Možemo! (Greens/EFA) | 0 | 2 | 0% | 1–2 | 1–2 | 1–3 | 1–3 |
 | Hrvatska seljačka stranka (RE) – Hrvatska narodna stranka–liberalni demokrati (RE) – Amsterdamska koalicija (RE) – Centar (RE) – Pametno (RE) | 2 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti (*) – Stranka antikorupcije, razvoja i transparentnosti (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Neovisni za Hrvatsku (ID) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -594,11 +591,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 6% | 100% | Last Result |
-| 5 | 66% | 94% | Median |
-| 6 | 27% | 27% |  |
-| 7 | 0.1% | 0.1% | Majority |
-| 8 | 0% | 0% |  |
+| 4 | 9% | 100% | Last Result |
+| 5 | 69% | 91% | Median |
+| 6 | 22% | 22% |  |
+| 7 | 0% | 0% | Majority |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
 
@@ -606,8 +602,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 64% | 100% | Last Result, Median |
-| 3 | 36% | 36% |  |
+| 2 | 63% | 100% | Last Result, Median |
+| 3 | 37% | 37% |  |
 | 4 | 0% | 0% |  |
 
 ### Domovinski pokret Miroslava Škore (ECR) – Hrvatska konzervativna stranka (ECR) – Hrvatski rast (ECR) – Hrvatski suverenisti (ECR) – Most nezavisnih lista (ECR)
@@ -617,9 +613,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 64% | 100% | Median |
-| 2 | 33% | 36% |  |
-| 3 | 3% | 3% |  |
+| 1 | 32% | 100% |  |
+| 2 | 44% | 68% | Median |
+| 3 | 24% | 24% |  |
 | 4 | 0% | 0% |  |
 
 ### Možemo! (Greens/EFA)
@@ -629,9 +625,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 11% | 100% |  |
-| 2 | 74% | 89% | Median |
-| 3 | 15% | 15% |  |
+| 1 | 46% | 100% |  |
+| 2 | 50% | 54% | Median |
+| 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
 
 ### Hrvatska seljačka stranka (RE) – Hrvatska narodna stranka–liberalni demokrati (RE) – Amsterdamska koalicija (RE) – Centar (RE) – Pametno (RE)
@@ -674,4 +670,4 @@ Only polls for which at least the sample size has been published are included in
 + **Number of polls included in this average:** 2
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
 + **Total number of simulations done in the polls included in this average:** 2,097,152
-+ **Error estimate:** 1.02%
++ **Error estimate:** 1.39%
