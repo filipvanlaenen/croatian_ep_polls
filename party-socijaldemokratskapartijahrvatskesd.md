@@ -10,7 +10,10 @@ Last result: **29.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.7% | 15.0–20.3% | 14.5–20.8% | 14.1–21.2% | 13.4–22.0% |
+| N/A | [Poll Average](average.html) | 18.8% | 15.3–22.1% | 14.8–22.6% | 14.4–23.0% | 13.7–23.8% |
+| [1–3 February 2022](2022-02-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 21.1% | 19.7–22.6% | 19.3–23.0% | 18.9–23.4% | 18.3–24.1% |
+| [1–19 January 2022](2022-01-19-Ipsos.html) | Ipsos <br> Nova TV | 16.2% | 14.8–17.8% | 14.4–18.3% | 14.1–18.7% | 13.4–19.5% |
+| [3–5 January 2022](2022-01-05-PromocijaPlus.html) | Promocija Plus <br> RTL | 19.6% | N/A | N/A | N/A | N/A |
 | [1–19 December 2021](2021-12-19-Ipsos.html) | Ipsos <br> Nova TV | 15.9% | 14.5–17.5% | 14.1–17.9% | 13.7–18.3% | 13.1–19.1% |
 | [1–3 December 2021](2021-12-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 19.3% | 18.0–20.8% | 17.6–21.2% | 17.3–21.6% | 16.6–22.3% |
 | [1–20 November 2021](2021-11-20-Ipsos.html) | Ipsos <br> Nova TV | 16.0% | 14.5–17.5% | 14.1–18.0% | 13.8–18.4% | 13.2–19.2% |
@@ -96,19 +99,19 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.7% | 100% |  |
-| 13.5–14.5% | 5% | 99.2% |  |
-| 14.5–15.5% | 13% | 95% |  |
-| 15.5–16.5% | 17% | 82% |  |
-| 16.5–17.5% | 13% | 65% |  |
-| 17.5–18.5% | 13% | 52% | Median |
-| 18.5–19.5% | 18% | 39% |  |
-| 19.5–20.5% | 14% | 21% |  |
-| 20.5–21.5% | 6% | 7% |  |
-| 21.5–22.5% | 1.1% | 1.2% |  |
-| 22.5–23.5% | 0.1% | 0.1% |  |
-| 23.5–24.5% | 0% | 0% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 12.5–13.5% | 0.3% | 100% |  |
+| 13.5–14.5% | 3% | 99.7% |  |
+| 14.5–15.5% | 10% | 97% |  |
+| 15.5–16.5% | 16% | 87% |  |
+| 16.5–17.5% | 13% | 71% |  |
+| 17.5–18.5% | 6% | 57% |  |
+| 18.5–19.5% | 5% | 51% | Median |
+| 19.5–20.5% | 12% | 46% |  |
+| 20.5–21.5% | 17% | 35% |  |
+| 21.5–22.5% | 12% | 17% |  |
+| 22.5–23.5% | 4% | 5% |  |
+| 23.5–24.5% | 0.8% | 0.9% |  |
+| 24.5–25.5% | 0.1% | 0.1% |  |
 | 25.5–26.5% | 0% | 0% |  |
 | 26.5–27.5% | 0% | 0% |  |
 | 27.5–28.5% | 0% | 0% |  |
@@ -124,7 +127,10 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–3 February 2022](2022-02-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| [1–19 January 2022](2022-01-19-Ipsos.html) | Ipsos <br> Nova TV | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [3–5 January 2022](2022-01-05-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
 | [1–19 December 2021](2021-12-19-Ipsos.html) | Ipsos <br> Nova TV | 2 | 2 | 2 | 2–3 | 2–3 |
 | [1–3 December 2021](2021-12-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–20 November 2021](2021-11-20-Ipsos.html) | Ipsos <br> Nova TV | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -211,8 +217,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 63% | 100% | Last Result, Median |
-| 3 | 37% | 37% |  |
-| 4 | 0% | 0% |  |
+| 2 | 49% | 100% | Last Result |
+| 3 | 50% | 51% | Median |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 

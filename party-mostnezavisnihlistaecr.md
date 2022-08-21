@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.4% | 9.6–13.7% | 9.2–14.2% | 8.9–14.6% | 8.4–15.4% |
+| N/A | [Poll Average](average.html) | 11.9% | 9.8–13.9% | 9.4–14.3% | 9.1–14.7% | 8.5–15.4% |
+| [1–3 February 2022](2022-02-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 13.1% | 11.9–14.4% | 11.6–14.7% | 11.4–15.0% | 10.8–15.7% |
+| [1–19 January 2022](2022-01-19-Ipsos.html) | Ipsos <br> Nova TV | 10.6% | 9.4–11.9% | 9.1–12.3% | 8.8–12.7% | 8.3–13.4% |
+| [3–5 January 2022](2022-01-05-PromocijaPlus.html) | Promocija Plus <br> RTL | 14.4% | N/A | N/A | N/A | N/A |
 | [1–19 December 2021](2021-12-19-Ipsos.html) | Ipsos <br> Nova TV | 12.8% | 11.5–14.2% | 11.1–14.6% | 10.8–15.0% | 10.2–15.7% |
 | [1–3 December 2021](2021-12-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 10.2% | 9.2–11.4% | 8.9–11.7% | 8.7–12.0% | 8.2–12.6% |
 | [1–20 November 2021](2021-11-20-Ipsos.html) | Ipsos <br> Nova TV | 11.4% | 10.2–12.8% | 9.9–13.2% | 9.6–13.5% | 9.0–14.3% |
@@ -103,15 +106,15 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.8% | 100% |  |
-| 8.5–9.5% | 9% | 99.2% |  |
-| 9.5–10.5% | 22% | 90% |  |
-| 10.5–11.5% | 20% | 68% | Median |
-| 11.5–12.5% | 18% | 48% |  |
-| 12.5–13.5% | 18% | 30% |  |
-| 13.5–14.5% | 10% | 12% |  |
-| 14.5–15.5% | 2% | 3% |  |
-| 15.5–16.5% | 0.3% | 0.4% |  |
+| 7.5–8.5% | 0.5% | 100% |  |
+| 8.5–9.5% | 6% | 99.4% |  |
+| 9.5–10.5% | 17% | 94% |  |
+| 10.5–11.5% | 20% | 77% |  |
+| 11.5–12.5% | 19% | 57% | Median |
+| 12.5–13.5% | 22% | 38% |  |
+| 13.5–14.5% | 13% | 16% |  |
+| 14.5–15.5% | 3% | 3% |  |
+| 15.5–16.5% | 0.3% | 0.3% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
 
@@ -124,6 +127,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–3 February 2022](2022-02-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–19 January 2022](2022-01-19-Ipsos.html) | Ipsos <br> Nova TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [3–5 January 2022](2022-01-05-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
 | [1–19 December 2021](2021-12-19-Ipsos.html) | Ipsos <br> Nova TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–3 December 2021](2021-12-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 1 | 1 | 1 | 1 | 1–2 |
 | [1–20 November 2021](2021-11-20-Ipsos.html) | Ipsos <br> Nova TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -211,8 +217,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 66% | 100% | Median |
-| 2 | 34% | 34% |  |
+| 1 | 63% | 100% | Median |
+| 2 | 37% | 37% |  |
 | 3 | 0% | 0% |  |
 
 
