@@ -10,8 +10,8 @@ Last result: **29.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.0% | 15.7–20.3% | 15.2–20.9% | 14.8–21.3% | 14.1–22.2% |
-| [1–3 September 2022](2022-09-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 20.2% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 19.0% | 16.1–21.1% | 15.5–21.6% | 15.1–22.0% | 14.2–22.8% |
+| [1–3 September 2022](2022-09-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 20.2% | 18.9–21.7% | 18.5–22.1% | 18.1–22.5% | 17.5–23.2% |
 | [1–4 August 2022](2022-08-04-PromocijaPlus.html) | Promocija Plus <br> RTL | 19.6% | 18.3–21.1% | 17.9–21.5% | 17.5–21.9% | 16.9–22.6% |
 | [14–28 July 2022](2022-07-28-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 19.2% | 17.7–20.9% | 17.3–21.3% | 16.9–21.7% | 16.2–22.5% |
 | [1–20 July 2022](2022-07-20-Ipsos.html) | Ipsos <br> Nova TV | 16.7% | 15.2–18.3% | 14.8–18.7% | 14.5–19.1% | 13.8–19.9% |
@@ -118,17 +118,17 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 1.4% | 99.9% |  |
-| 14.5–15.5% | 6% | 98.5% |  |
-| 15.5–16.5% | 15% | 92% |  |
-| 16.5–17.5% | 19% | 77% |  |
-| 17.5–18.5% | 19% | 58% | Median |
-| 18.5–19.5% | 19% | 39% |  |
-| 19.5–20.5% | 13% | 21% |  |
-| 20.5–21.5% | 6% | 7% |  |
-| 21.5–22.5% | 1.4% | 2% |  |
-| 22.5–23.5% | 0.2% | 0.2% |  |
-| 23.5–24.5% | 0% | 0% |  |
+| 13.5–14.5% | 0.9% | 99.9% |  |
+| 14.5–15.5% | 4% | 99.0% |  |
+| 15.5–16.5% | 10% | 95% |  |
+| 16.5–17.5% | 13% | 85% |  |
+| 17.5–18.5% | 15% | 72% |  |
+| 18.5–19.5% | 19% | 58% | Median |
+| 19.5–20.5% | 20% | 38% |  |
+| 20.5–21.5% | 13% | 18% |  |
+| 21.5–22.5% | 4% | 5% |  |
+| 22.5–23.5% | 0.8% | 0.9% |  |
+| 23.5–24.5% | 0.1% | 0.1% |  |
 | 24.5–25.5% | 0% | 0% |  |
 | 25.5–26.5% | 0% | 0% |  |
 | 26.5–27.5% | 0% | 0% |  |
@@ -145,8 +145,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [1–3 September 2022](2022-09-03-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–3 September 2022](2022-09-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–4 August 2022](2022-08-04-PromocijaPlus.html) | Promocija Plus <br> RTL | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [14–28 July 2022](2022-07-28-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–20 July 2022](2022-07-20-Ipsos.html) | Ipsos <br> Nova TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -253,8 +253,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 55% | 100% | Last Result, Median |
-| 3 | 45% | 45% |  |
+| 2 | 43% | 100% | Last Result |
+| 3 | 57% | 57% | Median |
 | 4 | 0% | 0% |  |
 
 
