@@ -1,4 +1,4 @@
-# Možemo! (Greens/EFA)
+# Radnička fronta (GUE/NGL)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
