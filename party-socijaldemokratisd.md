@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.5–3.5% | 1.4–3.8% | 1.3–4.0% | 1.1–4.4% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.7–3.2% | 1.6–3.5% | 1.5–3.7% | 1.3–4.1% |
+| [2–5 January 2023](2023-01-05-PromocijaPlus.html) | Promocija Plus <br> RTL | 2.0% | 1.6–2.6% | 1.5–2.8% | 1.4–2.9% | 1.2–3.2% |
+| [15–27 December 2022](2022-12-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
+| [1–20 December 2022](2022-12-20-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
 | [30 November–3 December 2022](2022-12-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 1.8% | 1.4–2.3% | 1.3–2.5% | 1.2–2.7% | 1.0–2.9% |
 | [11–24 November 2022](2022-11-24-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [1–21 November 2022](2022-11-21-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
@@ -131,11 +134,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 11% | 100% |  |
-| 1.5–2.5% | 45% | 89% | Median |
-| 2.5–3.5% | 35% | 44% |  |
-| 3.5–4.5% | 9% | 9% |  |
-| 4.5–5.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 4% | 100% |  |
+| 1.5–2.5% | 57% | 96% | Median |
+| 2.5–3.5% | 35% | 39% |  |
+| 3.5–4.5% | 4% | 4% |  |
+| 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -148,6 +151,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [2–5 January 2023](2023-01-05-PromocijaPlus.html) | Promocija Plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
+| [15–27 December 2022](2022-12-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
+| [1–20 December 2022](2022-12-20-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
 | [30 November–3 December 2022](2022-12-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
 | [11–24 November 2022](2022-11-24-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
 | [1–21 November 2022](2022-11-21-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
