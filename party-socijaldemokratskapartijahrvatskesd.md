@@ -10,7 +10,11 @@ Last result: **29.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.3% | 13.4–19.4% | 12.8–20.0% | 12.3–20.4% | 11.5–21.3% |
+| N/A | [Poll Average](average.html) | 17.3% | 13.8–19.7% | 13.2–20.3% | 12.8–20.8% | 12.0–21.7% |
+| [14–17 March 2023](2023-03-17-PromocijaPlus.html) | Promocija Plus <br> RTL | 18.7% | 17.1–20.4% | 16.7–20.9% | 16.3–21.3% | 15.6–22.2% |
+| [1–3 March 2023](2023-03-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 18.4% | N/A | N/A | N/A | N/A |
+| [25 February 2023](2023-02-25-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 17.7% | 16.1–19.4% | 15.7–19.9% | 15.3–20.4% | 14.5–21.2% |
+| [1–21 February 2023](2023-02-21-Ipsos.html) | Ipsos <br> Nova TV | 14.4% | 12.9–16.0% | 12.5–16.5% | 12.2–16.9% | 11.5–17.8% |
 | [1–3 February 2023](2023-02-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 17.9% | 16.5–19.5% | 16.1–20.0% | 15.8–20.3% | 15.1–21.1% |
 | [16–27 January 2023](2023-01-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 18.2% | 16.6–20.0% | 16.2–20.5% | 15.8–20.9% | 15.1–21.8% |
 | [1–22 January 2023](2023-01-22-Ipsos.html) | Ipsos <br> Nova TV | 13.9% | 12.5–15.6% | 12.1–16.1% | 11.8–16.5% | 11.1–17.3% |
@@ -137,19 +141,19 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.5% | 100% |  |
-| 11.5–12.5% | 3% | 99.5% |  |
-| 12.5–13.5% | 8% | 96% |  |
-| 13.5–14.5% | 11% | 88% |  |
-| 14.5–15.5% | 8% | 77% |  |
-| 15.5–16.5% | 8% | 69% |  |
-| 16.5–17.5% | 16% | 61% | Median |
-| 17.5–18.5% | 21% | 45% |  |
-| 18.5–19.5% | 16% | 24% |  |
-| 19.5–20.5% | 7% | 9% |  |
-| 20.5–21.5% | 2% | 2% |  |
-| 21.5–22.5% | 0.3% | 0.3% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 10.5–11.5% | 0.2% | 100% |  |
+| 11.5–12.5% | 2% | 99.8% |  |
+| 12.5–13.5% | 6% | 98% |  |
+| 13.5–14.5% | 11% | 92% |  |
+| 14.5–15.5% | 11% | 82% |  |
+| 15.5–16.5% | 10% | 71% |  |
+| 16.5–17.5% | 15% | 61% | Median |
+| 17.5–18.5% | 19% | 46% |  |
+| 18.5–19.5% | 16% | 27% |  |
+| 19.5–20.5% | 8% | 12% |  |
+| 20.5–21.5% | 3% | 3% |  |
+| 21.5–22.5% | 0.6% | 0.6% |  |
+| 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
 | 24.5–25.5% | 0% | 0% |  |
 | 25.5–26.5% | 0% | 0% |  |
@@ -168,6 +172,10 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [14–17 March 2023](2023-03-17-PromocijaPlus.html) | Promocija Plus <br> RTL | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–3 March 2023](2023-03-03-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
+| [25 February 2023](2023-02-25-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–21 February 2023](2023-02-21-Ipsos.html) | Ipsos <br> Nova TV | 2 | 2 | 2 | 2 | 2–3 |
 | [1–3 February 2023](2023-02-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–27 January 2023](2023-01-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–22 January 2023](2023-01-22-Ipsos.html) | Ipsos <br> Nova TV | 2 | 2 | 2 | 2 | 1–2 |
@@ -295,9 +303,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.2% | 100% |  |
-| 2 | 64% | 99.8% | Last Result, Median |
-| 3 | 36% | 36% |  |
+| 1 | 0.1% | 100% |  |
+| 2 | 66% | 99.9% | Last Result, Median |
+| 3 | 34% | 34% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
