@@ -10,7 +10,9 @@ Last result: **29.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.0% | 14.6–20.8% | 14.0–21.5% | 13.6–22.0% | 12.7–23.0% |
+| N/A | [Poll Average](average.html) | 16.1% | 14.1–20.6% | 13.6–21.2% | 13.3–21.7% | 12.6–22.7% |
+| [31 May–2 June 2023](2023-06-02-PromocijaPlus.html) | Promocija Plus <br> RTL | 19.9% | 18.4–21.6% | 18.0–22.0% | 17.6–22.4% | 17.0–23.2% |
+| [27 May 2023](2023-05-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 15.3% | 13.9–16.8% | 13.5–17.2% | 13.2–17.6% | 12.6–18.3% |
 | [1–21 May 2023](2023-05-21-Ipsos.html) | Ipsos <br> Nova TV | 15.2% | 13.7–17.0% | 13.3–17.5% | 12.9–17.9% | 12.3–18.7% |
 | [15–18 May 2023](2023-05-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 20.0% | 18.4–21.8% | 17.9–22.3% | 17.5–22.7% | 16.8–23.6% |
 | [7 May 2023](2023-05-07-PromocijaPlus.html) | Promocija Plus <br> RTL | 19.4% | 17.9–21.0% | 17.5–21.5% | 17.2–21.9% | 16.5–22.7% |
@@ -150,19 +152,19 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.3% | 100% |  |
-| 12.5–13.5% | 2% | 99.7% |  |
-| 13.5–14.5% | 7% | 98% |  |
-| 14.5–15.5% | 11% | 91% |  |
-| 15.5–16.5% | 12% | 80% |  |
-| 16.5–17.5% | 12% | 69% |  |
-| 17.5–18.5% | 14% | 57% | Median |
-| 18.5–19.5% | 16% | 42% |  |
-| 19.5–20.5% | 13% | 26% |  |
-| 20.5–21.5% | 8% | 13% |  |
-| 21.5–22.5% | 3% | 5% |  |
-| 22.5–23.5% | 0.9% | 1.1% |  |
-| 23.5–24.5% | 0.2% | 0.2% |  |
+| 11.5–12.5% | 0.5% | 100% |  |
+| 12.5–13.5% | 4% | 99.5% |  |
+| 13.5–14.5% | 13% | 96% |  |
+| 14.5–15.5% | 21% | 83% |  |
+| 15.5–16.5% | 18% | 61% | Median |
+| 16.5–17.5% | 8% | 43% |  |
+| 17.5–18.5% | 5% | 35% |  |
+| 18.5–19.5% | 9% | 30% |  |
+| 19.5–20.5% | 11% | 21% |  |
+| 20.5–21.5% | 7% | 11% |  |
+| 21.5–22.5% | 3% | 3% |  |
+| 22.5–23.5% | 0.6% | 0.6% |  |
+| 23.5–24.5% | 0.1% | 0.1% |  |
 | 24.5–25.5% | 0% | 0% |  |
 | 25.5–26.5% | 0% | 0% |  |
 | 26.5–27.5% | 0% | 0% |  |
@@ -179,7 +181,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [31 May–2 June 2023](2023-06-02-PromocijaPlus.html) | Promocija Plus <br> RTL | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [27 May 2023](2023-05-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 2 | 2 | 2 | 2 | 1–2 |
 | [1–21 May 2023](2023-05-21-Ipsos.html) | Ipsos <br> Nova TV | 2 | 2 | 2 | 2 | 2–3 |
 | [15–18 May 2023](2023-05-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [7 May 2023](2023-05-07-PromocijaPlus.html) | Promocija Plus <br> RTL | 3 | 3 | 2–3 | 2–3 | 2–3 |
@@ -320,9 +324,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 37% | 100% | Last Result |
-| 3 | 62% | 63% | Median |
-| 4 | 0.4% | 0.4% |  |
+| 1 | 0.2% | 100% |  |
+| 2 | 71% | 99.8% | Last Result, Median |
+| 3 | 29% | 29% |  |
+| 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
 
