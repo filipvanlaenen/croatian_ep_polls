@@ -10,7 +10,8 @@ Last result: **29.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.4% | 14.4–19.9% | 13.8–20.4% | 13.3–20.9% | 12.5–21.9% |
+| N/A | [Poll Average](average.html) | 17.6% | 15.3–19.9% | 14.8–20.4% | 14.3–20.9% | 13.5–21.9% |
+| [1–22 October 2023](2023-10-22-Ipsos.html) | Ipsos <br> Nova TV | 16.1% | 14.5–17.8% | 14.1–18.3% | 13.7–18.7% | 13.0–19.6% |
 | [17–19 October 2023](2023-10-19-PromocijaPlus.html) | Promocija Plus <br> HRT | 18.9% | 17.3–20.7% | 16.9–21.2% | 16.5–21.6% | 15.8–22.4% |
 | [2–5 October 2023](2023-10-05-PromocijaPlus.html) | Promocija Plus <br> RTL | 18.7% | N/A | N/A | N/A | N/A |
 | [18–29 September 2023](2023-09-29-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 17.7% | 16.1–19.4% | 15.6–19.9% | 15.2–20.3% | 14.5–21.2% |
@@ -164,15 +165,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.5% | 100% |  |
-| 12.5–13.5% | 3% | 99.4% |  |
-| 13.5–14.5% | 8% | 96% |  |
-| 14.5–15.5% | 12% | 88% |  |
-| 15.5–16.5% | 13% | 77% |  |
-| 16.5–17.5% | 15% | 64% | Median |
-| 17.5–18.5% | 19% | 48% |  |
-| 18.5–19.5% | 16% | 30% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0.5% | 100% |  |
+| 13.5–14.5% | 3% | 99.4% |  |
+| 14.5–15.5% | 9% | 96% |  |
+| 15.5–16.5% | 16% | 88% |  |
+| 16.5–17.5% | 20% | 72% |  |
+| 17.5–18.5% | 21% | 52% | Median |
+| 18.5–19.5% | 17% | 31% |  |
 | 19.5–20.5% | 9% | 14% |  |
 | 20.5–21.5% | 3% | 4% |  |
 | 21.5–22.5% | 0.8% | 0.9% |  |
@@ -195,6 +195,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–22 October 2023](2023-10-22-Ipsos.html) | Ipsos <br> Nova TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [17–19 October 2023](2023-10-19-PromocijaPlus.html) | Promocija Plus <br> HRT | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [2–5 October 2023](2023-10-05-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
 | [18–29 September 2023](2023-09-29-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -350,9 +351,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.1% | 100% |  |
-| 2 | 62% | 99.9% | Last Result, Median |
-| 3 | 37% | 38% |  |
+| 2 | 58% | 100% | Last Result, Median |
+| 3 | 42% | 42% |  |
 | 4 | 0.4% | 0.4% |  |
 | 5 | 0% | 0% |  |
 

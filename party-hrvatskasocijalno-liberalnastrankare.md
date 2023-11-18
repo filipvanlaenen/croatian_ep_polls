@@ -1,4 +1,4 @@
-# Radnička fronta (GUE/NGL)
+# Hrvatska socijalno-liberalna stranka (RE)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -10,59 +10,59 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.3–2.8% | 1.2–3.1% | 1.1–3.3% | 0.9–3.7% |
-| [1–22 October 2023](2023-10-22-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
-| [17–19 October 2023](2023-10-19-PromocijaPlus.html) | Promocija Plus <br> HRT | 2.3% | 1.8–3.0% | 1.6–3.3% | 1.5–3.5% | 1.3–3.9% |
-| [2–5 October 2023](2023-10-05-PromocijaPlus.html) | Promocija Plus <br> RTL | 2.2% | N/A | N/A | N/A | N/A |
-| [18–29 September 2023](2023-09-29-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 1.6% | 1.2–2.3% | 1.1–2.5% | 1.0–2.7% | 0.8–3.1% |
+| N/A | [Poll Average](average.html) | 1.5% | 1.0–2.1% | 0.9–2.3% | 0.8–2.5% | 0.7–2.9% |
+| [1–22 October 2023](2023-10-22-Ipsos.html) | Ipsos <br> Nova TV | 1.4% | 1.0–2.1% | 0.9–2.3% | 0.8–2.5% | 0.7–2.9% |
+| [17–19 October 2023](2023-10-19-PromocijaPlus.html) | Promocija Plus <br> HRT | 0.0% | N/A | N/A | N/A | N/A |
+| [2–5 October 2023](2023-10-05-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
+| [18–29 September 2023](2023-09-29-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 0.0% | N/A | N/A | N/A | N/A |
 | [1–20 September 2023](2023-09-20-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
-| [14–18 September 2023](2023-09-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% | 0.6–2.6% |
-| [4–7 September 2023](2023-09-07-PromocijaPlus.html) | Promocija Plus <br> RTL | 1.5% | N/A | N/A | N/A | N/A |
-| [16–28 August 2023](2023-08-28-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 1.6% | N/A | N/A | N/A | N/A |
+| [14–18 September 2023](2023-09-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 0.0% | N/A | N/A | N/A | N/A |
+| [4–7 September 2023](2023-09-07-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
+| [16–28 August 2023](2023-08-28-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 0.0% | N/A | N/A | N/A | N/A |
 | [1–20 August 2023](2023-08-20-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
-| [1–4 August 2023](2023-08-04-PromocijaPlus.html) | Promocija Plus <br> RTL | 1.7% | N/A | N/A | N/A | N/A |
+| [1–4 August 2023](2023-08-04-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
 | [1–20 July 2023](2023-07-20-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
-| [3–6 July 2023](2023-07-06-PromocijaPlus.html) | Promocija Plus <br> RTL | 1.7% | 1.2–2.3% | 1.1–2.5% | 1.1–2.6% | 0.9–2.9% |
-| [16–26 June 2023](2023-06-26-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% | 0.6–2.6% |
+| [3–6 July 2023](2023-07-06-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
+| [16–26 June 2023](2023-06-26-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0.0% | N/A | N/A | N/A | N/A |
 | [1–20 June 2023](2023-06-20-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
-| [31 May–2 June 2023](2023-06-02-PromocijaPlus.html) | Promocija Plus <br> RTL | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.6–3.5% | 1.4–3.9% |
+| [31 May–2 June 2023](2023-06-02-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
 | [27 May 2023](2023-05-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0.0% | N/A | N/A | N/A | N/A |
 | [1–21 May 2023](2023-05-21-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
-| [15–18 May 2023](2023-05-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.4% | 0.7–2.7% |
-| [7 May 2023](2023-05-07-PromocijaPlus.html) | Promocija Plus <br> RTL | 1.9% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.3% |
-| [17–27 April 2023](2023-04-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 2.1% | 1.6–2.8% | 1.4–3.0% | 1.3–3.2% | 1.1–3.6% |
+| [15–18 May 2023](2023-05-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 0.0% | N/A | N/A | N/A | N/A |
+| [7 May 2023](2023-05-07-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
+| [17–27 April 2023](2023-04-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0.0% | N/A | N/A | N/A | N/A |
 | [1–21 April 2023](2023-04-21-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
-| [14–18 April 2023](2023-04-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 2.1% | 1.6–2.8% | 1.4–3.0% | 1.3–3.2% | 1.1–3.6% |
-| [2–5 April 2023](2023-04-05-PromocijaPlus.html) | Promocija Plus | 2.2% | N/A | N/A | N/A | N/A |
-| [1–31 March 2023](2023-03-31-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 2.4% | 1.9–3.2% | 1.7–3.5% | 1.6–3.7% | 1.4–4.1% |
+| [14–18 April 2023](2023-04-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 0.0% | N/A | N/A | N/A | N/A |
+| [2–5 April 2023](2023-04-05-PromocijaPlus.html) | Promocija Plus | 0.0% | N/A | N/A | N/A | N/A |
+| [1–31 March 2023](2023-03-31-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0.0% | N/A | N/A | N/A | N/A |
 | [1–21 March 2023](2023-03-21-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
-| [14–17 March 2023](2023-03-17-PromocijaPlus.html) | Promocija Plus <br> RTL | 1.9% | 1.5–2.7% | 1.3–2.9% | 1.2–3.0% | 1.0–3.4% |
-| [1–3 March 2023](2023-03-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 1.6% | N/A | N/A | N/A | N/A |
-| [25 February 2023](2023-02-25-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1.8% | 1.4–2.6% | 1.2–2.8% | 1.1–3.0% | 0.9–3.4% |
+| [14–17 March 2023](2023-03-17-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
+| [1–3 March 2023](2023-03-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
+| [25 February 2023](2023-02-25-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0.0% | N/A | N/A | N/A | N/A |
 | [1–21 February 2023](2023-02-21-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
-| [1–3 February 2023](2023-02-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 1.7% | 1.2–2.3% | 1.1–2.5% | 1.1–2.6% | 0.9–2.9% |
-| [16–27 January 2023](2023-01-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1.8% | 1.4–2.6% | 1.2–2.8% | 1.1–3.0% | 0.9–3.4% |
-| [1–22 January 2023](2023-01-22-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
-| [2–5 January 2023](2023-01-05-PromocijaPlus.html) | Promocija Plus <br> RTL | 1.6% | 1.2–2.2% | 1.1–2.3% | 1.1–2.5% | 0.9–2.8% |
-| [15–27 December 2022](2022-12-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1.7% | 1.3–2.4% | 1.2–2.6% | 1.1–2.7% | 0.9–3.1% |
-| [1–20 December 2022](2022-12-20-Ipsos.html) | Ipsos <br> Nova TV | 1.9% | 1.5–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.4% |
-| [30 November–3 December 2022](2022-12-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 2.2% | 1.8–2.9% | 1.7–3.0% | 1.6–3.2% | 1.4–3.5% |
-| [11–24 November 2022](2022-11-24-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1.7% | 1.3–2.4% | 1.2–2.6% | 1.1–2.7% | 0.9–3.1% |
+| [1–3 February 2023](2023-02-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
+| [16–27 January 2023](2023-01-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0.0% | N/A | N/A | N/A | N/A |
+| [1–22 January 2023](2023-01-22-Ipsos.html) | Ipsos <br> Nova TV | 1.4% | N/A | N/A | N/A | N/A |
+| [2–5 January 2023](2023-01-05-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
+| [15–27 December 2022](2022-12-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0.0% | N/A | N/A | N/A | N/A |
+| [1–20 December 2022](2022-12-20-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
+| [30 November–3 December 2022](2022-12-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
+| [11–24 November 2022](2022-11-24-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0.0% | N/A | N/A | N/A | N/A |
 | [1–21 November 2022](2022-11-21-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
-| [14–17 November 2022](2022-11-17-PromocijaPlus.html) | Promocija Plus <br> RTL | 1.5% | 1.2–2.0% | 1.1–2.2% | 1.0–2.3% | 0.8–2.6% |
-| [2–4 November 2022](2022-11-04-PromocijaPlus.html) | Promocija Plus <br> RTL | 1.5% | N/A | N/A | N/A | N/A |
-| [1–31 October 2022](2022-10-31-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1.6% | N/A | N/A | N/A | N/A |
+| [14–17 November 2022](2022-11-17-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
+| [2–4 November 2022](2022-11-04-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
+| [1–31 October 2022](2022-10-31-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0.0% | N/A | N/A | N/A | N/A |
 | [1–21 October 2022](2022-10-21-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
-| [17–19 October 2022](2022-10-19-PromocijaPlus.html) | Promocija Plus <br> RTL | 1.5% | N/A | N/A | N/A | N/A |
+| [17–19 October 2022](2022-10-19-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
 | [3–6 October 2022](2022-10-06-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
-| [12–23 September 2022](2022-09-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 1.3% | N/A | N/A | N/A | N/A |
-| [1–22 September 2022](2022-09-22-Ipsos.html) | Ipsos <br> Nova TV | 2.1% | N/A | N/A | N/A | N/A |
-| [15–19 September 2022](2022-09-19-PromocijaPlus.html) | Promocija Plus <br> RTL | 1.5% | N/A | N/A | N/A | N/A |
+| [12–23 September 2022](2022-09-23-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0.0% | N/A | N/A | N/A | N/A |
+| [1–22 September 2022](2022-09-22-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
+| [15–19 September 2022](2022-09-19-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
 | [1–3 September 2022](2022-09-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
 | [11–26 August 2022](2022-08-26-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0.0% | N/A | N/A | N/A | N/A |
 | [1–21 August 2022](2022-08-21-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
-| [1–4 August 2022](2022-08-04-PromocijaPlus.html) | Promocija Plus <br> RTL | 1.3% | N/A | N/A | N/A | N/A |
-| [14–28 July 2022](2022-07-28-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0.6% | N/A | N/A | N/A | N/A |
+| [1–4 August 2022](2022-08-04-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
+| [14–28 July 2022](2022-07-28-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0.0% | N/A | N/A | N/A | N/A |
 | [1–20 July 2022](2022-07-20-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
 | [4–7 July 2022](2022-07-07-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
 | [13–26 June 2022](2022-06-26-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0.0% | N/A | N/A | N/A | N/A |
@@ -72,7 +72,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [16–19 May 2022](2022-05-19-PromocijaPlus.html) | Promocija Plus <br> HRT | 0.0% | N/A | N/A | N/A | N/A |
 | [2–5 May 2022](2022-05-05-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
 | [19–21 April 2022](2022-04-21-PromocijaPlus.html) | Promocija Plus <br> HRT | 0.0% | N/A | N/A | N/A | N/A |
-| [1–20 April 2022](2022-04-20-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
+| [1–20 April 2022](2022-04-20-Ipsos.html) | Ipsos <br> Nova TV | 1.2% | N/A | N/A | N/A | N/A |
 | [5–8 April 2022](2022-04-08-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
 | [1–19 March 2022](2022-03-19-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
 | [15–18 March 2022](2022-03-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 0.0% | N/A | N/A | N/A | N/A |
@@ -161,16 +161,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Radnička fronta (GUE/NGL).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Hrvatska socijalno-liberalna stranka (RE).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 20% | 100% |  |
-| 1.5–2.5% | 60% | 80% | Median |
-| 2.5–3.5% | 19% | 20% |  |
-| 3.5–4.5% | 0.9% | 0.9% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 52% | 99.9% |  |
+| 1.5–2.5% | 45% | 47% | Median |
+| 2.5–3.5% | 2% | 2% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -182,45 +181,45 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [1–22 October 2023](2023-10-22-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
-| [17–19 October 2023](2023-10-19-PromocijaPlus.html) | Promocija Plus <br> HRT | 0 | 0 | 0 | 0 | 0 |
+| [1–22 October 2023](2023-10-22-Ipsos.html) | Ipsos <br> Nova TV | 0 | 0 | 0 | 0 | 0 |
+| [17–19 October 2023](2023-10-19-PromocijaPlus.html) | Promocija Plus <br> HRT |  |  |  |  |  |
 | [2–5 October 2023](2023-10-05-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
-| [18–29 September 2023](2023-09-29-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 0 | 0 | 0 | 0 | 0 |
+| [18–29 September 2023](2023-09-29-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list |  |  |  |  |  |
 | [1–20 September 2023](2023-09-20-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
-| [14–18 September 2023](2023-09-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 0 | 0 | 0 | 0 | 0 |
+| [14–18 September 2023](2023-09-18-PromocijaPlus.html) | Promocija Plus <br> HRT |  |  |  |  |  |
 | [4–7 September 2023](2023-09-07-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
 | [16–28 August 2023](2023-08-28-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list |  |  |  |  |  |
 | [1–20 August 2023](2023-08-20-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
 | [1–4 August 2023](2023-08-04-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
 | [1–20 July 2023](2023-07-20-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
-| [3–6 July 2023](2023-07-06-PromocijaPlus.html) | Promocija Plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
-| [16–26 June 2023](2023-06-26-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
+| [3–6 July 2023](2023-07-06-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
+| [16–26 June 2023](2023-06-26-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |
 | [1–20 June 2023](2023-06-20-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
-| [31 May–2 June 2023](2023-06-02-PromocijaPlus.html) | Promocija Plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
+| [31 May–2 June 2023](2023-06-02-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
 | [27 May 2023](2023-05-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |
 | [1–21 May 2023](2023-05-21-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
-| [15–18 May 2023](2023-05-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 0 | 0 | 0 | 0 | 0 |
-| [7 May 2023](2023-05-07-PromocijaPlus.html) | Promocija Plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
-| [17–27 April 2023](2023-04-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
+| [15–18 May 2023](2023-05-18-PromocijaPlus.html) | Promocija Plus <br> HRT |  |  |  |  |  |
+| [7 May 2023](2023-05-07-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
+| [17–27 April 2023](2023-04-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |
 | [1–21 April 2023](2023-04-21-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
-| [14–18 April 2023](2023-04-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 0 | 0 | 0 | 0 | 0 |
+| [14–18 April 2023](2023-04-18-PromocijaPlus.html) | Promocija Plus <br> HRT |  |  |  |  |  |
 | [2–5 April 2023](2023-04-05-PromocijaPlus.html) | Promocija Plus |  |  |  |  |  |
-| [1–31 March 2023](2023-03-31-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
+| [1–31 March 2023](2023-03-31-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |
 | [1–21 March 2023](2023-03-21-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
-| [14–17 March 2023](2023-03-17-PromocijaPlus.html) | Promocija Plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
+| [14–17 March 2023](2023-03-17-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
 | [1–3 March 2023](2023-03-03-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
-| [25 February 2023](2023-02-25-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
+| [25 February 2023](2023-02-25-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |
 | [1–21 February 2023](2023-02-21-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
-| [1–3 February 2023](2023-02-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
-| [16–27 January 2023](2023-01-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
+| [1–3 February 2023](2023-02-03-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
+| [16–27 January 2023](2023-01-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |
 | [1–22 January 2023](2023-01-22-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
-| [2–5 January 2023](2023-01-05-PromocijaPlus.html) | Promocija Plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
-| [15–27 December 2022](2022-12-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
-| [1–20 December 2022](2022-12-20-Ipsos.html) | Ipsos <br> Nova TV | 0 | 0 | 0 | 0 | 0 |
-| [30 November–3 December 2022](2022-12-03-PromocijaPlus.html) | Promocija Plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
-| [11–24 November 2022](2022-11-24-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto | 0 | 0 | 0 | 0 | 0 |
+| [2–5 January 2023](2023-01-05-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
+| [15–27 December 2022](2022-12-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |
+| [1–20 December 2022](2022-12-20-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
+| [30 November–3 December 2022](2022-12-03-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
+| [11–24 November 2022](2022-11-24-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |
 | [1–21 November 2022](2022-11-21-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
-| [14–17 November 2022](2022-11-17-PromocijaPlus.html) | Promocija Plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
+| [14–17 November 2022](2022-11-17-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
 | [2–4 November 2022](2022-11-04-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
 | [1–31 October 2022](2022-10-31-2x1Komunikacije.html) | 2x1 Komunikacije <br> CroElecto |  |  |  |  |  |
 | [1–21 October 2022](2022-10-21-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
@@ -332,9 +331,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-radničkafrontaguengl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-hrvatskasocijalno-liberalnastrankare.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Radnička fronta (GUE/NGL).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Hrvatska socijalno-liberalna stranka (RE).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
