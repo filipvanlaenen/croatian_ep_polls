@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.0% | 7.7–12.2% | 7.3–12.7% | 7.0–13.1% | 6.4–13.8% |
+| N/A | [Poll Average](average.html) | 9.7% | 7.7–11.5% | 7.3–12.0% | 7.0–12.4% | 6.4–13.1% |
+| [2–5 January 2024](2024-01-05-PromocijaPlus.html) | Promocija Plus <br> RTL | 10.7% | 9.5–12.0% | 9.2–12.4% | 8.9–12.7% | 8.4–13.3% |
 | [1–20 December 2023](2023-12-20-Ipsos.html) | Ipsos <br> Nova TV | 8.4% | 7.3–9.8% | 7.0–10.2% | 6.7–10.6% | 6.2–11.3% |
 | [4–7 December 2023](2023-12-07-PromocijaPlus.html) | Promocija Plus <br> RTL | 11.4% | 10.2–12.7% | 9.9–13.1% | 9.6–13.4% | 9.1–14.1% |
 | [1–21 November 2023](2023-11-21-Ipsos.html) | Ipsos <br> Nova TV | 9.6% | 8.4–11.1% | 8.0–11.5% | 7.8–11.8% | 7.2–12.6% |
@@ -179,14 +180,13 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0.8% | 100% |  |
 | 6.5–7.5% | 7% | 99.2% |  |
 | 7.5–8.5% | 18% | 92% |  |
-| 8.5–9.5% | 18% | 74% |  |
-| 9.5–10.5% | 14% | 57% | Median |
-| 10.5–11.5% | 20% | 42% |  |
-| 11.5–12.5% | 16% | 22% |  |
-| 12.5–13.5% | 6% | 7% |  |
-| 13.5–14.5% | 0.9% | 0.9% |  |
-| 14.5–15.5% | 0.1% | 0.1% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 8.5–9.5% | 21% | 74% |  |
+| 9.5–10.5% | 23% | 53% | Median |
+| 10.5–11.5% | 20% | 30% |  |
+| 11.5–12.5% | 8% | 10% |  |
+| 12.5–13.5% | 2% | 2% |  |
+| 13.5–14.5% | 0.1% | 0.1% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -198,6 +198,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [2–5 January 2024](2024-01-05-PromocijaPlus.html) | Promocija Plus <br> RTL | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–20 December 2023](2023-12-20-Ipsos.html) | Ipsos <br> Nova TV | 1 | 1 | 1 | 1 | 1 |
 | [4–7 December 2023](2023-12-07-PromocijaPlus.html) | Promocija Plus <br> RTL | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–21 November 2023](2023-11-21-Ipsos.html) | Ipsos <br> Nova TV | 1 | 1 | 1 | 1 | 1–2 |
@@ -360,8 +361,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 70% | 100% | Median |
-| 2 | 30% | 30% |  |
+| 1 | 83% | 100% | Median |
+| 2 | 17% | 17% |  |
 | 3 | 0% | 0% |  |
 
 
