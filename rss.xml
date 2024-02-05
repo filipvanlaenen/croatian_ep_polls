@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 20 Jan 2024 20:39:35 +0100</pubDate>
+    <pubDate>Mon, 05 Feb 2024 21:55:01 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Promocija Plus for HRT, 24–26 January 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2024-01-26-PromocijaPlus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Radnička fronta (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokrati (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0 seats&lt;/li&gt;&lt;li&gt;Centar (RE): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret Miroslava Škore (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (RE): 0 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Fokus na bitno (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2024-01-26-PromocijaPlus-seats.png"
+        length="310606"
+        type="image/png"/>
+      <pubDate>Mon, 05 Feb 2024 21:55:01 +0100</pubDate>
+      <dc:date>2024-02-05T21:55:01.293105+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Promocija Plus for HRT, 24–26 January 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2024-01-26-PromocijaPlus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2024-01-26-PromocijaPlus-coalitions-seats.png"
+        length="212914"
+        type="image/png"/>
+      <pubDate>Mon, 05 Feb 2024 21:55:01 +0100</pubDate>
+      <dc:date>2024-02-05T21:55:01.293105+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Promocija Plus for HRT, 24–26 January 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2024-01-26-PromocijaPlus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 28.2–34.6%&lt;/li&gt;&lt;li&gt;Radnička fronta (GUE/NGL): 0.7–2.4%&lt;/li&gt;&lt;li&gt;Socijaldemokrati (S&amp;amp;D): 0.7–2.4%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 16.8–22.2%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0.8–2.5%&lt;/li&gt;&lt;li&gt;Centar (RE): 1.5–3.6%&lt;/li&gt;&lt;li&gt;Domovinski pokret Miroslava Škore (ECR): 7.8–11.9%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0.7–2.4%&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0.7–2.2%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 8.3–12.4%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (RE): 0.8–2.5%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 8.0–12.1%&lt;/li&gt;&lt;li&gt;Fokus na bitno (*): 1.2–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2024-01-26-PromocijaPlus.png"
+        length="412556"
+        type="image/png"/>
+      <pubDate>Mon, 05 Feb 2024 21:55:01 +0100</pubDate>
+      <dc:date>2024-02-05T21:55:01.293105+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Promocija Plus for RTL, 2–5 January 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2024-01-05-PromocijaPlus.html#seats</link>
@@ -3519,6 +3549,6 @@
       <pubDate>Fri, 08 May 2020 17:36:00 +0200</pubDate>
       <dc:date>2020-05-08T17:36:00+02:00</dc:date>
     </item>
-    <dc:date>2024-01-20T20:39:35.389254+01:00</dc:date>
+    <dc:date>2024-02-05T21:55:01.293105+01:00</dc:date>
   </channel>
 </rss>
