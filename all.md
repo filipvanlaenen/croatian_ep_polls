@@ -181,7 +181,7 @@ Only polls for which at least the sample size has been published are included in
 + **NLMK:** Nezavisna lista Mislava Kolakušića (NI)
 + **Hrast:** Hrvatski rast (ECR)
 + **HS:** Hrvatski suverenisti (ECR)
-+ **DPMŠ:** Domovinski pokret Miroslava Škore (ECR)
++ **DPMŠ:** Domovinski pokret Miroslava Škore (ID)
 + **AK:** Amsterdamska koalicija (RE)
 + **NHR:** Neovisni za Hrvatsku (ID)
 + **START:** Stranka antikorupcije, razvoja i transparentnosti (*)
