@@ -14,7 +14,7 @@
 | Socijaldemokratska partija Hrvatske (S&D) | 29.9% | 19.3% | 17.6–21.2% |17.2–21.7% |16.8–22.2% |16.0–23.1% |
 | Možemo! (Greens/EFA) | 0.0% | 10.1% | 8.9–11.6% |8.6–12.0% |8.3–12.4% |7.7–13.2% |
 | Most nezavisnih lista (ECR) | 0.0% | 9.9% | 8.7–11.4% |8.3–11.8% |8.0–12.1% |7.5–12.9% |
-| Domovinski pokret Miroslava Škore (ECR) | 0.0% | 9.7% | 8.4–11.1% |8.1–11.5% |7.8–11.9% |7.3–12.6% |
+| Domovinski pokret Miroslava Škore (ID) | 0.0% | 9.7% | 8.4–11.1% |8.1–11.5% |7.8–11.9% |7.3–12.6% |
 | Centar (RE) | 0.0% | 2.3% | 1.8–3.2% |1.6–3.4% |1.5–3.6% |1.3–4.1% |
 | Fokus na bitno (*) | 0.0% | 2.0% | 1.5–2.7% |1.3–3.0% |1.2–3.2% |1.0–3.6% |
 | Hrvatska narodna stranka–liberalni demokrati (RE) | 29.9% | 1.5% | 1.1–2.2% |0.9–2.4% |0.8–2.5% |0.7–2.9% |
@@ -40,7 +40,7 @@
 | <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 3 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#možemo!-(greens/efa)">Možemo! (Greens/EFA)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#most-nezavisnih-lista-(ecr)">Most nezavisnih lista (ECR)</a> | 0 | 1 | 1 |1–2 |1–2 |1–2 |
-| <a href="#domovinski-pokret-miroslava-škore-(ecr)">Domovinski pokret Miroslava Škore (ECR)</a> | 0 | 1 | 1 |1 |1 |1–2 |
+| <a href="#domovinski-pokret-miroslava-škore-(id)">Domovinski pokret Miroslava Škore (ID)</a> | 0 | 1 | 1 |1 |1 |1–2 |
 | <a href="#centar-(re)">Centar (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#fokus-na-bitno-(*)">Fokus na bitno (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#hrvatska-narodna-stranka–liberalni-demokrati-(re)">Hrvatska narodna stranka–liberalni demokrati (RE)</a> | 1 | 0 | 0 |0 |0 |0 |
@@ -102,11 +102,11 @@
 | 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
 
-### Domovinski pokret Miroslava Škore (ECR)
+### Domovinski pokret Miroslava Škore (ID)
 
-*For a full overview of the results for this party, see the [Domovinski pokret Miroslava Škore (ECR)](party-domovinskipokretmiroslavaškoreecr.html) page.*
+*For a full overview of the results for this party, see the [Domovinski pokret Miroslava Škore (ID)](party-domovinskipokretmiroslavaškoreid.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-01-26-PromocijaPlus-seats-pmf-domovinskipokretmiroslavaškoreecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-01-26-PromocijaPlus-seats-pmf-domovinskipokretmiroslavaškoreid.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

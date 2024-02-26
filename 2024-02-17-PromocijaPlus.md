@@ -13,7 +13,7 @@
 | Hrvatska demokratska zajednica (EPP) | 41.4% | 30.6% | 28.6–32.7% |28.0–33.3% |27.6–33.9% |26.6–34.9% |
 | Socijaldemokratska partija Hrvatske (S&D) | 29.9% | 21.0% | 19.3–22.9% |18.8–23.5% |18.4–23.9% |17.6–24.9% |
 | Most nezavisnih lista (ECR) | 0.0% | 10.6% | 9.3–12.1% |8.9–12.5% |8.6–12.9% |8.1–13.6% |
-| Domovinski pokret Miroslava Škore (ECR) | 0.0% | 10.3% | 9.1–11.8% |8.7–12.2% |8.4–12.6% |7.9–13.4% |
+| Domovinski pokret Miroslava Škore (ID) | 0.0% | 10.3% | 9.1–11.8% |8.7–12.2% |8.4–12.6% |7.9–13.4% |
 | Možemo! (Greens/EFA) | 0.0% | 9.8% | 8.6–11.3% |8.3–11.7% |8.0–12.1% |7.4–12.8% |
 | Hrvatska seljačka stranka (RE) | 41.4% | 1.7% | 1.2–2.4% |1.1–2.7% |1.0–2.8% |0.8–3.2% |
 | Hrvatska narodna stranka–liberalni demokrati (RE) | 29.9% | 1.5% | 1.0–2.2% |0.9–2.4% |0.8–2.5% |0.7–2.9% |
@@ -37,7 +37,7 @@
 | <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 4 | 5 | 4–5 |4–5 |4–5 |4–5 |
 | <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 2 | 3 | 3 |3 |3–4 |2–4 |
 | <a href="#most-nezavisnih-lista-(ecr)">Most nezavisnih lista (ECR)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#domovinski-pokret-miroslava-škore-(ecr)">Domovinski pokret Miroslava Škore (ECR)</a> | 0 | 1 | 1 |1–2 |1–2 |1–2 |
+| <a href="#domovinski-pokret-miroslava-škore-(id)">Domovinski pokret Miroslava Škore (ID)</a> | 0 | 1 | 1 |1–2 |1–2 |1–2 |
 | <a href="#možemo!-(greens/efa)">Možemo! (Greens/EFA)</a> | 0 | 1 | 1 |1 |1–2 |1–2 |
 | <a href="#hrvatska-seljačka-stranka-(re)">Hrvatska seljačka stranka (RE)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#hrvatska-narodna-stranka–liberalni-demokrati-(re)">Hrvatska narodna stranka–liberalni demokrati (RE)</a> | 1 | 0 | 0 |0 |0 |0 |
@@ -85,11 +85,11 @@
 | 2 | 10% | 10% |  |
 | 3 | 0% | 0% |  |
 
-### Domovinski pokret Miroslava Škore (ECR)
+### Domovinski pokret Miroslava Škore (ID)
 
-*For a full overview of the results for this party, see the [Domovinski pokret Miroslava Škore (ECR)](party-domovinskipokretmiroslavaškoreecr.html) page.*
+*For a full overview of the results for this party, see the [Domovinski pokret Miroslava Škore (ID)](party-domovinskipokretmiroslavaškoreid.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-02-17-PromocijaPlus-seats-pmf-domovinskipokretmiroslavaškoreecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-02-17-PromocijaPlus-seats-pmf-domovinskipokretmiroslavaškoreid.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
