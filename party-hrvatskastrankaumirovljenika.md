@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.4% | 1.0–2.0% | 0.8–2.2% | 0.8–2.4% | 0.6–2.8% |
 | [15–17 February 2024](2024-02-17-PromocijaPlus.html) | Promocija Plus <br> HRT | 1.3% | 0.9–2.0% | 0.8–2.2% | 0.7–2.4% | 0.6–2.8% |
+| [1–17 February 2024](2024-02-17-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
 | [31 January–2 February 2024](2024-02-02-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
 | [24–26 January 2024](2024-01-26-PromocijaPlus.html) | Promocija Plus <br> HRT | 1.2% | 0.9–1.9% | 0.7–2.1% | 0.7–2.2% | 0.5–2.6% |
 | [1–20 January 2024](2024-01-20-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
@@ -192,6 +193,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [15–17 February 2024](2024-02-17-PromocijaPlus.html) | Promocija Plus <br> HRT | 0 | 0 | 0 | 0 | 0 |
+| [1–17 February 2024](2024-02-17-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
 | [31 January–2 February 2024](2024-02-02-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
 | [24–26 January 2024](2024-01-26-PromocijaPlus.html) | Promocija Plus <br> HRT | 0 | 0 | 0 | 0 | 0 |
 | [1–20 January 2024](2024-01-20-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
