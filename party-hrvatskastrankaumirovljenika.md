@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.7–2.2% | 0.6–2.6% |
-| [21–23 April 2024](2024-04-23-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
+| [21 April–23 March 2024](2024-03-23-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
 | [16–19 March 2024](2024-03-19-PromocijaPlus.html) | Promocija Plus <br> HRT | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% | 0.6–2.6% |
 | [15–16 March 2024](2024-03-16-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
 | [4–6 March 2024](2024-03-06-PromocijaPlus.html) | Promocija Plus <br> RTL | 1.3% | N/A | N/A | N/A | N/A |
@@ -196,7 +196,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [21–23 April 2024](2024-04-23-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
+| [21 April–23 March 2024](2024-03-23-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
 | [16–19 March 2024](2024-03-19-PromocijaPlus.html) | Promocija Plus <br> HRT | 0 | 0 | 0 | 0 | 0 |
 | [15–16 March 2024](2024-03-16-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
 | [4–6 March 2024](2024-03-06-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
