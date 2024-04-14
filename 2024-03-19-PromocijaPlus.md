@@ -58,9 +58,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.7% | 100% | Last Result |
-| 5 | 99.2% | 99.3% | Median |
-| 6 | 0.1% | 0.1% |  |
+| 4 | 2% | 100% | Last Result |
+| 5 | 98% | 98% | Median |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% | Majority |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -72,8 +72,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 32% | 100% |  |
-| 4 | 68% | 68% | Median |
+| 3 | 29% | 100% |  |
+| 4 | 71% | 71% | Median |
 | 5 | 0% | 0% |  |
 
 ### Možemo! (Greens/EFA)
@@ -85,8 +85,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 73% | 100% | Median |
-| 2 | 27% | 27% |  |
+| 1 | 76% | 100% | Median |
+| 2 | 24% | 24% |  |
 | 3 | 0% | 0% |  |
 
 ### Domovinski pokret Miroslava Škore (ID)
@@ -97,8 +97,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 100% | 100% | Median |
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 99.9% | 99.9% | Median |
+| 2 | 0% | 0% |  |
 
 ### Most nezavisnih lista (ECR)
 
@@ -109,7 +110,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 100% | 100% | Median |
+| 1 | 99.9% | 100% | Median |
 
 ### Odlučnost i Pravednost (*)
 
@@ -213,9 +214,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.7% | 100% | Last Result |
-| 5 | 99.2% | 99.3% | Median |
-| 6 | 0.1% | 0.1% |  |
+| 4 | 2% | 100% | Last Result |
+| 5 | 98% | 98% | Median |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% | Majority |
 
 ### Možemo! (Greens/EFA)
@@ -225,8 +226,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 73% | 100% | Median |
-| 2 | 27% | 27% |  |
+| 1 | 76% | 100% | Median |
+| 2 | 24% | 24% |  |
 | 3 | 0% | 0% |  |
 
 ### Radnička fronta (GUE/NGL)
@@ -249,6 +250,6 @@
 ### Calculations
 
 + **Sample size:** 870
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.07%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 2.91%
 
