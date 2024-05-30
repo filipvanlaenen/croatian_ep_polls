@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 29 May 2024 21:31:35 +0200</pubDate>
+    <pubDate>Thu, 30 May 2024 07:09:59 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Nova TV, 25 May 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2024-05-25-Ipsos.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2024-05-25-Ipsos-seats.png"
         length="221160"
         type="image/png"/>
-      <pubDate>Wed, 29 May 2024 21:31:35 +0200</pubDate>
-      <dc:date>2024-05-29T21:31:35.124824+02:00</dc:date>
+      <pubDate>Thu, 30 May 2024 07:09:59 +0200</pubDate>
+      <dc:date>2024-05-30T07:09:59.794464+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Nova TV, 25 May 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2024-05-25-Ipsos-coalitions-seats.png"
         length="211949"
         type="image/png"/>
-      <pubDate>Wed, 29 May 2024 21:31:35 +0200</pubDate>
-      <dc:date>2024-05-29T21:31:35.124824+02:00</dc:date>
+      <pubDate>Thu, 30 May 2024 07:09:59 +0200</pubDate>
+      <dc:date>2024-05-30T07:09:59.794464+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Nova TV, 25 May 2024 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2024-05-25-Ipsos.png"
         length="275414"
         type="image/png"/>
-      <pubDate>Wed, 29 May 2024 21:31:35 +0200</pubDate>
-      <dc:date>2024-05-29T21:31:35.124824+02:00</dc:date>
+      <pubDate>Thu, 30 May 2024 07:09:59 +0200</pubDate>
+      <dc:date>2024-05-30T07:09:59.794464+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Promocija Plus, 4 May 2024 – Seat Projections for the Parties</title>
@@ -3759,6 +3759,6 @@
       <pubDate>Fri, 08 May 2020 17:36:00 +0200</pubDate>
       <dc:date>2020-05-08T17:36:00+02:00</dc:date>
     </item>
-    <dc:date>2024-05-29T21:31:35.124824+02:00</dc:date>
+    <dc:date>2024-05-30T07:09:59.794464+02:00</dc:date>
   </channel>
 </rss>
