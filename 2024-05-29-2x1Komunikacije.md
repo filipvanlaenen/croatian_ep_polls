@@ -44,8 +44,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 82% | 100% | Last Result, Median |
-| 5 | 18% | 18% |  |
+| 4 | 85% | 100% | Last Result, Median |
+| 5 | 15% | 15% |  |
 | 6 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -58,7 +58,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 3% | 100% | Last Result |
 | 3 | 97% | 97% | Median |
-| 4 | 0.6% | 0.6% |  |
+| 4 | 0.5% | 0.5% |  |
 | 5 | 0% | 0% |  |
 
 ### Možemo! (Greens/EFA)
@@ -94,8 +94,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% | Last Result |
-| 1 | 82% | 82% | Median |
+| 0 | 15% | 100% | Last Result |
+| 1 | 85% | 85% | Median |
 | 2 | 0% | 0% |  |
 
 ### Istarski demokratski sabor (RE)
@@ -127,8 +127,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 82% | 100% | Last Result, Median |
-| 5 | 18% | 18% |  |
+| 4 | 85% | 100% | Last Result, Median |
+| 5 | 15% | 15% |  |
 | 6 | 0% | 0% |  |
 
 ### Možemo! (Greens/EFA)
@@ -154,6 +154,6 @@
 ### Calculations
 
 + **Sample size:** 1041
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.70%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 0.52%
 
