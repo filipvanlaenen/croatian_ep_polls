@@ -208,7 +208,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [5 June 2024](2024-06-05-PromocijaPlus.html) | Promocija Plus <br> RTL | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [5 June 2024](2024-06-05-PromocijaPlus.html) | Promocija Plus <br> RTL | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–5 June 2024](2024-06-05-Ipsos.html) | Ipsos <br> Nova TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–29 May 2024](2024-05-29-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25 May 2024](2024-05-25-Ipsos.html) | Ipsos <br> Nova TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
