@@ -15,11 +15,11 @@
 | Možemo! (Greens/EFA) | 0.0% | 11.5% | 10.4–12.8% |10.1–13.2% |9.8–13.5% |9.3–14.1% |
 | Domovinski pokret (ECR) | 0.0% | 7.9% | 7.0–9.0% |6.7–9.3% |6.5–9.6% |6.1–10.2% |
 | Most nezavisnih lista (ECR) | 0.0% | 7.4% | 6.5–8.5% |6.2–8.8% |6.0–9.0% |5.6–9.6% |
-| Fokus na bitno (*) | 0.0% | 1.5% | 1.2–2.1% |1.1–2.3% |1.0–2.4% |0.8–2.7% |
+| Fokus na bitno (RE) | 0.0% | 1.5% | 1.2–2.1% |1.1–2.3% |1.0–2.4% |0.8–2.7% |
 | Istarski demokratski sabor (RE) | 0.0% | 1.5% | 1.1–2.0% |1.0–2.2% |0.9–2.3% |0.8–2.6% |
 | Radnička fronta (GUE/NGL) | 0.0% | 0.9% | 0.6–1.3% |0.5–1.5% |0.5–1.6% |0.4–1.8% |
 | Hrvatska narodna stranka–liberalni demokrati (RE) | 0.0% | 0.9% | 0.6–1.3% |0.5–1.5% |0.5–1.6% |0.4–1.8% |
-| Hrvatska seljačka stranka (RE) | 0.0% | 0.7% | 0.5–1.1% |0.4–1.2% |0.4–1.4% |0.3–1.6% |
+| Hrvatska seljačka stranka (*) | 0.0% | 0.7% | 0.5–1.1% |0.4–1.2% |0.4–1.4% |0.3–1.6% |
 | Hrvatska stranka umirovljenika (*) | 0.0% | 0.6% | 0.4–1.0% |0.3–1.1% |0.3–1.2% |0.2–1.5% |
 | Hrvatski suverenisti (ECR) | 0.0% | 0.3% | 0.2–0.7% |0.2–0.8% |0.1–0.9% |0.1–1.1% |
 | Centar (RE) | 0.0% | 0.3% | 0.2–0.7% |0.2–0.8% |0.1–0.9% |0.1–1.1% |
@@ -41,11 +41,11 @@
 | <a href="#možemo!-(greens/efa)">Možemo! (Greens/EFA)</a> | 0 | 1 | 1 |1–2 |1–2 |1–2 |
 | <a href="#domovinski-pokret-(ecr)">Domovinski pokret (ECR)</a> | 0 | 1 | 1 |1 |1 |0–1 |
 | <a href="#most-nezavisnih-lista-(ecr)">Most nezavisnih lista (ECR)</a> | 0 | 1 | 1 |1 |0–1 |0–1 |
-| <a href="#fokus-na-bitno-(*)">Fokus na bitno (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#fokus-na-bitno-(re)">Fokus na bitno (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#istarski-demokratski-sabor-(re)">Istarski demokratski sabor (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#radnička-fronta-(gue/ngl)">Radnička fronta (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#hrvatska-narodna-stranka–liberalni-demokrati-(re)">Hrvatska narodna stranka–liberalni demokrati (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#hrvatska-seljačka-stranka-(re)">Hrvatska seljačka stranka (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#hrvatska-seljačka-stranka-(*)">Hrvatska seljačka stranka (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#hrvatska-stranka-umirovljenika-(*)">Hrvatska stranka umirovljenika (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#hrvatski-suverenisti-(ecr)">Hrvatski suverenisti (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#centar-(re)">Centar (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -120,11 +120,11 @@
 | 1 | 97% | 97% | Median |
 | 2 | 0% | 0% |  |
 
-### Fokus na bitno (*)
+### Fokus na bitno (RE)
 
-*For a full overview of the results for this party, see the [Fokus na bitno (*)](party-fokusnabitno.html) page.*
+*For a full overview of the results for this party, see the [Fokus na bitno (RE)](party-fokusnabitnore.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-07-04-PromocijaPlus-seats-pmf-fokusnabitno.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-07-04-PromocijaPlus-seats-pmf-fokusnabitnore.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -160,11 +160,11 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### Hrvatska seljačka stranka (RE)
+### Hrvatska seljačka stranka (*)
 
-*For a full overview of the results for this party, see the [Hrvatska seljačka stranka (RE)](party-hrvatskaseljačkastrankare.html) page.*
+*For a full overview of the results for this party, see the [Hrvatska seljačka stranka (*)](party-hrvatskaseljačkastranka.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-07-04-PromocijaPlus-seats-pmf-hrvatskaseljačkastrankare.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-07-04-PromocijaPlus-seats-pmf-hrvatskaseljačkastranka.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
