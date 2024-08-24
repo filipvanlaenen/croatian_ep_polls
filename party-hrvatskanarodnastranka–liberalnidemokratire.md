@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.6–1.3% | 0.5–1.5% | 0.5–1.6% | 0.4–1.8% |
-| [1–4 July 2024](2024-07-04-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.9% | 0.6–1.3% | 0.5–1.5% | 0.5–1.6% | 0.4–1.8% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.5–1.2% | 0.4–1.3% | 0.4–1.4% | 0.3–1.7% |
+| [1–21 August 2024](2024-08-21-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
+| [31 July–2 August 2024](2024-08-02-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.4–1.4% | 0.3–1.7% |
+| [31 July 2024](2024-07-31-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 0.0% | N/A | N/A | N/A | N/A |
+| [1–21 July 2024](2024-07-21-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
+| [1–4 July 2024](2024-07-04-PromocijaPlus.html) | Promocija Plus <br> RTL | 0.9% | 0.7–1.4% | 0.6–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [17–25 June 2024](2024-06-25-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 0.0% | N/A | N/A | N/A | N/A |
 | [1–21 June 2024](2024-06-21-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
 
@@ -21,9 +25,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 6% | 100% | Last Result |
-| 0.5–1.5% | 91% | 94% | Median |
-| 1.5–2.5% | 3% | 3% |  |
+| 0.0–0.5% | 15% | 100% | Last Result |
+| 0.5–1.5% | 83% | 85% | Median |
+| 1.5–2.5% | 1.2% | 1.2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -36,6 +40,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–21 August 2024](2024-08-21-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
+| [31 July–2 August 2024](2024-08-02-PromocijaPlus.html) | Promocija Plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
+| [31 July 2024](2024-07-31-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list |  |  |  |  |  |
+| [1–21 July 2024](2024-07-21-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
 | [1–4 July 2024](2024-07-04-PromocijaPlus.html) | Promocija Plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
 | [17–25 June 2024](2024-06-25-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list |  |  |  |  |  |
 | [1–21 June 2024](2024-06-21-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
