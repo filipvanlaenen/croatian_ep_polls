@@ -81,7 +81,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [1–21 August 2024](2024-08-21-Ipsos.html) | Ipsos <br> Nova TV | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [31 July–2 August 2024](2024-08-02-PromocijaPlus.html) | Promocija Plus <br> RTL | 5 | 5 | 5 | 5 | 4–6 |
+| [31 July–2 August 2024](2024-08-02-PromocijaPlus.html) | Promocija Plus <br> RTL | 5 | 5 | 5 | 5–6 | 4–6 |
 | [31 July 2024](2024-07-31-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [1–21 July 2024](2024-07-21-Ipsos.html) | Ipsos <br> Nova TV | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–4 July 2024](2024-07-04-PromocijaPlus.html) | Promocija Plus <br> RTL | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -102,7 +102,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 19% | 100% |  |
 | 5 | 62% | 81% | Median |
-| 6 | 19% | 19% |  |
+| 6 | 18% | 18% |  |
 | 7 | 0% | 0% | Majority |
 
 
