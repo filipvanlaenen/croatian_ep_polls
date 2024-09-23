@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.6% | 6.4–8.9% | 6.1–9.4% | 5.8–9.7% | 5.4–10.5% |
+| N/A | [Poll Average](average.html) | 8.1% | 6.9–9.4% | 6.5–9.8% | 6.3–10.1% | 5.7–10.8% |
+| [2–5 September 2024](2024-09-05-PromocijaPlus.html) | Promocija Plus <br> RTL | 8.5% | 7.5–9.7% | 7.2–10.0% | 7.0–10.3% | 6.5–10.9% |
+| [13–27 August 2024](2024-08-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 7.5% | 6.5–8.9% | 6.2–9.2% | 5.9–9.6% | 5.4–10.2% |
 | [1–21 August 2024](2024-08-21-Ipsos.html) | Ipsos <br> Nova TV | 8.2% | 7.1–9.5% | 6.8–9.9% | 6.5–10.2% | 6.0–10.9% |
 | [31 July–2 August 2024](2024-08-02-PromocijaPlus.html) | Promocija Plus <br> RTL | 7.1% | 6.2–8.2% | 5.9–8.5% | 5.7–8.8% | 5.3–9.4% |
 | [31 July 2024](2024-07-31-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 7.3% | 6.2–8.5% | 5.9–8.9% | 5.7–9.2% | 5.3–9.9% |
@@ -30,14 +32,15 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.9% | 100% |  |
-| 5.5–6.5% | 13% | 99.1% |  |
-| 6.5–7.5% | 36% | 86% |  |
-| 7.5–8.5% | 33% | 50% | Median |
-| 8.5–9.5% | 14% | 17% |  |
-| 9.5–10.5% | 3% | 4% |  |
-| 10.5–11.5% | 0.4% | 0.4% |  |
+| 4.5–5.5% | 0.3% | 100% |  |
+| 5.5–6.5% | 5% | 99.7% |  |
+| 6.5–7.5% | 22% | 95% |  |
+| 7.5–8.5% | 39% | 73% | Median |
+| 8.5–9.5% | 26% | 34% |  |
+| 9.5–10.5% | 7% | 8% |  |
+| 10.5–11.5% | 0.8% | 0.9% |  |
 | 11.5–12.5% | 0% | 0% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -49,6 +52,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [2–5 September 2024](2024-09-05-PromocijaPlus.html) | Promocija Plus <br> RTL | 1 | 1 | 1 | 1 | 1 |
+| [13–27 August 2024](2024-08-27-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–21 August 2024](2024-08-21-Ipsos.html) | Ipsos <br> Nova TV | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [31 July–2 August 2024](2024-08-02-PromocijaPlus.html) | Promocija Plus <br> RTL | 1 | 1 | 1 | 0–1 | 0–1 |
 | [31 July 2024](2024-07-31-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -65,8 +70,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% | Last Result |
-| 1 | 95% | 95% | Median |
+| 0 | 9% | 100% | Last Result |
+| 1 | 91% | 91% | Median |
 | 2 | 0% | 0% |  |
 
 
