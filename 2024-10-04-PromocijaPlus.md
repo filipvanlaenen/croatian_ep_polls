@@ -54,9 +54,9 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 16% | 100% |  |
-| 5 | 83% | 84% | Median |
-| 6 | 0.9% | 0.9% |  |
+| 4 | 15% | 100% |  |
+| 5 | 84% | 85% | Median |
+| 6 | 0.8% | 0.8% |  |
 | 7 | 0% | 0% | Majority |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -70,8 +70,8 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 15% | 100% |  |
-| 4 | 85% | 85% | Median |
+| 3 | 14% | 100% |  |
+| 4 | 86% | 86% | Median |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
@@ -96,8 +96,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% | Last Result |
-| 1 | 95% | 95% | Median |
+| 0 | 4% | 100% | Last Result |
+| 1 | 96% | 96% | Median |
 | 2 | 0% | 0% |  |
 
 ### Domovinski pokret (ECR)
@@ -108,8 +108,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 83% | 100% | Last Result, Median |
-| 1 | 17% | 17% |  |
+| 0 | 85% | 100% | Last Result, Median |
+| 1 | 15% | 15% |  |
 | 2 | 0% | 0% |  |
 
 ### Istarski demokratski sabor (RE)
@@ -175,9 +175,9 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 16% | 100% |  |
-| 5 | 83% | 84% | Median |
-| 6 | 0.9% | 0.9% |  |
+| 4 | 15% | 100% |  |
+| 5 | 84% | 85% | Median |
+| 6 | 0.8% | 0.8% |  |
 | 7 | 0% | 0% | Majority |
 
 ### Možemo! (Greens/EFA)
@@ -211,6 +211,6 @@
 ### Calculations
 
 + **Sample size:** 1074
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.23%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 2.50%
 
