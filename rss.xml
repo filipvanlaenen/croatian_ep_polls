@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 24 Oct 2024 20:38:53 +0200</pubDate>
+    <pubDate>Fri, 25 Oct 2024 18:44:16 +0200</pubDate>
     <item>
       <title>Opinion Poll by Promocija Plus for RTL, 1–4 October 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2024-10-04-PromocijaPlus.html#seats</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2024-09-20-Ipsos-seats.png"
         length="179251"
         type="image/png"/>
-      <pubDate>Sun, 20 Oct 2024 17:13:06 +0200</pubDate>
-      <dc:date>2024-10-20T17:13:06.584852+02:00</dc:date>
+      <pubDate>Fri, 25 Oct 2024 18:44:16 +0200</pubDate>
+      <dc:date>2024-10-25T18:44:16.002938+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Nova TV, 1–20 September 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2024-09-20-Ipsos-coalitions-seats.png"
         length="202330"
         type="image/png"/>
-      <pubDate>Sun, 20 Oct 2024 17:13:06 +0200</pubDate>
-      <dc:date>2024-10-20T17:13:06.584852+02:00</dc:date>
+      <pubDate>Fri, 25 Oct 2024 18:44:16 +0200</pubDate>
+      <dc:date>2024-10-25T18:44:16.002938+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Nova TV, 1–20 September 2024 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2024-09-20-Ipsos.png"
         length="219147"
         type="image/png"/>
-      <pubDate>Sun, 20 Oct 2024 17:13:06 +0200</pubDate>
-      <dc:date>2024-10-20T17:13:06.584852+02:00</dc:date>
+      <pubDate>Fri, 25 Oct 2024 18:44:16 +0200</pubDate>
+      <dc:date>2024-10-25T18:44:16.002938+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Promocija Plus for RTL, 2–5 September 2024 – Seat Projections for the Parties</title>
@@ -309,6 +309,6 @@
       <pubDate>Sat, 24 Aug 2024 19:07:42 +0200</pubDate>
       <dc:date>2024-08-24T19:07:42.644564+02:00</dc:date>
     </item>
-    <dc:date>2024-10-24T20:38:53.823559+02:00</dc:date>
+    <dc:date>2024-10-25T18:44:16.002938+02:00</dc:date>
   </channel>
 </rss>
