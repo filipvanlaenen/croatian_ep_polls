@@ -383,8 +383,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.5% | 100% |  |
-| 3 | 51% | 99.5% | Median |
-| 4 | 48% | 48% |  |
+| 3 | 52% | 99.5% | Median |
+| 4 | 47% | 47% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -475,8 +475,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% | Last Result |
-| 1 | 94% | 94% | Median |
+| 0 | 7% | 100% | Last Result |
+| 1 | 93% | 93% | Median |
 | 2 | 0% | 0% |  |
 
 ### Hrvatski rast (ECR)
@@ -503,8 +503,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 74% | 100% | Last Result, Median |
-| 1 | 26% | 26% |  |
+| 0 | 73% | 100% | Last Result, Median |
+| 1 | 27% | 27% |  |
 | 2 | 0% | 0% |  |
 
 ### Hrvatska konzervativna stranka (ECR)
@@ -626,8 +626,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.5% | 100% |  |
-| 3 | 51% | 99.5% | Median |
-| 4 | 48% | 48% |  |
+| 3 | 52% | 99.5% | Median |
+| 4 | 47% | 47% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -649,8 +649,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 3% | 100% | Last Result |
-| 1 | 75% | 97% | Median |
-| 2 | 22% | 22% |  |
+| 1 | 74% | 97% | Median |
+| 2 | 23% | 23% |  |
 | 3 | 0% | 0% |  |
 
 ### Akcija za promjene (*) – Bandić Milan 365–Stranka rada i solidarnosti (*) – Hrvatska seljačka stranka (*) – Hrvatska stranka umirovljenika (*) – Odlučnost i Pravednost (*) – Stranka antikorupcije, razvoja i transparentnosti (*)
@@ -698,5 +698,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 3
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Total number of simulations done in the polls included in this average:** 5,242,880
 + **Error estimate:** 2.50%
