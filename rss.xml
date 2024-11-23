@@ -8,26 +8,26 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 23 Nov 2024 12:49:00 +0100</pubDate>
+    <pubDate>Sat, 23 Nov 2024 16:21:43 +0100</pubDate>
     <item>
       <title>Opinion Poll by Promocija Plus for HRT, 14–19 November 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2024-11-19-PromocijaPlus.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Radnička fronta (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 4 seats&lt;/li&gt;&lt;li&gt;Centar (RE): 0 seats&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0 seats&lt;/li&gt;&lt;li&gt;Fokus na bitno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0 seats&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Radnička fronta (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Centar (RE): 0 seats&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0 seats&lt;/li&gt;&lt;li&gt;Fokus na bitno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0 seats&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2024-11-19-PromocijaPlus-seats.png"
-        length="275055"
+        length="277512"
         type="image/png"/>
-      <pubDate>Sat, 23 Nov 2024 12:20:41 +0100</pubDate>
-      <dc:date>2024-11-23T12:20:41.29615+01:00</dc:date>
+      <pubDate>Sat, 23 Nov 2024 16:21:43 +0100</pubDate>
+      <dc:date>2024-11-23T16:21:43.746408+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Promocija Plus for HRT, 14–19 November 2024 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2024-11-19-PromocijaPlus.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2024-11-19-PromocijaPlus-coalitions-seats.png"
-        length="168967"
+        length="176230"
         type="image/png"/>
-      <pubDate>Sat, 23 Nov 2024 12:20:41 +0100</pubDate>
-      <dc:date>2024-11-23T12:20:41.29615+01:00</dc:date>
+      <pubDate>Sat, 23 Nov 2024 16:21:43 +0100</pubDate>
+      <dc:date>2024-11-23T16:21:43.746408+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Promocija Plus for HRT, 14–19 November 2024 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2024-11-19-PromocijaPlus.png"
         length="402190"
         type="image/png"/>
-      <pubDate>Sat, 23 Nov 2024 12:20:41 +0100</pubDate>
-      <dc:date>2024-11-23T12:20:41.29615+01:00</dc:date>
+      <pubDate>Sat, 23 Nov 2024 16:21:43 +0100</pubDate>
+      <dc:date>2024-11-23T16:21:43.746408+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Nova TV, 1–20 October 2024 – Seat Projections for the Parties</title>
@@ -129,6 +129,6 @@
       <pubDate>Sat, 23 Nov 2024 12:49:00 +0100</pubDate>
       <dc:date>2024-11-23T12:49:00.602684+01:00</dc:date>
     </item>
-    <dc:date>2024-11-23T12:49:00.602684+01:00</dc:date>
+    <dc:date>2024-11-23T16:21:43.746408+01:00</dc:date>
   </channel>
 </rss>
