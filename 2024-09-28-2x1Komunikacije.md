@@ -55,8 +55,8 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.9% | 100% |  |
-| 5 | 75% | 99.1% | Median |
-| 6 | 24% | 24% |  |
+| 5 | 76% | 99.1% | Median |
+| 6 | 23% | 23% |  |
 | 7 | 0% | 0% | Majority |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -70,8 +70,8 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 48% | 100% |  |
-| 4 | 52% | 52% | Median |
+| 3 | 45% | 100% |  |
+| 4 | 55% | 55% | Median |
 | 5 | 0% | 0% |  |
 
 ### Možemo! (Greens/EFA)
@@ -83,7 +83,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.4% | 100% | Last Result |
-| 1 | 99.6% | 99.6% | Median |
+| 1 | 99.5% | 99.6% | Median |
 | 2 | 0% | 0% |  |
 
 ### Most nezavisnih lista (ECR)
@@ -94,8 +94,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% | Last Result |
-| 1 | 94% | 94% | Median |
+| 0 | 5% | 100% | Last Result |
+| 1 | 95% | 95% | Median |
 | 2 | 0% | 0% |  |
 
 ### Domovinski pokret (ECR)
@@ -106,8 +106,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 68% | 100% | Last Result, Median |
-| 1 | 32% | 32% |  |
+| 0 | 70% | 100% | Last Result, Median |
+| 1 | 30% | 30% |  |
 | 2 | 0% | 0% |  |
 
 ### Centar (RE)
@@ -173,8 +173,8 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.9% | 100% |  |
-| 5 | 75% | 99.1% | Median |
-| 6 | 24% | 24% |  |
+| 5 | 76% | 99.1% | Median |
+| 6 | 23% | 23% |  |
 | 7 | 0% | 0% | Majority |
 
 ### Možemo! (Greens/EFA)
@@ -184,7 +184,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.4% | 100% | Last Result |
-| 1 | 99.6% | 99.6% | Median |
+| 1 | 99.5% | 99.6% | Median |
 | 2 | 0% | 0% |  |
 
 
@@ -199,6 +199,6 @@
 ### Calculations
 
 + **Sample size:** 859
-+ **Simulations done:** 2,097,152
-+ **Error estimate:** 0.78%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.13%
 
