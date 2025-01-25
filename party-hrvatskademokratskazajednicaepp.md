@@ -94,7 +94,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [8–9 January 2025](2025-01-09-PromocijaPlus.html) | Promocija Plus <br> HRT | 5 | 5 | 4–5 | 4–5 | 4–6 |
-| [1–20 December 2024](2024-12-20-Ipsos.html) | Ipsos <br> Nova TV | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [1–20 December 2024](2024-12-20-Ipsos.html) | Ipsos <br> Nova TV | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [16–17 December 2024](2024-12-17-PromocijaPlus.html) | Promocija Plus <br> HRT | 5 | 5 | 5 | 4–5 | 4–5 |
 | [15–29 November 2024](2024-11-29-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [1–20 November 2024](2024-11-20-Ipsos.html) | Ipsos <br> Nova TV | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
