@@ -99,8 +99,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [15–18 February 2025](2025-02-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | [4–6 February 2025](2025-02-06-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
 | [1 February 2025](2025-02-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [1–20 January 2025](2025-01-20-Ipsos.html) | Ipsos <br> Nova TV | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| [8–9 January 2025](2025-01-09-PromocijaPlus.html) | Promocija Plus <br> HRT | 5 | 5 | 5 | 4–5 | 4–6 |
+| [1–20 January 2025](2025-01-20-Ipsos.html) | Ipsos <br> Nova TV | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [8–9 January 2025](2025-01-09-PromocijaPlus.html) | Promocija Plus <br> HRT | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [1–20 December 2024](2024-12-20-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
 | [16–17 December 2024](2024-12-17-PromocijaPlus.html) | Promocija Plus <br> HRT |  |  |  |  |  |
 | [15–29 November 2024](2024-11-29-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -133,9 +133,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.2% | 100% |  |
-| 4 | 29% | 99.8% |  |
-| 5 | 65% | 70% | Median |
+| 3 | 0.1% | 100% |  |
+| 4 | 30% | 99.9% |  |
+| 5 | 64% | 70% | Median |
 | 6 | 6% | 6% |  |
 | 7 | 0% | 0% | Majority |
 
