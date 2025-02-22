@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 21 Feb 2025 17:06:07 +0100</pubDate>
+    <pubDate>Sat, 22 Feb 2025 11:27:44 +0100</pubDate>
     <item>
       <title>Opinion Poll by Promocija Plus for HRT, 15–18 February 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-02-18-PromocijaPlus.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-02-01-2x1Komunikacije-seats.png"
         length="239707"
         type="image/png"/>
-      <pubDate>Fri, 21 Feb 2025 13:15:31 +0100</pubDate>
-      <dc:date>2025-02-21T13:15:31.568303+01:00</dc:date>
+      <pubDate>Sat, 22 Feb 2025 11:27:44 +0100</pubDate>
+      <dc:date>2025-02-22T11:27:44.318108+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by 2x1 Komunikacije for Večernji list, 1 February 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-02-01-2x1Komunikacije-coalitions-seats.png"
         length="189624"
         type="image/png"/>
-      <pubDate>Fri, 21 Feb 2025 13:15:31 +0100</pubDate>
-      <dc:date>2025-02-21T13:15:31.568303+01:00</dc:date>
+      <pubDate>Sat, 22 Feb 2025 11:27:44 +0100</pubDate>
+      <dc:date>2025-02-22T11:27:44.318108+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by 2x1 Komunikacije for Večernji list, 1 February 2025 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-02-01-2x1Komunikacije.png"
         length="322474"
         type="image/png"/>
-      <pubDate>Fri, 21 Feb 2025 13:15:31 +0100</pubDate>
-      <dc:date>2025-02-21T13:15:31.568303+01:00</dc:date>
+      <pubDate>Sat, 22 Feb 2025 11:27:44 +0100</pubDate>
+      <dc:date>2025-02-22T11:27:44.318108+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Nova TV, 1–20 January 2025 – Seat Projections for the Parties</title>
@@ -159,6 +159,6 @@
       <pubDate>Fri, 21 Feb 2025 15:37:19 +0100</pubDate>
       <dc:date>2025-02-21T15:37:19.226553+01:00</dc:date>
     </item>
-    <dc:date>2025-02-21T17:06:07.643344+01:00</dc:date>
+    <dc:date>2025-02-22T11:27:44.318108+01:00</dc:date>
   </channel>
 </rss>
