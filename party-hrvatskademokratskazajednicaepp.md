@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32.5% | 29.8–35.9% | 29.1–36.8% | 28.6–37.4% | 27.6–38.7% |
+| N/A | [Poll Average](average.html) | 32.1% | 29.7–35.3% | 29.1–36.3% | 28.6–37.0% | 27.6–38.3% |
+| [4–6 March 2025](2025-03-06-Promocijaplus.html) | Promocija plus <br> RTL | 30.8% | 29.0–32.6% | 28.5–33.1% | 28.1–33.6% | 27.3–34.4% |
+| [17–27 February 2025](2025-02-27-2x1komunikacije.html) | 2x1 komunikacije <br> Večernji list | 32.7% | 30.7–34.9% | 30.2–35.5% | 29.7–36.0% | 28.7–37.0% |
 | [15–18 February 2025](2025-02-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 31.1% | 29.1–33.2% | 28.5–33.8% | 28.0–34.3% | 27.1–35.3% |
 | [4–6 February 2025](2025-02-06-PromocijaPlus.html) | Promocija Plus <br> RTL | 31.4% | N/A | N/A | N/A | N/A |
 | [1 February 2025](2025-02-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 35.0% | 32.9–37.2% | 32.3–37.8% | 31.8–38.3% | 30.8–39.4% |
@@ -73,16 +75,16 @@ The following table shows the probability mass function per percentage block of 
 | 26.5–27.5% | 0.4% | 99.9% |  |
 | 27.5–28.5% | 2% | 99.5% |  |
 | 28.5–29.5% | 6% | 98% |  |
-| 29.5–30.5% | 11% | 92% |  |
-| 30.5–31.5% | 16% | 81% |  |
-| 31.5–32.5% | 17% | 65% | Median |
-| 32.5–33.5% | 14% | 49% |  |
-| 33.5–34.5% | 12% | 34% |  |
-| 34.5–35.5% | 9% | 22% |  |
-| 35.5–36.5% | 7% | 13% |  |
-| 36.5–37.5% | 4% | 6% |  |
-| 37.5–38.5% | 2% | 2% |  |
-| 38.5–39.5% | 0.5% | 0.6% |  |
+| 29.5–30.5% | 13% | 91% |  |
+| 30.5–31.5% | 18% | 79% |  |
+| 31.5–32.5% | 18% | 61% | Median |
+| 32.5–33.5% | 15% | 42% |  |
+| 33.5–34.5% | 11% | 27% |  |
+| 34.5–35.5% | 8% | 16% |  |
+| 35.5–36.5% | 5% | 9% |  |
+| 36.5–37.5% | 2% | 4% |  |
+| 37.5–38.5% | 1.0% | 1.3% |  |
+| 38.5–39.5% | 0.3% | 0.4% |  |
 | 39.5–40.5% | 0.1% | 0.1% |  |
 | 40.5–41.5% | 0% | 0% |  |
 
@@ -95,7 +97,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [4–6 March 2025](2025-03-06-Promocijaplus.html) | Promocija plus <br> RTL | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [17–27 February 2025](2025-02-27-2x1komunikacije.html) | 2x1 komunikacije <br> Večernji list | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [15–18 February 2025](2025-02-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | [4–6 February 2025](2025-02-06-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
 | [1 February 2025](2025-02-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -133,10 +137,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.1% | 100% |  |
-| 4 | 30% | 99.9% |  |
-| 5 | 64% | 70% | Median |
-| 6 | 6% | 6% |  |
+| 3 | 0% | 100% |  |
+| 4 | 32% | 100% |  |
+| 5 | 64% | 67% | Median |
+| 6 | 3% | 3% |  |
 | 7 | 0% | 0% | Majority |
 
 
