@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sun, 21 Jul 2024 09:24:24 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Promocija plus for HRT, 17–19 March 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/croation_ep_polls/2025-03-19-Promocijaplus.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Promocija plus for HRT, 17–19 March 2025<br/>Details on https://filipvanlaenen.github.io/croation_ep_polls/2025-03-19-Promocijaplus.html<br/><img src="https://filipvanlaenen.github.io/croation_ep_polls/2025-03-19-Promocijaplus.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/croation_ep_polls/2025-03-19-Promocijaplus.png" length="490165" type="image/png"/>
+      <pubDate>Sat, 22 Mar 2025 18:38:20 +0100</pubDate>
+      <dc:date>2025-03-22T18:38:20.512502547+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Promocija plus for RTL, 4–6 March 2025 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/croation_ep_polls/2025-03-06-Promocijaplus.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Promocija plus for RTL, 4–6 March 2025<br/>Details on https://filipvanlaenen.github.io/croation_ep_polls/2025-03-06-Promocijaplus.html<br/><img src="https://filipvanlaenen.github.io/croation_ep_polls/2025-03-06-Promocijaplus-seating-plan.png"/>]]></description>
@@ -148,30 +156,6 @@
       <enclosure url="https://filipvanlaenen.github.io/croation_ep_polls/2025-01-09-PromocijaPlus.png" length="422091" type="image/png"/>
       <pubDate>Sat, 22 Feb 2025 17:21:27 +0100</pubDate>
       <dc:date>2025-02-22T17:21:27.773998476+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by 2x1 Komunikacije for Večernji list, 15–29 November 2024 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/croation_ep_polls/2024-11-29-2x1Komunikacije.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by 2x1 Komunikacije for Večernji list, 15–29 November 2024<br/>Details on https://filipvanlaenen.github.io/croation_ep_polls/2024-11-29-2x1Komunikacije.html<br/><img src="https://filipvanlaenen.github.io/croation_ep_polls/2024-11-29-2x1Komunikacije-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/croation_ep_polls/2024-11-29-2x1Komunikacije-seating-plan.png" length="202420" type="image/png"/>
-      <pubDate>Sat, 22 Feb 2025 17:28:25 +0100</pubDate>
-      <dc:date>2025-02-22T17:28:25.570581565+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by 2x1 Komunikacije for Večernji list, 15–29 November 2024 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/croation_ep_polls/2024-11-29-2x1Komunikacije.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by 2x1 Komunikacije for Večernji list, 15–29 November 2024<br/>Details on https://filipvanlaenen.github.io/croation_ep_polls/2024-11-29-2x1Komunikacije.html<br/><img src="https://filipvanlaenen.github.io/croation_ep_polls/2024-11-29-2x1Komunikacije-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/croation_ep_polls/2024-11-29-2x1Komunikacije-seats.png" length="226111" type="image/png"/>
-      <pubDate>Sat, 22 Feb 2025 17:28:25 +0100</pubDate>
-      <dc:date>2025-02-22T17:28:25.570581565+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by 2x1 Komunikacije for Večernji list, 15–29 November 2024 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/croation_ep_polls/2024-11-29-2x1Komunikacije.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by 2x1 Komunikacije for Večernji list, 15–29 November 2024<br/>Details on https://filipvanlaenen.github.io/croation_ep_polls/2024-11-29-2x1Komunikacije.html<br/><img src="https://filipvanlaenen.github.io/croation_ep_polls/2024-11-29-2x1Komunikacije.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/croation_ep_polls/2024-11-29-2x1Komunikacije.png" length="303684" type="image/png"/>
-      <pubDate>Sat, 22 Feb 2025 17:28:25 +0100</pubDate>
-      <dc:date>2025-02-22T17:28:25.570581565+01:00</dc:date>
     </item>
   </channel>
 </rss>
