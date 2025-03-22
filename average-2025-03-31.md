@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 0–2% <br> 0 | 7–13% <br> 1–2 | 24–34% <br> 3–5 | N/A <br> N/A | 0–2% <br> 0 | 1–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 0–2% <br> 0 | 28–37% <br> 4–6 | 1–4% <br> 0 | 6–10% <br> 0–1 | N/A <br> N/A | 0–2% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 0–5% <br> 0 | 0–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
-| [17–19 March 2025](2025-03-19-Promocijaplus.html) | Promocija plus <br> HRT | 0–2% <br> 0 | 9–14% <br> 1–2 | 28–35% <br> 4–5 | N/A <br> N/A | 0–2% <br> 0 | 1–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 0–1% <br> 0 | 28–34% <br> 5 | 1–4% <br> 0 | 7–10% <br> 1 | N/A <br> N/A | 0–1% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 0–1% <br> 0 | 0–2% <br> 0 | N/A <br> N/A | 1–3% <br> 0 |
+| [17–19 March 2025](2025-03-19-Promocijaplus.html) | Promocija plus <br> HRT | 0–2% <br> 0 | 9–14% <br> 1–2 | 28–35% <br> 4–5 | N/A <br> N/A | 0–2% <br> 0 | 1–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 0–1% <br> 0 | 28–34% <br> 4–5 | 1–4% <br> 0 | 7–10% <br> 1 | N/A <br> N/A | 0–1% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 0–1% <br> 0 | 0–2% <br> 0 | N/A <br> N/A | 1–3% <br> 0 |
 | [17–27 February 2025](2025-02-27-2x1komunikacije.html) | 2x1 komunikacije <br> Večernji list | N/A <br> N/A | 7–11% <br> 1 | 24–30% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 30–36% <br> 4–5 | 1–3% <br> 0 | 6–10% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–20 February 2025](2025-02-20-Ipsos.html) | Ipsos <br> Nova TV | N/A <br> N/A | 9–14% <br> 1–2 | 27–34% <br> 4–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 28–34% <br> 4–5 | N/A <br> N/A | 6–9% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–18 February 2025](2025-02-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 1–2% <br> 0 | 9–13% <br> 1–2 | 25–31% <br> 4–5 | N/A <br> N/A | 1–2% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 1–2% <br> 0 | 28–34% <br> 4–6 | 2–4% <br> 0 | 6–10% <br> 1 | N/A <br> N/A | 1–2% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
@@ -474,8 +474,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.3% | 100% | Last Result |
-| 1 | 86% | 99.7% | Median |
-| 2 | 13% | 13% |  |
+| 1 | 85% | 99.7% | Median |
+| 2 | 15% | 15% |  |
 | 3 | 0% | 0% |  |
 
 ### Socijaldemokratska partija Hrvatske (S&D)
@@ -492,7 +492,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 9% | 100% |  |
 | 4 | 61% | 91% | Median |
 | 5 | 30% | 30% |  |
-| 6 | 0% | 0% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% | Majority |
 
 ### Socijaldemokrati (S&D)
 
@@ -580,8 +581,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
-| 4 | 31% | 99.9% |  |
-| 5 | 65% | 68% | Median |
+| 4 | 33% | 99.9% |  |
+| 5 | 64% | 67% | Median |
 | 6 | 3% | 3% |  |
 | 7 | 0% | 0% | Majority |
 
@@ -761,8 +762,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
-| 4 | 31% | 99.9% |  |
-| 5 | 65% | 68% | Median |
+| 4 | 33% | 99.9% |  |
+| 5 | 64% | 67% | Median |
 | 6 | 3% | 3% |  |
 | 7 | 0% | 0% | Majority |
 
@@ -778,7 +779,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 9% | 100% |  |
 | 4 | 61% | 91% | Median |
 | 5 | 30% | 30% |  |
-| 6 | 0% | 0% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% | Majority |
 
 ### Možemo! (Greens/EFA)
 
@@ -787,8 +789,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.3% | 100% | Last Result |
-| 1 | 86% | 99.7% | Median |
-| 2 | 13% | 13% |  |
+| 1 | 85% | 99.7% | Median |
+| 2 | 15% | 15% |  |
 | 3 | 0% | 0% |  |
 
 ### Dom i Nacionalno Okupljanje (ECR) – Domovinski pokret (ECR) – Hrvatska konzervativna stranka (ECR) – Hrvatski rast (ECR) – Hrvatski suverenisti (ECR) – Most nezavisnih lista (ECR)
@@ -847,5 +849,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 5
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 8,388,608
-+ **Error estimate:** 4.86%
++ **Total number of simulations done in the polls included in this average:** 9,437,184
++ **Error estimate:** 2.55%
