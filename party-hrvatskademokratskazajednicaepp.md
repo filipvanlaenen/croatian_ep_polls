@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32.2% | 29.5–35.6% | 28.9–36.5% | 28.3–37.2% | 27.3–38.5% |
+| N/A | [Poll Average](average.html) | 32.0% | 29.5–35.3% | 28.8–36.2% | 28.3–37.0% | 27.3–38.3% |
 | [17–19 March 2025](2025-03-19-Promocijaplus.html) | Promocija plus <br> HRT | 30.8% | 28.7–32.9% | 28.2–33.5% | 27.7–34.0% | 26.7–35.0% |
 | [4–6 March 2025](2025-03-06-Promocijaplus.html) | Promocija plus <br> RTL | 30.8% | 29.0–32.6% | 28.5–33.1% | 28.1–33.6% | 27.3–34.4% |
 | [17–27 February 2025](2025-02-27-2x1komunikacije.html) | 2x1 komunikacije <br> Večernji list | 32.7% | 30.7–34.9% | 30.2–35.5% | 29.7–36.0% | 28.7–37.0% |
-| [1–20 February 2025](2025-02-20-Ipsos.html) | Ipsos <br> Nova TV | 31.2% | N/A | N/A | N/A | N/A |
+| [1–20 February 2025](2025-02-20-Ipsos.html) | Ipsos <br> Nova TV | 31.2% | 29.2–33.4% | 28.7–34.0% | 28.2–34.5% | 27.2–35.5% |
 | [15–18 February 2025](2025-02-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 31.1% | 29.1–33.2% | 28.5–33.8% | 28.0–34.3% | 27.1–35.3% |
 | [4–6 February 2025](2025-02-06-PromocijaPlus.html) | Promocija Plus <br> RTL | 31.4% | N/A | N/A | N/A | N/A |
 | [1 February 2025](2025-02-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 35.0% | 32.9–37.2% | 32.3–37.8% | 31.8–38.3% | 30.8–39.4% |
@@ -76,17 +76,17 @@ The following table shows the probability mass function per percentage block of 
 | 25.5–26.5% | 0.1% | 100% |  |
 | 26.5–27.5% | 0.7% | 99.9% |  |
 | 27.5–28.5% | 3% | 99.2% |  |
-| 28.5–29.5% | 7% | 97% |  |
-| 29.5–30.5% | 12% | 90% |  |
-| 30.5–31.5% | 16% | 78% |  |
-| 31.5–32.5% | 17% | 62% | Median |
-| 32.5–33.5% | 14% | 45% |  |
-| 33.5–34.5% | 12% | 31% |  |
-| 34.5–35.5% | 9% | 19% |  |
-| 35.5–36.5% | 6% | 11% |  |
-| 36.5–37.5% | 3% | 5% |  |
-| 37.5–38.5% | 1.2% | 2% |  |
-| 38.5–39.5% | 0.4% | 0.5% |  |
+| 28.5–29.5% | 7% | 96% |  |
+| 29.5–30.5% | 13% | 89% |  |
+| 30.5–31.5% | 18% | 76% |  |
+| 31.5–32.5% | 18% | 58% | Median |
+| 32.5–33.5% | 14% | 40% |  |
+| 33.5–34.5% | 10% | 26% |  |
+| 34.5–35.5% | 7% | 16% |  |
+| 35.5–36.5% | 5% | 9% |  |
+| 36.5–37.5% | 2% | 4% |  |
+| 37.5–38.5% | 1.0% | 1.3% |  |
+| 38.5–39.5% | 0.3% | 0.4% |  |
 | 39.5–40.5% | 0.1% | 0.1% |  |
 | 40.5–41.5% | 0% | 0% |  |
 
@@ -103,7 +103,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [17–19 March 2025](2025-03-19-Promocijaplus.html) | Promocija plus <br> HRT | 5 | 5 | 5 | 5 | 4–5 |
 | [4–6 March 2025](2025-03-06-Promocijaplus.html) | Promocija plus <br> RTL | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [17–27 February 2025](2025-02-27-2x1komunikacije.html) | 2x1 komunikacije <br> Večernji list | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [1–20 February 2025](2025-02-20-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
+| [1–20 February 2025](2025-02-20-Ipsos.html) | Ipsos <br> Nova TV | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [15–18 February 2025](2025-02-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | [4–6 February 2025](2025-02-06-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
 | [1 February 2025](2025-02-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -141,10 +141,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 18% | 100% |  |
-| 5 | 78% | 82% | Median |
-| 6 | 4% | 4% |  |
+| 3 | 0.1% | 100% |  |
+| 4 | 31% | 99.9% |  |
+| 5 | 65% | 68% | Median |
+| 6 | 3% | 3% |  |
 | 7 | 0% | 0% | Majority |
 
 

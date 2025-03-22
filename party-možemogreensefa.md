@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.9% | 7.8–12.2% | 7.4–12.7% | 7.1–13.1% | 6.6–13.9% |
+| N/A | [Poll Average](average.html) | 10.4% | 8.0–12.4% | 7.6–12.9% | 7.2–13.3% | 6.6–14.2% |
 | [17–19 March 2025](2025-03-19-Promocijaplus.html) | Promocija plus <br> HRT | 11.3% | 10.0–12.8% | 9.6–13.2% | 9.3–13.6% | 8.7–14.4% |
 | [4–6 March 2025](2025-03-06-Promocijaplus.html) | Promocija plus <br> RTL | 12.1% | 10.9–13.4% | 10.6–13.8% | 10.3–14.1% | 9.7–14.8% |
 | [17–27 February 2025](2025-02-27-2x1komunikacije.html) | 2x1 komunikacije <br> Večernji list | 8.5% | 7.4–9.9% | 7.1–10.3% | 6.8–10.6% | 6.3–11.3% |
-| [1–20 February 2025](2025-02-20-Ipsos.html) | Ipsos <br> Nova TV | 11.5% | N/A | N/A | N/A | N/A |
+| [1–20 February 2025](2025-02-20-Ipsos.html) | Ipsos <br> Nova TV | 11.5% | 10.2–13.0% | 9.8–13.4% | 9.5–13.8% | 8.9–14.6% |
 | [15–18 February 2025](2025-02-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 11.0% | 9.7–12.5% | 9.4–13.0% | 9.1–13.4% | 8.5–14.1% |
 | [4–6 February 2025](2025-02-06-PromocijaPlus.html) | Promocija Plus <br> RTL | 12.0% | N/A | N/A | N/A | N/A |
 | [1 February 2025](2025-02-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 8.6% | 7.5–10.0% | 7.1–10.4% | 6.9–10.8% | 6.4–11.5% |
@@ -53,16 +53,16 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.5% | 100% |  |
-| 6.5–7.5% | 5% | 99.5% |  |
-| 7.5–8.5% | 17% | 94% |  |
-| 8.5–9.5% | 21% | 77% |  |
-| 9.5–10.5% | 18% | 56% | Median |
-| 10.5–11.5% | 19% | 38% |  |
-| 11.5–12.5% | 13% | 19% |  |
-| 12.5–13.5% | 5% | 6% |  |
-| 13.5–14.5% | 1.0% | 1.1% |  |
-| 14.5–15.5% | 0.1% | 0.1% |  |
+| 5.5–6.5% | 0.4% | 100% |  |
+| 6.5–7.5% | 4% | 99.6% |  |
+| 7.5–8.5% | 14% | 95% |  |
+| 8.5–9.5% | 17% | 81% |  |
+| 9.5–10.5% | 18% | 64% | Median |
+| 10.5–11.5% | 22% | 47% |  |
+| 11.5–12.5% | 17% | 25% |  |
+| 12.5–13.5% | 7% | 8% |  |
+| 13.5–14.5% | 1.5% | 2% |  |
+| 14.5–15.5% | 0.2% | 0.2% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
 
@@ -75,10 +75,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [17–19 March 2025](2025-03-19-Promocijaplus.html) | Promocija plus <br> HRT | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [17–19 March 2025](2025-03-19-Promocijaplus.html) | Promocija plus <br> HRT | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–6 March 2025](2025-03-06-Promocijaplus.html) | Promocija plus <br> RTL | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–27 February 2025](2025-02-27-2x1komunikacije.html) | 2x1 komunikacije <br> Večernji list | 1 | 1 | 1 | 1 | 0–1 |
-| [1–20 February 2025](2025-02-20-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
+| [1–20 February 2025](2025-02-20-Ipsos.html) | Ipsos <br> Nova TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [15–18 February 2025](2025-02-18-PromocijaPlus.html) | Promocija Plus <br> HRT | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–6 February 2025](2025-02-06-PromocijaPlus.html) | Promocija Plus <br> RTL |  |  |  |  |  |
 | [1 February 2025](2025-02-01-2x1Komunikacije.html) | 2x1 Komunikacije <br> Večernji list | 1 | 1 | 1 | 1 | 1 |
@@ -114,8 +114,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.3% | 100% | Last Result |
-| 1 | 68% | 99.7% | Median |
-| 2 | 31% | 31% |  |
+| 1 | 86% | 99.7% | Median |
+| 2 | 13% | 13% |  |
 | 3 | 0% | 0% |  |
 
 
