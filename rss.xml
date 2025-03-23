@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 22 Mar 2025 22:53:36 +0100</pubDate>
+    <pubDate>Sun, 23 Mar 2025 09:58:51 +0100</pubDate>
     <item>
       <title>Opinion Poll by Promocija plus for HRT, 17–19 March 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-03-19-Promocijaplus.html#seats</link>
@@ -106,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-02-20-Ipsos-seats.png"
         length="162848"
         type="image/png"/>
-      <pubDate>Sat, 22 Mar 2025 21:42:50 +0100</pubDate>
-      <dc:date>2025-03-22T21:42:50.535132+01:00</dc:date>
+      <pubDate>Sun, 23 Mar 2025 09:58:51 +0100</pubDate>
+      <dc:date>2025-03-23T09:58:51.862587+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Nova TV, 1–20 February 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -116,8 +116,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-02-20-Ipsos-coalitions-seats.png"
         length="184379"
         type="image/png"/>
-      <pubDate>Sat, 22 Mar 2025 21:42:50 +0100</pubDate>
-      <dc:date>2025-03-22T21:42:50.535132+01:00</dc:date>
+      <pubDate>Sun, 23 Mar 2025 09:58:51 +0100</pubDate>
+      <dc:date>2025-03-23T09:58:51.862587+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Nova TV, 1–20 February 2025 – Voting Intentions</title>
@@ -126,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-02-20-Ipsos.png"
         length="219895"
         type="image/png"/>
-      <pubDate>Sat, 22 Mar 2025 21:42:50 +0100</pubDate>
-      <dc:date>2025-03-22T21:42:50.535132+01:00</dc:date>
+      <pubDate>Sun, 23 Mar 2025 09:58:51 +0100</pubDate>
+      <dc:date>2025-03-23T09:58:51.862587+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Promocija Plus for HRT, 15–18 February 2025 – Seat Projections for the Parties</title>
@@ -279,6 +279,6 @@
       <pubDate>Sat, 22 Feb 2025 17:28:25 +0100</pubDate>
       <dc:date>2025-02-22T17:28:25.570581+01:00</dc:date>
     </item>
-    <dc:date>2025-03-22T22:53:36.363094+01:00</dc:date>
+    <dc:date>2025-03-23T09:58:51.862587+01:00</dc:date>
   </channel>
 </rss>
