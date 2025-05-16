@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.3% | 28.4–35.4% | 27.7–36.3% | 27.1–37.0% | 26.1–38.3% |
+| N/A | [Poll Average](average.html) | 31.4% | 28.4–35.4% | 27.7–36.3% | 27.1–37.0% | 26.1–38.4% |
+| [22–29 April 2025](2025-04-29-2x1komunikacije.html) | 2x1 komunikacije <br> Večernji list | 33.3% | 31.2–35.4% | 30.7–36.0% | 30.2–36.5% | 29.2–37.5% |
 | [1–20 April 2025](2025-04-20-Ipsos.html) | Ipsos <br> Nova TV | 29.0% | 27.1–31.1% | 26.6–31.6% | 26.1–32.1% | 25.2–33.1% |
 | [1–4 April 2025](2025-04-04-Promocijaplus.html) | Promocija plus <br> RTL | 29.9% | 28.2–31.7% | 27.7–32.2% | 27.3–32.6% | 26.4–33.5% |
 | [17–24 March 2025](2025-03-24-2x1komunikacije.html) | 2x1 komunikacije <br> Večernji list | 33.1% | 31.1–35.2% | 30.5–35.8% | 30.0–36.3% | 29.1–37.3% |
@@ -81,12 +82,12 @@ The following table shows the probability mass function per percentage block of 
 | 26.5–27.5% | 3% | 98.9% |  |
 | 27.5–28.5% | 7% | 96% |  |
 | 28.5–29.5% | 12% | 88% |  |
-| 29.5–30.5% | 15% | 76% |  |
-| 30.5–31.5% | 14% | 61% | Median |
-| 31.5–32.5% | 12% | 47% |  |
-| 32.5–33.5% | 10% | 36% |  |
-| 33.5–34.5% | 9% | 25% |  |
-| 34.5–35.5% | 7% | 16% |  |
+| 29.5–30.5% | 14% | 76% |  |
+| 30.5–31.5% | 13% | 61% | Median |
+| 31.5–32.5% | 11% | 48% |  |
+| 32.5–33.5% | 10% | 37% |  |
+| 33.5–34.5% | 10% | 26% |  |
+| 34.5–35.5% | 8% | 17% |  |
 | 35.5–36.5% | 5% | 9% |  |
 | 36.5–37.5% | 3% | 4% |  |
 | 37.5–38.5% | 1.0% | 1.4% |  |
@@ -104,6 +105,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [22–29 April 2025](2025-04-29-2x1komunikacije.html) | 2x1 komunikacije <br> Večernji list | 5 | 5 | 5 | 4–5 | 4–6 |
 | [1–20 April 2025](2025-04-20-Ipsos.html) | Ipsos <br> Nova TV | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [1–4 April 2025](2025-04-04-Promocijaplus.html) | Promocija plus <br> RTL | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [17–24 March 2025](2025-03-24-2x1komunikacije.html) | 2x1 komunikacije <br> Večernji list | 5 | 5 | 5 | 4–5 | 4–6 |

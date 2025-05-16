@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.7–1.7% | 0.6–1.9% | 0.5–2.0% | 0.4–2.4% |
+| [22–29 April 2025](2025-04-29-2x1komunikacije.html) | 2x1 komunikacije <br> Večernji list | 0.0% | N/A | N/A | N/A | N/A |
 | [1–20 April 2025](2025-04-20-Ipsos.html) | Ipsos <br> Nova TV | 0.0% | N/A | N/A | N/A | N/A |
 | [1–4 April 2025](2025-04-04-Promocijaplus.html) | Promocija plus <br> RTL | 0.9% | 0.6–1.4% | 0.5–1.5% | 0.5–1.6% | 0.4–1.9% |
 | [17–24 March 2025](2025-03-24-2x1komunikacije.html) | 2x1 komunikacije <br> Večernji list | 0.0% | N/A | N/A | N/A | N/A |
@@ -67,6 +68,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [22–29 April 2025](2025-04-29-2x1komunikacije.html) | 2x1 komunikacije <br> Večernji list |  |  |  |  |  |
 | [1–20 April 2025](2025-04-20-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
 | [1–4 April 2025](2025-04-04-Promocijaplus.html) | Promocija plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
 | [17–24 March 2025](2025-03-24-2x1komunikacije.html) | 2x1 komunikacije <br> Večernji list |  |  |  |  |  |
