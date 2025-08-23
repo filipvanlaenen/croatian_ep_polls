@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.1% | 6.0–8.3% | 5.7–8.7% | 5.5–9.0% | 5.1–9.7% |
+| N/A | [Poll Average](average.html) | 7.0% | 6.0–8.2% | 5.7–8.5% | 5.5–8.8% | 5.0–9.4% |
+| [30 July–2 August 2025](2025-08-02-Promocijaplus.html) | Promocija plus <br> RTL | 7.2% | 6.2–8.3% | 6.0–8.6% | 5.8–8.9% | 5.4–9.4% |
 | [1–20 July 2025](2025-07-20-Ipsos.html) | Ipsos <br> Nova TV | 6.8% | 5.8–8.0% | 5.5–8.4% | 5.3–8.7% | 4.8–9.3% |
 | [7–10 July 2025](2025-07-10-Promocijaplus.html) | Promocija plus <br> RTL | 6.9% | 6.0–8.0% | 5.8–8.3% | 5.6–8.6% | 5.2–9.1% |
 | [1–20 June 2025](2025-06-20-Ipsos.html) | Ipsos <br> Nova TV | 6.6% | 5.6–7.8% | 5.3–8.1% | 5.1–8.4% | 4.7–9.0% |
@@ -63,11 +64,11 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
 | 4.5–5.5% | 3% | 99.9% |  |
-| 5.5–6.5% | 23% | 97% |  |
-| 6.5–7.5% | 43% | 74% | Median |
-| 7.5–8.5% | 25% | 31% |  |
-| 8.5–9.5% | 6% | 6% |  |
-| 9.5–10.5% | 0.6% | 0.7% |  |
+| 5.5–6.5% | 25% | 97% |  |
+| 6.5–7.5% | 44% | 72% | Median |
+| 7.5–8.5% | 24% | 28% |  |
+| 8.5–9.5% | 4% | 4% |  |
+| 9.5–10.5% | 0.3% | 0.3% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -80,6 +81,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [30 July–2 August 2025](2025-08-02-Promocijaplus.html) | Promocija plus <br> RTL | 1 | 1 | 1 | 1 | 0–1 |
 | [1–20 July 2025](2025-07-20-Ipsos.html) | Ipsos <br> Nova TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–10 July 2025](2025-07-10-Promocijaplus.html) | Promocija plus <br> RTL | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–20 June 2025](2025-06-20-Ipsos.html) | Ipsos <br> Nova TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -128,8 +130,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% | Last Result |
-| 1 | 86% | 86% | Median |
+| 0 | 12% | 100% | Last Result |
+| 1 | 88% | 88% | Median |
 | 2 | 0% | 0% |  |
 
 
