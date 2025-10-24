@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.5–3.6% | 1.3–3.8% | 1.2–4.1% | 1.0–4.6% |
+| N/A | [Poll Average](average.html) | 2.9% | 2.2–3.7% | 2.0–3.9% | 1.9–4.2% | 1.7–4.6% |
+| [6–9 October 2025](2025-10-09-Promocijaplus.html) | Promocija plus <br> RTL | 2.7% | 2.1–3.4% | 2.0–3.6% | 1.9–3.8% | 1.6–4.2% |
 | [1–20 September 2025](2025-09-20-Ipsos.html) | Ipsos <br> Nova TV | 3.0% | 2.3–3.9% | 2.1–4.1% | 2.0–4.3% | 1.8–4.8% |
 | [1–4 September 2025](2025-09-04-Promocijaplus.html) | Promocija plus <br> RTL | 1.8% | 1.3–2.4% | 1.2–2.6% | 1.1–2.7% | 1.0–3.1% |
 | [1–20 August 2025](2025-08-20-Ipsos.html) | Ipsos <br> Nova TV | 3.3% | 2.6–4.2% | 2.4–4.5% | 2.3–4.7% | 2.0–5.2% |
@@ -62,10 +63,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 13% | 100% |  |
-| 1.5–2.5% | 44% | 87% | Median |
-| 2.5–3.5% | 33% | 43% |  |
-| 3.5–4.5% | 9% | 10% |  |
+| 0.5–1.5% | 0.2% | 100% |  |
+| 1.5–2.5% | 27% | 99.8% |  |
+| 2.5–3.5% | 60% | 73% | Median |
+| 3.5–4.5% | 13% | 13% |  |
 | 4.5–5.5% | 0.6% | 0.6% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -79,6 +80,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [6–9 October 2025](2025-10-09-Promocijaplus.html) | Promocija plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
 | [1–20 September 2025](2025-09-20-Ipsos.html) | Ipsos <br> Nova TV | 0 | 0 | 0 | 0 | 0 |
 | [1–4 September 2025](2025-09-04-Promocijaplus.html) | Promocija plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
 | [1–20 August 2025](2025-08-20-Ipsos.html) | Ipsos <br> Nova TV | 0 | 0 | 0 | 0 | 0 |
