@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 03 Dec 2025 22:45:21 +0100</pubDate>
+    <pubDate>Fri, 05 Dec 2025 20:18:38 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Nova TV, 1–20 November 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-11-20-Ipsos.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-11-20-Ipsos-seats.png"
         length="177588"
         type="image/png"/>
-      <pubDate>Wed, 03 Dec 2025 22:45:21 +0100</pubDate>
-      <dc:date>2025-12-03T22:45:21.653224+01:00</dc:date>
+      <pubDate>Fri, 05 Dec 2025 20:18:38 +0100</pubDate>
+      <dc:date>2025-12-05T20:18:38.514182+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Nova TV, 1–20 November 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-11-20-Ipsos-coalitions-seats.png"
         length="214340"
         type="image/png"/>
-      <pubDate>Wed, 03 Dec 2025 22:45:21 +0100</pubDate>
-      <dc:date>2025-12-03T22:45:21.653224+01:00</dc:date>
+      <pubDate>Fri, 05 Dec 2025 20:18:38 +0100</pubDate>
+      <dc:date>2025-12-05T20:18:38.514182+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Nova TV, 1–20 November 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-11-20-Ipsos.png"
         length="219523"
         type="image/png"/>
-      <pubDate>Wed, 03 Dec 2025 22:45:21 +0100</pubDate>
-      <dc:date>2025-12-03T22:45:21.653224+01:00</dc:date>
+      <pubDate>Fri, 05 Dec 2025 20:18:38 +0100</pubDate>
+      <dc:date>2025-12-05T20:18:38.514182+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Promocija plus for RTL, 4–6 November 2025 – Seat Projections for the Parties</title>
@@ -399,6 +399,6 @@
       <pubDate>Thu, 31 Jul 2025 09:09:53 +0200</pubDate>
       <dc:date>2025-07-31T09:09:53.705344+02:00</dc:date>
     </item>
-    <dc:date>2025-12-03T22:45:21.653224+01:00</dc:date>
+    <dc:date>2025-12-05T20:18:38.514182+01:00</dc:date>
   </channel>
 </rss>
