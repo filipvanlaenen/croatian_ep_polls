@@ -35,8 +35,8 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#hrvatska-demokratska-zajednica-(epp)">Hrvatska demokratska zajednica (EPP)</a> | 0 | 5 | 4–5 |4–5 |4–5 |4–5 |
 | <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 0 | 4 | 3–4 |3–4 |3–4 |3–4 |
-| <a href="#možemo!-(greens/efa)">Možemo! (Greens/EFA)</a> | 0 | 2 | 2 |2 |1–2 |1–2 |
-| <a href="#most-nezavisnih-lista-(ecr)">Most nezavisnih lista (ECR)</a> | 0 | 1 | 1 |1 |0–1 |0–1 |
+| <a href="#možemo!-(greens/efa)">Možemo! (Greens/EFA)</a> | 0 | 2 | 2 |2 |2 |1–2 |
+| <a href="#most-nezavisnih-lista-(ecr)">Most nezavisnih lista (ECR)</a> | 0 | 1 | 1 |0–1 |0–1 |0–1 |
 | <a href="#domovinski-pokret-(ecr)">Domovinski pokret (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#nl-marija-selak-raspudić-(ecr)">NL Marija Selak Raspudić (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#dom-i-nacionalno-okupljanje-(ecr)">Dom i Nacionalno Okupljanje (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -56,8 +56,8 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 26% | 100% |  |
-| 5 | 73% | 74% | Median |
+| 4 | 24% | 100% |  |
+| 5 | 76% | 76% | Median |
 | 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% | Majority |
 
@@ -86,8 +86,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 3% | 100% |  |
-| 2 | 97% | 97% | Median |
+| 1 | 2% | 100% |  |
+| 2 | 98% | 98% | Median |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
@@ -99,8 +99,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% | Last Result |
-| 1 | 95% | 95% | Median |
+| 0 | 7% | 100% | Last Result |
+| 1 | 93% | 93% | Median |
 | 2 | 0% | 0% |  |
 
 ### Domovinski pokret (ECR)
@@ -173,7 +173,7 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Hrvatska demokratska zajednica (EPP) | 0 | 5 | 0% | 4–5 | 4–5 | 4–5 | 4–5 |
-| Možemo! (Greens/EFA) | 0 | 2 | 0% | 2 | 2 | 1–2 | 1–2 |
+| Možemo! (Greens/EFA) | 0 | 2 | 0% | 2 | 2 | 2 | 1–2 |
 
 ### Hrvatska demokratska zajednica (EPP)
 
@@ -185,8 +185,8 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 26% | 100% |  |
-| 5 | 73% | 74% | Median |
+| 4 | 24% | 100% |  |
+| 5 | 76% | 76% | Median |
 | 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% | Majority |
 
@@ -197,8 +197,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 3% | 100% |  |
-| 2 | 97% | 97% | Median |
+| 1 | 2% | 100% |  |
+| 2 | 98% | 98% | Median |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
@@ -214,6 +214,6 @@
 ### Calculations
 
 + **Sample size:** 1084
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 2.47%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.16%
 
