@@ -8,607 +8,97 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 04 Apr 2026 19:21:45 +0200</pubDate>
+    <pubDate>Sat, 18 Apr 2026 22:40:33 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Promocija plus for RTL, 31 March–2 April 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-04-02-Promocijaplus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Drito (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Centar (RE): 0 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-04-02-Promocijaplus-seats.png"
+        length="271118"
+        type="image/png"/>
+      <pubDate>Sat, 18 Apr 2026 21:09:29 +0200</pubDate>
+      <dc:date>2026-04-18T21:09:29.093513+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Promocija plus for RTL, 31 March–2 April 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-04-02-Promocijaplus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-04-02-Promocijaplus-coalitions-seats.png"
+        length="235547"
+        type="image/png"/>
+      <pubDate>Sat, 18 Apr 2026 21:09:29 +0200</pubDate>
+      <dc:date>2026-04-18T21:09:29.093513+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Promocija plus for RTL, 31 March–2 April 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-04-02-Promocijaplus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 32.1–38.5%&lt;/li&gt;&lt;li&gt;Drito (ECR): 1.7–3.9%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 1.6–3.7%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0.3–1.5%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 23.9–29.9%&lt;/li&gt;&lt;li&gt;Centar (RE): 0.8–2.5%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 5.9–9.5%&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 11.7–16.4%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0.7–2.3%&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0.7–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-04-02-Promocijaplus.png"
+        length="334074"
+        type="image/png"/>
+      <pubDate>Sat, 18 Apr 2026 21:09:29 +0200</pubDate>
+      <dc:date>2026-04-18T21:09:29.093513+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Nova TV, 1–19 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-03-19-Ipsos.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Stranka antikorupcije, razvoja i transparentnosti (*): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Centar (RE): 0 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0 seats&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0 seats&lt;/li&gt;&lt;li&gt;Drito (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Stranka antikorupcije, razvoja i transparentnosti (*): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Centar (RE): 0 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0 seats&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-03-19-Ipsos-seats.png"
-        length="340119"
+        length="369066"
         type="image/png"/>
-      <pubDate>Sat, 04 Apr 2026 19:21:45 +0200</pubDate>
-      <dc:date>2026-04-04T19:21:45.629758+02:00</dc:date>
+      <pubDate>Sat, 18 Apr 2026 21:45:44 +0200</pubDate>
+      <dc:date>2026-04-18T21:45:44.94857+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Nova TV, 1–19 March 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-03-19-Ipsos.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-03-19-Ipsos-coalitions-seats.png"
-        length="196743"
+        length="214913"
         type="image/png"/>
-      <pubDate>Sat, 04 Apr 2026 19:21:45 +0200</pubDate>
-      <dc:date>2026-04-04T19:21:45.629758+02:00</dc:date>
+      <pubDate>Sat, 18 Apr 2026 21:45:44 +0200</pubDate>
+      <dc:date>2026-04-18T21:45:44.94857+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Nova TV, 1–19 March 2026 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-03-19-Ipsos.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0.4–1.7%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 1.9–4.2%&lt;/li&gt;&lt;li&gt;Stranka antikorupcije, razvoja i transparentnosti (*): 0.4–1.7%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0.6–2.2%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 20.3–26.0%&lt;/li&gt;&lt;li&gt;Centar (RE): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 7.0–10.8%&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0.0–0.7%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 30.0–36.4%&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 1.6–3.8%&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 1.6–3.8%&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0.6–2.2%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 10.8–15.3%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 1.0–2.8%&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 1.2–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0.4–1.7%&lt;/li&gt;&lt;li&gt;Drito (ECR): 1.6–3.8%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 1.9–4.2%&lt;/li&gt;&lt;li&gt;Stranka antikorupcije, razvoja i transparentnosti (*): 0.4–1.7%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0.6–2.2%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 20.3–26.0%&lt;/li&gt;&lt;li&gt;Centar (RE): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 7.0–10.8%&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0.0–0.7%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 30.0–36.4%&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 1.6–3.8%&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 1.6–3.8%&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0.6–2.2%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 10.8–15.3%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 1.0–2.8%&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 1.2–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-03-19-Ipsos.png"
-        length="469371"
+        length="485822"
         type="image/png"/>
-      <pubDate>Sat, 04 Apr 2026 19:21:45 +0200</pubDate>
-      <dc:date>2026-04-04T19:21:45.629758+02:00</dc:date>
+      <pubDate>Sat, 18 Apr 2026 21:45:44 +0200</pubDate>
+      <dc:date>2026-04-18T21:45:44.94857+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Promocija plus for RTL, 2–4 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-03-04-Promocijaplus.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Centar (RE): 0 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0 seats&lt;/li&gt;&lt;li&gt;Fokus na bitno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0 seats&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0 seats&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0 seats&lt;/li&gt;&lt;li&gt;Drito (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Centar (RE): 0 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0 seats&lt;/li&gt;&lt;li&gt;Fokus na bitno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0 seats&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-03-04-Promocijaplus-seats.png"
-        length="354336"
+        length="346555"
         type="image/png"/>
-      <pubDate>Sun, 15 Mar 2026 16:09:14 +0100</pubDate>
-      <dc:date>2026-03-15T16:09:14.330325+01:00</dc:date>
+      <pubDate>Sat, 18 Apr 2026 22:40:33 +0200</pubDate>
+      <dc:date>2026-04-18T22:40:33.557333+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Promocija plus for RTL, 2–4 March 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-03-04-Promocijaplus.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-03-04-Promocijaplus-coalitions-seats.png"
-        length="193802"
+        length="192691"
         type="image/png"/>
-      <pubDate>Sun, 15 Mar 2026 16:09:14 +0100</pubDate>
-      <dc:date>2026-03-15T16:09:14.330325+01:00</dc:date>
+      <pubDate>Sat, 18 Apr 2026 22:40:33 +0200</pubDate>
+      <dc:date>2026-04-18T22:40:33.557333+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Promocija plus for RTL, 2–4 March 2026 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-03-04-Promocijaplus.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0.3–1.5%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 1.9–4.1%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0.4–1.7%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 23.4–29.3%&lt;/li&gt;&lt;li&gt;Centar (RE): 0.6–2.1%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 5.7–9.2%&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0.5–2.0%&lt;/li&gt;&lt;li&gt;Fokus na bitno (RE): 0.1–1.0%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0.3–1.5%&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 31.5–37.9%&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0.4–1.7%&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0.2–1.4%&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0.6–2.1%&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 2.1–4.4%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 12.1–16.8%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0.7–2.3%&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0.7–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0.3–1.5%&lt;/li&gt;&lt;li&gt;Drito (ECR): 2.1–4.4%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 1.9–4.1%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0.4–1.7%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 23.4–29.3%&lt;/li&gt;&lt;li&gt;Centar (RE): 0.6–2.1%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 5.7–9.2%&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0.5–2.0%&lt;/li&gt;&lt;li&gt;Fokus na bitno (RE): 0.1–1.0%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0.3–1.5%&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 31.5–37.9%&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0.4–1.7%&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0.2–1.4%&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0.6–2.1%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 12.1–16.8%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0.7–2.3%&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0.7–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-03-04-Promocijaplus.png"
-        length="465487"
+        length="458068"
         type="image/png"/>
-      <pubDate>Sun, 15 Mar 2026 16:09:14 +0100</pubDate>
-      <dc:date>2026-03-15T16:09:14.330325+01:00</dc:date>
+      <pubDate>Sat, 18 Apr 2026 22:40:33 +0200</pubDate>
+      <dc:date>2026-04-18T22:40:33.557333+02:00</dc:date>
     </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–19 February 2026 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-02-19-Ipsos.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Stranka antikorupcije, razvoja i transparentnosti (*): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Centar (RE): 0 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0 seats&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0 seats&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-02-19-Ipsos-seats.png"
-        length="363622"
-        type="image/png"/>
-      <pubDate>Sat, 07 Mar 2026 19:20:05 +0100</pubDate>
-      <dc:date>2026-03-07T19:20:05.94883+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–19 February 2026 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-02-19-Ipsos.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-02-19-Ipsos-coalitions-seats.png"
-        length="198503"
-        type="image/png"/>
-      <pubDate>Sat, 07 Mar 2026 19:20:05 +0100</pubDate>
-      <dc:date>2026-03-07T19:20:05.94883+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–19 February 2026 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-02-19-Ipsos.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0.1–1.0%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 2.2–4.5%&lt;/li&gt;&lt;li&gt;Stranka antikorupcije, razvoja i transparentnosti (*): 0.9–2.6%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0.5–2.0%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 20.3–25.9%&lt;/li&gt;&lt;li&gt;Centar (RE): 0.3–1.5%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 6.3–9.9%&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0.1–1.0%&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 29.8–36.1%&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 1.4–3.4%&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 2.0–4.3%&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0.6–2.1%&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 1.8–4.0%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 10.0–14.3%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 1.1–2.9%&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 1.0–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-02-19-Ipsos.png"
-        length="491260"
-        type="image/png"/>
-      <pubDate>Sat, 07 Mar 2026 19:20:05 +0100</pubDate>
-      <dc:date>2026-03-07T19:20:05.94883+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for HRT, 16–18 February 2026 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-02-18-Promocijaplus.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 3–5 seats&lt;/li&gt;&lt;li&gt;Centar (RE): 0 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0 seats&lt;/li&gt;&lt;li&gt;Fokus na bitno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0 seats&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0 seats&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-02-18-Promocijaplus-seats.png"
-        length="357167"
-        type="image/png"/>
-      <pubDate>Sun, 22 Feb 2026 21:54:05 +0100</pubDate>
-      <dc:date>2026-02-22T21:54:05.320815+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for HRT, 16–18 February 2026 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-02-18-Promocijaplus.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-02-18-Promocijaplus-coalitions-seats.png"
-        length="201843"
-        type="image/png"/>
-      <pubDate>Sun, 22 Feb 2026 21:54:05 +0100</pubDate>
-      <dc:date>2026-02-22T21:54:05.320815+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for HRT, 16–18 February 2026 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-02-18-Promocijaplus.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0.6–2.1%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 1.5–3.6%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0.3–1.5%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 23.2–29.1%&lt;/li&gt;&lt;li&gt;Centar (RE): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 4.4–7.6%&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0.6–2.1%&lt;/li&gt;&lt;li&gt;Fokus na bitno (RE): 0.2–1.4%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0.3–1.5%&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 31.5–37.9%&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0.5–2.0%&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0.2–1.4%&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0.7–2.3%&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 2.3–4.8%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 12.6–17.4%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0.8–2.4%&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0.6–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-02-18-Promocijaplus.png"
-        length="466613"
-        type="image/png"/>
-      <pubDate>Sun, 22 Feb 2026 21:54:05 +0100</pubDate>
-      <dc:date>2026-02-22T21:54:05.320815+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 3–19 January 2026 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-01-19-Ipsos.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-01-19-Ipsos-seats.png"
-        length="192380"
-        type="image/png"/>
-      <pubDate>Sun, 08 Feb 2026 19:51:15 +0100</pubDate>
-      <dc:date>2026-02-08T19:51:15.463778+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 3–19 January 2026 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-01-19-Ipsos.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-01-19-Ipsos-coalitions-seats.png"
-        length="212089"
-        type="image/png"/>
-      <pubDate>Sun, 08 Feb 2026 19:51:15 +0100</pubDate>
-      <dc:date>2026-02-08T19:51:15.463778+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 3–19 January 2026 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-01-19-Ipsos.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 29.6–35.8%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 2.1–4.5%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 21.4–27.2%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 5.6–9.1%&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 2.1–4.4%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 10.0–14.4%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-01-19-Ipsos.png"
-        length="240282"
-        type="image/png"/>
-      <pubDate>Sun, 08 Feb 2026 19:51:15 +0100</pubDate>
-      <dc:date>2026-02-08T19:51:15.463778+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–19 December 2025 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-12-19-Ipsos.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-12-19-Ipsos-seats.png"
-        length="178590"
-        type="image/png"/>
-      <pubDate>Sat, 03 Jan 2026 16:28:16 +0100</pubDate>
-      <dc:date>2026-01-03T16:28:16.043857+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–19 December 2025 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-12-19-Ipsos.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-12-19-Ipsos-coalitions-seats.png"
-        length="191225"
-        type="image/png"/>
-      <pubDate>Sat, 03 Jan 2026 16:28:16 +0100</pubDate>
-      <dc:date>2026-01-03T16:28:16.043857+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–19 December 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-12-19-Ipsos.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 28.5–34.6%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 3.4–6.2%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 20.7–26.3%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 6.1–9.6%&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 1.9–4.2%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 10.5–14.9%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-12-19-Ipsos.png"
-        length="244538"
-        type="image/png"/>
-      <pubDate>Sat, 03 Jan 2026 16:28:16 +0100</pubDate>
-      <dc:date>2026-01-03T16:28:16.043857+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for RTL, 1–4 December 2025 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-12-04-Promocijaplus.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Centar (RE): 0 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0 seats&lt;/li&gt;&lt;li&gt;Fokus na bitno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 5 seats&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0 seats&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0 seats&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-12-04-Promocijaplus-seats.png"
-        length="343079"
-        type="image/png"/>
-      <pubDate>Sat, 20 Dec 2025 20:45:01 +0100</pubDate>
-      <dc:date>2025-12-20T20:45:01.264642+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for RTL, 1–4 December 2025 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-12-04-Promocijaplus.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-12-04-Promocijaplus-coalitions-seats.png"
-        length="191711"
-        type="image/png"/>
-      <pubDate>Sat, 20 Dec 2025 20:45:01 +0100</pubDate>
-      <dc:date>2025-12-20T20:45:01.264642+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for RTL, 1–4 December 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-12-04-Promocijaplus.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0.2–1.1%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 2.6–4.8%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 24.5–29.8%&lt;/li&gt;&lt;li&gt;Centar (RE): 0.6–1.9%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 6.1–9.2%&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Fokus na bitno (RE): 0.2–1.1%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0.4–1.4%&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 30.3–35.9%&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0.4–1.4%&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0.5–1.7%&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 2.4–4.6%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 12.8–17.1%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 1.0–2.5%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-12-04-Promocijaplus.png"
-        length="461470"
-        type="image/png"/>
-      <pubDate>Sat, 20 Dec 2025 20:45:01 +0100</pubDate>
-      <dc:date>2025-12-20T20:45:01.264642+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–20 November 2025 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-11-20-Ipsos.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-11-20-Ipsos-seats.png"
-        length="177588"
-        type="image/png"/>
-      <pubDate>Fri, 05 Dec 2025 20:18:38 +0100</pubDate>
-      <dc:date>2025-12-05T20:18:38.514182+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–20 November 2025 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-11-20-Ipsos.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-11-20-Ipsos-coalitions-seats.png"
-        length="214340"
-        type="image/png"/>
-      <pubDate>Fri, 05 Dec 2025 20:18:38 +0100</pubDate>
-      <dc:date>2025-12-05T20:18:38.514182+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–20 November 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-11-20-Ipsos.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 28.0–34.2%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 2.7–5.2%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 21.3–27.0%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 5.4–8.8%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 11.7–16.4%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-11-20-Ipsos.png"
-        length="219523"
-        type="image/png"/>
-      <pubDate>Fri, 05 Dec 2025 20:18:38 +0100</pubDate>
-      <dc:date>2025-12-05T20:18:38.514182+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for RTL, 4–6 November 2025 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-11-06-Promocijaplus.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Centar (RE): 0 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0 seats&lt;/li&gt;&lt;li&gt;Fokus na bitno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0 seats&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0 seats&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-11-06-Promocijaplus-seats.png"
-        length="376033"
-        type="image/png"/>
-      <pubDate>Wed, 12 Nov 2025 20:25:08 +0100</pubDate>
-      <dc:date>2025-11-12T20:25:08.645263+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for RTL, 4–6 November 2025 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-11-06-Promocijaplus.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-11-06-Promocijaplus-coalitions-seats.png"
-        length="225773"
-        type="image/png"/>
-      <pubDate>Wed, 12 Nov 2025 20:25:08 +0100</pubDate>
-      <dc:date>2025-11-12T20:25:08.645263+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for RTL, 4–6 November 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-11-06-Promocijaplus.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 2.2–4.3%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 25.5–30.9%&lt;/li&gt;&lt;li&gt;Centar (RE): 0.7–2.0%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 5.5–8.6%&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Fokus na bitno (RE): 0.2–1.1%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0.4–1.4%&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 29.5–35.1%&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 1.0–2.5%&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 2.2–4.3%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 10.9–14.9%&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 1.1–2.6%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 1.0–2.5%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-11-06-Promocijaplus.png"
-        length="462713"
-        type="image/png"/>
-      <pubDate>Wed, 12 Nov 2025 20:25:08 +0100</pubDate>
-      <dc:date>2025-11-12T20:25:08.645263+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–20 October 2025 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-10-20-Ipsos.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-10-20-Ipsos-seats.png"
-        length="181311"
-        type="image/png"/>
-      <pubDate>Sat, 25 Oct 2025 21:05:56 +0200</pubDate>
-      <dc:date>2025-10-25T21:05:56.879306+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–20 October 2025 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-10-20-Ipsos.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-10-20-Ipsos-coalitions-seats.png"
-        length="229015"
-        type="image/png"/>
-      <pubDate>Sat, 25 Oct 2025 21:05:56 +0200</pubDate>
-      <dc:date>2025-10-25T21:05:56.879306+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–20 October 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-10-20-Ipsos.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 25.0–30.6%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 19.0–24.1%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 4.5–7.4%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 10.0–14.0%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-10-20-Ipsos.png"
-        length="215109"
-        type="image/png"/>
-      <pubDate>Sat, 25 Oct 2025 21:05:56 +0200</pubDate>
-      <dc:date>2025-10-25T21:05:56.879306+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for RTL, 6–9 October 2025 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-10-09-Promocijaplus.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Centar (RE): 0 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0 seats&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-10-09-Promocijaplus-seats.png"
-        length="238523"
-        type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 23:22:46 +0200</pubDate>
-      <dc:date>2025-10-24T23:22:46.907029+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for RTL, 6–9 October 2025 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-10-09-Promocijaplus.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-10-09-Promocijaplus-coalitions-seats.png"
-        length="206275"
-        type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 23:22:46 +0200</pubDate>
-      <dc:date>2025-10-24T23:22:46.907029+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for RTL, 6–9 October 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-10-09-Promocijaplus.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 28.7–34.2%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 1.9–3.8%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 24.6–29.8%&lt;/li&gt;&lt;li&gt;Centar (RE): 1.3–2.9%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 6.4–9.7%&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0.9–2.4%&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 2.0–4.0%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 11.3–15.4%&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 1.4–3.2%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0.9–2.4%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-10-09-Promocijaplus.png"
-        length="319023"
-        type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 23:22:46 +0200</pubDate>
-      <dc:date>2025-10-24T23:22:46.907029+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–20 September 2025 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-09-20-Ipsos.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-09-20-Ipsos-seats.png"
-        length="163637"
-        type="image/png"/>
-      <pubDate>Sat, 04 Oct 2025 20:08:02 +0200</pubDate>
-      <dc:date>2025-10-04T20:08:02.582786+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–20 September 2025 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-09-20-Ipsos.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-09-20-Ipsos-coalitions-seats.png"
-        length="192084"
-        type="image/png"/>
-      <pubDate>Sat, 04 Oct 2025 20:08:02 +0200</pubDate>
-      <dc:date>2025-10-04T20:08:02.582786+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–20 September 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-09-20-Ipsos.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 29.1–35.4%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 2.0–4.3%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 23.5–29.5%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 5.4–8.9%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 10.4–14.8%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-09-20-Ipsos.png"
-        length="218641"
-        type="image/png"/>
-      <pubDate>Sat, 04 Oct 2025 20:08:02 +0200</pubDate>
-      <dc:date>2025-10-04T20:08:02.582786+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for RTL, 1–4 September 2025 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-09-04-Promocijaplus.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0 seats&lt;/li&gt;&lt;li&gt;Radnička fronta (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 4 seats&lt;/li&gt;&lt;li&gt;Centar (RE): 0 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0 seats&lt;/li&gt;&lt;li&gt;Fokus na bitno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 5 seats&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0 seats&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0 seats&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-09-04-Promocijaplus-seats.png"
-        length="333284"
-        type="image/png"/>
-      <pubDate>Fri, 19 Sep 2025 19:02:19 +0200</pubDate>
-      <dc:date>2025-09-19T19:02:19.609027+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for RTL, 1–4 September 2025 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-09-04-Promocijaplus.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-09-04-Promocijaplus-coalitions-seats.png"
-        length="157016"
-        type="image/png"/>
-      <pubDate>Fri, 19 Sep 2025 19:02:19 +0200</pubDate>
-      <dc:date>2025-09-19T19:02:19.609027+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for RTL, 1–4 September 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-09-04-Promocijaplus.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0.2–1.1%&lt;/li&gt;&lt;li&gt;Radnička fronta (GUE/NGL): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 1.1–2.7%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 25.0–30.3%&lt;/li&gt;&lt;li&gt;Centar (RE): 0.8–2.2%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 6.5–9.7%&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Fokus na bitno (RE): 0.3–1.2%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0.4–1.5%&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 31.1–36.7%&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0.2–1.1%&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0.3–1.2%&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 1.0–2.5%&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 1.4–3.2%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 11.7–15.8%&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 1.1–2.6%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0.9–2.4%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-09-04-Promocijaplus.png"
-        length="480577"
-        type="image/png"/>
-      <pubDate>Fri, 19 Sep 2025 19:02:19 +0200</pubDate>
-      <dc:date>2025-09-19T19:02:19.609027+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–20 August 2025 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-08-20-Ipsos.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-08-20-Ipsos-seats.png"
-        length="220140"
-        type="image/png"/>
-      <pubDate>Tue, 26 Aug 2025 22:44:11 +0200</pubDate>
-      <dc:date>2025-08-26T22:44:11.241703+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–20 August 2025 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-08-20-Ipsos.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-08-20-Ipsos-coalitions-seats.png"
-        length="224159"
-        type="image/png"/>
-      <pubDate>Tue, 26 Aug 2025 22:44:11 +0200</pubDate>
-      <dc:date>2025-08-26T22:44:11.241703+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–20 August 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-08-20-Ipsos.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 29.1–35.4%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 2.3–4.7%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 23.6–29.6%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 5.1–8.5%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 9.7–14.0%&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 1.5–3.6%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 1.6–3.8%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-08-20-Ipsos.png"
-        length="266855"
-        type="image/png"/>
-      <pubDate>Tue, 26 Aug 2025 22:44:11 +0200</pubDate>
-      <dc:date>2025-08-26T22:44:11.241703+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for RTL, 30 July–2 August 2025 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-08-02-Promocijaplus.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Radnička fronta (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 4 seats&lt;/li&gt;&lt;li&gt;Centar (RE): 0 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0 seats&lt;/li&gt;&lt;li&gt;Fokus na bitno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0 seats&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0 seats&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-08-02-Promocijaplus-seats.png"
-        length="354199"
-        type="image/png"/>
-      <pubDate>Sun, 24 Aug 2025 12:14:35 +0200</pubDate>
-      <dc:date>2025-08-24T12:14:35.823853+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for RTL, 30 July–2 August 2025 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-08-02-Promocijaplus.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-08-02-Promocijaplus-coalitions-seats.png"
-        length="199654"
-        type="image/png"/>
-      <pubDate>Sun, 24 Aug 2025 12:14:35 +0200</pubDate>
-      <dc:date>2025-08-24T12:14:35.823853+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for RTL, 30 July–2 August 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-08-02-Promocijaplus.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Radnička fronta (GUE/NGL): 0.4–1.4%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 1.3–2.9%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0.4–1.4%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 24.8–30.1%&lt;/li&gt;&lt;li&gt;Centar (RE): 1.4–3.2%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 5.8–8.9%&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Fokus na bitno (RE): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 32.3–38.0%&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0.6–1.9%&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 1.3–3.0%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 11.2–15.2%&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 1.3–2.9%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0.7–2.0%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-08-02-Promocijaplus.png"
-        length="455615"
-        type="image/png"/>
-      <pubDate>Sun, 24 Aug 2025 12:14:35 +0200</pubDate>
-      <dc:date>2025-08-24T12:14:35.823853+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–20 July 2025 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-07-20-Ipsos.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-07-20-Ipsos-seats.png"
-        length="246648"
-        type="image/png"/>
-      <pubDate>Wed, 30 Jul 2025 19:17:16 +0200</pubDate>
-      <dc:date>2025-07-30T19:17:16.758296+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–20 July 2025 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-07-20-Ipsos.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-07-20-Ipsos-coalitions-seats.png"
-        length="245612"
-        type="image/png"/>
-      <pubDate>Wed, 30 Jul 2025 19:17:16 +0200</pubDate>
-      <dc:date>2025-07-30T19:17:16.758296+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–20 July 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-07-20-Ipsos.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 29.8–36.0%&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 1.9–4.1%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 1.9–4.1%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 22.5–28.4%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 5.3–8.7%&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 1.5–3.6%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 10.4–14.9%&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 1.7–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-07-20-Ipsos.png"
-        length="288840"
-        type="image/png"/>
-      <pubDate>Wed, 30 Jul 2025 19:17:16 +0200</pubDate>
-      <dc:date>2025-07-30T19:17:16.758296+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for RTL, 7–10 July 2025 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-07-10-Promocijaplus.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0 seats&lt;/li&gt;&lt;li&gt;Radnička fronta (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Centar (RE): 0 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0 seats&lt;/li&gt;&lt;li&gt;Fokus na bitno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0 seats&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0 seats&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-07-10-Promocijaplus-seats.png"
-        length="399820"
-        type="image/png"/>
-      <pubDate>Wed, 30 Jul 2025 20:23:11 +0200</pubDate>
-      <dc:date>2025-07-30T20:23:11.585642+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for RTL, 7–10 July 2025 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-07-10-Promocijaplus.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-07-10-Promocijaplus-coalitions-seats.png"
-        length="233304"
-        type="image/png"/>
-      <pubDate>Wed, 30 Jul 2025 20:23:11 +0200</pubDate>
-      <dc:date>2025-07-30T20:23:11.585642+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for RTL, 7–10 July 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-07-10-Promocijaplus.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0.2–1.1%&lt;/li&gt;&lt;li&gt;Radnička fronta (GUE/NGL): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 1.7–3.6%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0.4–1.5%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 24.7–30.0%&lt;/li&gt;&lt;li&gt;Centar (RE): 1.0–2.5%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 5.6–8.6%&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0.8–2.2%&lt;/li&gt;&lt;li&gt;Fokus na bitno (RE): 0.4–1.5%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0.4–1.5%&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 32.4–38.1%&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0.2–1.1%&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 1.4–3.2%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 10.5–14.5%&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0.6–1.9%&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 1.6–3.4%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0.8–2.2%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-07-10-Promocijaplus.png"
-        length="477691"
-        type="image/png"/>
-      <pubDate>Wed, 30 Jul 2025 20:23:11 +0200</pubDate>
-      <dc:date>2025-07-30T20:23:11.585642+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–20 June 2025 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-06-20-Ipsos.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-06-20-Ipsos-seats.png"
-        length="202173"
-        type="image/png"/>
-      <pubDate>Thu, 31 Jul 2025 07:21:00 +0200</pubDate>
-      <dc:date>2025-07-31T07:21:00.558094+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–20 June 2025 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-06-20-Ipsos.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-06-20-Ipsos-coalitions-seats.png"
-        length="201307"
-        type="image/png"/>
-      <pubDate>Thu, 31 Jul 2025 07:21:00 +0200</pubDate>
-      <dc:date>2025-07-31T07:21:00.558094+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Nova TV, 1–20 June 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-06-20-Ipsos.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 28.4–34.6%&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 2.3–4.8%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 2.0–4.2%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 23.4–29.2%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 5.1–8.4%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 10.1–14.5%&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 1.8–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-06-20-Ipsos.png"
-        length="263855"
-        type="image/png"/>
-      <pubDate>Thu, 31 Jul 2025 07:21:00 +0200</pubDate>
-      <dc:date>2025-07-31T07:21:00.558094+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for RTL, 3–6 June 2025 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-06-06-Promocijaplus.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0 seats&lt;/li&gt;&lt;li&gt;Radnička fronta (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Centar (RE): 0 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0 seats&lt;/li&gt;&lt;li&gt;Fokus na bitno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0 seats&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0 seats&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-06-06-Promocijaplus-seats.png"
-        length="370686"
-        type="image/png"/>
-      <pubDate>Thu, 31 Jul 2025 08:02:40 +0200</pubDate>
-      <dc:date>2025-07-31T08:02:40.680008+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for RTL, 3–6 June 2025 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-06-06-Promocijaplus.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-06-06-Promocijaplus-coalitions-seats.png"
-        length="195696"
-        type="image/png"/>
-      <pubDate>Thu, 31 Jul 2025 08:02:40 +0200</pubDate>
-      <dc:date>2025-07-31T08:02:40.680008+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Promocija plus for RTL, 3–6 June 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-06-06-Promocijaplus.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Radnička fronta (GUE/NGL): 0.1–0.9%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 1.9–3.9%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 25.5–30.8%&lt;/li&gt;&lt;li&gt;Centar (RE): 1.2–2.8%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 5.2–8.2%&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0.8–2.1%&lt;/li&gt;&lt;li&gt;Fokus na bitno (RE): 0.1–0.9%&lt;/li&gt;&lt;li&gt;Hrvatska narodna stranka–liberalni demokrati (RE): 0.4–1.4%&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 31.6–37.3%&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0.4–1.4%&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0.4–1.4%&lt;/li&gt;&lt;li&gt;NL Marija Selak Raspudić (ECR): 2.0–4.0%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 9.8–13.6%&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 1.8–3.8%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0.8–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-06-06-Promocijaplus.png"
-        length="478080"
-        type="image/png"/>
-      <pubDate>Thu, 31 Jul 2025 08:02:40 +0200</pubDate>
-      <dc:date>2025-07-31T08:02:40.680008+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by 2x1 komunikacije for Večernji list, 22–29 April 2025 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-04-29-2x1komunikacije.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Centar (RE): 0 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 0 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-04-29-2x1komunikacije-seats.png"
-        length="280163"
-        type="image/png"/>
-      <pubDate>Thu, 31 Jul 2025 09:09:53 +0200</pubDate>
-      <dc:date>2025-07-31T09:09:53.705344+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by 2x1 komunikacije for Večernji list, 22–29 April 2025 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-04-29-2x1komunikacije.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-04-29-2x1komunikacije-coalitions-seats.png"
-        length="211902"
-        type="image/png"/>
-      <pubDate>Thu, 31 Jul 2025 09:09:53 +0200</pubDate>
-      <dc:date>2025-07-31T09:09:53.705344+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by 2x1 komunikacije for Večernji list, 22–29 April 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2025-04-29-2x1komunikacije.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Hrvatska socijalno-liberalna stranka (RE): 0.5–2.0%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 1.8–4.0%&lt;/li&gt;&lt;li&gt;Hrvatska seljačka stranka (*): 0.5–2.0%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 25.2–31.2%&lt;/li&gt;&lt;li&gt;Centar (RE): 0.8–2.4%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 5.9–9.4%&lt;/li&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 30.2–36.5%&lt;/li&gt;&lt;li&gt;Hrvatski suverenisti (ECR): 0.7–2.3%&lt;/li&gt;&lt;li&gt;Hrvatska stranka umirovljenika (*): 1.5–3.6%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 7.7–11.7%&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 1.1–3.0%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 1.2–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2025-04-29-2x1komunikacije.png"
-        length="371584"
-        type="image/png"/>
-      <pubDate>Thu, 31 Jul 2025 09:09:53 +0200</pubDate>
-      <dc:date>2025-07-31T09:09:53.705344+02:00</dc:date>
-    </item>
-    <dc:date>2026-04-04T19:21:45.629758+02:00</dc:date>
+    <dc:date>2026-04-18T22:40:33.557333+02:00</dc:date>
   </channel>
 </rss>
