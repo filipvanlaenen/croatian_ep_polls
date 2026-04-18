@@ -2,12 +2,12 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | RF | Mož | SDP | SD | Fokus | HNS | IDS | P | AK | GLAS | Centar | HSLS | HDZ | DOMiNO | Most | Hrast | HS | DP | HKS | MSRNL | NHR | KH | NLMK | PiP | Živi zid | BM 365 | HSS | START | HSU | OiP | AP | NPS |
+| Period     | Polling firm/Commissioner(s) | RF | Mož | SDP | SD | Fokus | HNS | IDS | P | AK | GLAS | Centar | HSLS | HDZ | DOMiNO | DP | Drito | HKS | Hrast | HS | Most | NHR | KH | NLMK | PiP | Živi zid | BM 365 | HSS | START | HSU | OiP | AP | NPS |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | N/A <br> N/A | 11–16% <br> 1–2 | 21–29% <br> 3–4 | N/A <br> N/A | 0–1% <br> 0 | 0–1% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 0–2% <br> 0 | 30–37% <br> 5–6 | 1–3% <br> 0 | 6–10% <br> 0–2 | N/A <br> N/A | 0–4% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 0–2% <br> 0 | 0–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 |
-| [1–19 March 2026](2026-03-19-Ipsos.html) | Ipsos <br> Nova TV | N/A <br> N/A | 11–15% <br> 1–2 | 20–26% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 0–2% <br> 0 | 30–36% <br> 5–6 | 1–3% <br> 0 | 7–11% <br> 1–2 | N/A <br> N/A | 2–4% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 0–2% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
-| [2–4 March 2026](2026-03-04-Promocijaplus.html) | Promocija plus <br> RTL | N/A <br> N/A | 12–17% <br> 2 | 23–29% <br> 3–4 | N/A <br> N/A | 0–1% <br> 0 | 0–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 0–2% <br> 0 | 32–38% <br> 5–6 | 1–2% <br> 0 | 6–9% <br> 0–1 | N/A <br> N/A | 0–2% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 |
+| N/A | [Poll Average](average.html) | N/A <br> N/A | 11–16% <br> 1–2 | 21–29% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 0–2% <br> 0 | 30–38% <br> 5–6 | 1–3% <br> 0 | 2–4% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 6–10% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 0–2% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
+| [31 March–2 April 2026](2026-04-02-Promocijaplus.html) | Promocija plus <br> RTL | N/A <br> N/A | 12–16% <br> 1–2 | 24–30% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 32–39% <br> 4–6 | 1–2% <br> 0 | 2–4% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–19 March 2026](2026-03-19-Ipsos.html) | Ipsos <br> Nova TV | N/A <br> N/A | 11–15% <br> 1–2 | 20–26% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 0–2% <br> 0 | 30–36% <br> 5–6 | 1–3% <br> 0 | 2–4% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 7–11% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 0–2% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -29,12 +29,12 @@ Only polls for which at least the sample size has been published are included in
 + **HSLS:** Hrvatska socijalno-liberalna stranka (RE)
 + **HDZ:** Hrvatska demokratska zajednica (EPP)
 + **DOMiNO:** Dom i Nacionalno Okupljanje (ECR)
-+ **Most:** Most nezavisnih lista (ECR)
++ **DP:** Domovinski pokret (ECR)
++ **Drito:** Drito (ECR)
++ **HKS:** Hrvatska konzervativna stranka (ECR)
 + **Hrast:** Hrvatski rast (ECR)
 + **HS:** Hrvatski suverenisti (ECR)
-+ **DP:** Domovinski pokret (ECR)
-+ **HKS:** Hrvatska konzervativna stranka (ECR)
-+ **MSRNL:** NL Marija Selak Raspudić (ECR)
++ **Most:** Most nezavisnih lista (ECR)
 + **NHR:** Neovisni za Hrvatsku (PfE)
 + **KH:** Ključ Hrvatske (NI)
 + **NLMK:** Nezavisna lista Mislava Kolakušića (NI)
