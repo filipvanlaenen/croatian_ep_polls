@@ -10,29 +10,30 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.0% | 6.5–9.7% | 6.2–10.1% | 5.9–10.5% | 5.4–11.2% |
+| N/A | [Poll Average](average.html) | 8.2% | 6.8–9.7% | 6.5–10.1% | 6.2–10.5% | 5.6–11.2% |
+| [31 March–2 April 2026](2026-04-02-Promocijaplus.html) | Promocija plus <br> RTL | 7.5% | 6.5–8.8% | 6.2–9.2% | 5.9–9.5% | 5.5–10.2% |
 | [1–19 March 2026](2026-03-19-Ipsos.html) | Ipsos <br> Nova TV | 8.7% | 7.6–10.1% | 7.3–10.5% | 7.0–10.8% | 6.5–11.5% |
 | [2–4 March 2026](2026-03-04-Promocijaplus.html) | Promocija plus <br> RTL | 7.2% | 6.2–8.5% | 5.9–8.8% | 5.7–9.2% | 5.2–9.8% |
-| [1–19 February 2026](2026-02-19-Ipsos.html) | Ipsos <br> Nova TV | 7.9% | 6.8–9.2% | 6.5–9.6% | 6.3–9.9% | 5.8–10.6% |
-| [16–18 February 2026](2026-02-18-Promocijaplus.html) | Promocija plus <br> HRT | 5.8% | 4.9–7.0% | 4.6–7.3% | 4.4–7.6% | 4.0–8.2% |
+| [1–19 February 2026](2026-02-19-Ipsos.html) | Ipsos <br> Nova TV | 7.9% | N/A | N/A | N/A | N/A |
+| [16–18 February 2026](2026-02-18-Promocijaplus.html) | Promocija plus <br> HRT | 5.8% | N/A | N/A | N/A | N/A |
 | [2–5 February 2026](2026-02-05-Promocijaplus.html) | Promocija plus <br> RTL | 6.2% | N/A | N/A | N/A | N/A |
-| [3–19 January 2026](2026-01-19-Ipsos.html) | Ipsos <br> Nova TV | 7.2% | 6.2–8.4% | 5.9–8.8% | 5.6–9.1% | 5.2–9.7% |
-| [1–19 December 2025](2025-12-19-Ipsos.html) | Ipsos <br> Nova TV | 7.6% | 6.6–8.9% | 6.3–9.3% | 6.1–9.6% | 5.6–10.2% |
-| [1–4 December 2025](2025-12-04-Promocijaplus.html) | Promocija plus <br> RTL | 7.5% | 6.5–8.6% | 6.3–8.9% | 6.1–9.2% | 5.6–9.8% |
-| [1–20 November 2025](2025-11-20-Ipsos.html) | Ipsos <br> Nova TV | 6.9% | 5.9–8.1% | 5.6–8.5% | 5.4–8.8% | 4.9–9.4% |
-| [4–6 November 2025](2025-11-06-Promocijaplus.html) | Promocija plus <br> RTL | 6.9% | 6.0–8.0% | 5.7–8.3% | 5.5–8.6% | 5.1–9.1% |
-| [1–20 October 2025](2025-10-20-Ipsos.html) | Ipsos <br> Nova TV | 5.8% | 4.9–6.8% | 4.7–7.1% | 4.5–7.4% | 4.1–7.9% |
-| [6–9 October 2025](2025-10-09-Promocijaplus.html) | Promocija plus <br> RTL | 7.9% | 6.9–9.1% | 6.7–9.4% | 6.4–9.7% | 6.0–10.2% |
-| [1–20 September 2025](2025-09-20-Ipsos.html) | Ipsos <br> Nova TV | 7.0% | 6.0–8.2% | 5.7–8.6% | 5.4–8.9% | 5.0–9.5% |
-| [1–4 September 2025](2025-09-04-Promocijaplus.html) | Promocija plus <br> RTL | 7.9% | 7.0–9.1% | 6.7–9.4% | 6.5–9.7% | 6.0–10.3% |
-| [1–20 August 2025](2025-08-20-Ipsos.html) | Ipsos <br> Nova TV | 6.6% | 5.6–7.8% | 5.3–8.2% | 5.1–8.5% | 4.7–9.1% |
-| [30 July–2 August 2025](2025-08-02-Promocijaplus.html) | Promocija plus <br> RTL | 7.2% | 6.2–8.3% | 6.0–8.6% | 5.8–8.9% | 5.4–9.4% |
-| [1–20 July 2025](2025-07-20-Ipsos.html) | Ipsos <br> Nova TV | 6.8% | 5.8–8.0% | 5.5–8.4% | 5.3–8.7% | 4.8–9.3% |
-| [7–10 July 2025](2025-07-10-Promocijaplus.html) | Promocija plus <br> RTL | 6.9% | 6.0–8.0% | 5.8–8.3% | 5.6–8.6% | 5.2–9.1% |
-| [1–20 June 2025](2025-06-20-Ipsos.html) | Ipsos <br> Nova TV | 6.6% | 5.6–7.8% | 5.3–8.1% | 5.1–8.4% | 4.7–9.0% |
-| [3–6 June 2025](2025-06-06-Promocijaplus.html) | Promocija plus <br> RTL | 6.6% | 5.7–7.6% | 5.4–7.9% | 5.2–8.2% | 4.8–8.7% |
+| [3–19 January 2026](2026-01-19-Ipsos.html) | Ipsos <br> Nova TV | 7.2% | N/A | N/A | N/A | N/A |
+| [1–19 December 2025](2025-12-19-Ipsos.html) | Ipsos <br> Nova TV | 7.6% | N/A | N/A | N/A | N/A |
+| [1–4 December 2025](2025-12-04-Promocijaplus.html) | Promocija plus <br> RTL | 7.5% | N/A | N/A | N/A | N/A |
+| [1–20 November 2025](2025-11-20-Ipsos.html) | Ipsos <br> Nova TV | 6.9% | N/A | N/A | N/A | N/A |
+| [4–6 November 2025](2025-11-06-Promocijaplus.html) | Promocija plus <br> RTL | 6.9% | N/A | N/A | N/A | N/A |
+| [1–20 October 2025](2025-10-20-Ipsos.html) | Ipsos <br> Nova TV | 5.8% | N/A | N/A | N/A | N/A |
+| [6–9 October 2025](2025-10-09-Promocijaplus.html) | Promocija plus <br> RTL | 7.9% | N/A | N/A | N/A | N/A |
+| [1–20 September 2025](2025-09-20-Ipsos.html) | Ipsos <br> Nova TV | 7.0% | N/A | N/A | N/A | N/A |
+| [1–4 September 2025](2025-09-04-Promocijaplus.html) | Promocija plus <br> RTL | 7.9% | N/A | N/A | N/A | N/A |
+| [1–20 August 2025](2025-08-20-Ipsos.html) | Ipsos <br> Nova TV | 6.6% | N/A | N/A | N/A | N/A |
+| [30 July–2 August 2025](2025-08-02-Promocijaplus.html) | Promocija plus <br> RTL | 7.2% | N/A | N/A | N/A | N/A |
+| [1–20 July 2025](2025-07-20-Ipsos.html) | Ipsos <br> Nova TV | 6.8% | N/A | N/A | N/A | N/A |
+| [7–10 July 2025](2025-07-10-Promocijaplus.html) | Promocija plus <br> RTL | 6.9% | N/A | N/A | N/A | N/A |
+| [1–20 June 2025](2025-06-20-Ipsos.html) | Ipsos <br> Nova TV | 6.6% | N/A | N/A | N/A | N/A |
+| [3–6 June 2025](2025-06-06-Promocijaplus.html) | Promocija plus <br> RTL | 6.6% | N/A | N/A | N/A | N/A |
 | [1–20 May 2025](2025-05-20-Ipsos.html) | Ipsos <br> Nova TV | 7.0% | N/A | N/A | N/A | N/A |
-| [22–29 April 2025](2025-04-29-2x1komunikacije.html) | 2x1 komunikacije <br> Večernji list | 7.4% | 6.4–8.7% | 6.1–9.1% | 5.9–9.4% | 5.4–10.0% |
+| [22–29 April 2025](2025-04-29-2x1komunikacije.html) | 2x1 komunikacije <br> Večernji list | 7.4% | N/A | N/A | N/A | N/A |
 | [1–20 April 2025](2025-04-20-Ipsos.html) | Ipsos <br> Nova TV | 6.4% | N/A | N/A | N/A | N/A |
 | [1–4 April 2025](2025-04-04-Promocijaplus.html) | Promocija plus <br> RTL | 8.1% | N/A | N/A | N/A | N/A |
 | [17–24 March 2025](2025-03-24-2x1komunikacije.html) | 2x1 komunikacije <br> Večernji list | 7.6% | N/A | N/A | N/A | N/A |
@@ -78,12 +79,12 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.8% | 100% |  |
-| 5.5–6.5% | 9% | 99.2% |  |
-| 6.5–7.5% | 25% | 90% |  |
-| 7.5–8.5% | 31% | 65% | Median |
-| 8.5–9.5% | 23% | 34% |  |
-| 9.5–10.5% | 9% | 12% |  |
+| 4.5–5.5% | 0.3% | 100% |  |
+| 5.5–6.5% | 6% | 99.7% |  |
+| 6.5–7.5% | 22% | 94% |  |
+| 7.5–8.5% | 34% | 71% | Median |
+| 8.5–9.5% | 25% | 38% |  |
+| 9.5–10.5% | 10% | 12% |  |
 | 10.5–11.5% | 2% | 2% |  |
 | 11.5–12.5% | 0.2% | 0.2% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -97,29 +98,30 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
-| [1–19 March 2026](2026-03-19-Ipsos.html) | Ipsos <br> Nova TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–2 |
+| [31 March–2 April 2026](2026-04-02-Promocijaplus.html) | Promocija plus <br> RTL | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [1–19 March 2026](2026-03-19-Ipsos.html) | Ipsos <br> Nova TV | 1 | 1 | 1 | 1 | 1–2 |
 | [2–4 March 2026](2026-03-04-Promocijaplus.html) | Promocija plus <br> RTL | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [1–19 February 2026](2026-02-19-Ipsos.html) | Ipsos <br> Nova TV | 1 | 1 | 1 | 1 | 1 |
-| [16–18 February 2026](2026-02-18-Promocijaplus.html) | Promocija plus <br> HRT | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–19 February 2026](2026-02-19-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
+| [16–18 February 2026](2026-02-18-Promocijaplus.html) | Promocija plus <br> HRT |  |  |  |  |  |
 | [2–5 February 2026](2026-02-05-Promocijaplus.html) | Promocija plus <br> RTL |  |  |  |  |  |
-| [3–19 January 2026](2026-01-19-Ipsos.html) | Ipsos <br> Nova TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–19 December 2025](2025-12-19-Ipsos.html) | Ipsos <br> Nova TV | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [1–4 December 2025](2025-12-04-Promocijaplus.html) | Promocija plus <br> RTL | 1 | 1 | 1 | 1 | 0–1 |
-| [1–20 November 2025](2025-11-20-Ipsos.html) | Ipsos <br> Nova TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [4–6 November 2025](2025-11-06-Promocijaplus.html) | Promocija plus <br> RTL | 1 | 1 | 1 | 0–1 | 0–1 |
-| [1–20 October 2025](2025-10-20-Ipsos.html) | Ipsos <br> Nova TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [6–9 October 2025](2025-10-09-Promocijaplus.html) | Promocija plus <br> RTL | 1 | 1 | 1 | 1 | 0–1 |
-| [1–20 September 2025](2025-09-20-Ipsos.html) | Ipsos <br> Nova TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–4 September 2025](2025-09-04-Promocijaplus.html) | Promocija plus <br> RTL | 1 | 1 | 1 | 1 | 1 |
-| [1–20 August 2025](2025-08-20-Ipsos.html) | Ipsos <br> Nova TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [30 July–2 August 2025](2025-08-02-Promocijaplus.html) | Promocija plus <br> RTL | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [1–20 July 2025](2025-07-20-Ipsos.html) | Ipsos <br> Nova TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [7–10 July 2025](2025-07-10-Promocijaplus.html) | Promocija plus <br> RTL | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–20 June 2025](2025-06-20-Ipsos.html) | Ipsos <br> Nova TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [3–6 June 2025](2025-06-06-Promocijaplus.html) | Promocija plus <br> RTL | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [3–19 January 2026](2026-01-19-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
+| [1–19 December 2025](2025-12-19-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
+| [1–4 December 2025](2025-12-04-Promocijaplus.html) | Promocija plus <br> RTL |  |  |  |  |  |
+| [1–20 November 2025](2025-11-20-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
+| [4–6 November 2025](2025-11-06-Promocijaplus.html) | Promocija plus <br> RTL |  |  |  |  |  |
+| [1–20 October 2025](2025-10-20-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
+| [6–9 October 2025](2025-10-09-Promocijaplus.html) | Promocija plus <br> RTL |  |  |  |  |  |
+| [1–20 September 2025](2025-09-20-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
+| [1–4 September 2025](2025-09-04-Promocijaplus.html) | Promocija plus <br> RTL |  |  |  |  |  |
+| [1–20 August 2025](2025-08-20-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
+| [30 July–2 August 2025](2025-08-02-Promocijaplus.html) | Promocija plus <br> RTL |  |  |  |  |  |
+| [1–20 July 2025](2025-07-20-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
+| [7–10 July 2025](2025-07-10-Promocijaplus.html) | Promocija plus <br> RTL |  |  |  |  |  |
+| [1–20 June 2025](2025-06-20-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
+| [3–6 June 2025](2025-06-06-Promocijaplus.html) | Promocija plus <br> RTL |  |  |  |  |  |
 | [1–20 May 2025](2025-05-20-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
-| [22–29 April 2025](2025-04-29-2x1komunikacije.html) | 2x1 komunikacije <br> Večernji list | 1 | 1 | 1 | 0–1 | 0–1 |
+| [22–29 April 2025](2025-04-29-2x1komunikacije.html) | 2x1 komunikacije <br> Večernji list |  |  |  |  |  |
 | [1–20 April 2025](2025-04-20-Ipsos.html) | Ipsos <br> Nova TV |  |  |  |  |  |
 | [1–4 April 2025](2025-04-04-Promocijaplus.html) | Promocija plus <br> RTL |  |  |  |  |  |
 | [17–24 March 2025](2025-03-24-2x1komunikacije.html) | 2x1 komunikacije <br> Večernji list |  |  |  |  |  |
@@ -162,9 +164,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 87% | 97% | Median |
-| 2 | 10% | 10% |  |
+| 0 | 4% | 100% | Last Result |
+| 1 | 95% | 96% | Median |
+| 2 | 0.9% | 0.9% |  |
 | 3 | 0% | 0% |  |
 
 

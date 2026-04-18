@@ -14,7 +14,7 @@
 | Socijaldemokratska partija Hrvatske (S&D) | 0.0% | 26.2% | 24.4–28.2% |23.8–28.8% |23.4–29.3% |22.5–30.3% |
 | Možemo! (Greens/EFA) | 0.0% | 14.3% | 12.9–16.0% |12.5–16.4% |12.1–16.8% |11.5–17.7% |
 | Most nezavisnih lista (ECR) | 0.0% | 7.2% | 6.2–8.5% |5.9–8.8% |5.7–9.2% |5.2–9.8% |
-| NL Marija Selak Raspudić (ECR) | 0.0% | 3.0% | 2.4–3.9% |2.2–4.2% |2.1–4.4% |1.8–4.9% |
+| Drito (ECR) | 0.0% | 3.0% | 2.4–3.9% |2.2–4.2% |2.1–4.4% |1.8–4.9% |
 | Domovinski pokret (ECR) | 0.0% | 2.8% | 2.2–3.7% |2.0–3.9% |1.9–4.1% |1.6–4.6% |
 | Istarski demokratski sabor (RE) | 0.0% | 1.3% | 0.9–1.9% |0.8–2.1% |0.7–2.3% |0.6–2.6% |
 | Dom i Nacionalno Okupljanje (ECR) | 0.0% | 1.3% | 0.9–1.9% |0.8–2.1% |0.7–2.3% |0.6–2.6% |
@@ -44,7 +44,7 @@
 | <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 0 | 4 | 4 |3–4 |3–4 |3–4 |
 | <a href="#možemo!-(greens/efa)">Možemo! (Greens/EFA)</a> | 0 | 2 | 2 |2 |2 |1–2 |
 | <a href="#most-nezavisnih-lista-(ecr)">Most nezavisnih lista (ECR)</a> | 0 | 1 | 1 |0–1 |0–1 |0–1 |
-| <a href="#nl-marija-selak-raspudić-(ecr)">NL Marija Selak Raspudić (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#drito-(ecr)">Drito (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#domovinski-pokret-(ecr)">Domovinski pokret (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#istarski-demokratski-sabor-(re)">Istarski demokratski sabor (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#dom-i-nacionalno-okupljanje-(ecr)">Dom i Nacionalno Okupljanje (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -117,11 +117,11 @@
 | 1 | 94% | 94% | Median |
 | 2 | 0% | 0% |  |
 
-### NL Marija Selak Raspudić (ECR)
+### Drito (ECR)
 
-*For a full overview of the results for this party, see the [NL Marija Selak Raspudić (ECR)](party-nlmarijaselakraspudićecr.html) page.*
+*For a full overview of the results for this party, see the [Drito (ECR)](party-dritoecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2026-03-04-Promocijaplus-seats-pmf-nlmarijaselakraspudićecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-03-04-Promocijaplus-seats-pmf-dritoecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
