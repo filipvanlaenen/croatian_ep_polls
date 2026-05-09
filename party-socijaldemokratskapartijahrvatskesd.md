@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.9% | 21.8–28.1% | 21.2–28.8% | 20.7–29.4% | 19.8–30.4% |
+| N/A | [Poll Average](average.html) | 25.1% | 22.1–28.1% | 21.5–28.8% | 21.0–29.4% | 20.1–30.4% |
+| [1–20 April 2026](2026-04-20-Ipsos.html) | Ipsos <br> Nova TV | 23.3% | 21.5–25.2% | 21.0–25.8% | 20.5–26.3% | 19.7–27.2% |
 | [31 March–2 April 2026](2026-04-02-Promocijaplus.html) | Promocija plus <br> RTL | 26.8% | 24.9–28.8% | 24.4–29.4% | 23.9–29.9% | 23.0–30.8% |
 | [1–19 March 2026](2026-03-19-Ipsos.html) | Ipsos <br> Nova TV | 23.0% | 21.2–24.9% | 20.7–25.5% | 20.3–26.0% | 19.5–26.9% |
 | [2–4 March 2026](2026-03-04-Promocijaplus.html) | Promocija plus <br> RTL | 26.2% | 24.4–28.2% | 23.8–28.8% | 23.4–29.3% | 22.5–30.3% |
@@ -19,7 +20,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [2–5 February 2026](2026-02-05-Promocijaplus.html) | Promocija plus <br> RTL | 26.6% | N/A | N/A | N/A | N/A |
 | [3–19 January 2026](2026-01-19-Ipsos.html) | Ipsos <br> Nova TV | 24.2% | N/A | N/A | N/A | N/A |
 | [1–19 December 2025](2025-12-19-Ipsos.html) | Ipsos <br> Nova TV | 23.4% | N/A | N/A | N/A | N/A |
-| [1–4 December 2025](2025-12-04-Promocijaplus.html) | Promocija plus <br> RTL | 27.0% | N/A | N/A | N/A | N/A |
+| [1–4 December 2025](2025-12-04-Promocijaplus.html) | Promocija plus <br> RTL | 26.9% | N/A | N/A | N/A | N/A |
 | [1–20 November 2025](2025-11-20-Ipsos.html) | Ipsos <br> Nova TV | 24.0% | N/A | N/A | N/A | N/A |
 | [4–6 November 2025](2025-11-06-Promocijaplus.html) | Promocija plus <br> RTL | 28.1% | N/A | N/A | N/A | N/A |
 | [1–20 October 2025](2025-10-20-Ipsos.html) | Ipsos <br> Nova TV | 21.4% | N/A | N/A | N/A | N/A |
@@ -93,14 +94,14 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.3% | 100% |  |
-| 19.5–20.5% | 2% | 99.7% |  |
-| 20.5–21.5% | 5% | 98% |  |
-| 21.5–22.5% | 11% | 93% |  |
-| 22.5–23.5% | 14% | 81% |  |
-| 23.5–24.5% | 13% | 67% |  |
-| 24.5–25.5% | 12% | 54% | Median |
-| 25.5–26.5% | 13% | 42% |  |
+| 18.5–19.5% | 0.2% | 100% |  |
+| 19.5–20.5% | 1.1% | 99.8% |  |
+| 20.5–21.5% | 4% | 98.8% |  |
+| 21.5–22.5% | 10% | 95% |  |
+| 22.5–23.5% | 14% | 85% |  |
+| 23.5–24.5% | 14% | 71% |  |
+| 24.5–25.5% | 13% | 57% | Median |
+| 25.5–26.5% | 14% | 44% |  |
 | 26.5–27.5% | 13% | 29% |  |
 | 27.5–28.5% | 9% | 16% |  |
 | 28.5–29.5% | 5% | 7% |  |
@@ -118,7 +119,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| [1–20 April 2026](2026-04-20-Ipsos.html) | Ipsos <br> Nova TV | 4 | 4 | 4 | 4 | 3–4 |
 | [31 March–2 April 2026](2026-04-02-Promocijaplus.html) | Promocija plus <br> RTL | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1–19 March 2026](2026-03-19-Ipsos.html) | Ipsos <br> Nova TV | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [2–4 March 2026](2026-03-04-Promocijaplus.html) | Promocija plus <br> RTL | 4 | 4 | 3–4 | 3–4 | 3–4 |
@@ -187,8 +189,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 29% | 100% |  |
-| 4 | 70% | 71% | Median |
+| 3 | 9% | 100% |  |
+| 4 | 90% | 91% | Median |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
