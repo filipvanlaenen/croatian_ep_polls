@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.2% | 12.7–15.7% | 12.3–16.2% | 11.9–16.6% | 11.3–17.4% |
+| N/A | [Poll Average](average.html) | 14.2% | 12.7–15.8% | 12.4–16.3% | 12.0–16.7% | 11.3–17.5% |
+| [1–3 June 2026](2026-06-03-Promocijaplus.html) | Promocija plus <br> RTL | 14.3% | 12.8–16.0% | 12.4–16.4% | 12.1–16.8% | 11.4–17.7% |
 | [1–19 May 2026](2026-05-19-Ipsos.html) | Ipsos <br> Nova TV | 14.1% | 12.7–15.7% | 12.3–16.1% | 11.9–16.5% | 11.3–17.3% |
 | [4–7 May 2026](2026-05-07-Promocijaplus.html) | Promocija plus <br> RTL | 14.1% | 12.7–15.8% | 12.3–16.2% | 11.9–16.6% | 11.3–17.5% |
 | [1–20 April 2026](2026-04-20-Ipsos.html) | Ipsos <br> Nova TV | 14.1% | 12.7–15.8% | 12.3–16.2% | 11.9–16.7% | 11.3–17.5% |
@@ -88,14 +89,14 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 1.0% | 100% |  |
-| 11.5–12.5% | 7% | 99.0% |  |
-| 12.5–13.5% | 22% | 92% |  |
-| 13.5–14.5% | 33% | 70% | Median |
-| 14.5–15.5% | 24% | 37% |  |
-| 15.5–16.5% | 10% | 13% |  |
-| 16.5–17.5% | 2% | 3% |  |
-| 17.5–18.5% | 0.3% | 0.4% |  |
+| 10.5–11.5% | 0.8% | 100% |  |
+| 11.5–12.5% | 6% | 99.1% |  |
+| 12.5–13.5% | 21% | 93% |  |
+| 13.5–14.5% | 32% | 72% | Median |
+| 14.5–15.5% | 25% | 40% |  |
+| 15.5–16.5% | 11% | 14% |  |
+| 16.5–17.5% | 3% | 3% |  |
+| 17.5–18.5% | 0.4% | 0.5% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
 
@@ -107,7 +108,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–2 | 1–2 |
+| [1–3 June 2026](2026-06-03-Promocijaplus.html) | Promocija plus <br> RTL | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [1–19 May 2026](2026-05-19-Ipsos.html) | Ipsos <br> Nova TV | 2 | 2 | 2 | 2 | 1–2 |
 | [4–7 May 2026](2026-05-07-Promocijaplus.html) | Promocija plus <br> RTL | 2 | 2 | 2 | 2 | 1–2 |
 | [1–20 April 2026](2026-04-20-Ipsos.html) | Ipsos <br> Nova TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -177,8 +179,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.0% | 100% |  |
-| 2 | 98.9% | 99.0% | Median |
+| 1 | 5% | 100% |  |
+| 2 | 95% | 95% | Median |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 

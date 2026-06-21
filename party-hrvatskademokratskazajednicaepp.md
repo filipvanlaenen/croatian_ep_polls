@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32.6% | 29.7–35.6% | 29.1–36.3% | 28.5–36.9% | 27.5–38.0% |
+| N/A | [Poll Average](average.html) | 31.8% | 29.6–34.1% | 29.0–34.8% | 28.4–35.3% | 27.5–36.4% |
+| [1–3 June 2026](2026-06-03-Promocijaplus.html) | Promocija plus <br> RTL | 32.5% | 30.5–34.7% | 29.9–35.3% | 29.4–35.8% | 28.5–36.8% |
 | [1–19 May 2026](2026-05-19-Ipsos.html) | Ipsos <br> Nova TV | 31.0% | 29.1–33.1% | 28.5–33.7% | 28.0–34.2% | 27.1–35.2% |
 | [4–7 May 2026](2026-05-07-Promocijaplus.html) | Promocija plus <br> RTL | 34.2% | 32.1–36.3% | 31.5–36.9% | 31.0–37.4% | 30.1–38.5% |
 | [1–20 April 2026](2026-04-20-Ipsos.html) | Ipsos <br> Nova TV | 32.5% | 30.5–34.7% | 29.9–35.3% | 29.5–35.8% | 28.5–36.8% |
@@ -22,7 +23,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [2–5 February 2026](2026-02-05-Promocijaplus.html) | Promocija plus <br> RTL | 35.2% | N/A | N/A | N/A | N/A |
 | [3–19 January 2026](2026-01-19-Ipsos.html) | Ipsos <br> Nova TV | 32.6% | N/A | N/A | N/A | N/A |
 | [1–19 December 2025](2025-12-19-Ipsos.html) | Ipsos <br> Nova TV | 31.5% | N/A | N/A | N/A | N/A |
-| [1–4 December 2025](2025-12-04-Promocijaplus.html) | Promocija plus <br> RTL | 32.9% | N/A | N/A | N/A | N/A |
+| [1–4 December 2025](2025-12-04-Promocijaplus.html) | Promocija plus <br> RTL | 33.0% | N/A | N/A | N/A | N/A |
 | [1–20 November 2025](2025-11-20-Ipsos.html) | Ipsos <br> Nova TV | 31.0% | N/A | N/A | N/A | N/A |
 | [4–6 November 2025](2025-11-06-Promocijaplus.html) | Promocija plus <br> RTL | 32.3% | N/A | N/A | N/A | N/A |
 | [1–20 October 2025](2025-10-20-Ipsos.html) | Ipsos <br> Nova TV | 27.7% | N/A | N/A | N/A | N/A |
@@ -106,18 +107,17 @@ The following table shows the probability mass function per percentage block of 
 | 25.5–26.5% | 0.1% | 100% |  |
 | 26.5–27.5% | 0.5% | 99.9% |  |
 | 27.5–28.5% | 2% | 99.4% |  |
-| 28.5–29.5% | 6% | 97% |  |
-| 29.5–30.5% | 11% | 91% |  |
-| 30.5–31.5% | 15% | 81% |  |
-| 31.5–32.5% | 16% | 66% |  |
-| 32.5–33.5% | 15% | 51% | Median |
-| 33.5–34.5% | 14% | 35% |  |
-| 34.5–35.5% | 11% | 21% |  |
-| 35.5–36.5% | 7% | 10% |  |
-| 36.5–37.5% | 3% | 4% |  |
-| 37.5–38.5% | 0.8% | 1.0% |  |
-| 38.5–39.5% | 0.2% | 0.2% |  |
-| 39.5–40.5% | 0% | 0% |  |
+| 28.5–29.5% | 7% | 97% |  |
+| 29.5–30.5% | 14% | 90% |  |
+| 30.5–31.5% | 21% | 76% |  |
+| 31.5–32.5% | 22% | 55% | Median |
+| 32.5–33.5% | 17% | 33% |  |
+| 33.5–34.5% | 10% | 16% |  |
+| 34.5–35.5% | 4% | 6% |  |
+| 35.5–36.5% | 1.5% | 2% |  |
+| 36.5–37.5% | 0.3% | 0.4% |  |
+| 37.5–38.5% | 0.1% | 0.1% |  |
+| 38.5–39.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -128,7 +128,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5 | 5–6 | 5–6 | 5–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [1–3 June 2026](2026-06-03-Promocijaplus.html) | Promocija plus <br> RTL | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–19 May 2026](2026-05-19-Ipsos.html) | Ipsos <br> Nova TV | 5 | 5 | 5–6 | 5–6 | 5–6 |
 | [4–7 May 2026](2026-05-07-Promocijaplus.html) | Promocija plus <br> RTL | 5 | 5 | 5–6 | 5–6 | 5–6 |
 | [1–20 April 2026](2026-04-20-Ipsos.html) | Ipsos <br> Nova TV | 5 | 5 | 5 | 5 | 5–6 |
@@ -201,9 +202,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.1% | 100% |  |
-| 5 | 93% | 99.9% | Median |
-| 6 | 6% | 6% |  |
+| 4 | 24% | 100% |  |
+| 5 | 72% | 76% | Median |
+| 6 | 4% | 4% |  |
 | 7 | 0% | 0% | Majority |
 
 
