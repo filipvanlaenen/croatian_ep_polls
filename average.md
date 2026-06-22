@@ -404,7 +404,7 @@ Only polls for which at least the sample size has been published are included in
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#radnička-fronta-(gue/ngl)">Radnička fronta (GUE/NGL)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#možemo!-(greens/efa)">Možemo! (Greens/EFA)</a> | 0 | 2 | 2 |2 | 1–2 | 1–2 |
+| <a href="#možemo!-(greens/efa)">Možemo! (Greens/EFA)</a> | 0 | 2 | 2 |1–2 | 1–2 | 1–2 |
 | <a href="#socijaldemokratska-partija-hrvatske-(s&d)">Socijaldemokratska partija Hrvatske (S&D)</a> | 0 | 4 | 3–4 |3–4 | 3–4 | 3–4 |
 | <a href="#socijaldemokrati-(s&d)">Socijaldemokrati (S&D)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#fokus-na-bitno-(re)">Fokus na bitno (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -555,7 +555,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 24% | 100% |  |
-| 5 | 72% | 76% | Median |
+| 5 | 73% | 76% | Median |
 | 6 | 4% | 4% |  |
 | 7 | 0% | 0% | Majority |
 
@@ -728,7 +728,7 @@ Only polls for which at least the sample size has been published are included in
 | Hrvatska demokratska zajednica (EPP) | 0 | 5 | 0% | 4–5 | 4–5 | 4–6 | 4–6 |
 | Socijaldemokrati (S&D) – Socijaldemokratska partija Hrvatske (S&D) | 0 | 4 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
 | Dom i Nacionalno Okupljanje (ECR) – Domovinski pokret (ECR) – Drito (ECR) – Hrvatska konzervativna stranka (ECR) – Hrvatski rast (ECR) – Hrvatski suverenisti (ECR) – Most nezavisnih lista (ECR) | 0 | 1 | 0% | 1 | 1 | 1–2 | 1–2 |
-| Možemo! (Greens/EFA) | 0 | 2 | 0% | 2 | 2 | 1–2 | 1–2 |
+| Možemo! (Greens/EFA) | 0 | 2 | 0% | 2 | 1–2 | 1–2 | 1–2 |
 | Akcija za promjene (*) – Bandić Milan 365–Stranka rada i solidarnosti (*) – Hrvatska seljačka stranka (*) – Hrvatska stranka umirovljenika (*) – Nezavisna Platforma Sjever (*) – Odlučnost i Pravednost (*) – Stranka antikorupcije, razvoja i transparentnosti (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Amsterdamska koalicija (RE) – Centar (RE) – Fokus na bitno (RE) – Hrvatska narodna stranka–liberalni demokrati (RE) – Hrvatska socijalno-liberalna stranka (RE) – Pametno (RE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Ključ Hrvatske (NI) – Nezavisna lista Mislava Kolakušića (NI) – Pravo i Pravda (NI) – Živi zid (NI) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -746,7 +746,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 24% | 100% |  |
-| 5 | 72% | 76% | Median |
+| 5 | 73% | 76% | Median |
 | 6 | 4% | 4% |  |
 | 7 | 0% | 0% | Majority |
 
@@ -831,6 +831,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 3,145,728
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 4,194,304
 + **Error estimate:** 4.47%
