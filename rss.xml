@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 21 Jun 2026 00:22:28 +0200</pubDate>
+    <pubDate>Sun, 21 Jun 2026 21:26:01 +0200</pubDate>
     <item>
       <title>Opinion Poll by Promocija plus for RTL, 1–3 June 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-06-03-Promocijaplus.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-06-03-Promocijaplus-seats.png"
         length="235864"
         type="image/png"/>
-      <pubDate>Sun, 21 Jun 2026 00:22:28 +0200</pubDate>
-      <dc:date>2026-06-21T00:22:28.946829+02:00</dc:date>
+      <pubDate>Sun, 21 Jun 2026 21:26:01 +0200</pubDate>
+      <dc:date>2026-06-21T21:26:01.444121+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Promocija plus for RTL, 1–3 June 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-06-03-Promocijaplus-coalitions-seats.png"
         length="224499"
         type="image/png"/>
-      <pubDate>Sun, 21 Jun 2026 00:22:28 +0200</pubDate>
-      <dc:date>2026-06-21T00:22:28.946829+02:00</dc:date>
+      <pubDate>Sun, 21 Jun 2026 21:26:01 +0200</pubDate>
+      <dc:date>2026-06-21T21:26:01.444121+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Promocija plus for RTL, 1–3 June 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-06-03-Promocijaplus.png"
         length="299527"
         type="image/png"/>
-      <pubDate>Sun, 21 Jun 2026 00:22:28 +0200</pubDate>
-      <dc:date>2026-06-21T00:22:28.946829+02:00</dc:date>
+      <pubDate>Sun, 21 Jun 2026 21:26:01 +0200</pubDate>
+      <dc:date>2026-06-21T21:26:01.444121+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Nova TV, 1–19 May 2026 – Seat Projections for the Parties</title>
@@ -219,6 +219,6 @@
       <pubDate>Sat, 18 Apr 2026 22:40:33 +0200</pubDate>
       <dc:date>2026-04-18T22:40:33.557333+02:00</dc:date>
     </item>
-    <dc:date>2026-06-21T00:22:28.946829+02:00</dc:date>
+    <dc:date>2026-06-21T21:26:01.444121+02:00</dc:date>
   </channel>
 </rss>
