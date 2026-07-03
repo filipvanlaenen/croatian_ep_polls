@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.8% | 2.1–3.6% | 1.9–3.8% | 1.8–4.1% | 1.5–4.5% |
+| [1–19 June 2026](2026-06-19-Ipsos.html) | Ipsos <br> Nova TV | 2.5% | 2.0–3.3% | 1.8–3.6% | 1.7–3.8% | 1.4–4.2% |
 | [1–3 June 2026](2026-06-03-Promocijaplus.html) | Promocija plus <br> RTL | 2.9% | 2.2–3.7% | 2.1–4.0% | 1.9–4.2% | 1.7–4.7% |
 | [1–19 May 2026](2026-05-19-Ipsos.html) | Ipsos <br> Nova TV | 2.5% | 2.0–3.3% | 1.8–3.6% | 1.7–3.8% | 1.4–4.2% |
 | [4–7 May 2026](2026-05-07-Promocijaplus.html) | Promocija plus <br> RTL | 2.9% | 2.3–3.8% | 2.1–4.1% | 2.0–4.3% | 1.7–4.8% |
@@ -81,9 +82,9 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.7% | 100% |  |
 | 1.5–2.5% | 35% | 99.3% |  |
-| 2.5–3.5% | 54% | 65% | Median |
+| 2.5–3.5% | 54% | 64% | Median |
 | 3.5–4.5% | 10% | 11% |  |
-| 4.5–5.5% | 0.5% | 0.5% |  |
+| 4.5–5.5% | 0.4% | 0.5% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -96,6 +97,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–19 June 2026](2026-06-19-Ipsos.html) | Ipsos <br> Nova TV | 0 | 0 | 0 | 0 | 0 |
 | [1–3 June 2026](2026-06-03-Promocijaplus.html) | Promocija plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
 | [1–19 May 2026](2026-05-19-Ipsos.html) | Ipsos <br> Nova TV | 0 | 0 | 0 | 0 | 0 |
 | [4–7 May 2026](2026-05-07-Promocijaplus.html) | Promocija plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
