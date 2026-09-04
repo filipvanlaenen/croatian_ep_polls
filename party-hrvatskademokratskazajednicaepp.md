@@ -26,7 +26,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [2–5 February 2026](2026-02-05-Promocijaplus.html) | Promocija plus <br> RTL | 35.2% | N/A | N/A | N/A | N/A |
 | [3–19 January 2026](2026-01-19-Ipsos.html) | Ipsos <br> Nova TV | 32.6% | N/A | N/A | N/A | N/A |
 | [1–19 December 2025](2025-12-19-Ipsos.html) | Ipsos <br> Nova TV | 31.5% | N/A | N/A | N/A | N/A |
-| [1–4 December 2025](2025-12-04-Promocijaplus.html) | Promocija plus <br> RTL | 32.9% | N/A | N/A | N/A | N/A |
+| [1–4 December 2025](2025-12-04-Promocijaplus.html) | Promocija plus <br> RTL | 33.0% | N/A | N/A | N/A | N/A |
 | [1–20 November 2025](2025-11-20-Ipsos.html) | Ipsos <br> Nova TV | 31.0% | N/A | N/A | N/A | N/A |
 | [4–6 November 2025](2025-11-06-Promocijaplus.html) | Promocija plus <br> RTL | 32.3% | N/A | N/A | N/A | N/A |
 | [1–20 October 2025](2025-10-20-Ipsos.html) | Ipsos <br> Nova TV | 27.7% | N/A | N/A | N/A | N/A |
