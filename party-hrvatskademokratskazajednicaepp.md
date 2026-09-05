@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.9% | 29.8–34.1% | 29.2–34.8% | 28.7–35.3% | 27.7–36.4% |
+| N/A | [Poll Average](average.html) | 32.0% | 29.8–34.1% | 29.2–34.8% | 28.7–35.3% | 27.7–36.4% |
+| [1–18 August 2026](2026-08-18-Ipsos.html) | Ipsos <br> Nova TV | 31.4% | 29.4–33.5% | 28.8–34.1% | 28.3–34.6% | 27.4–35.6% |
 | [1–21 July 2026](2026-07-21-Ipsos.html) | Ipsos <br> Nova TV | 31.3% | 29.4–33.4% | 28.8–34.0% | 28.3–34.5% | 27.4–35.5% |
 | [30 June–2 July 2026](2026-07-02-Promocijaplus.html) | Promocija plus <br> RTL | 32.5% | 30.4–34.6% | 29.8–35.2% | 29.4–35.7% | 28.4–36.7% |
 | [1–19 June 2026](2026-06-19-Ipsos.html) | Ipsos <br> Nova TV | 30.4% | 28.4–32.4% | 27.9–33.0% | 27.4–33.5% | 26.5–34.5% |
@@ -26,7 +27,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [2–5 February 2026](2026-02-05-Promocijaplus.html) | Promocija plus <br> RTL | 35.2% | N/A | N/A | N/A | N/A |
 | [3–19 January 2026](2026-01-19-Ipsos.html) | Ipsos <br> Nova TV | 32.6% | N/A | N/A | N/A | N/A |
 | [1–19 December 2025](2025-12-19-Ipsos.html) | Ipsos <br> Nova TV | 31.5% | N/A | N/A | N/A | N/A |
-| [1–4 December 2025](2025-12-04-Promocijaplus.html) | Promocija plus <br> RTL | 33.0% | N/A | N/A | N/A | N/A |
+| [1–4 December 2025](2025-12-04-Promocijaplus.html) | Promocija plus <br> RTL | 32.9% | N/A | N/A | N/A | N/A |
 | [1–20 November 2025](2025-11-20-Ipsos.html) | Ipsos <br> Nova TV | 31.0% | N/A | N/A | N/A | N/A |
 | [4–6 November 2025](2025-11-06-Promocijaplus.html) | Promocija plus <br> RTL | 32.3% | N/A | N/A | N/A | N/A |
 | [1–20 October 2025](2025-10-20-Ipsos.html) | Ipsos <br> Nova TV | 27.7% | N/A | N/A | N/A | N/A |
@@ -112,12 +113,12 @@ The following table shows the probability mass function per percentage block of 
 | 27.5–28.5% | 2% | 99.6% |  |
 | 28.5–29.5% | 6% | 98% |  |
 | 29.5–30.5% | 13% | 92% |  |
-| 30.5–31.5% | 21% | 79% |  |
+| 30.5–31.5% | 21% | 80% |  |
 | 31.5–32.5% | 23% | 59% | Median |
-| 32.5–33.5% | 18% | 35% |  |
-| 33.5–34.5% | 11% | 17% |  |
+| 32.5–33.5% | 19% | 36% |  |
+| 33.5–34.5% | 11% | 18% |  |
 | 34.5–35.5% | 5% | 6% |  |
-| 35.5–36.5% | 1.4% | 2% |  |
+| 35.5–36.5% | 1.5% | 2% |  |
 | 36.5–37.5% | 0.3% | 0.4% |  |
 | 37.5–38.5% | 0.1% | 0.1% |  |
 | 38.5–39.5% | 0% | 0% |  |
@@ -131,7 +132,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [1–18 August 2026](2026-08-18-Ipsos.html) | Ipsos <br> Nova TV | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [1–21 July 2026](2026-07-21-Ipsos.html) | Ipsos <br> Nova TV | 5 | 5 | 5 | 5 | 5–6 |
 | [30 June–2 July 2026](2026-07-02-Promocijaplus.html) | Promocija plus <br> RTL | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–19 June 2026](2026-06-19-Ipsos.html) | Ipsos <br> Nova TV | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
@@ -208,9 +210,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 20% | 100% |  |
-| 5 | 79% | 80% | Median |
-| 6 | 0.5% | 0.5% |  |
+| 4 | 21% | 100% |  |
+| 5 | 48% | 79% | Median |
+| 6 | 32% | 32% |  |
 | 7 | 0% | 0% | Majority |
 
 
