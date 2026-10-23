@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.3–1.0% | 0.2–1.1% | 0.2–1.2% | 0.1–1.5% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.3–0.9% | 0.2–1.1% | 0.2–1.2% | 0.1–1.5% |
+| [6–8 October 2026](2026-10-08-Promocijaplus.html) | Promocija plus <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
 | [1–17 September 2026](2026-09-17-Ipsos.html) | Ipsos <br> Nova TV | 0.5% | 0.3–0.9% | 0.2–1.1% | 0.2–1.2% | 0.1–1.5% |
 | [1–3 September 2026](2026-09-03-Promocijaplus.html) | Promocija plus <br> RTL | 0.5% | 0.3–1.0% | 0.2–1.1% | 0.2–1.2% | 0.1–1.5% |
 | [1–18 August 2026](2026-08-18-Ipsos.html) | Ipsos <br> Nova TV | 0.5% | 0.3–0.9% | 0.2–1.1% | 0.2–1.2% | 0.1–1.5% |
@@ -84,8 +85,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 49% | 100% | Last Result |
-| 0.5–1.5% | 51% | 51% | Median |
+| 0.0–0.5% | 50% | 100% | Last Result |
+| 0.5–1.5% | 50% | 50% | Median |
 | 1.5–2.5% | 0.3% | 0.3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -99,6 +100,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [6–8 October 2026](2026-10-08-Promocijaplus.html) | Promocija plus <br> RTL |  |  |  |  |  |
 | [1–17 September 2026](2026-09-17-Ipsos.html) | Ipsos <br> Nova TV | 0 | 0 | 0 | 0 | 0 |
 | [1–3 September 2026](2026-09-03-Promocijaplus.html) | Promocija plus <br> RTL | 0 | 0 | 0 | 0 | 0 |
 | [1–18 August 2026](2026-08-18-Ipsos.html) | Ipsos <br> Nova TV | 0 | 0 | 0 | 0 | 0 |
