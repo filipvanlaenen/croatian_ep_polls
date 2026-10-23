@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/croatian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 26 Sep 2026 10:13:55 +0200</pubDate>
+    <pubDate>Fri, 23 Oct 2026 18:04:19 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Promocija plus for RTL, 6–8 October 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-10-08-Promocijaplus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Drito (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Centar (RE): 0 seats&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0 seats&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0 seats&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0 seats&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-10-08-Promocijaplus-seats.png"
+        length="224989"
+        type="image/png"/>
+      <pubDate>Fri, 23 Oct 2026 18:04:19 +0200</pubDate>
+      <dc:date>2026-10-23T18:04:19.16378+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Promocija plus for RTL, 6–8 October 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-10-08-Promocijaplus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-10-08-Promocijaplus-coalitions-seats.png"
+        length="182390"
+        type="image/png"/>
+      <pubDate>Fri, 23 Oct 2026 18:04:19 +0200</pubDate>
+      <dc:date>2026-10-23T18:04:19.16378+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Promocija plus for RTL, 6–8 October 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-10-08-Promocijaplus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Hrvatska demokratska zajednica (EPP): 26.6–32.8%&lt;/li&gt;&lt;li&gt;Drito (ECR): 1.5–3.6%&lt;/li&gt;&lt;li&gt;Domovinski pokret (ECR): 1.4–3.4%&lt;/li&gt;&lt;li&gt;Socijaldemokratska partija Hrvatske (S&amp;amp;D): 20.4–26.1%&lt;/li&gt;&lt;li&gt;Centar (RE): 0.8–2.5%&lt;/li&gt;&lt;li&gt;Most nezavisnih lista (ECR): 9.6–14.0%&lt;/li&gt;&lt;li&gt;Nezavisna Platforma Sjever (*): 0.6–2.2%&lt;/li&gt;&lt;li&gt;Pravo i Pravda (NI): 0.8–2.5%&lt;/li&gt;&lt;li&gt;Možemo! (Greens/EFA): 14.0–19.0%&lt;/li&gt;&lt;li&gt;Istarski demokratski sabor (RE): 0.7–2.3%&lt;/li&gt;&lt;li&gt;Dom i Nacionalno Okupljanje (ECR): 1.1–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/croatian_ep_polls/2026-10-08-Promocijaplus.png"
+        length="345390"
+        type="image/png"/>
+      <pubDate>Fri, 23 Oct 2026 18:04:19 +0200</pubDate>
+      <dc:date>2026-10-23T18:04:19.16378+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Nova TV, 1–17 September 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/croatian_ep_polls/2026-09-17-Ipsos.html#seats</link>
@@ -399,6 +429,6 @@
       <pubDate>Sat, 18 Apr 2026 22:40:33 +0200</pubDate>
       <dc:date>2026-04-18T22:40:33.557333+02:00</dc:date>
     </item>
-    <dc:date>2026-09-26T10:13:55.101066+02:00</dc:date>
+    <dc:date>2026-10-23T18:04:19.16378+02:00</dc:date>
   </channel>
 </rss>
